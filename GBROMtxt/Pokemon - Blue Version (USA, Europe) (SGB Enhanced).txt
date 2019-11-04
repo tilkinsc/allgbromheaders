@@ -1,0 +1,52 @@
+rst00h - ff 00 00 00 00 00 00 00 
+rst08h - ff 00 00 00 00 00 00 00 
+rst10h - ff 00 00 00 00 00 00 00 
+rst18h - ff 00 00 00 00 00 00 00 
+rst20h - ff 00 00 00 00 00 00 00 
+rst28h - ff 00 00 00 00 00 00 00 
+rst30h - ff 00 00 00 00 00 00 00 
+rst38h - ff 00 00 00 00 00 00 00 
+
+int40h - c3 24 20 00 00 00 00 00 
+int48h - ff 00 00 00 00 00 00 00 
+int50h - c3 06 23 00 00 00 00 00 
+int58h - c3 25 21 00 00 00 00 00 
+int60h - d9 af e0 0f f0 ff 47 cb 
+int68h - 87 e0 ff f0 44 fe 91 20 
+int70h - fa f0 40 e6 7f e0 40 78 
+int78h - e0 ff c9 f0 40 cb ff e0 
+int80h - 40 c9 af 21 00 c3 06 a0 
+int88h - 22 05 20 fc c9 3e a0 21 
+int90h - 00 c3 11 04 00 06 28 77 
+int98h - 19 05 20 fb c9 ea e9 ce 
+intA0h - f0 b8 f5 fa e9 ce e0 b8 
+intA8h - ea 00 20 cd b5 00 f1 e0 
+intB0h - b8 ea 00 20 c9 2a 12 13 
+intB8h - 0b 79 b0 20 f8 c9 00 00 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - POKEMON BLUE\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 01 (Nintendo)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 13 (MBC3+RAM+BATTERY)
+Rom Size - 05 (1MByte (64 banks) - only 63 banks used by MBC1)
+Ram Size - 03 (32 KByte (4 banks * 8 KByte))
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - d3
+Global Checksum - 9d 0a

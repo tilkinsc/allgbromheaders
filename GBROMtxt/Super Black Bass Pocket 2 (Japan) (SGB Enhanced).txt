@@ -1,0 +1,52 @@
+rst00h - c3 50 01 20 36 38 34 37 
+rst08h - 20 20 20 20 20 20 20 20 
+rst10h - 20 20 20 20 20 20 20 20 
+rst18h - 20 20 4c 31 33 5f 42 5f 
+rst20h - 43 48 52 0d 0a 20 35 33 
+rst28h - 34 30 20 20 36 38 34 37 
+rst30h - 20 20 30 30 20 30 30 20 
+rst38h - 30 30 20 30 30 20 20 20 
+
+int40h - c3 9f 02 20 20 20 20 20 
+int48h - c3 e2 02 20 20 20 20 20 
+int50h - c3 0e 03 42 20 20 20 20 
+int58h - c3 9a 03 30 30 2c 24 30 
+int60h - d9 2c 24 30 30 2c 24 30 
+int68h - 30 2c 24 30 31 2c 24 30 
+int70h - 31 2c 24 30 32 2c 24 30 
+int78h - 32 0d 0a 20 35 33 34 31 
+int80h - 20 20 36 38 34 46 20 20 
+int88h - 30 34 20 30 34 20 31 38 
+int90h - 20 31 42 20 20 20 20 20 
+int98h - 20 20 20 20 20 20 20 20 
+intA0h - 20 20 20 20 20 20 20 20 
+intA8h - 44 42 20 20 20 20 20 20 
+intB0h - 24 30 34 2c 24 30 34 2c 
+intB8h - 24 31 38 2c 24 31 42 2c 
+intC0h - 24 32 31 2c 24 32 37 2c 
+intC8h - 24 32 31 2c 24 32 33 0d 
+intD0h - 0a 0d 0a 0d 0a 0d 0a 0d 
+intD8h - 0a 0d 0a 42 41 4e 4b 20 
+intE0h - 33 45 20 20 20 20 20 20 
+intE8h - 20 20 20 20 20 20 20 20 
+intF0h - 20 20 20 20 20 20 20 20 
+intF8h - 20 20 20 20 20 20 20 20 
+
+Entry Point - 00 c3 50 01 
+
+Title - BASS POCKET 2\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 0H (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 05 (1MByte (64 banks) - only 63 banks used by MBC1)
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - ce
+Global Checksum - 8f f7

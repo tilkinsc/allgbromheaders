@@ -1,0 +1,52 @@
+rst00h - c3 50 01 00 00 00 00 00 
+rst08h - 00 00 00 00 00 00 00 00 
+rst10h - 00 00 00 00 00 00 00 00 
+rst18h - 00 00 00 00 00 00 00 00 
+rst20h - ff ff ff ff ff ff ff ff 
+rst28h - ff ff ff ff ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 75 00 00 00 00 00 00 
+int48h - c3 a7 00 00 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - c3 61 00 00 00 00 00 00 
+int60h - d9 f5 c5 d5 e5 fa ff 7f 
+int68h - f5 cd 9c 2c f1 ea 00 20 
+int70h - e1 d1 c1 f1 d9 f5 fa e4 
+int78h - c4 a7 28 0a 3e 4f e0 45 
+int80h - af ea 0a c5 18 0e fa 15 
+int88h - c5 a7 20 08 3e 0f e0 45 
+int90h - af ea 0a c5 c5 d5 e5 fa 
+int98h - ff 7f f5 cd b1 02 f1 ea 
+intA0h - 00 20 e1 d1 c1 f1 d9 f5 
+intA8h - c5 d5 e5 fa ff 7f f5 cd 
+intB0h - 52 2c f1 ea 00 20 e1 d1 
+intB8h - c1 f1 d9 ff ff ff ff ff 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - GB UNDOUKAI\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - a9 (Technos Japan)
+ROM Version - 00
+
+Header Checksum - 31
+Global Checksum - af 60

@@ -1,0 +1,52 @@
+rst00h - e1 cf e9 ff ff ff ff ff 
+rst08h - 87 18 08 ef 2a 66 6f c9 
+rst10h - c3 c2 06 30 f6 24 18 f3 
+rst18h - 81 4f d0 04 c9 ff ff ff 
+rst20h - 1e 08 12 c9 ff ff ff ff 
+rst28h - 85 6f d0 24 c9 ff ff ff 
+rst30h - 1e 14 1a c9 ff ff ff ff 
+rst38h - 1e 01 1a 3c 12 c9 ff ff 
+
+int40h - c3 61 00 1e 01 1a 18 b8 
+int48h - c3 13 0f fa 90 cd 18 b0 
+int50h - d9 fa 02 c0 b7 c9 ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 f3 f5 c5 d5 e5 21 40 
+int68h - ff cb 86 cb 8e 21 c2 dd 
+int70h - 34 fa 84 c9 b7 20 34 3c 
+int78h - ea 84 c9 cd 90 ff cd f7 
+int80h - 01 cd c2 00 cd 84 12 cd 
+int88h - a3 41 af e0 0f fa 99 c9 
+int90h - e0 ff fb cd ed 04 cd ab 
+int98h - 13 cd 90 12 cd 00 40 cd 
+intA0h - ba 17 af ea 84 c9 e1 d1 
+intA8h - c1 f1 d9 cd c2 00 af e0 
+intB0h - 0f fa 99 c9 e0 ff fb cd 
+intB8h - ed 04 e1 d1 c1 f1 cd a7 
+intC0h - 04 d9 21 91 c9 2a e0 42 
+intC8h - 2a e0 43 2a e0 4a 2a e0 
+intD0h - 4b 2a e0 47 2a e0 48 2a 
+intD8h - e0 49 7e e0 45 fa c1 dd 
+intE0h - ea c0 dd fa 90 c9 e0 40 
+intE8h - fa c7 dd b7 c8 c3 14 12 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - TINY TOON ADVEN
+
+CGB Flag - 54 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - a4 (Konami)
+ROM Version - 00
+
+Header Checksum - ba
+Global Checksum - 4f eb

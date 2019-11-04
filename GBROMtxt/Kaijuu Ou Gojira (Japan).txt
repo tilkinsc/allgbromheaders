@@ -1,0 +1,52 @@
+rst00h - 00 00 00 00 00 00 00 00 
+rst08h - 00 00 00 00 00 00 00 00 
+rst10h - 00 00 00 00 00 00 00 00 
+rst18h - 00 00 00 00 00 00 00 00 
+rst20h - ff ff ff ff ff ff ff ff 
+rst28h - e0 8b ea 00 20 c9 ff ff 
+rst30h - 3e 01 c3 28 00 ff ff ff 
+rst38h - 85 30 01 24 6f c9 ff ff 
+
+int40h - c3 a1 09 00 00 00 00 00 
+int48h - c3 c5 0c 00 00 00 00 00 
+int50h - c3 79 09 00 00 00 00 00 
+int58h - d9 00 00 00 00 00 00 00 
+int60h - d9 f0 44 fe 91 38 fa f0 
+int68h - 40 e6 7f e0 40 c9 f0 40 
+int70h - f6 80 e0 40 c9 3e d2 e0 
+int78h - 06 3e d2 e0 05 3e 00 e0 
+int80h - 07 3e 04 e0 07 c9 3e 20 
+int88h - e0 00 f0 00 f0 00 2f e6 
+int90h - 0f cb 37 47 3e 10 e0 00 
+int98h - f0 00 f0 00 f0 00 f0 00 
+intA0h - f0 00 f0 00 2f e6 0f b0 
+intA8h - e0 99 47 3e 30 e0 00 78 
+intB0h - c9 ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - GB GODZILLA\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - b2 (Bandai)
+ROM Version - 00
+
+Header Checksum - 32
+Global Checksum - 03 0f

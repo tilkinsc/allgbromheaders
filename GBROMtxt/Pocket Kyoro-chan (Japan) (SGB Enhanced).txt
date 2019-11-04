@@ -1,0 +1,52 @@
+rst00h - f3 c3 00 01 42 40 29 03 
+rst08h - f0 40 cb 7f c8 21 40 c3 
+rst10h - af 77 76 7e a7 28 fb c9 
+rst18h - 87 e1 5f 16 00 19 5e 23 
+rst20h - 56 6b 62 e9 ff bf ff ff 
+rst28h - fd fe df ff ff ff bf ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 98 02 0a 40 67 48 26 
+int48h - c3 33 03 8d 2a 28 80 80 
+int50h - c3 85 03 f3 53 ea dc 4a 
+int58h - c3 23 12 3b 36 50 c1 e9 
+int60h - c3 d7 03 ff ff fe ff ff 
+int68h - bd ff ff ff ef ff ff fb 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - 7a bc 15 22 a1 a2 10 04 
+int88h - 41 70 01 00 b2 48 c0 64 
+int90h - 85 40 4e aa 35 b7 d5 d1 
+int98h - c4 78 46 2e 90 91 6a 9a 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff de ff ff ff ff ff fb 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - 02 25 03 24 48 00 20 00 
+intC8h - aa 14 71 24 20 c4 00 d0 
+intD0h - 3f 2c 99 ac 56 bf 27 54 
+intD8h - 16 04 4f fc 01 c3 4b 32 
+intE0h - ff ff ff ff ff df fb ff 
+intE8h - ff ff ff ff ff ff fd ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - POCKET KYOROCHA
+
+CGB Flag - 4e (Invalid)
+New Licensee Code - (ASCII) DA (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 06 (MBC2+BATTERY)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 8f
+Global Checksum - 51 12

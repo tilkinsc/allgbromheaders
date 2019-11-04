@@ -1,0 +1,52 @@
+rst00h - c3 50 01 20 c8 d0 30 b5 
+rst08h - 17 00 80 00 83 00 54 00 
+rst10h - 83 5f 7a ce 00 57 c9 00 
+rst18h - 85 6f 7c ce 00 67 c9 00 
+rst20h - e5 6f 26 00 19 7e e1 c9 
+rst28h - 85 6f c9 00 90 00 00 00 
+rst30h - 83 5f c9 20 40 00 60 04 
+rst38h - f5 3e 80 ea 00 60 f1 c9 
+
+int40h - c3 f9 1a 00 09 00 b4 00 
+int48h - d9 40 0c 00 08 00 00 00 
+int50h - c3 92 18 00 86 04 42 00 
+int58h - c3 a2 18 d9 c2 00 40 00 
+int60h - d9 01 0d 02 c2 00 a0 01 
+int68h - 3c 20 14 04 26 00 51 00 
+int70h - 40 00 2a 00 04 00 80 00 
+int78h - 44 00 23 08 52 80 80 40 
+int80h - e4 81 38 20 42 80 14 01 
+int88h - c0 10 00 00 94 00 2c 00 
+int90h - 83 00 2a 00 51 20 40 10 
+int98h - 00 00 0e 01 b0 00 04 00 
+intA0h - 45 00 50 04 08 01 88 00 
+intA8h - 41 08 00 20 90 00 50 00 
+intB0h - 00 00 91 00 80 00 e1 00 
+intB8h - 89 02 03 40 00 00 05 00 
+intC0h - 00 00 40 00 09 00 c2 01 
+intC8h - d4 00 36 00 90 10 be 00 
+intD0h - 91 88 14 20 28 00 02 11 
+intD8h - 30 01 a1 00 d0 00 8c 00 
+intE0h - b2 02 92 00 41 00 21 00 
+intE8h - 80 00 30 00 00 00 a1 10 
+intF0h - 88 08 00 00 05 00 81 00 
+intF8h - 0c 00 68 00 20 80 00 02 
+
+Entry Point - 00 c3 50 01 
+
+Title - HIGH STAKES\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 6f (Electro Brain)
+ROM Version - 00
+
+Header Checksum - 69
+Global Checksum - ef 81

@@ -1,0 +1,52 @@
+rst00h - 83 5f 3e 00 8a 57 c9 ff 
+rst08h - 86 22 3e 00 8e 32 c9 d7 
+rst10h - cb 7f 28 f4 86 22 3e ff 
+rst18h - 8e 32 c9 ff ff ff ff ff 
+rst20h - f0 cb e0 cc c9 ff ff ff 
+rst28h - c9 ff ff ff ff ff ff ff 
+rst30h - c3 b2 31 ff ff ff ff ff 
+rst38h - c3 70 31 ff ff ff ff ff 
+
+int40h - c3 33 1b ff ff ff ff ff 
+int48h - c3 1e 14 ff ff ff ff ff 
+int50h - c3 d9 1b d9 ff ff ff ff 
+int58h - fb c3 60 1e ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - c3 bd 2e c3 b6 2e c3 77 
+int70h - 2f c3 a4 2a c3 90 1f c3 
+int78h - 2d 31 c3 05 37 c3 1e 18 
+int80h - c3 24 30 c3 1d 30 c3 9c 
+int88h - 19 c3 b1 18 c3 35 14 c3 
+int90h - e2 2e c3 00 13 c3 61 19 
+int98h - c3 77 19 01 01 02 03 04 
+intA0h - 05 06 07 08 09 0a 0b 0c 
+intA8h - 0d 0e 0f 00 00 28 00 20 
+intB0h - 00 48 00 40 00 68 00 60 
+intB8h - 00 88 00 80 00 a8 00 a0 
+intC0h - 00 c8 00 c0 00 e8 00 e0 
+intC8h - 00 ff 00 00 01 ff 00 20 
+intD0h - 01 ff 00 40 01 ff 00 60 
+intD8h - 01 ff 00 80 01 ff 00 a0 
+intE0h - 01 ff 00 c0 01 ff 00 e0 
+intE8h - 01 ff 00 00 00 70 ff 40 
+intF0h - ff 00 ff c0 fe 80 fe 00 
+intF8h - fe 80 fd ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - SNEAKY SNAKES\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 5d (Tradewest)
+ROM Version - 00
+
+Header Checksum - d6
+Global Checksum - dd bd

@@ -1,0 +1,52 @@
+rst00h - e1 cf e9 ff ff ff ff ff 
+rst08h - 87 18 08 ef 2a 66 6f c9 
+rst10h - c3 87 0a 30 f6 24 18 f3 
+rst18h - fa 0f cd e6 fc e0 40 c9 
+rst20h - 7d 93 47 7c 9a c9 ff ff 
+rst28h - 85 6f d0 24 c9 ff ff ff 
+rst30h - 83 5f d0 14 c9 ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 63 00 ff ff ff ff ff 
+int48h - c3 b1 01 ff ff ff ff ff 
+int50h - c3 7c 04 ff ff ff ff ff 
+int58h - c3 7c 04 ff ff ff ff ff 
+int60h - c3 7c 04 f3 f5 c5 d5 e5 
+int68h - df fa 04 cd b7 20 40 3c 
+int70h - ea 04 cd cd 90 ff cd b7 
+int78h - 11 cd d7 00 af e0 0f fa 
+int80h - 17 cd e0 ff fb cd 04 16 
+int88h - cd b9 04 cd 5b 07 3e 03 
+int90h - ea 80 21 cd 00 40 3e 01 
+int98h - ea 80 21 fa 0c cd 21 00 
+intA0h - c4 ef af 77 ea 0c cd ea 
+intA8h - 04 cd e1 d1 c1 f1 d9 fa 
+intB0h - 0d cd b7 20 11 cd d7 00 
+intB8h - af e0 0f fa 17 cd e0 ff 
+intC0h - fb cd b9 04 18 e4 3e 10 
+intC8h - cd f1 00 f0 40 cb bf e0 
+intD0h - 40 af ea 0d cd 18 e1 21 
+intD8h - 10 cd 2a e0 42 2a e0 43 
+intE0h - 2a e0 4a 2a e0 4b fa 18 
+intE8h - cd e0 45 fa 0f cd e0 40 
+intF0h - c9 00 3d 20 fc c9 ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - SKATE OR DIE BA
+
+CGB Flag - 44 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - a4 (Konami)
+ROM Version - 00
+
+Header Checksum - 2d
+Global Checksum - f0 73

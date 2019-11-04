@@ -1,0 +1,52 @@
+rst00h - ff 00 00 00 00 00 00 00 
+rst08h - ff 00 00 00 00 00 00 00 
+rst10h - ff 00 00 00 00 00 00 00 
+rst18h - ff 00 00 00 00 00 00 00 
+rst20h - ff 00 00 00 00 00 00 00 
+rst28h - ff 00 00 00 00 00 00 00 
+rst30h - ff 00 00 00 00 00 00 00 
+rst38h - c3 80 f0 00 00 00 00 00 
+
+int40h - c3 ac 0a 00 00 00 00 00 
+int48h - ff 00 00 00 00 00 00 00 
+int50h - c3 88 0d 00 00 00 00 00 
+int58h - c3 a7 0b 00 00 00 00 00 
+int60h - d9 00 00 00 00 00 00 00 
+int68h - ff 01 ff 28 5f 24 ff ff 
+int70h - ff 62 ff c4 76 80 7f 02 
+int78h - d5 0f ff 01 e6 23 df ff 
+int80h - 00 7f 85 ff 54 7f 34 bb 
+int88h - 92 ff 55 dd 91 4f 08 df 
+int90h - ff 68 fd 04 97 5c dd 9c 
+int98h - dd 60 c9 20 7f 04 2f 6f 
+intA0h - ff 08 db 53 d6 4a db 83 
+intA8h - fb 89 d6 20 d5 e6 fb ff 
+intB0h - ff 40 fe 88 ff 00 bf 80 
+intB8h - 7e 16 71 85 4e 80 df ff 
+intC0h - ff 52 77 09 ed 87 d7 f0 
+intC8h - ff 15 fd 40 df 41 ff ff 
+intD0h - ff 8e 7d c9 ff 1d f7 b9 
+intD8h - ef 8e 7e 4a ff 61 ff ff 
+intE0h - ff 06 ff 11 e3 00 f7 42 
+intE8h - 7f 5a ef 20 f9 56 77 bf 
+intF0h - ff 84 ea 91 df 38 ff 59 
+intF8h - ff 02 f7 44 fe 4a fd df 
+
+Entry Point - 00 c3 50 01 
+
+Title - POKEMON RED\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 01 (Nintendo)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 03 (32 KByte (4 banks * 8 KByte))
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 01
+
+Header Checksum - 31
+Global Checksum - b8 66

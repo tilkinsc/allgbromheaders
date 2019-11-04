@@ -1,0 +1,52 @@
+rst00h - c3 50 01 00 00 00 00 00 
+rst08h - 00 00 00 00 00 00 00 c9 
+rst10h - c3 81 08 00 00 00 00 00 
+rst18h - c3 ef 01 00 00 00 00 00 
+rst20h - c3 bc 09 00 00 00 00 00 
+rst28h - c3 c2 0a 00 00 00 00 00 
+rst30h - 47 e5 d5 c5 c3 22 07 00 
+rst38h - c3 e2 07 00 00 00 00 00 
+
+int40h - f5 c5 d5 e5 00 c3 cf 02 
+int48h - d9 00 00 00 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - f5 c5 d5 e5 00 c3 34 04 
+int60h - d9 00 00 00 00 00 00 00 
+int68h - 00 00 00 00 00 00 00 00 
+int70h - c3 ef 01 c3 81 08 c3 b6 
+int78h - 08 c3 55 09 c3 0c 0b c3 
+int80h - 1e 0b c3 0c 0c c3 bc 09 
+int88h - c3 22 07 c3 46 08 c3 52 
+int90h - 08 c3 53 12 c3 2b 25 c3 
+int98h - e2 07 c3 20 0c c3 3b 0c 
+intA0h - c3 7a 12 c3 7e 12 c3 50 
+intA8h - 01 c3 50 01 c3 50 01 c3 
+intB0h - 50 01 c3 50 01 c3 50 01 
+intB8h - c3 50 01 c3 50 01 c3 50 
+intC0h - 01 c3 50 01 c3 50 01 c3 
+intC8h - 50 01 c3 50 01 c3 50 01 
+intD0h - f3 3e 01 ea ff df fa df 
+intD8h - c0 ea fe df c3 58 01 ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - SIDE POCKET\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 01 (64KByte (4 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - c5 (Data East)
+ROM Version - 00
+
+Header Checksum - 14
+Global Checksum - 9b b4

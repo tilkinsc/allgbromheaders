@@ -1,0 +1,52 @@
+rst00h - c3 9f 0b 00 00 00 00 00 
+rst08h - 85 6f d0 24 c9 00 00 00 
+rst10h - 85 6f 30 01 24 7e c9 00 
+rst18h - f5 2a 66 6f f1 c9 00 00 
+rst20h - 87 cf 5e 23 56 c9 ff ff 
+rst28h - 7d 12 13 7c 12 c9 ff ff 
+rst30h - e1 e7 62 6b e9 ff ff ff 
+rst38h - e1 d5 e7 62 6b e9 ff ff 
+
+int40h - c3 65 0f 00 00 00 00 00 
+int48h - d9 25 0f 00 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - c3 35 10 00 00 00 00 00 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - 00 00 00 00 00 00 00 00 
+int88h - 00 00 00 00 00 00 00 00 
+int90h - 00 00 00 00 00 00 00 00 
+int98h - 00 00 00 00 00 00 00 00 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 9f 0b 
+
+Title - MAHJONGYOSHIMOT
+
+CGB Flag - 4f (Invalid)
+New Licensee Code - (ASCII) 9A (Invalid)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 67
+Global Checksum - 7d 4c

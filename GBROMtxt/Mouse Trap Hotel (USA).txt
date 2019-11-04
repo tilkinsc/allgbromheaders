@@ -1,0 +1,52 @@
+rst00h - ff ff ff ff ff ff ff ff 
+rst08h - ff ff ff ff ff ff ff ff 
+rst10h - ff ff ff ff ff ff ff ff 
+rst18h - ff ff ff ff ff ff ff ff 
+rst20h - c3 9b 02 ff ff ff ff ff 
+rst28h - c3 b8 02 ff ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 fb 0b ff ff ff ff ff 
+int48h - c3 23 0c ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 20 28 63 29 20 31 39 
+int68h - 39 30 20 4d 69 6c 74 6f 
+int70h - 6e 20 42 72 61 64 6c 65 
+int78h - 79 20 62 79 20 4d 61 72 
+int80h - 6b 20 44 2e 20 4b 6c 65 
+int88h - 69 6e 20 30 36 2d 31 31 
+int90h - 2d 39 30 20 ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 f4 02 
+
+Title - MOUSE TRAP HOTE
+
+CGB Flag - 4c (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 01 (64KByte (4 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 6f (Electro Brain)
+ROM Version - 00
+
+Header Checksum - f9
+Global Checksum - 5b e3

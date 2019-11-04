@@ -1,0 +1,52 @@
+rst00h - 20 20 20 20 20 20 20 20 
+rst08h - cd 64 03 c9 20 20 20 20 
+rst10h - cd 22 03 c9 20 20 20 00 
+rst18h - cd 29 03 c9 20 00 20 00 
+rst20h - cd 33 03 c9 ff ff ff ff 
+rst28h - cd 9c 03 c9 ff ff ff ff 
+rst30h - cd 4a 03 c9 ff ff ff ff 
+rst38h - cd 08 03 c9 ff ff ff ff 
+
+int40h - cd 0a 14 c9 ff ff ff ff 
+int48h - cd 12 1c c9 ff ff ff ff 
+int50h - ff ff ff ff ff ff ff ff 
+int58h - c3 e5 05 ff ff ff ff ff 
+int60h - 0a 0a 0a 0a 0a 0a 0a 0a 
+int68h - 0a 0a 0a 0a 0a 0a 0a 0a 
+int70h - 0a 0a 0a 0a 0a 0a 0a 0a 
+int78h - 0a 0a 0a 0a 0a 0a 0a 0a 
+int80h - 20 20 20 20 20 20 20 20 
+int88h - 20 20 20 20 20 20 20 20 
+int90h - 20 20 20 20 20 20 20 20 
+int98h - 20 20 20 20 20 20 20 20 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - 0a 0a 0a 0a 0a 0a 0a 0a 
+intE8h - 0a 0a 0a 0a 0a 0a 0a 0a 
+intF0h - 0a 0a 0a 0a 0a 0a 0a 0a 
+intF8h - 0a 0a 0a 0a 0a 0a 0a 0a 
+
+Entry Point - 00 c3 50 01 
+
+Title - ANIMAL BREEDER\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) AH (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 54
+Global Checksum - ad dc

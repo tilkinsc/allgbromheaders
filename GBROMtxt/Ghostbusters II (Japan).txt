@@ -1,0 +1,52 @@
+rst00h - c3 bf 06 ff ff ff ff ff 
+rst08h - c3 ca 06 ff ff ff ff ff 
+rst10h - c3 cf 03 ff ff ff ff ff 
+rst18h - c3 aa 05 ff ff ff ff ff 
+rst20h - c3 d4 07 ff ff ff ff ff 
+rst28h - c3 28 00 ff ff ff ff ff 
+rst30h - c3 f8 06 ff ff ff ff ff 
+rst38h - c3 38 00 ff ff ff ff ff 
+
+int40h - f5 c5 d5 e5 c3 10 02 ff 
+int48h - f5 c5 d5 e5 c3 34 02 ff 
+int50h - f5 c5 d5 e5 c3 c3 02 ff 
+int58h - f5 c5 d5 e5 c3 cd 02 ff 
+int60h - f5 c5 d5 e5 c3 d0 02 ff 
+int68h - f0 47 ee ff e0 47 c9 ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - ff ff ff ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - GHOSTBUSTERS 2\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - b6 (HAL)
+ROM Version - 00
+
+Header Checksum - 2f
+Global Checksum - 5c a2

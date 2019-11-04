@@ -1,0 +1,52 @@
+rst00h - c9 ff ff ff ff ff ff ff 
+rst08h - e1 ef e9 ff ff ff ff ff 
+rst10h - 2a 12 13 05 20 fa c9 ff 
+rst18h - d5 57 f0 94 5f c3 61 00 
+rst20h - f5 f5 f5 f5 c3 77 00 ff 
+rst28h - 87 f7 2a 66 6f c9 ff ff 
+rst30h - 85 6f d0 24 c9 ff ff ff 
+rst38h - 83 5f d0 14 c9 ff ff ff 
+
+int40h - f5 c5 d5 e5 c3 c8 01 ff 
+int48h - f5 e5 c3 41 02 ff ff ff 
+int50h - f5 e5 c3 60 02 ff ff ff 
+int58h - f5 e5 c3 81 02 ff ff ff 
+int60h - d9 d5 3e 0a e0 94 ea ff 
+int68h - 3f 7a cd 00 40 d1 7b e0 
+int70h - 94 ea ff 3f 7a d1 c9 e5 
+int78h - d5 f8 0d 56 2b 5e 2b f0 
+int80h - 94 32 2b 3e 00 32 3e ac 
+int88h - 77 1a e0 9f 13 1a 13 f8 
+int90h - 0d 72 2b 73 e0 95 87 5f 
+int98h - 16 40 f0 9f e0 94 ea ff 
+intA0h - 3f f8 06 1a 22 13 1a 77 
+intA8h - d1 e1 f1 c9 f5 e5 f8 05 
+intB0h - 7e e0 94 ea ff 3f e1 f1 
+intB8h - 33 33 c9 ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - NINTAMA PUZZLEG
+
+CGB Flag - 42 (Invalid)
+New Licensee Code - (ASCII) BA (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 8f
+Global Checksum - 5e 2c

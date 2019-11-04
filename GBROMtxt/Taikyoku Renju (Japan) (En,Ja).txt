@@ -1,0 +1,52 @@
+rst00h - c3 94 42 ff ff ff ff ff 
+rst08h - ff ff ff ff ff ff ff ff 
+rst10h - ff ff ff ff ff ff ff ff 
+rst18h - ff ff ff ff ff ff ff ff 
+rst20h - ff ff ff ff ff ff ff ff 
+rst28h - ff ff ff ff ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 ca 26 ff ff ff ff ff 
+int48h - c3 d1 27 ff ff ff ff ff 
+int50h - c3 d2 27 ff ff ff ff ff 
+int58h - c3 13 03 ff ff ff ff ff 
+int60h - c3 d3 27 ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - 20 20 20 20 20 20 20 20 
+int78h - 20 20 20 20 20 20 20 20 
+int80h - 20 20 20 20 20 20 20 20 
+int88h - 20 20 20 20 31 39 38 39 
+int90h - 20 20 53 41 4c 49 4f 20 
+int98h - 26 20 41 4e 65 78 20 20 
+intA0h - 20 20 20 20 20 20 20 20 
+intA8h - 20 20 20 20 20 20 20 20 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - TAIKYOKU RENJU\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 01 (64KByte (4 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - e1 (Towachiki)
+ROM Version - 00
+
+Header Checksum - ef
+Global Checksum - 9c 27

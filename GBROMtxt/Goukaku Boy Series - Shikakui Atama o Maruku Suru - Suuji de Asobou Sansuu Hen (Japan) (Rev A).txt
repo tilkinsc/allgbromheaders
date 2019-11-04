@@ -1,0 +1,52 @@
+rst00h - c3 0a 22 a7 52 a5 44 74 
+rst08h - 04 ed 00 ac 51 22 90 05 
+rst10h - ff cc 51 14 5b 89 ff 35 
+rst18h - fd 35 ff 60 9f 61 af df 
+rst20h - ff d1 95 43 ec 71 ff 10 
+rst28h - f7 83 fd 65 15 08 da ff 
+rst30h - ff 05 75 88 f5 2e 7e 0c 
+rst38h - f0 d3 6f 23 7f d9 ff ff 
+
+int40h - c3 a9 02 6f f3 e3 ff 3c 
+int48h - d9 03 6d f8 77 75 44 ff 
+int50h - c3 c7 01 1f fd 0c fd 21 
+int58h - d9 53 7f 63 fd 7f de ff 
+int60h - d9 50 52 4f 47 52 41 4d 
+int68h - 4d 45 44 20 42 59 20 6d 
+int70h - 69 6e 6f 72 75 28 32 2f 
+int78h - 31 39 2d 30 29 e1 f7 fe 
+int80h - 00 dd 2d df 4d de 49 5c 
+int88h - 88 e7 a5 de 50 9b 30 b5 
+int90h - 6b 28 79 48 7f 00 8f 1c 
+int98h - f7 00 95 30 6d 26 f7 ff 
+intA0h - ff 01 52 61 15 45 4f 0b 
+intA8h - 56 18 f5 10 fe b3 47 ff 
+intB0h - ff 05 1c 75 ef 6e 5d 40 
+intB8h - d3 12 43 d1 3f f7 2f 7f 
+intC0h - ff 01 d5 44 f7 35 f7 26 
+intC8h - 4c c7 73 86 cb 75 bd f7 
+intD0h - ff 28 df 8b f7 87 8b 35 
+intD8h - ff 8e fc 30 ea fd bd ff 
+intE0h - ff dd f5 06 fd dd 7e 9d 
+intE8h - ff de f7 2c 07 73 75 ff 
+intF0h - ff d2 3d 1e 3b c3 5f a1 
+intF8h - bf 91 9d 99 9d 2c f3 ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - NITINOU SANSUU\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 9C (Invalid)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 01
+
+Header Checksum - 0e
+Global Checksum - bf 1e

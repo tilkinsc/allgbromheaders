@@ -1,0 +1,52 @@
+rst00h - e9 ad 09 4f 09 c1 c9 00 
+rst08h - 2a 12 1c c9 e5 d1 e1 c9 
+rst10h - 22 3c 77 3c 09 f5 7c e6 
+rst18h - fb 67 f1 c9 80 ff f1 c9 
+rst20h - 7b c6 08 5f c9 00 00 00 
+rst28h - e5 d5 c5 cd fe 0b c1 d1 
+rst30h - e1 c9 d3 00 00 00 00 00 
+rst38h - c3 e0 d3 71 23 70 23 c9 
+
+int40h - c3 35 02 73 c3 b0 00 c9 
+int48h - d9 c3 b4 0b c3 ae 0b 7c 
+int50h - d9 cd cd 05 c3 ed 00 87 
+int58h - c3 a2 09 05 c3 ed 00 29 
+int60h - d9 e5 21 0e c2 84 67 78 
+int68h - be 28 04 22 af 22 77 e1 
+int70h - c9 85 6f d0 24 c9 23 23 
+int78h - 23 23 c9 af 22 05 20 fc 
+int80h - c9 c5 06 00 cb 27 cb 10 
+int88h - 4f 09 c1 c9 d1 f1 c9 f5 
+int90h - af ea 67 c2 76 c9 f1 c9 
+int98h - f5 2a 12 13 0b 79 b0 20 
+intA0h - cd a7 0b cd 8c 0b 3e 03 
+intA8h - ea 00 30 c3 00 40 04 cd 
+intB0h - e5 d5 c5 06 a0 af 21 00 
+intB8h - c0 22 05 20 fc ea 6c c2 
+intC0h - e1 d1 c1 c9 c3 34 04 f5 
+intC8h - 21 80 19 cd 35 19 18 1d 
+intD0h - f5 cd 90 00 f1 3d 20 f8 
+intD8h - c9 c1 d9 ff f2 31 00 00 
+intE0h - cd 90 00 18 08 cd 8c 0b 
+intE8h - 18 03 cd 65 19 3e 02 ea 
+intF0h - c5 c3 ea 00 30 c9 fd c9 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 d1 01 
+
+Title - HIT THE ICE\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - c0 (Taito)
+ROM Version - 00
+
+Header Checksum - 4c
+Global Checksum - 09 cb

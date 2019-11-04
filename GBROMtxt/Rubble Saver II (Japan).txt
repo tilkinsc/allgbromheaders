@@ -1,0 +1,52 @@
+rst00h - 85 6f d0 24 c9 00 00 00 
+rst08h - 2a 66 6f c9 00 00 00 00 
+rst10h - 87 c1 81 4f 88 91 47 0a 
+rst18h - f5 03 0a 47 f1 4f c5 c9 
+rst20h - 83 5f d0 14 c9 00 00 00 
+rst28h - 00 00 00 00 00 00 00 00 
+rst30h - 00 00 00 00 00 00 00 00 
+rst38h - 00 00 00 00 00 00 00 00 
+
+int40h - c3 61 00 00 00 00 00 00 
+int48h - c3 00 cf 00 00 00 00 00 
+int50h - 00 00 00 00 00 00 00 00 
+int58h - 00 00 00 00 00 00 00 00 
+int60h - d9 f5 c5 d5 e5 cd 4e 2b 
+int68h - f0 82 b7 c4 fc 0e cd 90 
+int70h - ff 21 a1 c0 34 21 fd c0 
+int78h - 0e 42 2a e2 0c 7e e2 3e 
+int80h - c3 e0 40 fa a2 c0 e0 47 
+int88h - 3e 01 ea 00 20 fb cd d0 
+int90h - 67 cd 94 68 cd a4 6b fa 
+int98h - a0 c0 ea 00 20 e1 d1 c1 
+intA0h - f1 d9 f0 84 e0 43 f1 d9 
+intA8h - f0 85 e0 43 f1 d9 fa fe 
+intB0h - c0 e0 43 f1 d9 3e c9 e0 
+intB8h - 40 3e ff e0 47 f1 d9 f0 
+intC0h - 83 e0 42 af e0 43 3e e4 
+intC8h - e0 47 f1 d9 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - RUBBLE SAVER 2\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 01 (64KByte (4 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - ea (King records)
+ROM Version - 00
+
+Header Checksum - 4c
+Global Checksum - de 0b

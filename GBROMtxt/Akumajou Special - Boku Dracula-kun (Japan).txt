@@ -1,0 +1,52 @@
+rst00h - e1 cf e9 ff ff ff ff ff 
+rst08h - 87 18 08 ef 2a 66 6f c9 
+rst10h - c3 5a 19 30 f6 24 18 f3 
+rst18h - 81 4f d0 04 c9 ff ff ff 
+rst20h - 1e 08 12 c9 ff ff ff ff 
+rst28h - 85 6f d0 24 c9 ff ff ff 
+rst30h - 83 5f d0 14 c9 ff ff ff 
+rst38h - 1e 01 1a 3c 12 c9 ff ff 
+
+int40h - c3 68 00 ff ff ff ff ff 
+int48h - c3 93 1f ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff 00 00 
+int68h - f3 f5 c5 d5 e5 21 40 ff 
+int70h - cb 86 cb 8e 21 c2 dd 34 
+int78h - fa c4 c9 b7 20 33 3c ea 
+int80h - c4 c9 cd 90 ff cd dd 24 
+int88h - cd c8 00 cd cf 04 af e0 
+int90h - 0f fa d9 c9 e0 ff fb cd 
+int98h - e9 2b cd 1b 03 3e 0d ea 
+intA0h - 45 23 cd 00 40 cd da 03 
+intA8h - af ea c4 c9 e1 d1 c1 f1 
+intB0h - d9 cd c8 00 af e0 0f fa 
+intB8h - d9 c9 e0 ff fb cd e9 2b 
+intC0h - e1 d1 c1 f1 cd ce 24 d9 
+intC8h - 21 d1 c9 2a e0 42 2a e0 
+intD0h - 43 2a e0 4a 2a e0 4b 2a 
+intD8h - e0 47 2a e0 48 2a e0 49 
+intE0h - 7e e0 45 fa c1 dd ea c0 
+intE8h - dd fa d0 c9 e0 40 c9 ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - BOKU DRACURA KU
+
+CGB Flag - 4e (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - a4 (Konami)
+ROM Version - 00
+
+Header Checksum - de
+Global Checksum - 89 ac

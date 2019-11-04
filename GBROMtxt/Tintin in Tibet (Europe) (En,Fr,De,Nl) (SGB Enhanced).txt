@@ -1,0 +1,52 @@
+rst00h - c3 1f 1a 2d 4d 41 4e 41 
+rst08h - 00 45 52 53 20 42 49 54 
+rst10h - f0 44 b9 20 fb c9 45 52 
+rst18h - 53 20 42 49 54 2d 4d 41 
+rst20h - 4e 41 47 45 52 53 20 42 
+rst28h - 49 54 2d 4d 41 4e 41 47 
+rst30h - 45 52 53 20 42 49 54 2d 
+rst38h - 4d 41 4e 41 47 45 52 53 
+
+int40h - fb c3 96 11 2d 4d 41 4e 
+int48h - fb c3 e5 c3 53 20 42 49 
+int50h - c9 2d 4d 41 4e 41 47 45 
+int58h - c9 53 20 42 49 54 2d 4d 
+int60h - c9 4e 41 47 45 52 53 20 
+int68h - f0 a0 f5 3e 0f e0 a0 ea 
+int70h - 00 20 cd 48 40 f1 e0 a0 
+int78h - ea 00 20 c9 f0 a0 f5 3e 
+int80h - 0f e0 a0 ea 00 20 cd 4e 
+int88h - 40 f1 e0 a0 ea 00 20 c9 
+int90h - fa fa c1 a7 20 07 21 51 
+int98h - 40 cd cb 00 c9 21 4b 40 
+intA0h - cd cb 00 c9 e5 c5 4f cb 
+intA8h - 7f 20 06 fa ec c4 a7 28 
+intB0h - 17 cb b9 fa de c1 fe 09 
+intB8h - 28 0e 47 c6 df 6f ce c1 
+intC0h - 95 67 71 78 3c ea de c1 
+intC8h - c1 e1 c9 ea dd c1 7d ea 
+intD0h - db c1 7c ea dc c1 c9 41 
+intD8h - 47 45 52 53 20 42 49 54 
+intE0h - 2d 4d 41 4e 41 47 45 52 
+intE8h - 53 20 42 49 54 2d 4d 41 
+intF0h - 4e 41 47 45 52 53 20 42 
+intF8h - 49 54 2d 4d 41 4e 41 47 
+
+Entry Point - 00 c3 50 01 
+
+Title - TINTIN AU TIBET
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 70 (Infogrames)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 21
+Global Checksum - 6b 51

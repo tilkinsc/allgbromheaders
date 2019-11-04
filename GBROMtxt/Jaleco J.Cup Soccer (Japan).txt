@@ -1,0 +1,52 @@
+rst00h - c3 26 03 eb e7 de ee 91 
+rst08h - c3 9f 0a f7 ca ef aa fd 
+rst10h - c9 cd 8b ff 97 fb 3a fd 
+rst18h - c9 ef ea 67 24 d8 22 65 
+rst20h - c9 fb aa df 96 d5 6a de 
+rst28h - c9 ff b9 fb e2 ff aa ff 
+rst30h - c9 fa ef fb c2 fc ea f7 
+rst38h - c9 fb aa 3d 92 f7 29 af 
+
+int40h - cd f3 01 d9 44 ff aa d7 
+int48h - cd b5 02 d9 8b 9f aa fd 
+int50h - d9 f2 6a 9e 8e de 6a fb 
+int58h - cd 8b 03 d9 9e 3b 3a 93 
+int60h - d9 ff fb 2f ba ff 2a de 
+int68h - 2a 7d aa ff 2b bc 69 f7 
+int70h - bb fa 98 ba be ff 8b 9f 
+int78h - ea fe ea 71 2a 2f ae f7 
+int80h - b0 de ba ff af df 9b ff 
+int88h - be fe ae 94 83 ff aa d7 
+int90h - ba cf ae 7f fa fd aa 77 
+int98h - 8e bb da e3 a9 ef b9 fe 
+intA0h - ac 7f fa 5f e8 bf ea ff 
+intA8h - f8 fd 0a db ea b7 aa db 
+intB0h - 2a ff ff ef b2 97 a8 77 
+intB8h - a2 4f ae dd 6a 4f e6 af 
+intC0h - ea f5 fe 6c 89 b5 a2 fa 
+intC8h - ae f7 be eb a4 ef ba ff 
+intD0h - aa ff cb fd fa 2d 36 fd 
+intD8h - aa ef a8 ee 9a af a8 e7 
+intE0h - 8a fd 62 ff 69 ff fe ff 
+intE8h - eb bf 2a ff 12 ff ea b7 
+intF0h - fa ed 3a fb ef ff aa bf 
+intF8h - b7 fd 1b ff bb ff 2f df 
+
+Entry Point - 00 c3 50 01 
+
+Title - J.CUP SOCCER\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 0a (Jaleco)
+ROM Version - 00
+
+Header Checksum - 9b
+Global Checksum - df a6

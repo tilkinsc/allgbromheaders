@@ -1,0 +1,52 @@
+rst00h - c3 00 01 ff ff ff ff ff 
+rst08h - c5 47 7d 93 6f 7c 9a 67 
+rst10h - 78 c1 c9 ff ff ff ff ff 
+rst18h - e5 2a 66 6f 19 54 7d e1 
+rst20h - 22 72 62 6f c9 ff ff ff 
+rst28h - ea 9b d9 ea ff 3f c9 ff 
+rst30h - 06 20 2a 12 13 05 20 fa 
+rst38h - c9 ff ff ff ff ff ff ff 
+
+int40h - c3 38 02 ff ff ff ff ff 
+int48h - c3 92 02 ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - d9 11 00 90 01 00 08 f5 
+int60h - cd 6a 00 f1 16 88 06 08 
+int68h - 18 00 ef f0 41 e6 03 20 
+int70h - fa 2a 12 13 0b 79 b0 20 
+int78h - f2 c9 7e b7 28 09 cd a4 
+int80h - 00 cb 7e c0 23 18 f3 23 
+int88h - 2a 4f 2a e5 87 87 87 6f 
+int90h - 26 00 29 29 7c c6 98 ea 
+int98h - 9a d9 7d 81 ea 99 d9 e1 
+intA0h - 18 d8 c6 30 e6 7f c6 a5 
+intA8h - 4f fa 99 d9 5f fa 9a d9 
+intB0h - 57 f0 41 e6 03 20 fa 79 
+intB8h - 12 1c 7b ea 99 d9 c9 ef 
+intC0h - c5 e5 f0 41 e6 03 20 fa 
+intC8h - 1a 22 13 05 20 f4 e1 c1 
+intD0h - 0d c8 7d c6 20 6f 30 e8 
+intD8h - 24 18 e5 ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - EMPIRE STRIKES\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 41 (Ubisoft)
+ROM Version - 00
+
+Header Checksum - 9b
+Global Checksum - 9a 05

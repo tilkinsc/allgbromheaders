@@ -1,0 +1,52 @@
+rst00h - c3 d8 df 00 00 00 00 00 
+rst08h - c3 db df 00 00 00 00 00 
+rst10h - c3 de df 00 00 00 00 00 
+rst18h - c3 e1 df 00 00 00 00 00 
+rst20h - c3 e4 df 00 00 00 00 00 
+rst28h - c3 e7 df 00 00 00 00 00 
+rst30h - c3 ea df 00 00 00 00 00 
+rst38h - c3 38 00 00 00 00 00 00 
+
+int40h - f5 e5 cd f0 df e1 f1 d9 
+int48h - f5 e5 cd f3 df e1 f1 d9 
+int50h - f5 e5 cd f6 df e1 f1 d9 
+int58h - f5 e5 cd f9 df e1 f1 d9 
+int60h - f5 e5 cd fc df e1 f1 d9 
+int68h - aa bb 2a fa aa 5e 22 f3 
+int70h - aa 79 08 31 22 3a aa 57 
+int78h - 8a af 28 cc a2 3c 88 59 
+int80h - 8b fd a8 a6 0a fd 2a df 
+int88h - a2 fb 4a 23 12 1d a8 7e 
+int90h - 22 55 08 0b 0a 14 aa b6 
+int98h - 88 fc 00 05 a8 8c 88 17 
+intA0h - ea ef 80 e7 2a cf aa d7 
+intA8h - 2a fb 2a f5 22 7b 2a 4f 
+intB0h - 8c fa a2 7b 8a 8b 82 f5 
+intB8h - a0 79 82 2d a2 b6 22 69 
+intC0h - 28 dd a2 5d 0e d9 a8 ff 
+intC8h - a0 7f 80 ff 0a c4 02 b7 
+intD0h - a0 3f aa 69 a3 fb 22 4d 
+intD8h - aa ff 20 f5 02 d0 a8 a3 
+intE0h - a8 7f 02 ff 2a df a9 af 
+intE8h - 2a e9 6a df a8 f8 aa 6d 
+intF0h - aa cf 22 35 a8 d8 8a ce 
+intF8h - 28 db aa d6 82 0d 22 84 
+
+Entry Point - 00 c3 50 01 
+
+Title - POCKET BASS FIS
+
+CGB Flag - 48 (Invalid)
+New Licensee Code - (ASCII) 9H (Invalid)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - d7
+Global Checksum - f5 fb

@@ -1,0 +1,52 @@
+rst00h - e1 87 cf 2a 66 6f e9 ff 
+rst08h - 85 6f d0 24 c9 ff ff ff 
+rst10h - 87 cf 2a 66 6f c9 ff ff 
+rst18h - 60 81 6f d0 24 c9 ff ff 
+rst20h - 83 5f d0 14 c9 ff ff ff 
+rst28h - ff ff ff ff ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 dc 10 ff ff ff ff ff 
+int48h - d9 ff ff ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - f3 31 fe ff 21 00 00 11 
+int88h - 00 00 2a cd a5 00 7c 07 
+int90h - 30 f8 21 4e 01 2a 86 26 
+int98h - 00 cb 14 2f 6f 7c 2f 67 
+intA0h - 23 19 c3 a2 00 83 5f d0 
+intA8h - 14 c9 ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - PUZZLE ROAD\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 00 (ROM ONLY)
+Rom Size - 00 (32KByte (no ROM banking))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 8c (Vic Tokai)
+ROM Version - 00
+
+Header Checksum - 2b
+Global Checksum - 4d 61

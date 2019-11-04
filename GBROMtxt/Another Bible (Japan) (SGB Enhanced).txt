@@ -1,0 +1,52 @@
+rst00h - c9 ff ff ff ff ff ff ff 
+rst08h - c3 b2 00 ff ff ff ff ff 
+rst10h - c3 bb 00 ff ff ff ff ff 
+rst18h - 87 85 6f 30 03 24 18 00 
+rst20h - 7e 23 66 6f c9 ff ff ff 
+rst28h - df e9 ff ff ff ff ff ff 
+rst30h - 85 6f 8c 95 67 7e c9 ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 67 10 ff ff ff ff ff 
+int48h - c3 e3 2c ff ff ff ff ff 
+int50h - fb c9 ff ff ff ff ff ff 
+int58h - fb c9 ff ff ff ff ff ff 
+int60h - fb c9 f3 f0 40 cb 7f 28 
+int68h - 0c f0 44 fe 91 38 fa f0 
+int70h - 40 cb bf e0 40 fb c9 f3 
+int78h - f0 40 cb 7f 20 0a cb ff 
+int80h - e0 40 f0 44 fe 91 38 fa 
+int88h - fb c9 e5 af 21 00 c0 36 
+int90h - 01 76 be 20 fc e1 c9 fb 
+int98h - c9 f5 85 6f 3e 00 8c 67 
+intA0h - f1 c9 c5 4f 06 00 09 09 
+intA8h - 7e 23 66 6f c1 c9 cd a2 
+intB0h - 00 e9 f3 ea 00 20 ea 77 
+intB8h - c0 fb c9 f3 ea 00 40 ea 
+intC0h - 78 c0 fb c9 ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - 80 40 20 10 08 04 02 01 
+intF8h - 7f bf df ef f7 fb fd fe 
+
+Entry Point - 00 c3 50 01 
+
+Title - ANOTHER BIBLE  
+
+CGB Flag - 20 (Invalid)
+New Licensee Code - (ASCII) EB (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 32
+Global Checksum - 8f eb

@@ -1,0 +1,52 @@
+rst00h - c3 50 01 10 00 00 00 00 
+rst08h - 00 00 00 00 00 00 00 00 
+rst10h - 00 00 00 00 00 00 00 00 
+rst18h - 00 00 00 00 00 00 00 00 
+rst20h - 00 00 00 00 00 00 00 00 
+rst28h - 00 00 00 00 00 00 00 00 
+rst30h - 00 00 00 00 00 00 00 00 
+rst38h - 00 00 00 00 00 00 00 00 
+
+int40h - f5 c5 d5 e5 c3 cf 02 00 
+int48h - f5 c3 b1 00 00 00 00 00 
+int50h - f5 c5 d5 e5 c3 4f 04 00 
+int58h - d9 00 00 00 00 00 00 00 
+int60h - d9 10 00 00 00 00 00 00 
+int68h - 00 00 00 00 00 00 00 00 
+int70h - 10 00 af ea 63 d1 ea 65 
+int78h - d1 3e 03 ea 0a d1 3e 04 
+int80h - ea 64 d1 af 21 6a d1 22 
+int88h - 22 22 22 77 21 10 d1 22 
+int90h - 22 77 ea 0c d1 3e 01 21 
+int98h - 38 d1 22 22 22 22 22 22 
+intA0h - 77 c9 3e 1e e0 fd af 21 
+intA8h - 67 d1 22 22 77 ea 0b d1 
+intB0h - c9 f0 41 e6 04 28 17 3e 
+intB8h - 10 3d 20 fd f0 d7 e6 fd 
+intC0h - f6 01 e0 40 e0 d8 3e 00 
+intC8h - e0 43 3e 70 e0 42 f1 d9 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - SD LUPIN THE 3R
+
+CGB Flag - 44 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 01 (64KByte (4 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - d9 (Banpresto)
+ROM Version - 00
+
+Header Checksum - e3
+Global Checksum - b1 bc

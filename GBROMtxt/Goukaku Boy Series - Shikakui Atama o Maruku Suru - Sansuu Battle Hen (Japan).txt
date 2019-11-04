@@ -1,0 +1,52 @@
+rst00h - c3 fb 39 a7 10 b5 44 74 
+rst08h - c3 80 f0 ac 51 22 a0 05 
+rst10h - c3 df 36 14 5b 88 ff 35 
+rst18h - d9 35 ff 40 9f e1 af 9f 
+rst20h - d9 d0 95 02 ec 71 ff 10 
+rst28h - d9 83 fd 45 35 00 da af 
+rst30h - d9 05 77 80 f5 2a 7e 0c 
+rst38h - d9 82 ef 23 7f 59 ff 2b 
+
+int40h - c3 00 03 2a fb 23 ff 34 
+int48h - d9 00 6d f8 77 75 64 ff 
+int50h - c3 ec 01 1b fd 0c fd 21 
+int58h - c3 06 1c 03 fd 6f df fd 
+int60h - d9 50 52 4f 47 52 41 4d 
+int68h - 4d 45 44 20 42 59 20 6d 
+int70h - 69 6e 6f 72 75 28 39 2f 
+int78h - 31 34 2d 30 29 c1 f7 fe 
+int80h - 00 ff 2c ff 4c fe 00 5c 
+int88h - 88 e7 84 de 10 9f 20 b5 
+int90h - 6b 28 79 48 7f 00 8f 0c 
+int98h - f7 00 b5 30 6d 26 f7 7b 
+intA0h - ff 01 5e 61 5d 41 4f 09 
+intA8h - d6 10 ff 10 fe 93 47 8f 
+intB0h - ff 05 1f 71 ef 6a 7d 40 
+intB8h - d7 92 4f c1 3f c7 2f 7b 
+intC0h - ff 00 dd 44 f7 34 ff 22 
+intC8h - 4d c7 73 00 eb 75 bd 97 
+intD0h - ff 28 df 82 f7 03 8b 35 
+intD8h - ff 8e fe 20 ea dd bf bd 
+intE0h - ff dc f5 06 ff dd 7e 9d 
+intE8h - ff 5e f7 24 e7 73 7f be 
+intF0h - ff 92 7d 12 3b 43 5f a1 
+intF8h - bf 91 9d 99 9d 2c f7 ef 
+
+Entry Point - 00 c3 50 01 
+
+Title - SIKAKUI S BAT\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 9C (Invalid)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - b9
+Global Checksum - 01 e5

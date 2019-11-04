@@ -1,0 +1,52 @@
+rst00h - 00 00 00 00 00 00 00 00 
+rst08h - 2a 12 13 0d 20 fa c9 00 
+rst10h - f3 47 f0 8b e0 8c 18 09 
+rst18h - f3 f0 8c e0 8b ea 00 21 
+rst20h - d9 78 e0 8b ea 00 21 d9 
+rst28h - 87 c1 f7 2a 66 6f e9 00 
+rst30h - 4f 06 00 09 c9 00 00 00 
+rst38h - 00 00 00 00 00 00 00 00 
+
+int40h - c3 e6 01 00 00 00 00 00 
+int48h - c3 ea 02 00 00 00 00 00 
+int50h - c3 fb 02 00 00 00 00 00 
+int58h - c3 19 03 00 00 00 00 00 
+int60h - d9 00 00 00 00 00 00 00 
+int68h - 2a e2 0c 05 20 fa c9 f2 
+int70h - 22 0c 05 20 fa c9 f3 f0 
+int78h - 40 07 30 06 f0 41 e6 02 
+int80h - 28 fa f0 41 e6 02 20 fa 
+int88h - 70 fb e5 7c fe 98 38 08 
+int90h - fe a0 30 04 c6 3e 67 70 
+int98h - e1 c9 f3 f0 40 07 30 06 
+intA0h - f0 41 e6 02 28 fa f0 41 
+intA8h - e6 02 20 fa 7e fb c9 21 
+intB0h - db c1 7e 76 be 28 fc c9 
+intB8h - 21 a3 c1 cb 7e 20 0d af 
+intC0h - e0 0f 3e 01 ea dc c1 cb 
+intC8h - fe 7e e0 40 c9 21 a3 c1 
+intD0h - cb 7e 28 11 f0 44 fe 92 
+intD8h - 38 fa fe 98 30 f6 f3 cb 
+intE0h - be 7e e0 40 fb c9 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - SNOW BROS.JR\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 08 (Capcom)
+ROM Version - 00
+
+Header Checksum - 74
+Global Checksum - 2f 4c

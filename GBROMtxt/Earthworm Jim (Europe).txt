@@ -1,0 +1,52 @@
+rst00h - ea 00 20 c9 00 00 00 00 
+rst08h - f5 f0 41 e6 03 20 fa f1 
+rst10h - 22 c9 00 09 77 e1 c9 00 
+rst18h - f5 e5 21 00 c1 7e 76 be 
+rst20h - 28 fc e1 f1 c9 e1 c9 00 
+rst28h - fa ff 7f f5 78 c7 11 3a 
+rst30h - 00 d5 e9 00 00 00 00 00 
+rst38h - 18 4c f1 c7 c9 00 00 00 
+
+int40h - c3 80 c2 00 00 00 00 00 
+int48h - c3 83 c2 00 00 00 00 00 
+int50h - c3 f8 06 00 00 00 00 00 
+int58h - d9 00 00 00 00 00 00 00 
+int60h - d9 00 00 00 00 00 00 00 
+int68h - cd 6e 00 c3 50 01 0e 80 
+int70h - 06 0a 21 7c 00 2a e2 0c 
+int78h - 05 20 fa c9 3e c0 e0 46 
+int80h - 3e 28 3d 20 fd c9 2a 12 
+int88h - 13 0b 78 b1 20 f8 c9 01 
+int90h - 00 04 21 00 98 18 0e 01 
+int98h - 00 20 21 00 80 18 06 21 
+intA0h - 00 c0 01 f8 1f 36 00 23 
+intA8h - 0b 78 b1 20 f8 c9 01 a0 
+intB0h - 00 21 00 c0 18 ef 3e 20 
+intB8h - e0 00 f0 00 f0 00 2f e6 
+intC0h - 0f cb 37 47 3e 10 e0 00 
+intC8h - f0 00 f0 00 f0 00 f0 00 
+intD0h - f0 00 f0 00 2f e6 0f b0 
+intD8h - 4f fa 01 c1 a9 a1 ea 02 
+intE0h - c1 79 ea 01 c1 3e 30 e0 
+intE8h - 00 c9 cd b6 00 76 fa 00 
+intF0h - c1 b7 28 f9 af ea 00 c1 
+intF8h - c9 ea e7 c1 ea 01 c5 c9 
+
+Entry Point - 00 c3 68 00 
+
+Title - EARTHWORM JIM\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 61 (Virgin)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 8f
+Global Checksum - 8c 78

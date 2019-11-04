@@ -1,0 +1,52 @@
+rst00h - 0e 00 90 d0 0c 2f 3c c9 
+rst08h - 3e 00 3e 01 3e 02 3e 03 
+rst10h - d5 5f 16 00 cb 23 cb 12 
+rst18h - 19 5e 23 56 62 6b d1 c9 
+rst20h - 7c 12 13 7d 12 13 c9 00 
+rst28h - 0b 78 b1 20 fb c9 00 00 
+rst30h - f0 41 cb 4f 20 fa c9 00 
+rst38h - 85 6f 3e 00 8c 67 c9 00 
+
+int40h - 18 1f 00 00 00 00 00 00 
+int48h - 18 43 00 00 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - d9 00 00 00 00 00 00 00 
+int60h - d9 f5 c5 d5 e5 f3 cd 80 
+int68h - ff 3e 01 cd db 31 cd 3b 
+int70h - 67 cd d3 33 cd e7 31 cd 
+int78h - 98 15 cd 8d 32 3e 01 cd 
+int80h - db 31 3e 01 ea bf c1 fb 
+int88h - e1 d1 c1 f1 d9 f5 c5 d5 
+int90h - e5 f3 3e 01 cd db 31 fa 
+int98h - c1 c1 e0 43 fa c2 c1 e0 
+intA0h - 42 cd 12 32 cd f7 33 fb 
+intA8h - e1 d1 c1 f1 d9 06 0a 11 
+intB0h - 80 ff 21 bd 00 7e 12 23 
+intB8h - 13 05 20 f9 c9 3e c0 e0 
+intC0h - 46 3e 28 3d 20 fd c9 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - SUMO FIGHTER\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 35 (Hector)
+ROM Version - 00
+
+Header Checksum - 41
+Global Checksum - 2a aa

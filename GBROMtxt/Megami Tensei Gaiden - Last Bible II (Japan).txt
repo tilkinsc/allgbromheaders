@@ -1,0 +1,52 @@
+rst00h - c3 50 01 00 00 00 00 00 
+rst08h - c3 00 01 00 00 00 00 00 
+rst10h - 21 00 c2 af cd af 10 c9 
+rst18h - fa f7 cf f6 04 ea f7 cf 
+rst20h - c9 ff ff ff ff ff ff ff 
+rst28h - e5 f5 f7 f1 e1 c9 ff ff 
+rst30h - 21 80 df 7e 3c fe 04 d0 
+rst38h - 77 85 6f 70 c9 ff ff ff 
+
+int40h - c3 ba 03 00 00 00 00 00 
+int48h - c3 2c 04 00 00 00 00 00 
+int50h - c3 2d 04 00 00 00 00 00 
+int58h - c3 e5 33 00 00 00 00 00 
+int60h - c3 46 04 ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - 00 00 00 00 00 00 00 00 
+int88h - 00 00 00 00 00 00 00 00 
+int90h - 00 00 00 00 00 00 00 00 
+int98h - 00 00 00 00 80 00 00 00 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 b4 01 
+
+Title - LAST BIBLE2\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - eb (Atlus)
+ROM Version - 00
+
+Header Checksum - 10
+Global Checksum - 55 b9

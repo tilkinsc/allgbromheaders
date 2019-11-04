@@ -1,0 +1,52 @@
+rst00h - c3 80 f0 00 1b 05 00 00 
+rst08h - e9 02 00 00 28 c1 00 00 
+rst10h - 42 e0 00 00 48 68 00 00 
+rst18h - 47 ac 00 00 99 45 00 00 
+rst20h - ff ff ff ff ff ff ff ff 
+rst28h - ff ff ff ff ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 df 02 00 00 00 00 00 
+int48h - 00 00 00 00 00 00 00 00 
+int50h - c3 e3 38 00 00 00 00 00 
+int58h - c3 18 36 00 00 00 00 00 
+int60h - ff ff ff ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - 00 00 00 00 00 00 00 00 
+int88h - 00 00 00 00 00 00 00 00 
+int90h - 00 00 00 00 00 00 00 00 
+int98h - 00 00 00 00 00 00 40 00 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - MAZEKKO MONSTER
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) D9 (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - d1
+Global Checksum - f7 58

@@ -1,0 +1,52 @@
+rst00h - c3 31 03 dc a8 7a 6c d1 
+rst08h - 22 9f a8 c6 88 83 28 3f 
+rst10h - 0a 3d ba ec 8e fb 22 66 
+rst18h - ae 1f 88 2f e8 fc 8a fd 
+rst20h - 20 07 82 4d 20 af 02 75 
+rst28h - 02 75 ae df a8 77 cb fe 
+rst30h - a2 eb 28 bd a8 f7 8a ff 
+rst38h - aa 6e aa 7b a2 73 ba 5e 
+
+int40h - c3 0a 02 c2 00 de 03 d7 
+int48h - d9 ba 88 54 38 73 a0 3c 
+int50h - c3 ea 01 ef ab df 83 fe 
+int58h - d9 45 ba fe b3 ed 8e 55 
+int60h - d9 40 8a b6 20 16 a2 22 
+int68h - 20 ce 88 c9 84 bf 88 2c 
+int70h - 8a 3f a8 71 a8 e1 a8 de 
+int78h - 8a f2 68 76 88 16 a8 67 
+int80h - 00 0d c4 7a 8a 8d 08 b9 
+int88h - 88 78 a2 ee 3a d7 88 78 
+int90h - a0 1d a2 bc aa 4d 28 e8 
+int98h - e8 fd a8 fb 68 79 e2 e5 
+intA0h - 4b 97 02 66 80 26 2a 9e 
+intA8h - a0 f4 aa dd 60 34 22 c1 
+intB0h - a2 bc a2 d4 a3 cd 09 c7 
+intB8h - 2b fd a0 d7 0a db 02 d8 
+intC0h - 8a b0 02 81 2a fe a8 d1 
+intC8h - 80 ed 21 db a0 f5 a8 e0 
+intD0h - a8 5d 2b 2e aa b9 9a 3d 
+intD8h - 8a df 9a cf a8 ce 2a 6b 
+intE0h - 8a 51 08 8e 20 1f 22 a7 
+intE8h - aa fc a0 35 22 ba 02 7a 
+intF0h - 03 19 2a 2b aa 7f 2a 77 
+intF8h - aa ff aa f4 8a ee ea fa 
+
+Entry Point - 00 c3 50 01 
+
+Title - SD SEINTPARADA0
+
+CGB Flag - 31 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 06 (MBC2+BATTERY)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - b2 (Bandai)
+ROM Version - 00
+
+Header Checksum - e8
+Global Checksum - 43 d0

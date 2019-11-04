@@ -1,0 +1,52 @@
+rst00h - c3 45 10 15 00 20 8a 44 
+rst08h - c0 0c 0a ec 88 17 23 0a 
+rst10h - 00 6f a2 cc 22 92 8c 0b 
+rst18h - c3 8f 6c 97 80 e4 0e 6b 
+rst20h - 88 4c 52 03 e2 90 85 89 
+rst28h - 1a d2 38 4c 48 2d 05 f1 
+rst30h - 19 38 8e 6e e8 e7 8a 8c 
+rst38h - ac 3b aa b4 52 6f b2 fc 
+
+int40h - c3 c6 0d a9 02 93 2e 01 
+int48h - c3 f8 20 06 8f 1c 93 83 
+int50h - d9 2d ba 11 a0 d4 8c 92 
+int58h - d9 07 c9 82 8a dd 2c 1e 
+int60h - d9 1d a2 2d 3c 16 90 a1 
+int68h - f0 43 d6 d7 48 d7 28 75 
+int70h - d9 78 2c e7 bf 2b 8a ee 
+int78h - a0 f7 38 67 4a d3 8c f0 
+int80h - 3d c8 f5 cd d0 00 f1 18 
+int88h - f7 1d a0 38 82 a1 8a 95 
+int90h - 3b 0b 3c bc 12 b3 c8 7e 
+int98h - e2 a0 a0 b4 8c 30 ea ed 
+intA0h - 64 46 22 02 20 01 d8 78 
+intA8h - ce 05 69 40 c4 47 b5 5f 
+intB0h - f0 14 60 6f a2 89 af 7a 
+intB8h - a0 c7 28 59 02 2e 92 d3 
+intC0h - 12 88 80 40 2a 11 22 b2 
+intC8h - 72 48 a2 c5 8c 46 19 26 
+intD0h - af ea 07 c1 76 fa 07 c1 
+intD8h - a7 28 fa c9 fa 02 c7 a7 
+intE0h - c8 fa 02 c1 cb 57 c8 af 
+intE8h - ea 07 c1 76 fa 07 c1 a7 
+intF0h - 28 fa fa 02 c1 cb 57 28 
+intF8h - ee c9 80 52 02 b8 c8 30 
+
+Entry Point - 00 c3 50 01 
+
+Title - ROGER RABBIT\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 08 (Capcom)
+ROM Version - 00
+
+Header Checksum - 88
+Global Checksum - 73 8c

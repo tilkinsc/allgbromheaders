@@ -1,0 +1,52 @@
+rst00h - 85 6f 3e 00 8c 67 7e c9 
+rst08h - 83 5f 3e 00 8a 57 1a c9 
+rst10h - 81 b8 d8 90 18 fb f9 ef 
+rst18h - c3 3f 03 ff ff ff ff ff 
+rst20h - 06 00 b9 38 04 91 04 18 
+rst28h - f9 4f c9 ff ff ff ff ff 
+rst30h - f5 fb f3 f0 41 e6 03 20 
+rst38h - f8 f1 77 fb c9 ff ff ff 
+
+int40h - c3 a3 06 1c 2a a2 ba 8a 
+int48h - c3 1f 2c ff ff ff ff ff 
+int50h - c3 06 19 3e 0e 18 0a 3e 
+int58h - 04 18 06 3e 06 18 02 3e 
+int60h - 02 11 6b 00 d5 e0 c8 ea 
+int68h - ff 3f e9 f0 c9 e0 c8 ea 
+int70h - ff 3f c9 11 b7 42 fa 5f 
+int78h - d5 3d 6f 26 00 29 29 29 
+int80h - 29 19 e5 11 b9 d4 01 10 
+int88h - 00 df e1 11 40 d4 01 10 
+int90h - 00 df 21 1b 40 cd 53 00 
+int98h - c9 cd 9c 00 cd 9f 00 cd 
+intA0h - a2 00 cd a5 00 cd a8 00 
+intA8h - cd ab 00 cd ae 00 cd b1 
+intB0h - 00 f0 b6 a7 28 fb cd 75 
+intB8h - 02 af e0 b6 c9 af e0 b6 
+intC0h - 18 ef e5 c5 2a 12 13 05 
+intC8h - 20 fa c1 e1 0d 20 f3 c9 
+intD0h - f0 cd 57 f0 cc 5f 06 04 
+intD8h - cb 1a cb 1b 05 20 f9 7b 
+intE0h - e6 fe d6 80 07 07 c6 10 
+intE8h - e0 ca f0 cc e6 1f 17 17 
+intF0h - 17 c6 08 e0 cb c9 7b bd 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - GB POWER MOVIE 
+
+CGB Flag - 20 (Invalid)
+New Licensee Code - (ASCII) B2 (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 22
+Global Checksum - b1 e3

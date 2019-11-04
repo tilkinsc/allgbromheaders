@@ -1,0 +1,52 @@
+rst00h - d0 ff ff ff ff df ff ff 
+rst08h - c3 80 f0 fb ff ff dd f9 
+rst10h - 83 ff ff ff ff ff ff ff 
+rst18h - 01 fd ff d7 f9 9d f5 ee 
+rst20h - ff ff ff ff ff ff ff ff 
+rst28h - df 0e f8 7a a0 18 80 0a 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - 45 6f f0 f2 e5 28 60 00 
+
+int40h - c3 b7 01 e5 c3 a5 02 ff 
+int48h - d9 ff ff ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - d9 e5 21 28 cf c3 7d 00 
+int60h - d9 31 39 39 37 20 41 70 
+int68h - 72 69 6c 2e 20 63 6f 6d 
+int70h - 70 6c 65 74 65 2e 4d 61 
+int78h - 6b 69 6e 67 20 62 79 20 
+int80h - 43 2d 6c 61 62 2e 63 6f 
+int88h - 2e 2c 6c 74 64 2e 3c ea 
+int90h - 15 cf e1 f1 d9 af e0 0f 
+int98h - 3e 0b e0 ff af e0 02 ea 
+intA0h - 12 cf ea 15 cf ea 16 cf 
+intA8h - 3e 88 e0 01 ea 13 cf 3e 
+intB0h - 80 e0 02 c9 1e 09 0b 02 
+intB8h - 14 02 0b 01 0a 12 0d 10 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - b6 ff f4 85 03 52 96 81 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - d1 3f d5 cb 08 81 91 e4 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - db 2a e0 1a 70 40 47 4a 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - 7d d3 44 31 e1 18 00 10 
+
+Entry Point - 00 c3 50 01 
+
+Title - EITANGO SENTA\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 9C (Invalid)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 92
+Global Checksum - c9 ff

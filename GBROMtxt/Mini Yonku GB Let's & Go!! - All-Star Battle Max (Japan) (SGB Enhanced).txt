@@ -1,0 +1,52 @@
+rst00h - 00 c3 00 01 00 00 00 00 
+rst08h - 11 60 c1 21 6a c1 06 0a 
+rst10h - c3 50 01 00 00 00 00 00 
+rst18h - 6f 26 00 29 d1 19 5e 23 
+rst20h - 66 6b e9 00 00 00 00 00 
+rst28h - 00 00 00 00 00 00 00 00 
+rst30h - 00 00 00 00 00 00 00 00 
+rst38h - 00 00 00 00 00 00 00 00 
+
+int40h - c3 43 03 00 00 00 00 00 
+int48h - c3 5c 0c 00 00 00 00 00 
+int50h - c3 af 12 00 00 00 00 00 
+int58h - c3 eb 0b 00 00 00 00 00 
+int60h - c3 b1 12 00 00 00 00 00 
+int68h - 00 00 00 00 00 00 00 00 
+int70h - 00 00 00 00 00 00 00 00 
+int78h - 00 00 00 00 00 00 00 00 
+int80h - 00 00 00 00 00 00 00 00 
+int88h - 00 00 00 00 00 00 00 00 
+int90h - 00 00 00 00 00 00 00 00 
+int98h - 00 00 00 00 00 00 00 00 
+intA0h - 00 00 00 00 00 00 00 00 
+intA8h - 00 00 00 00 00 00 00 00 
+intB0h - 00 00 00 00 00 00 00 00 
+intB8h - 00 00 00 00 00 00 00 00 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 66 01 
+
+Title - MINI4WD GB2    
+
+CGB Flag - 20 (Invalid)
+New Licensee Code - (ASCII) B1 (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 13 (MBC3+RAM+BATTERY)
+Rom Size - 05 (1MByte (64 banks) - only 63 banks used by MBC1)
+Ram Size - 03 (32 KByte (4 banks * 8 KByte))
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - ac
+Global Checksum - 6c 34

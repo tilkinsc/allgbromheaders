@@ -1,0 +1,52 @@
+rst00h - c3 50 01 53 4f 46 54 57 
+rst08h - 41 52 45 20 41 4e 44 20 
+rst10h - 48 41 52 44 57 41 52 45 
+rst18h - 20 44 45 53 49 47 4e 20 
+rst20h - 42 59 20 4a 4f 48 4e 20 
+rst28h - 4d 4f 52 52 49 53 4f 4e 
+rst30h - 20 28 4d 49 43 52 4f 53 
+rst38h - 29 20 31 2f 39 2f 31 39 
+
+int40h - c3 c1 35 ed 4d 00 00 00 
+int48h - ed 4d 8a 48 8a 81 24 6e 
+int50h - ed 4d 52 53 54 55 56 57 
+int58h - ed 4d 5a 5b 5c 5d 5e 5f 
+int60h - ed 4d 62 63 64 65 66 67 
+int68h - 68 69 6a 6b 6c 6d 6e 6f 
+int70h - 70 71 72 73 74 75 76 77 
+int78h - 78 79 7a 7b 7c 7d 7e 7f 
+int80h - 80 81 82 83 84 85 86 87 
+int88h - 88 89 8a 8b 8c 8d 8e 8f 
+int90h - 90 91 92 93 94 95 96 97 
+int98h - 98 99 9a 9b 9c 9d 9e 9f 
+intA0h - a0 a1 a2 a3 a4 a5 a6 a7 
+intA8h - a8 a9 aa ab ac ad ae af 
+intB0h - b0 b1 b2 b3 b4 b5 b6 b7 
+intB8h - b8 b9 ba bb bc bd be bf 
+intC0h - c0 c1 c2 c3 c4 c5 c6 c7 
+intC8h - c8 c9 ca cb cc cd ce cf 
+intD0h - d0 d1 d2 d3 d4 d5 d6 d7 
+intD8h - d8 d9 da db dc dd de df 
+intE0h - e0 e1 e2 e3 e4 e5 e6 e7 
+intE8h - e8 e9 ea eb ec ed ee ef 
+intF0h - f0 f1 f2 f3 f4 f5 f6 f7 
+intF8h - f8 f9 fa fb fc fd fe ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - PYRAMIDS OF RA\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 01 (64KByte (4 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 57 (Matchbox)
+ROM Version - 00
+
+Header Checksum - bc
+Global Checksum - 46 ee

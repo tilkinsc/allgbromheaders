@@ -1,0 +1,52 @@
+rst00h - e1 87 df 2a 66 6f e9 ff 
+rst08h - 87 df 2a 66 6f c9 ff ff 
+rst10h - ff ff ff ff ff ff ff ff 
+rst18h - 85 6f d0 24 c9 ff ff ff 
+rst20h - 2f 3c 85 6f d8 25 c9 ff 
+rst28h - 83 5f d0 14 c9 ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - dd ff ff ff ff ff ff ff 
+
+int40h - c3 9e 21 ff ff ff ff ff 
+int48h - c3 50 22 ff ff ff ff ff 
+int50h - c3 a6 22 ff ff ff ff ff 
+int58h - c3 ff 22 ff ff ff ff ff 
+int60h - d9 f3 af e0 0f e0 ff 3e 
+int68h - 01 b7 28 0b e5 21 ff 7f 
+int70h - ea 50 21 be 20 fa e1 21 
+int78h - 00 c0 01 fb 1f cd d4 20 
+int80h - 21 80 ff 01 7f 00 fa 4c 
+int88h - da f5 cd d4 20 f1 ea 4c 
+int90h - da 0e 80 06 0a 21 a9 00 
+int98h - 2a e2 0c 05 20 fa 21 b3 
+intA0h - 00 2a 4f 2a e2 0c 20 f9 
+intA8h - c9 3e c0 e0 46 3e 28 3d 
+intB0h - 20 fd c9 40 91 01 00 02 
+intB8h - 00 42 00 43 00 47 00 48 
+intC0h - 00 49 00 45 6f 41 40 0f 
+intC8h - 00 ff 01 2a 12 13 0b 78 
+intD0h - b1 20 f8 c9 2a 12 13 05 
+intD8h - 20 fa c9 ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 aa 1f 
+
+Title - DRAGONHEART\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 51 (Acclaim)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 19
+Global Checksum - 72 37

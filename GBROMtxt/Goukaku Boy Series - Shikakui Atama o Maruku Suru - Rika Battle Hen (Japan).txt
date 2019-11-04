@@ -1,0 +1,52 @@
+rst00h - 87 e1 cf 2a 66 6f e9 ff 
+rst08h - 85 6f d0 24 c9 ff ff ff 
+rst10h - 83 5f d0 14 c9 ff ff ff 
+rst18h - 81 4f d0 04 c9 ff ff ff 
+rst20h - c9 ff ff ff ff ff ff ff 
+rst28h - c9 ff ff ff ff ff ff ff 
+rst30h - c9 ff ff ff ff ff ff ff 
+rst38h - c9 ff ff ff ff ff ff ff 
+
+int40h - c3 3d 03 d9 ff ff ff ff 
+int48h - d9 ff ff ff ff ff ff ff 
+int50h - c3 ba 03 d9 ff ff ff ff 
+int58h - c3 23 0c d9 ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - ff ff ff ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - SIKAKU RIKAAE8J
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 9C (Invalid)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 1d
+Global Checksum - 88 8a

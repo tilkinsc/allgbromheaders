@@ -1,0 +1,52 @@
+rst00h - 55 e5 20 d3 09 e3 0c ff 
+rst08h - cd b1 03 c9 20 e6 00 fb 
+rst10h - cd 97 03 c9 ff 20 ff 00 
+rst18h - cd 9e 03 c9 ff 02 ff 00 
+rst20h - cd 6f 03 c9 ff 14 ff 24 
+rst28h - cd 80 03 c9 ff 40 ff ee 
+rst30h - cd 15 32 c9 ff 00 ff 8a 
+rst38h - cd e9 03 c9 ff a5 ff 80 
+
+int40h - c3 3e 09 ac ff 41 f7 80 
+int48h - c3 07 1c 42 ff 68 ff cc 
+int50h - d9 54 ff 25 ff 01 ff 54 
+int58h - c3 8e 04 c2 ff 21 ff 08 
+int60h - d9 02 ff 50 ff 49 ff 04 
+int68h - ff 30 ff 60 ff c2 ff 64 
+int70h - ff 48 bf 45 bf 00 ff 29 
+int78h - ff 02 ff 07 ff a9 ff 24 
+int80h - 00 ff 06 fb 03 7f 01 ff 
+int88h - 40 ff 09 ff 40 ff 40 ff 
+int90h - df 00 ff 48 fb 03 ff 10 
+int98h - 7f 10 6f 04 fb 02 ff 40 
+intA0h - ff 1d ff b8 bf 35 ef 64 
+intA8h - ff 4e ff e3 ff 89 ff 37 
+intB0h - ff 29 ff 12 bf 2d ff 6e 
+intB8h - 7f 84 ff 69 ff 40 ff 12 
+intC0h - ff 81 ff 13 ff 87 ff d7 
+intC8h - fe e6 ff cd fd 74 ff db 
+intD0h - ff 24 ff 1a ff a1 fa 40 
+intD8h - ff 1a fe 20 ff 94 ff 67 
+intE0h - ff 7b ff 83 ff 41 ff 4d 
+intE8h - ff 07 ff 61 ff 8c ff f2 
+intF0h - ff 08 fb f4 ff 97 ff 06 
+intF8h - ff 8a ff 62 ff 9e 7f 04 
+
+Entry Point - 00 c3 50 01 
+
+Title - KANDUME MONSTER
+
+CGB Flag - 21 (Invalid)
+New Licensee Code - (ASCII) 8F (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 10 (MBC3+TIMER+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - af
+Global Checksum - 75 0b

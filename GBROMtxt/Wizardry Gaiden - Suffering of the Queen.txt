@@ -1,0 +1,52 @@
+rst00h - c9 00 00 00 00 00 00 00 
+rst08h - 00 00 00 00 00 00 00 00 
+rst10h - 00 00 00 00 00 00 00 00 
+rst18h - 00 00 00 00 00 00 00 00 
+rst20h - 00 00 00 00 00 00 00 00 
+rst28h - 00 00 00 00 00 00 00 00 
+rst30h - 00 00 00 00 00 00 00 00 
+rst38h - 00 00 00 00 00 00 00 00 
+
+int40h - f3 e5 21 a0 c0 e9 00 00 
+int48h - f3 e5 21 a8 c0 e9 00 00 
+int50h - f3 e5 21 ad c0 e9 00 00 
+int58h - e5 21 b2 c0 e9 00 00 00 
+int60h - e5 21 b7 c0 e9 00 00 00 
+int68h - 00 00 00 00 00 00 00 00 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - ff ff ff ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - WIZARDRY SOQ-En
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - b1 (Ascii or Nexoft)
+ROM Version - 00
+
+Header Checksum - 3f
+Global Checksum - 70 f8

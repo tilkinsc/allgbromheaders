@@ -1,0 +1,52 @@
+rst00h - c3 59 3c 04 00 84 00 04 
+rst08h - c3 80 f0 00 00 41 00 00 
+rst10h - 00 00 00 49 00 00 20 80 
+rst18h - 00 40 00 00 00 00 00 04 
+rst20h - 20 00 00 05 00 00 08 00 
+rst28h - 02 02 00 02 00 00 08 22 
+rst30h - 08 00 00 00 00 40 00 92 
+rst38h - 00 28 00 02 00 13 02 80 
+
+int40h - c3 0d 0b 58 20 00 80 01 
+int48h - d9 40 00 00 02 25 00 00 
+int50h - d9 80 20 00 80 20 20 90 
+int58h - d9 45 08 00 02 8a 00 04 
+int60h - d9 00 00 00 00 00 80 00 
+int68h - 08 00 00 00 80 00 00 10 
+int70h - 00 00 00 40 00 10 00 00 
+int78h - 00 00 00 00 00 00 00 00 
+int80h - 00 18 80 01 00 19 22 20 
+int88h - 00 00 00 c0 80 00 00 00 
+int90h - 00 00 00 00 00 20 00 44 
+int98h - 00 00 00 00 00 00 00 00 
+intA0h - 00 00 00 00 00 00 00 00 
+intA8h - 00 00 00 00 00 00 20 10 
+intB0h - 00 00 00 00 28 10 08 00 
+intB8h - 00 00 00 04 80 60 02 10 
+intC0h - 00 00 00 01 00 80 08 28 
+intC8h - 08 04 00 20 80 10 02 00 
+intD0h - 00 00 00 10 00 00 00 60 
+intD8h - 02 0c 22 03 00 00 02 44 
+intE0h - 00 00 00 00 00 00 00 01 
+intE8h - 00 04 00 00 00 00 00 00 
+intF0h - 00 00 00 80 00 00 00 00 
+intF8h - 00 00 00 04 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - ATHENANOHATENA?
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - e7 (Athena)
+ROM Version - 00
+
+Header Checksum - be
+Global Checksum - af 88

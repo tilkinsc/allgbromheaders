@@ -1,0 +1,52 @@
+rst00h - c3 50 01 ff ff ff ff ff 
+rst08h - c3 80 f0 ff ff ff ff ff 
+rst10h - ff ff ff ff ff ff ff ff 
+rst18h - ff ff ff ff ff ff ff ff 
+rst20h - ff ff ff ff ff ff ff ff 
+rst28h - ff ff ff ff ff ff ff ff 
+rst30h - e1 06 00 4f cb 21 cb 10 
+rst38h - 09 2a 66 6f e9 ff ff ff 
+
+int40h - c3 c5 01 ff ff ff ff ff 
+int48h - c3 65 03 ff ff ff ff ff 
+int50h - c3 0b 04 ff ff ff ff ff 
+int58h - c3 42 04 ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - ff ff ff ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - KAERUNOTAMENI\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 01 (Nintendo)
+ROM Version - 00
+
+Header Checksum - 0a
+Global Checksum - 10 4f

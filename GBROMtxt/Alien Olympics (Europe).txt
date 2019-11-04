@@ -1,0 +1,52 @@
+rst00h - c3 50 01 ff ff ff ff ff 
+rst08h - c3 50 01 ff ff ff ff ff 
+rst10h - c9 ff ff ff ff ff ff ff 
+rst18h - c9 ff ff ff ff ff ff ff 
+rst20h - e9 ff ff ff ff ff ff ff 
+rst28h - c9 ff ff ff ff ff ff ff 
+rst30h - c9 ff ff ff ff ff ff ff 
+rst38h - c9 ff ff ff ff ff ff ff 
+
+int40h - c3 9d 00 ff ff ff ff ff 
+int48h - c3 d9 34 ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 c3 7b 01 c3 e9 01 c3 
+int68h - e9 01 c3 f5 01 c3 2a 02 
+int70h - c3 01 02 c3 f5 01 c3 0d 
+int78h - 02 c3 a7 01 c3 a7 01 c3 
+int80h - 87 01 c3 a7 01 c3 2a 02 
+int88h - c3 83 01 c3 f5 01 c3 19 
+int90h - 02 c3 7b 01 c3 7b 01 c3 
+int98h - 7b 01 c3 9d 01 f5 c5 d5 
+intA0h - e5 fa 08 c0 e0 40 fa 09 
+intA8h - c0 ea 07 c0 cd 80 ff fa 
+intB0h - a7 c0 5f 87 83 5f 16 00 
+intB8h - 21 61 00 19 e9 af ea 0c 
+intC0h - c0 3c ea 14 c0 cd e3 32 
+intC8h - 3e 01 ea 09 c0 ea 00 21 
+intD0h - cd bf 6d 3e e0 e0 0f fa 
+intD8h - 07 c0 ea 09 c0 ea 00 21 
+intE0h - e1 d1 c1 f0 41 e6 03 28 
+intE8h - fa f0 41 e6 03 20 fa f1 
+intF0h - d9 cd 8b 05 cd c1 32 cd 
+intF8h - 55 02 c3 f1 0d ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - ALIEN OLYMPICS\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 67 (Ocean)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 4a
+Global Checksum - 75 15

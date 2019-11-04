@@ -1,0 +1,52 @@
+rst00h - dd 00 bf a3 52 c0 33 81 
+rst08h - f9 fd 0f 87 df ff bd 72 
+rst10h - ee 01 b1 0a ff ff ce 00 
+rst18h - ff ff b3 43 ff ff 24 60 
+rst20h - eb ff 1c 80 df e5 3e 80 
+rst28h - f5 fa 04 c0 f5 3e 10 ea 
+rst30h - 04 e0 c3 3d 04 ff ff ff 
+rst38h - 08 05 c0 31 50 c0 18 e8 
+
+int40h - c3 4d d4 00 00 00 00 00 
+int48h - c3 50 d4 00 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - d9 00 00 00 00 00 00 00 
+int60h - f5 f0 00 e6 0f fe 03 28 
+int68h - 02 f1 d9 e5 f8 04 34 20 
+int70h - 02 23 34 e1 f1 18 c1 00 
+int78h - ff ff a7 79 fd ff 00 0a 
+int80h - df ff 78 1f ff ff c2 c9 
+int88h - fb ff 7c 07 ff ff 7f 1c 
+int90h - ef ff c6 e4 6f ff 7f cb 
+int98h - ef fd c4 b0 ff ef 1b 42 
+intA0h - 7f ff fb 77 ff ff 03 80 
+intA8h - 9f ff 3f 15 ff ff 76 09 
+intB0h - f7 7f 65 30 ff ff 15 a1 
+intB8h - ff ff 4a c3 00 ff a2 04 
+intC0h - bf ef cd c0 ff 7e 56 a9 
+intC8h - ff ff 45 d4 f3 ff dd c8 
+intD0h - be ff 4e a7 ff ff f9 04 
+intD8h - ef 77 80 11 ff ff eb 00 
+intE0h - ff bf 3c 1f ff d7 ec 59 
+intE8h - fb ff 56 eb ff ff 21 24 
+intF0h - ae fb 9b 4c ff fe f4 e4 
+intF8h - af ff e9 00 ff fb d5 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - PARASOL STARS\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 67 (Ocean)
+ROM Version - 00
+
+Header Checksum - bd
+Global Checksum - a4 88

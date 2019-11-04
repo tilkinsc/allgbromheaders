@@ -1,0 +1,52 @@
+rst00h - 0c 0d c8 04 c9 ff ff ff 
+rst08h - e9 ff ff ff ff ff ff ff 
+rst10h - c3 a1 1e ff ff ff ff ff 
+rst18h - c3 a8 04 ff ff ff ff ff 
+rst20h - ff ff ff ff ff ff ff ff 
+rst28h - ff ff ff ff ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 63 02 ff ff ff ff ff 
+int48h - c3 a6 01 ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - 00 00 00 00 00 00 00 00 
+int68h - 00 00 00 00 00 00 00 00 
+int70h - f3 af cd e8 00 3e 80 e0 
+int78h - 40 cd cf 00 cd cc 02 21 
+int80h - 00 c0 01 8c 1e cd f0 00 
+int88h - cd 62 02 21 8a ff 01 75 
+int90h - 00 cd f0 00 3e c0 e0 e2 
+int98h - 0e 80 06 08 21 a6 00 2a 
+intA0h - e2 0c 05 20 fa c9 e0 46 
+intA8h - 3e 28 3d 20 fd c9 21 b9 
+intB0h - 00 2a 4f 2a e2 0c 20 f9 
+intB8h - c9 01 00 02 00 42 00 43 
+intC0h - 00 47 ff 48 e4 49 e4 45 
+intC8h - c0 41 40 0f 00 ff 01 f0 
+intD0h - 40 07 d0 f0 ff f5 cb 87 
+intD8h - cd e8 00 f0 44 fe 91 38 
+intE0h - fa f0 40 e6 5f e0 40 f1 
+intE8h - 47 af e0 0f 78 e0 ff c9 
+intF0h - af c7 22 0d 20 fc 05 20 
+intF8h - f9 c9 ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - FIFA SOCCER 96\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 4S (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - a0
+Global Checksum - 93 09

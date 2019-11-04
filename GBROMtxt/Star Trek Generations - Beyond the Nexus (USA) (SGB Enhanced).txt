@@ -1,0 +1,52 @@
+rst00h - c3 61 00 00 00 00 00 00 
+rst08h - c3 61 00 00 00 00 00 00 
+rst10h - c3 61 00 00 00 00 00 00 
+rst18h - c3 61 00 00 00 00 00 00 
+rst20h - c3 61 00 00 00 00 00 00 
+rst28h - c3 61 00 00 00 00 00 00 
+rst30h - c3 61 00 00 00 00 00 00 
+rst38h - c3 61 00 00 00 00 00 00 
+
+int40h - c3 b0 01 ff ff ff ff ff 
+int48h - c3 01 02 00 00 00 00 00 
+int50h - c3 31 02 00 00 00 00 00 
+int58h - c3 1e 02 00 00 00 00 00 
+int60h - d9 c9 ff ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - ff ff ff ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - f3 c3 51 03 
+
+Title - GENERATIONS\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 50 (Absolute)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 09
+Global Checksum - 18 04

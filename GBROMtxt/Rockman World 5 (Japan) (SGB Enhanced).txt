@@ -1,0 +1,52 @@
+rst00h - f3 31 fe ff c3 50 01 00 
+rst08h - 7d ea 78 cf 7c c3 76 08 
+rst10h - ea 7a cf 7d c3 34 03 00 
+rst18h - fa 03 df fe 2b c9 00 00 
+rst20h - ea 00 df ea 00 21 c9 01 
+rst28h - e1 2a e5 c3 a0 04 00 00 
+rst30h - 00 00 00 00 00 00 00 00 
+rst38h - 00 00 00 00 00 00 00 00 
+
+int40h - c3 0e 05 00 00 00 00 00 
+int48h - c3 3d 07 01 1f ff 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - d9 00 00 00 00 00 00 00 
+int60h - d9 01 02 04 08 10 20 40 
+int68h - 80 00 00 00 00 00 00 11 
+int70h - ff 80 00 7e ff c9 c9 c9 
+int78h - c9 c9 c9 00 00 00 00 00 
+int80h - 00 00 00 00 00 00 00 00 
+int88h - 00 00 00 00 00 00 00 00 
+int90h - 00 00 00 00 00 00 00 00 
+int98h - 00 00 00 00 00 00 00 00 
+intA0h - 00 00 00 00 00 00 00 00 
+intA8h - 00 00 00 00 00 00 00 00 
+intB0h - 00 00 00 00 00 00 00 00 
+intB8h - 00 00 00 00 00 00 00 00 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - ff 00 ff 00 ff 00 ff 00 
+intD8h - ff 00 ff 00 ff 00 ff 00 
+intE0h - 00 ff 00 ff 00 ff 00 ff 
+intE8h - 00 ff 00 ff 00 ff 00 ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - ROCKMANWORLD5\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 08 (Capcom)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 7c
+Global Checksum - b0 29

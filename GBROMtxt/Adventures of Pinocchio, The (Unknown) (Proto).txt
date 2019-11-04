@@ -1,0 +1,52 @@
+rst00h - c3 a4 0b 00 00 00 00 00 
+rst08h - 2a 66 6f c9 00 00 00 00 
+rst10h - e9 00 00 00 00 00 00 00 
+rst18h - 85 6f 8c 95 67 c9 00 00 
+rst20h - 83 5f 8a 93 57 c9 00 00 
+rst28h - f5 2a 12 13 f1 0b c9 00 
+rst30h - e5 d5 e1 d1 c9 00 00 00 
+rst38h - 00 00 00 00 00 00 00 00 
+
+int40h - c3 0c 08 00 00 00 00 00 
+int48h - c3 2c db 00 00 00 00 00 
+int50h - c3 9d 07 00 00 00 00 00 
+int58h - c3 e4 0b 00 00 00 00 00 
+int60h - d9 00 00 40 00 80 00 c0 
+int68h - 00 00 01 40 01 80 01 c0 
+int70h - 01 00 02 40 02 80 02 00 
+int78h - 6b 60 6b c0 6b 20 6c 80 
+int80h - 6c e0 6c 40 6d a0 6d 00 
+int88h - 6e 60 6e c0 6e 20 6f 80 
+int90h - 6f e0 6f 40 70 a0 70 00 
+int98h - 71 60 71 c0 71 20 72 80 
+intA0h - 72 e0 72 40 73 a0 73 00 
+intA8h - 74 60 74 c0 74 20 75 80 
+intB0h - 75 e0 75 40 76 a0 76 00 
+intB8h - 00 00 00 00 00 00 00 00 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - INFREY QUEST\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 01 (64KByte (4 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 00 (None)
+ROM Version - 00
+
+Header Checksum - 66
+Global Checksum - 3f 68

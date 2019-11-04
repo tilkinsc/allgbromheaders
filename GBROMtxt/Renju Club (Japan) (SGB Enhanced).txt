@@ -1,0 +1,52 @@
+rst00h - 87 e1 5f 16 00 19 5e 23 
+rst08h - 56 6b 62 e9 31 2e 30 30 
+rst10h - 01 52 00 08 0d 00 01 03 
+rst18h - 04 05 06 07 08 09 0a 29 
+rst20h - 30 34 12 01 02 03 04 05 
+rst28h - 06 07 08 09 0a 0b 0c 0d 
+rst30h - 0e 0f 10 11 2a 13 00 01 
+rst38h - 03 04 05 06 07 08 09 0a 
+
+int40h - c3 e9 01 26 27 30 34 35 
+int48h - d9 13 01 02 03 04 05 06 
+int50h - c3 23 02 0a 0b 0c 0d 0e 
+int58h - c3 35 02 1f 20 15 00 01 
+int60h - d9 04 05 06 07 08 09 0a 
+int68h - 21 25 27 2c 2f 30 34 35 
+int70h - 36 23 29 16 01 02 03 04 
+int78h - 05 06 07 08 09 0a 0b 0c 
+int80h - 0d 0e 0f 10 11 23 21 22 
+int88h - 29 2a 16 00 01 03 04 05 
+int90h - 06 07 08 09 0a 21 23 25 
+int98h - 26 27 29 2c 30 31 34 36 
+intA0h - 35 16 01 02 03 04 05 06 
+intA8h - 07 08 09 0a 0b 0c 0d 0e 
+intB0h - 0f 10 11 24 21 22 29 2a 
+intB8h - 15 00 01 03 04 05 06 07 
+intC0h - 08 09 0a 23 25 2c 2f 30 
+intC8h - 34 36 21 27 35 29 16 01 
+intD0h - 02 03 04 05 06 07 08 09 
+intD8h - 0a 0b 0c 0d 0e 0f 10 11 
+intE0h - 25 21 22 29 2a 15 00 01 
+intE8h - 03 04 05 06 07 08 09 0a 
+intF0h - 21 25 27 29 30 31 34 35 
+intF8h - 36 38 23 16 01 02 03 04 
+
+Entry Point - 00 c3 50 01 
+
+Title - RENJYU CLUB\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 35 (Hector)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 00 (ROM ONLY)
+Rom Size - 00 (32KByte (no ROM banking))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 26
+Global Checksum - 23 3d

@@ -1,0 +1,52 @@
+rst00h - c3 34 08 43 d8 4d d8 00 
+rst08h - c3 fc 08 cd df 08 18 03 
+rst10h - c3 c5 08 cd df 08 18 03 
+rst18h - c3 5c 09 c3 cd 08 00 00 
+rst20h - c3 cc 0f 0f 07 03 03 00 
+rst28h - 85 6f 8c 95 67 c9 d4 77 
+rst30h - c3 21 02 39 40 31 3b 00 
+rst38h - c3 21 02 64 65 66 67 00 
+
+int40h - c3 23 02 02 01 20 10 00 
+int48h - 18 27 21 f5 ff cb 96 c9 
+int50h - c3 56 29 21 f5 ff 18 03 
+int58h - c3 7a 3b cb d6 c9 00 00 
+int60h - d9 00 00 00 00 00 00 00 
+int68h - 00 00 00 00 00 00 00 00 
+int70h - 00 f5 e5 f0 92 a7 28 05 
+int78h - 21 40 ff cb 8e e1 f1 d9 
+int80h - f0 96 cb 5f 28 1e cd a4 
+int88h - 00 28 11 fa b5 c1 a7 20 
+int90h - 10 f0 a4 e6 fb cd ef 00 
+int98h - af e0 96 c9 f6 04 cd ef 
+intA0h - 00 af 3d c9 f0 a4 cb 57 
+intA8h - c9 cd 01 07 cd 36 15 c8 
+intB0h - af e0 95 c9 47 cd 36 15 
+intB8h - 78 c8 cd 8a 14 fe 02 28 
+intC0h - 0a 78 f5 cd af 02 cd 5e 
+intC8h - 3d f1 c9 cd 03 3e a7 20 
+intD0h - 05 cd e7 01 18 f5 c3 be 
+intD8h - 02 21 e5 00 11 80 ff 01 
+intE0h - 0a 00 c3 1b 08 3e c0 e0 
+intE8h - 46 3e 28 3d 20 fd c9 e0 
+intF0h - a4 3e 0f c3 9d 28 37 15 
+intF8h - 1e 42 00 5c 46 55 7f 5d 
+
+Entry Point - 00 c3 50 01 
+
+Title - DUNGEONLAND\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - b4 (Enix)
+ROM Version - 00
+
+Header Checksum - fd
+Global Checksum - fb 9e

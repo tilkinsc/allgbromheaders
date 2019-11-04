@@ -1,0 +1,52 @@
+rst00h - c3 00 01 ff ff ff ff ff 
+rst08h - c3 e5 01 ff ff ff ff ff 
+rst10h - c3 5a 01 ff ff ff ff ff 
+rst18h - cd 5a 01 c3 73 01 ff ff 
+rst20h - c3 fb 13 ff ff ff ff ff 
+rst28h - ff ff ff ff ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - f5 c5 d5 e5 c3 a3 00 ff 
+int48h - f5 c5 c3 75 02 ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - f3 21 00 c0 01 00 20 af 
+int78h - 22 0b 78 b1 20 f9 21 92 
+int80h - ff 06 6d af 22 05 20 fc 
+int88h - 31 ff df cd 30 04 cd 66 
+int90h - 28 cd 11 02 af e0 90 e0 
+int98h - 91 f0 ff f6 03 e0 ff fb 
+intA0h - 76 18 fd cd ae 03 f0 90 
+intA8h - b7 20 11 3c e0 90 cd 8a 
+intB0h - 01 cd f8 26 fb cd c3 01 
+intB8h - f3 af e0 90 fb f3 f0 91 
+intC0h - b7 20 0b 3c e0 91 fb cd 
+intC8h - 84 29 f3 af e0 91 e1 d1 
+intD0h - c1 f1 d9 3e 80 e0 e7 3e 
+intD8h - 39 e0 e8 3e 00 e0 e9 ea 
+intE0h - d9 c7 ea d9 c7 3e e4 e0 
+intE8h - ae e0 af 3e ff e0 ed e0 
+intF0h - ee c3 bf 04 ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 70 00 
+
+Title - MIKENEKO HOLMES
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - d4 (Ask Kodansha)
+ROM Version - 00
+
+Header Checksum - d5
+Global Checksum - d5 01

@@ -1,0 +1,52 @@
+rst00h - 6f 26 00 29 c1 09 18 04 
+rst08h - 00 00 00 00 2a 66 6f e9 
+rst10h - 3e 0a ea 00 00 d9 00 00 
+rst18h - af ea 00 00 d9 00 00 00 
+rst20h - f5 f0 ee e0 ef f1 e0 ee 
+rst28h - ea 00 20 d9 00 00 00 00 
+rst30h - e1 6e 26 07 e9 00 00 00 
+rst38h - f0 ef e0 ee ea 00 20 d9 
+
+int40h - f3 c3 0f 09 00 00 00 00 
+int48h - f3 c3 fc c0 00 00 00 00 
+int50h - f3 d9 00 00 00 00 00 00 
+int58h - f3 c3 e2 00 00 00 00 00 
+int60h - f3 d9 4f 2e 04 78 e6 03 
+int68h - bc 28 09 79 e6 fc 4f 78 
+int70h - e6 03 b1 4f cb 08 cb 08 
+int78h - cb 09 cb 09 2d 20 f5 79 
+int80h - 4f b8 c8 2e 04 79 e6 03 
+int88h - 57 78 e6 03 ba 28 0b 78 
+int90h - 30 05 c6 01 47 18 03 d6 
+int98h - 01 47 cb 08 cb 08 cb 09 
+intA0h - cb 09 2d 20 e0 78 b9 c8 
+intA8h - cb cb c9 5f fe 01 d8 20 
+intB0h - 23 2c 2c c9 2c 56 70 2d 
+intB8h - 46 71 2d 7a 32 70 e5 01 
+intC0h - 80 00 09 2a 4f 2a 47 2a 
+intC8h - 57 7e 70 2d 71 2d 32 72 
+intD0h - e1 2d 2d 1c 2a 4f 2a 47 
+intD8h - 2a 91 3a 98 38 d6 1d 20 
+intE0h - f3 c9 f5 f0 01 e0 eb f0 
+intE8h - ea e0 01 f0 02 cb 47 20 
+intF0h - 04 3e 80 e0 02 e0 ec f1 
+intF8h - d9 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 8a 08 
+
+Title - SUPERROBOTWAR 2
+
+CGB Flag - 47 (Invalid)
+New Licensee Code - (ASCII) D9 (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 93
+Global Checksum - d1 26

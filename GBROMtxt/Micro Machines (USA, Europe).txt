@@ -1,0 +1,52 @@
+rst00h - ff ff ff ff ff fb ff fe 
+rst08h - ff f7 ff ff ff ff ff ff 
+rst10h - 7f 9f b7 ff f5 de 1d e7 
+rst18h - ef f3 7b f6 7e fe df ff 
+rst20h - fd ff fd ff fe fb ff bf 
+rst28h - bf ff ff ff ff fb fe fe 
+rst30h - f6 ed ff 7f f1 1c ab 6a 
+rst38h - de fe 73 bf fe ff 78 eb 
+
+int40h - d9 7b ff f7 ff fd fd ff 
+int48h - c3 db 38 ff ff ff ff f7 
+int50h - d9 df fd ff 7e ff 77 7e 
+int58h - c3 c5 38 ff f7 db de f7 
+int60h - d9 3e 0f ea 00 21 cd 6a 
+int68h - 46 3e 01 ea 00 21 c9 f5 
+int70h - 3e 0f ea 00 21 f1 cd 67 
+int78h - 46 3e 01 ea 00 21 c9 3e 
+int80h - 0f ea 00 21 cd c5 46 3e 
+int88h - 01 ea 00 21 c9 3e 0f ea 
+int90h - 00 21 cd 42 03 3e 01 ea 
+int98h - 00 21 c9 3e 0f ea 00 21 
+intA0h - cd d1 46 3e 01 ea 00 21 
+intA8h - c9 3e 0f ea 00 21 cd b0 
+intB0h - 45 3e 01 ea 00 21 c9 3e 
+intB8h - 0f ea 00 21 cd fa 47 3e 
+intC0h - 01 ea 00 21 c9 f5 3e 0f 
+intC8h - ea 00 21 f1 cd 05 47 3e 
+intD0h - 01 ea 00 21 c9 f5 3e 0f 
+intD8h - ea 00 21 f1 cd 70 46 3e 
+intE0h - 01 ea 00 21 c9 be f7 ff 
+intE8h - 7f 77 ff ff 33 2e 38 31 
+intF0h - 54 dd 10 00 f7 00 94 19 
+intF8h - 26 08 21 10 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - MICRO MACHINES\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 67 (Ocean)
+ROM Version - 00
+
+Header Checksum - 99
+Global Checksum - f9 c6

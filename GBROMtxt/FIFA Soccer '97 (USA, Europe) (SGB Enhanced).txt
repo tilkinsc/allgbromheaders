@@ -1,0 +1,52 @@
+rst00h - f3 ea 01 21 e0 9f fb c9 
+rst08h - f1 f1 f3 ea 01 21 e0 9f 
+rst10h - fb c9 f0 9f f5 3e 12 c7 
+rst18h - cd 3f 48 cf f0 9f f5 3e 
+rst20h - 1a c7 cd 00 6b cf 4f f0 
+rst28h - 9f f5 3e 1a c7 79 cd 47 
+rst30h - 3c 11 00 dc 01 1e 00 cd 
+rst38h - 12 05 cf ff ff ff ff ff 
+
+int40h - c3 1c 03 ff ff ff ff ff 
+int48h - c3 c8 02 ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 f0 9f f5 3e 03 c7 cd 
+int68h - 44 40 cf 47 f0 9f f5 3e 
+int70h - 12 c7 78 cd 87 46 c5 11 
+int78h - 00 dc 01 14 00 cd 12 05 
+int80h - c1 cf f0 9f f5 3e 09 c7 
+int88h - cd dd 43 c1 78 c7 c9 f0 
+int90h - 9f f5 3e 12 c7 cd 87 42 
+int98h - cf 47 f0 9f f5 3e 09 c7 
+intA0h - 78 cd e3 44 cf f0 9f f5 
+intA8h - 3e 09 c7 cd d2 45 cf f0 
+intB0h - 9f f5 3e 09 c7 cd 00 40 
+intB8h - c1 78 c7 c9 c5 47 f0 9f 
+intC0h - f5 78 c7 01 c8 00 c5 e9 
+intC8h - f1 c7 c1 c9 f0 9f f5 3e 
+intD0h - 01 c7 cd 4a 4b cf 6f f0 
+intD8h - 9f f5 3e 01 c7 7d cd 8f 
+intE0h - 4e cf f0 9f f5 3e 0a c7 
+intE8h - 2a ea 2f ce 01 a0 00 11 
+intF0h - 00 dc cd 12 05 cf f0 9f 
+intF8h - f5 3e 03 c7 cd d1 41 cf 
+
+Entry Point - 00 c3 50 01 
+
+Title - FIFA SOCCER 97\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 4S (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 9f
+Global Checksum - c3 e9

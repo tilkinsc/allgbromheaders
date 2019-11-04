@@ -1,0 +1,52 @@
+rst00h - 87 e1 5f 16 00 19 2a 66 
+rst08h - 6f e9 6e 26 00 29 19 7d 
+rst10h - f3 0a 19 0b 25 0b 31 0b 
+rst18h - 03 00 06 03 21 00 0d 00 
+rst20h - 8a 8a 94 8a 8a 92 8c 8c 
+rst28h - 94 8c 8c 92 8e 8e 8e 8e 
+rst30h - 92 90 90 94 90 90 92 9a 
+rst38h - 9a 94 9a 9a 92 ff ff ff 
+
+int40h - c3 f5 04 ff ff ff ff ff 
+int48h - d9 53 00 3c 0d 3c 0d ff 
+int50h - c3 5c 05 28 29 ff ff ff 
+int58h - d9 43 0d 45 0d 48 0d ff 
+int60h - d9 6b 00 70 00 73 00 76 
+int68h - 00 7c 00 12 13 14 15 ff 
+int70h - 16 17 ff 18 19 ff 1a 1b 
+int78h - 1c 1d 1e ff 1f 20 21 ff 
+int80h - 80 82 84 8a 8c 8e 90 92 
+int88h - 94 98 9a 9b 9c ff 00 00 
+int90h - 00 00 17 14 ff 97 0a 00 
+int98h - 00 88 ff ff ff ff ff af 
+intA0h - 0a 01 00 88 01 01 01 12 
+intA8h - ff 68 0b 03 00 88 02 02 
+intB0h - 0f 10 10 8a 0b 03 00 88 
+intB8h - 02 02 0f 10 ff af 0b 03 
+intC0h - 00 88 02 02 0f 10 0d 73 
+intC8h - 0c 03 00 88 02 02 0f 10 
+intD0h - 0e b4 0b 03 00 88 02 02 
+intD8h - 0f 10 0f 5b 0c 02 00 88 
+intE0h - 0e 00 04 14 ff 96 0a 03 
+intE8h - 00 88 07 02 08 10 ff 96 
+intF0h - 0a 03 00 88 02 02 0f 10 
+intF8h - 11 d1 0a ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - CAPTAIN AMERICA
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 5a (Mindscape)
+ROM Version - 00
+
+Header Checksum - 77
+Global Checksum - 02 e8

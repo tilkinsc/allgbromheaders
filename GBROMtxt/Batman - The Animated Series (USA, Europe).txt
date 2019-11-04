@@ -1,0 +1,52 @@
+rst00h - c3 f1 07 ff ff ff ff ff 
+rst08h - 2a 66 6f c9 ff ff ff ff 
+rst10h - 2f 3c c8 85 6f d8 25 c9 
+rst18h - 2f 3c c8 83 5f d8 15 c9 
+rst20h - 2f 3c c8 81 4f d8 05 c9 
+rst28h - 85 6f d0 24 c9 ff ff ff 
+rst30h - 83 5f d0 14 c9 ff ff ff 
+rst38h - 81 4f d0 04 c9 ff ff ff 
+
+int40h - 18 26 ff ff ff ff ff ff 
+int48h - 18 2a ff ff ff ff ff ff 
+int50h - 18 33 ff ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff 01 00 
+int68h - f5 c5 d5 e5 cd a1 00 e1 
+int70h - d1 c1 f1 d9 f5 e5 f0 81 
+int78h - 21 5e 07 87 85 6f 30 01 
+int80h - 24 2a 66 6f e9 fb e5 d5 
+int88h - c5 f5 21 22 db 7e e6 03 
+int90h - 20 0a cb c6 cd 18 0b 21 
+int98h - 22 db cb 86 f1 c1 d1 e1 
+intA0h - c9 cd ed ff 21 06 db 34 
+intA8h - f0 80 1f 1f 21 97 ff 30 
+intB0h - 02 2e a2 3a e0 4b 3a e0 
+intB8h - 4a 3a e0 49 3a e0 48 3a 
+intC0h - e0 47 3a e0 43 3a e0 42 
+intC8h - 3a e0 81 3a e0 40 3a 6e 
+intD0h - 67 e9 0e ed 06 12 21 e0 
+intD8h - 00 2a e2 0c 05 20 fa c9 
+intE0h - f0 80 1f 1f 3e dd 30 02 
+intE8h - 3e de e0 46 3e 28 3d 20 
+intF0h - fd c9 ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - BATMAN ANIMATED
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - a4 (Konami)
+ROM Version - 00
+
+Header Checksum - 29
+Global Checksum - c3 f6

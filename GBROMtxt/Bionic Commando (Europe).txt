@@ -1,0 +1,52 @@
+rst00h - 31 fe ff f3 c3 50 01 01 
+rst08h - 7d ea dd c0 7c c3 81 3e 
+rst10h - c9 00 00 00 00 00 00 01 
+rst18h - fa a5 df fe 2b c9 00 00 
+rst20h - 3e 01 ea d3 c0 ea 00 21 
+rst28h - c9 00 00 00 00 00 00 00 
+rst30h - c3 6e 0b 00 00 00 00 00 
+rst38h - c9 00 00 00 00 00 00 00 
+
+int40h - f5 e5 d5 c5 c3 69 07 00 
+int48h - c3 9f 09 00 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - d9 00 00 00 00 00 00 00 
+int60h - d9 48 49 49 4a 4b 00 00 
+int68h - 4c 4b 00 00 4c 4d 4e 4e 
+int70h - 4f 04 05 06 07 08 09 0a 
+int78h - 0b 0c 0d 0e 0f 10 11 12 
+int80h - 13 14 15 16 17 57 58 5a 
+int88h - 5b 18 19 1a 1b 1c 1d 1e 
+int90h - 1f 20 21 22 23 24 25 26 
+int98h - 27 28 29 2a 2b 34 35 36 
+intA0h - 37 2c 2d 2e 2f 30 31 32 
+intA8h - 33 38 39 3a 3b 3c 3d 3e 
+intB0h - 3f 40 41 42 43 44 45 46 
+intB8h - 47 53 54 55 56 00 00 00 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - ff 00 ff 00 ff 00 ff 00 
+intD8h - ff 00 ff 00 ff 00 ff 00 
+intE0h - 00 ff 00 ff 00 ff 00 ff 
+intE8h - 00 ff 00 ff 00 ff 00 ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - BIONIC-COMMANDO
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 08 (Capcom)
+ROM Version - 00
+
+Header Checksum - ab
+Global Checksum - 4c 82

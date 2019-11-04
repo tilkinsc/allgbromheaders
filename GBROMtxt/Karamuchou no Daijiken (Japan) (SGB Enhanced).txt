@@ -1,0 +1,52 @@
+rst00h - c3 50 01 6b 30 30 2e 44 
+rst08h - 4d 47 20 20 20 20 20 20 
+rst10h - 20 20 20 20 20 20 20 20 
+rst18h - 20 20 20 20 20 20 20 20 
+rst20h - 20 20 20 20 20 20 20 20 
+rst28h - 20 20 20 20 20 20 20 20 
+rst30h - 20 20 20 39 37 2d 31 30 
+rst38h - 2d 33 30 20 31 33 3a 32 
+
+int40h - c3 84 02 33 2e 2e 2e 2e 
+int48h - c3 b5 02 41 47 45 20 30 
+int50h - c3 e8 02 0d 0a 0d 0a 4c 
+int58h - d9 4e 45 23 20 20 4c 4f 
+int60h - d9 20 20 20 43 4f 44 45 
+int68h - 20 20 20 20 20 20 20 4c 
+int70h - 49 4e 45 0d 0a 0d 0a 0d 
+int78h - 0a 20 20 20 20 39 20 20 
+int80h - 30 30 30 30 20 20 20 20 
+int88h - 20 20 20 20 20 20 20 20 
+int90h - 20 20 20 20 20 20 20 20 
+int98h - 20 20 20 20 20 20 20 20 
+intA0h - 20 4c 49 42 20 20 20 20 
+intA8h - 20 45 51 55 5f 54 42 4c 
+intB0h - 0d 0a 20 31 32 34 30 20 
+intB8h - 20 30 30 30 30 20 20 20 
+intC0h - 20 20 20 20 20 20 20 20 
+intC8h - 20 20 20 20 20 20 20 20 
+intD0h - 20 20 45 4e 44 0d 0a 20 
+intD8h - 31 32 34 32 20 20 30 30 
+intE0h - 30 30 20 20 20 20 20 20 
+intE8h - 20 20 20 20 20 20 f5 3e 
+intF0h - 0f ea 00 20 f1 01 fa 00 
+intF8h - c5 e9 3e 0f ea 00 20 c9 
+
+Entry Point - 00 c3 50 01 
+
+Title - KARAMUCHO ZIKEN
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 0H (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - f9
+Global Checksum - 52 1e

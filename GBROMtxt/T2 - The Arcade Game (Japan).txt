@@ -1,0 +1,52 @@
+rst00h - f3 cd df 05 af e0 0f e0 
+rst08h - ff e0 40 e0 47 e0 48 e0 
+rst10h - 49 e0 43 e0 42 ea 62 de 
+rst18h - ea 20 de ea 41 de cd 08 
+rst20h - 08 3e 01 ea 1f de ea 00 
+rst28h - 20 ea c0 d9 3e 01 cd 05 
+rst30h - 05 cd 76 70 cd 61 70 cd 
+rst38h - 7f 70 cd 3b 05 c3 50 01 
+
+int40h - f5 c5 d5 e5 c3 17 08 ff 
+int48h - f5 c5 d5 e5 c3 dc 0b ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - d9 ff ff ff ff ff ff ff 
+int70h - 31 ff c0 cd f5 1d af 18 
+int78h - 06 f3 31 ff c0 3e 01 ea 
+int80h - a0 da c3 00 00 06 07 08 
+int88h - 09 0a 0b 0c 0d 0e 0f 48 
+int90h - 98 54 4f 50 20 35 00 65 
+int98h - 98 54 45 52 4d 49 4e 41 
+intA0h - 54 4f 52 53 00 00 00 00 
+intA8h - 00 00 00 00 00 00 00 00 
+intB0h - 00 00 00 00 00 00 00 00 
+intB8h - 00 00 00 00 00 00 00 00 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 70 00 
+
+Title - TERMINATOR 2 TA
+
+CGB Flag - 47 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - b0 (Acclaim)
+ROM Version - 00
+
+Header Checksum - e1
+Global Checksum - 95 8a

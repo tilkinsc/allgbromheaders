@@ -1,0 +1,52 @@
+rst00h - 87 e1 ef cf e9 c7 8e 7a 
+rst08h - 2a 66 6f c9 8a fe be bb 
+rst10h - 7d 93 6f 7c 9a 67 c9 ff 
+rst18h - 2a 12 13 0b 78 b1 20 f8 
+rst20h - c9 9f 8a fe a2 1b 08 df 
+rst28h - 85 6f d0 24 c9 ff ab 7d 
+rst30h - 83 5f d0 14 c9 7d 2a 5f 
+rst38h - c9 2f 3c 85 6f d8 25 c9 
+
+int40h - c3 a2 02 ff 8a ba aa 7a 
+int48h - c3 bd 03 d9 2a 7e 88 d7 
+int50h - d9 ff ca f6 aa fb 82 8f 
+int58h - d9 ee 8a f7 a8 bf 8a 94 
+int60h - d9 e7 e8 bd 88 6e 28 bf 
+int68h - a2 9d 82 7b a2 9b c2 d5 
+int70h - 82 75 aa de 88 bd ea 6b 
+int78h - 00 e6 aa d2 28 b4 22 d9 
+int80h - 28 fe aa bf a2 73 bb f5 
+int88h - 2a ff ae ff e2 7b ba de 
+int90h - 48 dd 28 fe 2a ff aa eb 
+int98h - 8a ef aa ff 2a 0a 32 65 
+intA0h - a2 51 a8 ec 2b 76 9a df 
+intA8h - aa c7 8a f1 aa eb 12 7a 
+intB0h - e2 78 22 ba 2a bb 1a 3d 
+intB8h - 4a 97 2a ce aa 6e aa cd 
+intC0h - ba f5 ea 5f a8 b9 aa bd 
+intC8h - a0 53 a8 db 2a 39 a2 bf 
+intD0h - ea 5b 2a fe 1a fb aa fe 
+intD8h - aa e7 a8 f4 02 fb ea d7 
+intE0h - 8a dc 80 cf a0 76 a8 76 
+intE8h - 22 bd 82 f1 82 a6 82 b9 
+intF0h - 20 de a0 c5 20 57 6a f3 
+intF8h - 82 7a 8e 4b 28 a0 82 17 
+
+Entry Point - 00 c3 50 01 
+
+Title - CHIKI RACE GB\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 06 (MBC2+BATTERY)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - eb (Atlus)
+ROM Version - 00
+
+Header Checksum - a8
+Global Checksum - dc fa

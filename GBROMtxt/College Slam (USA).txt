@@ -1,0 +1,52 @@
+rst00h - e1 87 df 2a 66 6f e9 ff 
+rst08h - 87 df 2a 66 6f c9 ff ff 
+rst10h - ff ff ff ff ff ff ff ff 
+rst18h - 85 6f d0 24 c9 ff ff ff 
+rst20h - 2f 3c 85 6f d8 25 c9 ff 
+rst28h - 83 5f d0 14 c9 ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - dd ff ff ff ff ff ff ff 
+
+int40h - c3 ad 0b ff ff ff ff ff 
+int48h - c3 36 0c ff ff ff ff ff 
+int50h - c3 7a 0c ff ff ff ff ff 
+int58h - c3 ba 0c ff ff ff ff ff 
+int60h - d9 f3 af e0 0f e0 ff 3e 
+int68h - 01 b7 28 0b e5 21 ff 7f 
+int70h - ea 50 21 be 20 fa e1 21 
+int78h - 00 c0 01 fb 1f cd 3e 0b 
+int80h - 21 80 ff 01 7f 00 fa 65 
+int88h - d5 f5 cd 3e 0b f1 ea 65 
+int90h - d5 0e 80 06 0a 21 a9 00 
+int98h - 2a e2 0c 05 20 fa 21 b3 
+intA0h - 00 2a 4f 2a e2 0c 20 f9 
+intA8h - c9 3e c0 e0 46 3e 28 3d 
+intB0h - 20 fd c9 40 91 01 00 02 
+intB8h - 00 42 00 43 00 45 6f 41 
+intC0h - 40 0f 00 ff 01 f0 40 07 
+intC8h - d0 f0 ff f5 cb 87 cd de 
+intD0h - 00 f0 44 fe 91 38 fa f0 
+intD8h - 40 e6 5f e0 40 f1 47 af 
+intE0h - e0 0f 78 e0 ff c9 2a 12 
+intE8h - 13 0b 78 b1 20 f8 c9 2a 
+intF0h - 12 13 05 20 fa c9 ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - COLLEGE SLAM\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 51 (Acclaim)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 00
+Global Checksum - 36 8a

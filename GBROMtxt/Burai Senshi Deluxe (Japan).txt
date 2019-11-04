@@ -1,0 +1,52 @@
+rst00h - c3 f8 01 00 00 00 00 00 
+rst08h - 0e 00 90 d0 0c 2f 3c c9 
+rst10h - d5 5f 16 00 cb 23 cb 12 
+rst18h - 19 5e 23 56 62 6b d1 c9 
+rst20h - 7c 12 13 7d 12 13 c9 00 
+rst28h - 0b 78 b1 20 fb c9 00 00 
+rst30h - 00 00 00 00 00 00 00 00 
+rst38h - 00 00 00 00 00 00 00 00 
+
+int40h - 18 2e 00 00 00 00 00 00 
+int48h - 18 68 00 00 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - 18 58 00 00 00 00 00 00 
+int60h - d9 00 00 00 00 00 00 00 
+int68h - 00 00 00 00 00 00 00 00 
+int70h - f5 c5 d5 e5 f3 fa c5 c0 
+int78h - b7 20 31 3e 01 ea c5 c0 
+int80h - cd 80 ff fa aa d0 e0 43 
+int88h - fa a9 d0 e0 42 cd f9 45 
+int90h - cd 1e 46 3e 03 ea 80 21 
+int98h - cd fa 15 3e 01 ea 80 21 
+intA0h - cd 43 13 3e 01 ea c4 c0 
+intA8h - af ea c5 c0 fb e1 d1 c1 
+intB0h - f1 d9 d9 00 00 00 00 00 
+intB8h - 00 00 00 00 00 00 00 00 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - BURAI FIGHTER D
+
+CGB Flag - 58 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 01 (64KByte (4 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - c0 (Taito)
+ROM Version - 00
+
+Header Checksum - cd
+Global Checksum - 09 70

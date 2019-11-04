@@ -1,0 +1,52 @@
+rst00h - c3 00 01 ff ff ff ff ff 
+rst08h - ff ff ff ff ff ff ff ff 
+rst10h - ff ff ff ff ff ff ff ff 
+rst18h - ff ff ff ff ff ff ff ff 
+rst20h - ff ff ff ff ff ff ff ff 
+rst28h - ff ff ff ff ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 8f 05 ff ff ff ff ff 
+int48h - c3 b9 0d ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - 11 00 90 01 00 08 f5 cd 
+int60h - 78 00 f1 16 88 06 08 18 
+int68h - 0f 11 b0 93 01 50 04 f5 
+int70h - cd 78 00 f1 16 88 06 08 
+int78h - e0 8c ea ff 3f f0 41 e6 
+int80h - 02 20 fa 2a 12 13 0b 79 
+int88h - b0 20 f2 c9 2a 12 13 05 
+int90h - 20 fa c9 7e b7 28 09 cd 
+int98h - bd 00 cb 7e c0 23 18 f3 
+intA0h - 23 2a 4f 2a e5 87 87 87 
+intA8h - 6f 26 00 29 29 7c c6 98 
+intB0h - ea 01 ca 7d 81 ea 00 ca 
+intB8h - e1 18 d8 c6 30 e6 7f d6 
+intC0h - 20 4f fa 00 ca 5f fa 01 
+intC8h - ca 57 f0 41 e6 02 20 fa 
+intD0h - 79 12 1c 7b ea 00 ca c9 
+intD8h - e0 8c ea ff 3f c5 e5 f0 
+intE0h - 41 e6 02 20 fa 1a 13 22 
+intE8h - 05 20 f4 e1 c1 0d c8 7d 
+intF0h - c6 20 6f 30 e8 24 18 e5 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - STAR WARS-NOA\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 01 (Nintendo)
+ROM Version - 01
+
+Header Checksum - 3f
+Global Checksum - 35 a0

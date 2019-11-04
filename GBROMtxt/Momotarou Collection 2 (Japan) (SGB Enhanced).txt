@@ -1,0 +1,52 @@
+rst00h - a0 29 00 00 f5 bf 00 00 
+rst08h - c3 80 f0 00 e9 17 00 00 
+rst10h - 22 bf 00 00 fc fa 00 00 
+rst18h - df 6f 00 00 73 3b 00 00 
+rst20h - ff ff ff ff ff ff ff ff 
+rst28h - ff ff ff ff ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 f6 0d 00 00 00 00 00 
+int48h - c3 3c 0e 00 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - d9 00 00 00 00 00 00 00 
+int60h - d9 00 00 00 00 00 00 00 
+int68h - 00 00 00 00 00 00 00 00 
+int70h - 00 00 00 00 00 00 00 00 
+int78h - 00 00 00 00 00 00 00 00 
+int80h - 00 00 00 00 00 00 00 00 
+int88h - 00 00 00 00 00 00 00 00 
+int90h - 00 00 00 00 00 00 00 00 
+int98h - 00 00 00 00 00 00 00 00 
+intA0h - 00 00 00 00 00 00 00 00 
+intA8h - 00 00 00 00 00 00 00 00 
+intB0h - 00 00 00 00 00 00 00 00 
+intB8h - 00 00 00 00 00 00 00 00 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - MOMOTARODENGEKI
+
+CGB Flag - 32 (Invalid)
+New Licensee Code - (ASCII) 18 (Hudsonsoft)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - ac
+Global Checksum - b2 b6

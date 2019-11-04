@@ -1,0 +1,52 @@
+rst00h - f3 c3 aa 03 04 e2 9b 10 
+rst08h - c3 b3 01 45 09 08 00 1d 
+rst10h - 18 fe 3c a0 92 2f d1 10 
+rst18h - 18 fe 2e 34 48 98 08 01 
+rst20h - 18 fe e2 75 c0 00 d7 24 
+rst28h - 18 fe 52 04 00 70 20 00 
+rst30h - 18 fe 12 02 50 02 32 02 
+rst38h - 18 fe f0 18 14 40 e8 00 
+
+int40h - c3 96 04 45 50 00 e2 0c 
+int48h - 18 fe 32 b0 9e b2 1d 90 
+int50h - c3 36 03 13 d0 20 00 b8 
+int58h - c3 e6 0d 80 ba 10 13 14 
+int60h - 18 fe d4 23 aa 02 a1 6a 
+int68h - 5b 08 88 24 cf 94 19 80 
+int70h - 8d 06 46 bc 52 26 58 1a 
+int78h - 21 38 43 04 17 29 ee 24 
+int80h - ff fb ff ff ff ff ff fd 
+int88h - ff ff ff ff fe bf ad ff 
+int90h - ff ff ff ff ff df fd ff 
+int98h - ff ff ff bf ff ff ff ff 
+intA0h - ff ff ff ff fb ff ff ff 
+intA8h - fb f3 ff ff ff f7 df ff 
+intB0h - ff ff ff ff ff ff fd ff 
+intB8h - ff ff ff ef ff ef 7f ff 
+intC0h - ff fd fd ff ff ff 7f ef 
+intC8h - ff ff ff fb ff ff fe ff 
+intD0h - ef ff ff ff f7 ff f7 ff 
+intD8h - ff fb ff df ff ff ff ff 
+intE0h - ff ff 7f fb ff ff 75 ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff bf ff ff ff ff ff ff 
+intF8h - ff f7 ff ff ff f7 ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - KOKIATSUBOY\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) A4 (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - de
+Global Checksum - fe 79

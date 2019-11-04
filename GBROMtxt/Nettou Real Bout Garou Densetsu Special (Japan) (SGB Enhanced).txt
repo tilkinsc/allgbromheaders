@@ -1,0 +1,52 @@
+rst00h - 78 ea 00 20 e0 e0 e9 00 
+rst08h - c3 61 00 00 00 00 00 00 
+rst10h - c3 88 00 00 00 00 00 00 
+rst18h - c3 a2 00 00 00 00 00 00 
+rst20h - f0 ff e6 f7 e0 ff c9 ff 
+rst28h - f0 ff f6 08 e0 ff c9 ff 
+rst30h - c3 75 00 ff ff ff ff ff 
+rst38h - c3 ad 00 ff ff ff ff ff 
+
+int40h - c3 3a 05 00 00 04 00 00 
+int48h - c3 8f 04 00 00 00 10 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - c3 f8 17 d9 00 00 00 00 
+int60h - d9 f0 e0 f5 78 ea 00 20 
+int68h - e0 e0 cd 74 00 f1 ea 00 
+int70h - 20 e0 e0 c9 e9 f0 e0 f5 
+int78h - 78 ea 00 20 e0 e0 cd db 
+int80h - 0f f1 ea 00 20 e0 e0 c9 
+int88h - f0 ff e6 fe e0 ff f0 40 
+int90h - cb 7f ca a1 00 f0 44 fe 
+int98h - 91 20 fa f0 40 e6 7f e0 
+intA0h - 40 c9 f6 80 e0 40 f0 ff 
+intA8h - f6 09 e0 ff c9 d5 16 00 
+intB0h - 5f 19 5e 23 56 d5 e1 d1 
+intB8h - e9 e3 e4 e5 e6 e7 e8 e9 
+intC0h - ea e2 00 01 02 03 04 05 
+intC8h - 06 00 01 02 03 04 05 06 
+intD0h - e3 eb ec ed ee ef f0 f1 
+intD8h - e2 06 05 04 03 02 01 00 
+intE0h - 06 05 04 03 02 01 00 f2 
+intE8h - f3 f4 f5 f6 f7 f8 f9 fa 
+intF0h - fb d6 d7 ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - REALBOUTSPECIAL
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) A7 (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - d5
+Global Checksum - f0 0d

@@ -1,0 +1,52 @@
+rst00h - 07 07 07 05 05 06 06 06 
+rst08h - 07 07 07 07 07 07 07 07 
+rst10h - 05 07 07 07 07 06 06 06 
+rst18h - 06 06 06 06 06 06 05 05 
+rst20h - 06 05 06 06 06 06 06 06 
+rst28h - 05 05 05 05 05 05 05 05 
+rst30h - 05 05 05 05 05 05 05 05 
+rst38h - 05 05 05 05 04 05 00 54 
+
+int40h - c3 99 2b 53 50 45 45 44 
+int48h - 00 53 4c 4f 57 00 4e 00 
+int50h - c3 8a 2a 01 02 03 04 05 
+int58h - 06 07 08 09 0a 0b 0c 0d 
+int60h - 0e 0f 10 11 12 13 14 15 
+int68h - 16 17 18 19 1a 1b 1c 1d 
+int70h - 1e 1f 20 20 20 20 21 22 
+int78h - 23 20 24 23 25 23 26 27 
+int80h - 20 20 20 f8 03 c0 03 81 
+int88h - 01 81 01 81 01 01 01 03 
+int90h - c3 3e ff e0 02 c1 0b c1 
+int98h - 15 c1 0b c1 15 c1 0b 81 
+intA0h - 55 1e ff e1 03 f5 07 f3 
+intA8h - 07 f5 07 f3 07 f5 07 f3 
+intB0h - 0f 03 3f 7f 07 ab 03 d7 
+intB8h - 03 ab 03 d7 03 ab 03 53 
+intC0h - 87 2f ff 50 4c 41 59 45 
+intC8h - 52 20 31 00 50 4c 41 59 
+intD0h - 45 52 20 32 00 4f 4e 45 
+intD8h - 20 50 4c 41 59 45 52 20 
+intE0h - 00 54 57 4f 20 50 4c 41 
+intE8h - 59 45 52 00 4d 55 53 49 
+intF0h - 43 20 4f 4e 20 00 4d 55 
+intF8h - 53 49 43 20 4f 46 46 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - DLAIR THE LEGEN
+
+CGB Flag - 44 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - bd (Sony Imagesoft)
+ROM Version - 00
+
+Header Checksum - ea
+Global Checksum - 49 85

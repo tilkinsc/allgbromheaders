@@ -1,0 +1,52 @@
+rst00h - a0 be b7 bd ab fb fe ee 
+rst08h - f6 ff ff ff ff ff ff ff 
+rst10h - c2 bc 73 fe 3b df bf ff 
+rst18h - 65 bf 7f 17 5f ff f7 3d 
+rst20h - ff fd fe fb 5e 9e fb f7 
+rst28h - dd ff ff ff ef ef bd ff 
+rst30h - f5 ff ff ff ff bd ff df 
+rst38h - f5 77 4f 19 77 7f 7d ed 
+
+int40h - c3 ec 01 6c 6f fe 3f cd 
+int48h - c3 65 c8 ff ff ff fe ff 
+int50h - c3 6e 04 d9 df cf ff fb 
+int58h - c3 7f 04 f7 f5 df 7f 1d 
+int60h - d9 7e fa ef 3e da ef bf 
+int68h - 77 ef fd f7 cd fe ff ff 
+int70h - 6f ef 7f 7f fe fc 9f bf 
+int78h - bd d9 7b db f9 ff f7 fd 
+int80h - fb fe fb bf d0 ff ca f3 
+int88h - ff ff ff df df ff ff ff 
+int90h - fd ff ff ac f6 ff af ff 
+int98h - 5f fd 57 75 f7 df bf ff 
+intA0h - e6 ee 7b a8 ee b5 ff d7 
+intA8h - ff ff ff 7f ef ff ef ff 
+intB0h - ff ff ef ff 3b db 1f f7 
+intB8h - ff 51 57 7f d5 7d 7e 9f 
+intC0h - fb fd bb ff 6f ec fb ab 
+intC8h - ff fe df ff ff ff eb ff 
+intD0h - 5f 7f fb 7f ef ee 7f bd 
+intD8h - 7d e7 6d 5c de 5f 77 ff 
+intE0h - ff df b3 fa 8e ff 9d bf 
+intE8h - e7 ff ff ff 56 eb fb fb 
+intF0h - fd ff ff ff b7 de ff fb 
+intF8h - ed f6 ff fd f7 6f ff df 
+
+Entry Point - 00 c3 50 01 
+
+Title - F-1HERO GB92\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 95 (Varie)
+ROM Version - 00
+
+Header Checksum - 68
+Global Checksum - 8c c1

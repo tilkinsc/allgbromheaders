@@ -1,0 +1,52 @@
+rst00h - e1 e7 e9 ff ff ff ff ff 
+rst08h - c3 b9 01 ff ff ff ff ff 
+rst10h - 85 6f d0 24 c9 ff ff ff 
+rst18h - d7 7e a7 c9 ff ff ff ff 
+rst20h - 87 d7 2a 66 6f c9 ff ff 
+rst28h - c3 cf 01 ff ff ff ff ff 
+rst30h - c3 df 01 ff ff ff ff ff 
+rst38h - c9 ff ff ff ff ff ff ff 
+
+int40h - c3 01 13 ff ff ff ff ff 
+int48h - c3 ae 13 ff ff ff ff ff 
+int50h - c3 b6 13 ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - ff ff ff ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - UNDER COVER COP
+
+CGB Flag - 53 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 49 (Irem)
+ROM Version - 00
+
+Header Checksum - 28
+Global Checksum - db 45

@@ -1,0 +1,52 @@
+rst00h - e1 cd 7d 03 e9 bc 7d ba 
+rst08h - e1 cd 7d 03 e9 ff ef ff 
+rst10h - c3 3d 03 b1 3e 7b 6b b1 
+rst18h - c3 90 04 ff ff ff ef ff 
+rst20h - c3 e6 05 b5 ae fe e1 cb 
+rst28h - ff ff ff ff ff ff ff fa 
+rst30h - 78 5e a7 fc db e3 ee dc 
+rst38h - c3 80 f0 ff ff ff ff fe 
+
+int40h - 18 26 07 7f f9 fe e6 f6 
+int48h - 18 46 09 ff fd 7d fe ff 
+int50h - fb 18 63 d2 5f 95 96 f8 
+int58h - d9 ff 7f ff ff ff fe ef 
+int60h - d9 a8 d9 6e db 67 3f f7 
+int68h - f5 fa f0 df fe 03 28 18 
+int70h - fe 01 28 0c fe 02 28 0c 
+int78h - fe 04 28 10 f1 c3 4f 05 
+int80h - f1 c3 03 3a f1 c3 03 3c 
+int88h - f1 c3 03 3d f1 c3 03 3f 
+int90h - f5 fa f0 df fe 03 28 16 
+int98h - fe 01 28 0c fe 02 28 0c 
+intA0h - fe 04 28 0e f1 c3 e5 05 
+intA8h - f1 c3 06 3a f1 d9 f1 c3 
+intB0h - 06 3d f1 c3 06 3f f5 fa 
+intB8h - f0 df fe 03 28 0a fe 02 
+intC0h - 28 02 f1 d9 f1 c3 09 3c 
+intC8h - f1 c3 09 3d ff ff ff ff 
+intD0h - 25 8f bf 5a b9 13 b5 fb 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - db 0c 1b 92 9c 5f 91 cf 
+intE8h - ff ff ff ff ff fb ff ff 
+intF0h - f7 fb de 7b 03 d9 f6 fe 
+intF8h - ff ff f7 df ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - GBCOLLECTION 2\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) A4 (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 70
+Global Checksum - a2 6b

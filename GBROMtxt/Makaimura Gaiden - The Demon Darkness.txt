@@ -1,0 +1,52 @@
+rst00h - c3 50 01 c3 77 0b c3 71 
+rst08h - 00 c3 93 0b c3 27 3f c3 
+rst10h - 69 00 c3 eb 0b c3 71 37 
+rst18h - c3 80 0b c3 09 0c c3 a0 
+rst20h - 0b c3 0b 0d c3 e7 19 c3 
+rst28h - 7b 17 c3 6d 07 4f f0 c7 
+rst30h - f5 79 cd 52 37 f1 c3 28 
+rst38h - 0c 00 00 00 00 00 00 00 
+
+int40h - f3 f5 c5 d5 e5 c3 35 30 
+int48h - f3 f5 c5 e5 c3 da 30 00 
+int50h - f3 f5 c5 d5 e5 c3 54 31 
+int58h - d9 00 00 00 00 00 00 00 
+int60h - d9 00 00 00 00 00 00 00 
+int68h - 00 3e 01 e0 c5 06 03 18 
+int70h - 0e af e0 c5 e0 47 e0 48 
+int78h - e0 49 cd 56 0b af 47 0e 
+int80h - fc 21 94 ff cd ef 00 21 
+int88h - 90 ff af 22 22 32 2d 0e 
+int90h - 94 3e 03 f5 1e 04 f2 53 
+int98h - 07 07 15 20 fb e6 03 b8 
+intA0h - 38 01 78 53 0f 0f 15 20 
+intA8h - fb b6 77 1d 20 e8 2c 0c 
+intB0h - f1 3d 20 df 2e 90 2a e0 
+intB8h - 47 e0 fc 2a e0 48 e0 fd 
+intC0h - 7e e0 49 e0 fe 0e 04 cd 
+intC8h - e8 00 f0 c5 b7 20 0e 04 
+intD0h - 78 fe 04 20 b2 0e 94 21 
+intD8h - fc ff c3 ef 00 05 78 fe 
+intE0h - ff 20 a4 cd 35 0b 18 ed 
+intE8h - cd a0 0b 0d 20 fa c9 1e 
+intF0h - 03 f2 0c 22 1d 20 fa c9 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - MAKAIMURAGAIDEN
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 08 (Capcom)
+ROM Version - 00
+
+Header Checksum - 9b
+Global Checksum - 0a 2a

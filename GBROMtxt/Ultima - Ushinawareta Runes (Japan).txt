@@ -1,0 +1,52 @@
+rst00h - c3 d9 1a 23 2c 88 fb 30 
+rst08h - f5 42 f8 9b bb 78 7f 42 
+rst10h - fb 79 df 8d ed 4f ef e2 
+rst18h - fb 91 d1 9b fe 8e 5f e2 
+rst20h - f7 5f fa 15 fe b9 ad 56 
+rst28h - ef 25 ed fc fb b9 7d 79 
+rst30h - ef 44 9f d7 9f 8b fc a7 
+rst38h - f5 3e 80 ea 00 60 f1 c9 
+
+int40h - c3 c2 1a 43 bf 9a 7b d6 
+int48h - c3 96 1a fe ff c5 ef 2e 
+int50h - d9 f8 bf 69 85 0e df 6f 
+int58h - c3 50 c5 f2 9f 50 bf 79 
+int60h - d9 5e 01 ad fb ae ff 15 
+int68h - fe e2 f9 ec f7 23 dd 00 
+int70h - eb c0 66 5b ff ed fa a8 
+int78h - be b4 ff 34 59 3d ff 24 
+int80h - ff f7 df fd 5f ee bf 9f 
+int88h - b9 0c 7d c1 db 4b 7f d9 
+int90h - db fc ff ea 77 0a eb af 
+int98h - bd 0d ef 07 ee 87 fe 76 
+intA0h - bf 88 7c 3b fc 15 ff d8 
+intA8h - ff ab ff ea 7f c5 ba 16 
+intB0h - d7 4e 7e 89 fc 6d bf e7 
+intB8h - ff 72 99 a7 fd b3 9f 69 
+intC0h - ff a3 fd 9d 77 0f 57 63 
+intC8h - cd d6 6e a0 ed f0 df 13 
+intD0h - af 4e ef 1b f7 e9 c7 ad 
+intD8h - df dc bd 9f fb a0 6f e0 
+intE0h - ff 8f ff 4f df 1d 7f ee 
+intE8h - fb 8f ef 34 dd 3e e9 ab 
+intF0h - ef 18 ff 79 ee 40 ff be 
+intF8h - ef 40 df a8 ff 8d ff 3f 
+
+Entry Point - 00 c3 50 01 
+
+Title - RUNES OF VIRTUE
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 06 (MBC2+BATTERY)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - ce (*Pony Canyon)
+ROM Version - 00
+
+Header Checksum - d0
+Global Checksum - cf fe

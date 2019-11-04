@@ -1,0 +1,52 @@
+rst00h - c3 a3 00 e2 03 18 7d ba 
+rst08h - d9 ff ff ff ff ff ff ff 
+rst10h - d9 35 83 b1 3a 7b 62 b1 
+rst18h - d9 ff ff ff ff ff ff ff 
+rst20h - d9 c4 3f b5 2e d6 62 48 
+rst28h - d9 ff ff ff ff ff ff ff 
+rst30h - c3 30 20 c3 56 08 c3 af 
+rst38h - 36 c3 4d 3c c3 83 3c ff 
+
+int40h - c3 72 0f 7e b9 be e7 f3 
+int48h - c3 09 10 ff ff ff ff ff 
+int50h - d9 38 fc 42 5c 15 96 e8 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 a8 d9 6c 9b e7 1f f6 
+int68h - f0 a8 fe f0 20 01 c7 c9 
+int70h - c3 f9 07 c3 c4 1e c3 6d 
+int78h - 20 c3 43 36 c3 67 33 c3 
+int80h - e3 0f c3 4f 13 c3 37 37 
+int88h - c3 ee 32 c3 2c 21 c3 ae 
+int90h - 21 c3 6f 13 c3 4f 0e c3 
+int98h - 35 1c c3 29 0d c3 f7 0b 
+intA0h - c3 0d 0e f3 31 ff df cd 
+intA8h - ad 00 c3 68 01 3e 80 e0 
+intB0h - 40 cd e1 06 cd 5a 0e 21 
+intB8h - 00 80 01 00 20 cd 00 09 
+intC0h - af e0 47 e0 48 e0 49 cd 
+intC8h - d7 00 cd 62 08 3e 01 cd 
+intD0h - 9b 06 cd da 06 fb c9 0e 
+intD8h - 80 06 0a 21 e5 00 2a e2 
+intE0h - 0c 05 20 fa c9 3e c0 e0 
+intE8h - 46 3e 28 3d 20 fd c9 ff 
+intF0h - f7 6b de fb 13 d1 f7 ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - POWER RANGERS\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) B2 (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 79
+Global Checksum - 87 a8

@@ -1,0 +1,52 @@
+rst00h - e1 e7 e9 04 80 01 80 04 
+rst08h - 21 af ff 86 23 66 6f c9 
+rst10h - 85 6f d0 24 c9 04 80 04 
+rst18h - d7 7e a7 c9 80 04 80 01 
+rst20h - 87 30 01 24 d7 c3 d2 02 
+rst28h - f0 94 b7 c9 80 04 80 01 
+rst30h - c3 0b 02 01 80 04 80 39 
+rst38h - c3 80 f0 39 00 39 00 39 
+
+int40h - c3 8e 08 39 00 39 00 39 
+int48h - c3 6c 09 39 00 39 00 39 
+int50h - c3 6d 09 39 00 39 00 39 
+int58h - c3 76 3e 39 00 39 00 39 
+int60h - c3 6e 09 39 00 39 00 39 
+int68h - 00 39 00 39 00 39 00 39 
+int70h - 00 39 00 39 00 39 00 39 
+int78h - 00 39 00 39 00 39 00 39 
+int80h - 00 39 00 39 00 39 00 39 
+int88h - 00 39 00 39 00 39 00 39 
+int90h - 00 39 00 39 00 39 00 39 
+int98h - 00 39 00 39 00 39 00 39 
+intA0h - 00 39 00 39 00 39 00 39 
+intA8h - 00 39 00 39 00 39 00 39 
+intB0h - 00 39 00 39 00 39 00 39 
+intB8h - 00 39 00 39 00 39 00 39 
+intC0h - 00 39 00 39 00 39 00 39 
+intC8h - 00 39 00 39 00 39 00 39 
+intD0h - 00 39 00 39 00 39 00 39 
+intD8h - 00 39 00 39 00 39 00 39 
+intE0h - 00 39 00 39 00 39 00 00 
+intE8h - 00 39 00 39 00 39 e0 39 
+intF0h - 00 39 00 39 00 39 00 39 
+intF8h - 00 39 00 39 00 39 00 39 
+
+Entry Point - 00 c3 50 01 
+
+Title - DMG GARIBA-BOUI
+
+CGB Flag - 31 (Invalid)
+New Licensee Code - (ASCII) B2 (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 0e
+Global Checksum - 7b c7

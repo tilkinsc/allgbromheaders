@@ -1,0 +1,52 @@
+rst00h - 87 e1 5f 16 00 19 5e 23 
+rst08h - 56 6b 62 e9 ff ff ff ff 
+rst10h - ff ff ff ff ff ff ff ff 
+rst18h - ff ff ff ff ff ff ff ff 
+rst20h - ff ff ff ff ff ff ff ff 
+rst28h - ff ff ff ff ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 db 06 ff ff ff ff ff 
+int48h - c3 75 07 ff ff ff ff ff 
+int50h - c3 2d 0b ff ff ff ff ff 
+int58h - c3 ee 07 ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - ff ff ff ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - DINO           
+
+CGB Flag - 20 (Invalid)
+New Licensee Code - (ASCII) AH (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 06 (MBC2+BATTERY)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 01
+
+Header Checksum - 74
+Global Checksum - f2 d2

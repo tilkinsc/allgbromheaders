@@ -1,0 +1,52 @@
+rst00h - 00 f3 c3 00 01 7d bd 97 
+rst08h - 21 2d d0 7e 76 be 28 fc 
+rst10h - c9 df ff b7 ff 75 fd bf 
+rst18h - c3 80 f0 ff df fd 9f dd 
+rst20h - d9 bf fe 93 ff fd ff ff 
+rst28h - d9 eb f9 ff fb bd ff 7f 
+rst30h - 87 e1 5f 16 00 19 5e 23 
+rst38h - 56 d5 e1 e9 d3 ff ff f7 
+
+int40h - c3 f2 02 fb df f7 7f bf 
+int48h - c3 17 04 bf 3f b7 fa 7f 
+int50h - c3 ab 05 b9 99 ff 9f f7 
+int58h - c3 3e 04 bc 9f 55 df fd 
+int60h - c3 17 04 bf bf ff 7f 9f 
+int68h - 7d 76 7f df fb 7b 7f 7f 
+int70h - fd 7b df ff fb f5 3b 55 
+int78h - fd 5f 3f 77 b3 fc 1b ff 
+int80h - d9 73 ff fd ff fb 7d d9 
+int88h - fd ff ff ff f7 f7 df ff 
+int90h - d7 ff ff fd df db f7 73 
+int98h - ff ff 7f fb bf ff ff ff 
+intA0h - df d3 bf ff fe ff ff df 
+intA8h - 7d ff ff bb ff ff fd 79 
+intB0h - fd fd f9 bf ff 7d f7 ff 
+intB8h - fe 9f ff ff dd 7d df bf 
+intC0h - fd ff df 77 5f bd 3d ff 
+intC8h - df ff fb 7f 6f ef ff ff 
+intD0h - 1f ff f7 ff ff 5f fb ff 
+intD8h - fd f7 ff bf f7 f7 bf ff 
+intE0h - fd ff fd fe fd 7b fb f7 
+intE8h - b1 f7 b9 df ff fb fb f7 
+intF0h - 75 ff fd fd fb ff ff f6 
+intF8h - fb fd fd fd 3f fb df bf 
+
+Entry Point - 00 c3 50 01 
+
+Title - UNO2SMALL WORLD
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) DA (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - e4
+Global Checksum - c2 9f

@@ -1,0 +1,52 @@
+rst00h - c3 a4 44 70 71 72 02 00 
+rst08h - c3 71 49 5f 00 7f 7f 00 
+rst10h - c3 7d 49 ff ff ff ff ff 
+rst18h - c3 b6 0a 50 41 55 53 c5 
+rst20h - c3 0b 11 85 ff ff ff ff 
+rst28h - c3 02 28 53 54 41 47 c5 
+rst30h - c3 d4 0a 47 41 4d c5 ff 
+rst38h - c3 50 01 4f 56 45 d2 ff 
+
+int40h - c3 f7 06 ff ff ff ff ff 
+int48h - c3 e8 07 ff ff ff ff ff 
+int50h - c3 15 46 ff ff ff ff ff 
+int58h - c3 12 08 ff ff ff ff ff 
+int60h - d9 3e c0 e0 46 3e 28 3d 
+int68h - 20 fd c9 ff 20 32 2d 50 
+int70h - 4c 41 59 45 52 53 00 50 
+int78h - 55 53 48 20 53 54 41 52 
+int80h - 54 20 4b 45 59 00 5d 31 
+int88h - 39 39 30 20 54 4f 45 49 
+int90h - 20 41 4e 49 4d 41 54 49 
+int98h - 4f 4e 00 45 4c 5a 41 06 
+intA0h - 50 4c 41 4e 45 54 84 52 
+intA8h - 49 4f 07 51 55 41 53 41 
+intB0h - 52 84 4d 49 4c 49 4f 05 
+intB8h - 41 53 54 45 52 4f 49 44 
+intC0h - 82 54 52 41 4e 06 50 4c 
+intC8h - 41 4e 45 54 84 4d 49 53 
+intD0h - 54 59 05 42 41 53 45 86 
+intD8h - 54 57 49 4e 06 50 4c 41 
+intE0h - 4e 45 54 84 44 59 4e 45 
+intE8h - 06 53 54 41 52 20 44 55 
+intF0h - 53 54 81 50 41 52 49 41 
+intF8h - 05 50 4c 41 4e 45 54 84 
+
+Entry Point - 00 c3 50 01 
+
+Title - VOLLEY FIRE\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 00 (ROM ONLY)
+Rom Size - 00 (32KByte (no ROM banking))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - ac (Toei Animation)
+ROM Version - 00
+
+Header Checksum - 1a
+Global Checksum - eb 63

@@ -1,0 +1,52 @@
+rst00h - 01 ff 7f 10 42 08 21 00 
+rst08h - 00 00 00 00 00 00 00 00 
+rst10h - 09 ea 4f 00 7c 00 5c 00 
+rst18h - 28 3f 05 39 3a dd 4e 00 
+rst20h - 11 ff 7f da 5a 94 31 bf 
+rst28h - 14 e0 01 bf 02 00 00 00 
+rst30h - 19 38 6b 50 56 88 3d a0 
+rst38h - 28 48 00 39 3a dd 4e 00 
+
+int40h - c3 ca 0b ff ff ff ff ff 
+int48h - c3 51 0a f0 8a fe ff c8 
+int50h - fa b8 c6 ea 00 20 cd 41 
+int58h - 06 cd 52 08 fa 99 00 ea 
+int60h - 00 20 c9 73 00 77 00 7b 
+int68h - 00 7f 00 00 00 87 00 8b 
+int70h - 00 8f 00 1e 04 3f 6f 1e 
+int78h - 04 bd 4e 1e 04 4e 59 1e 
+int80h - 04 e3 65 00 00 00 00 1e 
+int88h - 06 79 74 1e 03 c0 74 1e 
+int90h - 06 05 6a ff ff ff ff ff 
+int98h - ff ff ff 21 02 03 09 01 
+intA0h - 01 05 05 02 06 07 07 0e 
+intA8h - 0e 00 00 29 02 af 42 00 
+intB0h - 00 00 00 00 00 00 00 00 
+intB8h - 00 00 00 31 27 06 00 00 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 7a 
+intD0h - 3d 8a 3d 00 00 9a 3d aa 
+intD8h - 3d 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 ba 3d ca 3d 00 
+intF8h - 00 00 00 da 3d ea 3d 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - LITTLE INDIAN\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 60 (Titus)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - a6
+Global Checksum - 9f a7

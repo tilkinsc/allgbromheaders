@@ -1,0 +1,52 @@
+rst00h - ff ff ff 02 ff ff ff ff 
+rst08h - fc fb 77 ff ff fb ff ff 
+rst10h - ff ff fd 5f ff ff ff ff 
+rst18h - d7 df fd bf ff f9 fd 7f 
+rst20h - ff ef fa f7 ff ff ff ff 
+rst28h - f5 fa 04 c0 f5 3e 10 ea 
+rst30h - 04 e0 c3 49 04 ff ff ff 
+rst38h - 08 05 c0 31 50 c0 18 e8 
+
+int40h - fb c3 1d 2d 00 00 00 00 
+int48h - fb c3 b2 2c 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - d9 00 00 00 00 00 00 00 
+int60h - d9 f0 00 e6 0f fe 03 28 
+int68h - 02 f1 d9 e5 f8 04 34 20 
+int70h - 02 23 34 e1 f1 18 c1 ff 
+int78h - df ff ff ff 7f df f7 ff 
+int80h - ff bf ff bf ff ff ff ff 
+int88h - ff ff f7 ff ff ff f7 ff 
+int90h - ff ff bf ff ff ff ff ff 
+int98h - fc fd f7 f1 ff bd ff f7 
+intA0h - ff ff ff fa ff ff df df 
+intA8h - ef de ff ff ff cf ff ff 
+intB0h - ff ff ff ff df ff ff ff 
+intB8h - ff ef df 7f ff ff ff ff 
+intC0h - ff bf ff ff fe be bf ff 
+intC8h - ff fd fe ff ff bd f7 7f 
+intD0h - ff ff ef ff ff ff ff cf 
+intD8h - ff 9f fe f7 df ff f7 ff 
+intE0h - ff ff ff ff ff df ff ff 
+intE8h - ff ff ff bb ff ff fe fb 
+intF0h - ff ff ff ff ef ff dd e3 
+intF8h - ff fd ff ff ff fe df df 
+
+Entry Point - 00 c3 95 01 
+
+Title - BUSTER BROTHERS
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 18 (Hudsonsoft)
+ROM Version - 00
+
+Header Checksum - 6d
+Global Checksum - 8b b9

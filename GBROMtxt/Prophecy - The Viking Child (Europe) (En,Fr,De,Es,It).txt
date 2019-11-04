@@ -1,0 +1,52 @@
+rst00h - c3 4c 3c 83 5f d0 14 c9 
+rst08h - 85 6f d0 24 c9 00 00 00 
+rst10h - cd a7 3c 21 48 75 11 00 
+rst18h - 98 cd d0 37 c3 a4 01 00 
+rst20h - fa 41 ff e6 03 20 f9 fa 
+rst28h - 40 ff ee 08 ea 40 ff c9 
+rst30h - fa 00 c7 e6 0f fe 0f c0 
+rst38h - f3 c3 50 01 00 00 00 00 
+
+int40h - c3 48 02 00 00 00 00 00 
+int48h - d9 00 00 00 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - d9 00 00 00 00 00 00 00 
+int60h - d9 00 00 00 00 00 00 00 
+int68h - 00 00 00 00 00 00 00 00 
+int70h - 00 00 00 00 00 00 00 00 
+int78h - 00 00 00 00 00 00 00 00 
+int80h - 00 00 00 00 00 00 00 00 
+int88h - 00 00 00 00 00 00 00 00 
+int90h - 00 00 00 00 00 00 00 00 
+int98h - 00 00 00 00 00 00 00 00 
+intA0h - 00 00 00 00 00 00 00 00 
+intA8h - 00 00 00 00 00 00 00 00 
+intB0h - 00 00 00 00 00 00 00 00 
+intB8h - 00 00 00 00 00 00 00 00 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - VIKING CHILD 1\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 54 (Gametek)
+ROM Version - 00
+
+Header Checksum - f1
+Global Checksum - ed c7

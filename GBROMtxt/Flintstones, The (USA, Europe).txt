@@ -1,0 +1,52 @@
+rst00h - c3 50 01 6f fa 04 c3 67 
+rst08h - c9 0e 19 fa 6d c1 a7 c8 
+rst10h - c9 03 c3 6f fa 04 c3 67 
+rst18h - c9 2d 19 fa 6d c1 a7 c8 
+rst20h - c9 de ff ff ff ff ff ff 
+rst28h - c9 ff ff ff ff ff ff ff 
+rst30h - c9 ff ff ff ff ff ff ff 
+rst38h - c9 ff ff ff ff ff ff ff 
+
+int40h - c3 6f 03 ff ff ff ff ff 
+int48h - c3 ca c5 ff ff ff ff ff 
+int50h - c3 42 04 ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - ff ff ff ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - 00 ea 36 c1 00 ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - THE FLINTSTONES
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 67 (Ocean)
+ROM Version - 00
+
+Header Checksum - 21
+Global Checksum - ad 5b

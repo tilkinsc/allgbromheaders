@@ -1,0 +1,52 @@
+rst00h - c3 11 02 0e 7a 45 8b 01 
+rst08h - 2a 66 6f c9 00 26 da 42 
+rst10h - 2f 3c 85 6f d8 25 c9 00 
+rst18h - 7c b8 c0 7d b9 c9 00 9c 
+rst20h - 7c ba c0 7d bb c9 08 1a 
+rst28h - 85 6f d0 24 c9 4c 0a 00 
+rst30h - 83 5f d0 14 c9 04 1a 50 
+rst38h - c3 9c 04 5a 50 25 00 02 
+
+int40h - c3 34 02 00 86 01 00 0e 
+int48h - c3 52 02 01 00 00 00 0e 
+int50h - c3 5a 02 4b 13 00 0c ba 
+int58h - d9 21 00 26 da 42 9c 21 
+int60h - d9 00 00 0f 00 18 5a 46 
+int68h - 10 00 08 ba 4d 23 00 04 
+int70h - 5a 50 00 00 86 01 00 0e 
+int78h - 7a 45 8b 01 00 00 00 21 
+int80h - 00 26 da 42 a2 21 00 00 
+int88h - 00 9c 21 00 00 00 05 00 
+int90h - 08 1a 49 23 00 04 5a 50 
+int98h - 28 00 04 1a 50 00 00 86 
+intA0h - 01 00 0e 7a 45 8b 01 00 
+intA8h - 00 00 0e 00 10 5a 4b 13 
+intB0h - 00 0c ba 4c 1b 00 04 7a 
+intB8h - 4d 21 00 26 da 42 9c 21 
+intC0h - 00 00 00 0f 00 18 5a 46 
+intC8h - 23 00 04 5a 50 28 00 04 
+intD0h - 1a 50 00 00 86 1f 00 02 
+intD8h - 1a 57 30 00 66 ba 50 00 
+intE0h - 00 86 01 00 0e 7a 45 8b 
+intE8h - 01 00 00 00 05 00 08 1a 
+intF0h - 49 21 00 26 da 42 14 00 
+intF8h - 04 3a 45 a2 21 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - TMNT FOOT CLAN\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - ca (Ultra)
+ROM Version - 00
+
+Header Checksum - 40
+Global Checksum - 40 da

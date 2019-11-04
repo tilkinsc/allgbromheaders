@@ -1,0 +1,52 @@
+rst00h - c3 50 01 8c ae 2e 6c f7 
+rst08h - c0 40 62 00 d5 b8 f1 01 
+rst10h - ab 5f 49 e0 35 51 29 a2 
+rst18h - bf 10 c7 a1 57 83 41 01 
+rst20h - aa c1 99 e6 74 44 6b 1c 
+rst28h - c1 07 d2 71 82 28 3b 03 
+rst30h - e9 04 48 05 48 02 b7 a4 
+rst38h - f5 3e 80 ea 00 60 f1 c9 
+
+int40h - c3 07 16 f9 df d9 5d 17 
+int48h - c3 18 16 9c c8 c9 e3 25 
+int50h - c3 c6 09 82 a1 04 62 03 
+int58h - c3 13 c2 d1 7b 13 a9 0f 
+int60h - d9 2a e1 b2 77 12 cf 31 
+int68h - 93 49 57 65 cb 42 f2 33 
+int70h - 89 85 47 00 82 01 59 e0 
+int78h - b7 87 df fd bb eb fd 3f 
+int80h - ed 9b 5d fc ff e1 f6 7b 
+int88h - 9a e0 9a 83 67 07 97 01 
+int90h - 86 30 a5 8e ed 1c dc f0 
+int98h - c4 9d 5e c4 93 07 f4 6b 
+intA0h - ac 98 99 14 f3 81 be c5 
+intA8h - 87 40 4c a1 d9 29 5f 13 
+intB0h - f1 59 c3 c0 99 a3 82 08 
+intB8h - df 86 a7 f7 7f 1f fd bf 
+intC0h - fc e7 73 8a f7 69 e5 17 
+intC8h - 98 06 5c 67 62 20 46 15 
+intD0h - d0 78 79 5d 81 01 96 00 
+intD8h - ce b2 cf 37 7d f3 ff 53 
+intE0h - f3 22 eb 0c 63 3b 97 46 
+intE8h - cd 84 e9 c6 9f 85 55 4a 
+intF0h - 80 b0 e7 15 1c c3 44 49 
+intF8h - be b8 ff bd e7 bd fd f7 
+
+Entry Point - 00 c3 50 01 
+
+Title - BOGGLE PLUS\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 73 (Sculptered Soft)
+ROM Version - 00
+
+Header Checksum - 5c
+Global Checksum - 46 9f

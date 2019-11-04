@@ -1,0 +1,52 @@
+rst00h - f5 f0 b0 e0 b1 f1 18 02 
+rst08h - f0 b1 e0 b0 ea 00 21 c9 
+rst10h - cd 50 02 3d 20 fa c9 ff 
+rst18h - f5 fa ee c0 87 d7 f1 c9 
+rst20h - f0 b0 f5 cd 60 24 18 dd 
+rst28h - 3e 1e d7 c9 ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 17 0f c3 60 24 ff ff 
+int48h - c3 7b 0f ff ff ff ff ff 
+int50h - c3 64 0f ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - ff ff ff ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 87 0e 
+
+Title - GB LACROANHERO 
+
+CGB Flag - 31 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 06 (MBC2+BATTERY)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - b2 (Bandai)
+ROM Version - 00
+
+Header Checksum - 05
+Global Checksum - 1b 3c

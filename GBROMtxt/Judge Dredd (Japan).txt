@@ -1,0 +1,52 @@
+rst00h - ff ff ff ff 00 00 00 00 
+rst08h - 00 00 00 00 ff ff ff ff 
+rst10h - ff ff ff ff 00 00 00 00 
+rst18h - 00 00 00 00 ff ff ff ff 
+rst20h - ff ff ff ff 00 00 00 00 
+rst28h - 00 00 00 00 ff ff ff ff 
+rst30h - ff ff ff ff 00 00 00 00 
+rst38h - 00 00 00 00 ff ff ff ff 
+
+int40h - c3 d7 06 ff 00 00 00 00 
+int48h - 3e 01 e0 ff d9 ff ff ff 
+int50h - d9 ff ff ff 00 00 00 00 
+int58h - d9 00 00 00 ff ff ff ff 
+int60h - d9 ff ff ff 00 00 00 00 
+int68h - 00 00 00 00 ff ff ff ff 
+int70h - ff ff ff ff 00 00 00 00 
+int78h - 00 00 00 00 ff ff ff ff 
+int80h - ff ff ff ff 00 00 00 00 
+int88h - 00 00 00 00 ff ff ff ff 
+int90h - ff ff ff ff 00 00 00 00 
+int98h - 00 00 00 00 ff ff ff ff 
+intA0h - ff ff ff ff 00 00 00 00 
+intA8h - 00 00 00 00 ff ff ff ff 
+intB0h - ff ff ff ff 00 00 00 00 
+intB8h - 00 00 00 00 ff ff ff ff 
+intC0h - ff ff ff ff 00 00 00 00 
+intC8h - 00 00 00 00 ff ff ff ff 
+intD0h - ff ff ff ff 00 00 00 00 
+intD8h - 00 00 00 00 ff ff ff ff 
+intE0h - ff ff ff ff 00 00 00 00 
+intE8h - 00 00 00 00 ff ff ff ff 
+intF0h - ff ff ff ff 00 00 00 00 
+intF8h - 00 00 00 00 ff ff ff ff 
+
+Entry Point - 00 c3 00 02 
+
+Title - JUDGE DREDD\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) B0 (Invalid)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 4c
+Global Checksum - 92 bc

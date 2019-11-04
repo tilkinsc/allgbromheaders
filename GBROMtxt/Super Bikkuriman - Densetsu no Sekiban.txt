@@ -1,0 +1,52 @@
+rst00h - c3 1f 0e 00 00 00 00 00 
+rst08h - d9 00 00 00 00 00 00 00 
+rst10h - d9 00 00 00 00 00 00 00 
+rst18h - d9 00 00 00 00 00 00 00 
+rst20h - d9 ff ff ff ff ff ff ff 
+rst28h - d9 ff ff ff ff ef ff ff 
+rst30h - d9 ff ff ff ff ff ff ff 
+rst38h - d9 ff ff ff ff ff ff ff 
+
+int40h - c3 9d 0e 00 00 00 00 00 
+int48h - d9 00 00 00 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - d9 40 00 00 00 00 00 00 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - d9 ff ff ff ff ff ef ff 
+int70h - d9 bf ff ff ff ff ff ff 
+int78h - d9 ff bf 7f ff ff ff ff 
+int80h - 00 00 00 00 00 00 00 00 
+int88h - 00 00 00 00 00 00 00 00 
+int90h - 00 00 00 00 00 00 00 00 
+int98h - 00 00 00 00 00 00 00 04 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - bf ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff fe ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff f7 ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - SUPER BIKKURIMA
+
+CGB Flag - 4e (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - e2 (Uutaka)
+ROM Version - 00
+
+Header Checksum - 65
+Global Checksum - ce 94

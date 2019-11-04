@@ -1,0 +1,52 @@
+rst00h - c3 50 01 93 36 92 c2 00 
+rst08h - ff ff ff ff ff 7e ff d3 
+rst10h - ff e7 ff f8 ff ff ff ce 
+rst18h - ff f0 ff f2 ff e7 ff 90 
+rst20h - ff 6b ff ff ff ff ff 7c 
+rst28h - ff 3c ff 77 ff 7e ff f0 
+rst30h - ff 9b ff ed ff d7 ff ef 
+rst38h - f5 3e 80 ea 00 60 f1 c9 
+
+int40h - c3 cb 02 d7 ff fa f7 d7 
+int48h - d9 70 ff d6 ff 4f ff 9f 
+int50h - c3 bc 03 bf ff fb ff 2d 
+int58h - d9 5f ff f7 ff fe ff 7b 
+int60h - d9 9f ff fd ff 1a ff df 
+int68h - ff b9 fb de ff ff ff fb 
+int70h - ff fe ff ff ff f6 ff 7f 
+int78h - ff 2b ff 76 ff ff ff df 
+int80h - ff c9 ff 5f ff df ff 4f 
+int88h - ff bf ff 7f ff ff ff f6 
+int90h - df ff ff fb ff f7 ff df 
+int98h - ff bf ff 4f ff b2 ff 37 
+intA0h - ff bf ff 5b ff 7e ff 95 
+intA8h - ff 99 ff 93 ff ff ff bf 
+intB0h - ff e7 ff eb ff df ff d9 
+intB8h - ff bf ff f7 ff df ff bd 
+intC0h - ff 6e f7 b4 ff be ff f7 
+intC8h - ff 78 ff 5f ff da ff ff 
+intD0h - ff df ff fe ff ef ff bd 
+intD8h - ff a6 ff ff ff ff ff c6 
+intE0h - ff d4 ff ff fe db ff ef 
+intE8h - ff f8 ff 69 ff ff bf bf 
+intF0h - ff 7b ff ef ff ff ff b5 
+intF8h - b6 f3 f7 22 95 06 72 42 
+
+Entry Point - 00 c3 50 01 
+
+Title - TOTAL CARNAGE\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 4d (Malibu)
+ROM Version - 00
+
+Header Checksum - 01
+Global Checksum - dd 93

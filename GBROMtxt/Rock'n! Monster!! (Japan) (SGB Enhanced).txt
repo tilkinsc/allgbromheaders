@@ -1,0 +1,52 @@
+rst00h - c3 b5 2d 00 00 00 00 00 
+rst08h - f3 18 fd 00 00 00 00 00 
+rst10h - f3 18 fd 00 00 00 00 00 
+rst18h - f3 18 fd 00 00 00 40 00 
+rst20h - f3 18 fd ff ff ff ff ff 
+rst28h - f3 18 fd ff ff ff ff ff 
+rst30h - f3 18 fd ff ff ff ff ff 
+rst38h - c3 80 f0 ff ff ff ff ff 
+
+int40h - f3 f5 c5 d5 e5 c3 6a 2a 
+int48h - f3 f5 c5 d5 e5 c3 a2 2a 
+int50h - c3 a9 2a 00 00 00 00 00 
+int58h - f3 18 fd 00 00 00 00 00 
+int60h - f3 18 fd ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - 00 00 00 00 00 00 00 00 
+int88h - 00 00 00 00 00 00 00 00 
+int90h - 00 00 00 00 00 00 00 00 
+int98h - 00 00 00 00 00 00 00 00 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - ROCK'N! MONSTER
+
+CGB Flag - 21 (Invalid)
+New Licensee Code - (ASCII) A1 (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 0c
+Global Checksum - 9f 4f

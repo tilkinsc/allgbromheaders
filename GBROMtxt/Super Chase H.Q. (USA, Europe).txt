@@ -1,0 +1,52 @@
+rst00h - c3 7e 14 00 00 00 00 00 
+rst08h - fb 42 42 65 b1 a5 1b b0 
+rst10h - 56 00 00 00 00 00 00 00 
+rst18h - fb 40 10 51 52 90 05 11 
+rst20h - 00 00 00 00 00 00 00 00 
+rst28h - 6d 46 46 b0 a9 0d 46 80 
+rst30h - 00 00 00 00 00 00 00 00 
+rst38h - c3 38 00 02 c4 15 00 60 
+
+int40h - c3 23 02 00 00 00 00 00 
+int48h - c3 a8 02 01 06 47 0b 08 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - c3 d6 02 50 80 04 10 24 
+int60h - d9 00 00 00 00 00 00 00 
+int68h - e5 80 a4 20 81 25 28 46 
+int70h - 00 00 00 00 00 00 00 00 
+int78h - 45 00 31 00 00 41 48 01 
+int80h - 00 00 00 00 00 00 00 00 
+int88h - 48 01 51 88 05 9b 45 e2 
+int90h - 00 00 00 00 00 00 00 00 
+int98h - 40 05 80 41 00 04 03 00 
+intA0h - 00 00 00 00 00 00 00 00 
+intA8h - a0 d3 43 34 09 00 23 03 
+intB0h - 00 00 00 00 00 00 00 00 
+intB8h - 25 00 14 0c 00 40 04 10 
+intC0h - 00 00 00 00 00 02 00 00 
+intC8h - 98 00 b6 30 21 94 42 21 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 44 21 54 52 40 a8 54 45 
+intE0h - 00 00 40 00 00 00 00 00 
+intE8h - 86 87 ae 08 00 a8 85 20 
+intF0h - 10 00 00 00 00 00 00 00 
+intF8h - 10 02 44 11 00 44 49 45 
+
+Entry Point - 00 c3 50 01 
+
+Title - SUPER CHASE H.Q
+
+CGB Flag - 2e (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - c0 (Taito)
+ROM Version - 00
+
+Header Checksum - fb
+Global Checksum - 36 1a

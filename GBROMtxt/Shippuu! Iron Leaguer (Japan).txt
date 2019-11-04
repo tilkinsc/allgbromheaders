@@ -1,0 +1,52 @@
+rst00h - c3 57 3b 00 00 00 00 00 
+rst08h - f1 c3 0d 40 00 00 00 00 
+rst10h - cb 57 c8 c3 84 24 00 00 
+rst18h - c3 ae 30 00 00 00 00 00 
+rst20h - c3 da 31 00 00 00 00 00 
+rst28h - 2a 4f 2a 47 c9 00 00 00 
+rst30h - 21 34 d4 09 09 09 c9 00 
+rst38h - c3 e3 0d 00 00 00 00 00 
+
+int40h - c3 b3 11 00 00 00 00 00 
+int48h - c3 d1 d4 00 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - d9 00 00 00 00 00 00 00 
+int60h - d9 21 00 fe 01 a0 00 36 
+int68h - 00 7d c6 01 6f 7c ce 00 
+int70h - 67 0b 79 b0 20 f1 c9 21 
+int78h - 00 cc 01 a0 00 18 13 21 
+int80h - 00 80 01 00 18 18 0b 21 
+int88h - 00 98 18 03 21 00 9c 01 
+int90h - 00 04 af 22 0b 78 b1 20 
+int98h - f9 c9 af 21 bd d3 0e 69 
+intA0h - 22 0d 20 fc c9 cd 7f 00 
+intA8h - cd 87 00 cd 77 00 cd 61 
+intB0h - 00 c3 8c 00 af 21 76 d0 
+intB8h - 4f 22 0d 20 fc 3e 08 e0 
+intC0h - 9c 3e 00 e0 9a 3e 98 e0 
+intC8h - 9b cd 63 31 76 d0 9a ff 
+intD0h - 08 01 ff f0 9a c6 80 e0 
+intD8h - 9a f0 9b ce 00 e0 9b f0 
+intE0h - 9c 3d e0 9c 20 e3 c9 21 
+intE8h - be d3 af 22 22 22 22 22 
+intF0h - c9 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - GB IRON LEAGUER
+
+CGB Flag - 31 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - b2 (Bandai)
+ROM Version - 00
+
+Header Checksum - fb
+Global Checksum - 76 40

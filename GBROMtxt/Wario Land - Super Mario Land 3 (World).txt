@@ -1,0 +1,52 @@
+rst00h - c3 f2 01 ee ab aa ea aa 
+rst08h - aa aa aa aa ea a6 ab aa 
+rst10h - ae aa ae ae ae ab ef aa 
+rst18h - ae aa aa ab be aa aa ae 
+rst20h - aa aa aa aa af af ae ea 
+rst28h - 87 e1 5f 16 00 19 5e 23 
+rst30h - 56 62 6b e9 e9 aa af ba 
+rst38h - aa ea ea ae af ae fe ee 
+
+int40h - c3 53 01 ee ef aa ea ea 
+int48h - c3 d3 01 ee ea ae aa aa 
+int50h - eb ae aa ae be ea ae ba 
+int58h - ee ee ea ee ea ea aa fa 
+int60h - ee fb ae ae ae aa ae eb 
+int68h - eb ee af ae aa aa aa aa 
+int70h - fe ae ae aa af ee ea aa 
+int78h - aa ae ea a8 ef ea ab ee 
+int80h - 88 a8 02 82 2a a0 ae 8a 
+int88h - 2a aa a0 08 ac 82 aa 8a 
+int90h - 82 aa 80 80 8a 0a aa a2 
+int98h - 20 8a aa aa 26 28 aa a8 
+intA0h - 82 88 a0 08 22 82 a0 a2 
+intA8h - 28 88 a0 a8 02 aa aa a0 
+intB0h - aa a2 0a 22 22 a2 09 2a 
+intB8h - a0 a2 a0 8a 0a 88 a8 20 
+intC0h - 8a 88 a2 a2 20 a0 82 aa 
+intC8h - 88 02 a8 aa 8a 08 a2 a0 
+intD0h - 2a 88 aa 0a aa a8 80 aa 
+intD8h - 28 28 aa 00 00 aa a8 a8 
+intE0h - 80 28 aa 22 a2 aa 22 80 
+intE8h - 20 2a aa aa 82 8a 0a 20 
+intF0h - 80 2a 80 8a a2 28 8a aa 
+intF8h - 88 a2 22 28 a2 28 80 08 
+
+Entry Point - 00 c3 50 01 
+
+Title - SUPERMARIOLAND3
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 01 (Nintendo)
+ROM Version - 00
+
+Header Checksum - 84
+Global Checksum - f4 a5

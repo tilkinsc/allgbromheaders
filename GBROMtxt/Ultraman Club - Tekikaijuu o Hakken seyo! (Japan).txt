@@ -1,0 +1,52 @@
+rst00h - e1 cd 4b 04 e9 ff ff ff 
+rst08h - c9 ff ff ff ff ff ff ff 
+rst10h - c3 20 04 ff ff ff ff ff 
+rst18h - c3 74 06 ff ff ff ff ff 
+rst20h - e1 4f 06 00 2a e5 09 4f 
+rst28h - 7e e1 09 e9 ff ff ff ff 
+rst30h - e1 2a 47 2a 12 13 05 20 
+rst38h - fa e9 ff ff ff ff ff ff 
+
+int40h - c3 84 06 ff ff ff ff ff 
+int48h - c3 47 09 ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - c3 7b 07 ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - ff ff ff ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - GB ULTRAMANCLUB
+
+CGB Flag - 31 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 01 (64KByte (4 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - b2 (Bandai)
+ROM Version - 00
+
+Header Checksum - cf
+Global Checksum - a1 32

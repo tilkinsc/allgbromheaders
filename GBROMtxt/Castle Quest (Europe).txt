@@ -1,0 +1,52 @@
+rst00h - c3 50 01 00 00 00 00 00 
+rst08h - c3 50 01 00 00 00 00 00 
+rst10h - c9 00 00 00 00 00 00 00 
+rst18h - c9 00 00 00 00 00 00 00 
+rst20h - c3 e3 26 00 00 00 00 00 
+rst28h - c9 00 00 00 00 00 00 00 
+rst30h - 00 00 00 00 00 00 00 00 
+rst38h - 00 00 00 00 00 00 00 00 
+
+int40h - c3 61 00 00 00 00 00 00 
+int48h - d9 00 00 00 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - c3 d8 00 00 00 00 00 00 
+int60h - d9 f5 c5 d5 e5 06 00 16 
+int68h - 00 af ea 4d c0 fa 4c c0 
+int70h - a7 20 03 cd c4 01 cd 80 
+int78h - ff cd 35 22 f0 91 3c e0 
+int80h - 91 e6 3f 20 04 21 90 ff 
+int88h - 34 f0 cf cb 7f c2 a5 00 
+int90h - 3c e6 7f e0 cf cb 3f e6 
+int98h - 10 4f fa 19 c0 e6 ef b1 
+intA0h - ea 19 c0 e0 40 f0 d7 e0 
+intA8h - 43 f0 d8 e0 42 cd 13 04 
+intB0h - fa 4b c0 fe 01 20 0d fa 
+intB8h - 19 c0 cb 7f 28 06 f0 44 
+intC0h - fe 18 38 fa fa 4c c0 a7 
+intC8h - 28 03 cd c4 01 cd 65 02 
+intD0h - cd eb 2d e1 d1 c1 f1 d9 
+intD8h - f5 fa 4b c0 a7 20 f7 f0 
+intE0h - 44 d6 08 fe 7f 38 0e fa 
+intE8h - 4e c0 a7 20 08 3e 04 ea 
+intF0h - 4e c0 c3 62 00 af ea 4e 
+intF8h - c0 c3 62 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - CASTLE QUEST US
+
+CGB Flag - 41 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 18 (Hudsonsoft)
+ROM Version - 00
+
+Header Checksum - 54
+Global Checksum - 5e ee

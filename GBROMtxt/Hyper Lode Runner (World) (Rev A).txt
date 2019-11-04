@@ -1,0 +1,52 @@
+rst00h - c3 50 01 ff ff ff ff ff 
+rst08h - c3 77 01 ff ff ff ff ff 
+rst10h - e1 87 4f 06 00 09 2a 66 
+rst18h - 6f e9 ff ff ff ff ff ff 
+rst20h - e1 4f 06 00 2a e5 09 4f 
+rst28h - 7e e1 09 e9 ff ff ff ff 
+rst30h - e1 2a 47 2a 12 13 05 20 
+rst38h - fa e9 ff ff ff ff ff ff 
+
+int40h - c3 e2 01 ff ff ff ff ff 
+int48h - c3 1e 02 ff ff ff ff ff 
+int50h - c3 2a 02 ff ff ff ff ff 
+int58h - c3 36 02 3e 20 e0 00 f0 
+int60h - 00 f0 00 2f e6 0f cb 37 
+int68h - 47 3e 10 e0 00 f0 00 f0 
+int70h - 00 f0 00 f0 00 f0 00 f0 
+int78h - 00 2f e6 0f b0 4f 3e 30 
+int80h - e0 00 c9 11 80 ff f7 0a 
+int88h - 3e de e0 46 3e 28 3d 20 
+int90h - fd c9 c9 af e0 8c f0 ff 
+int98h - cb c7 cd a2 00 cd ac 00 
+intA0h - fb c9 47 af e0 0f 78 f6 
+intA8h - 0c e0 ff c9 f0 ca cb ff 
+intB0h - e0 ca e0 40 c9 f0 44 fe 
+intB8h - 91 20 fa 21 40 ff cb be 
+intC0h - 21 ca ff cb be c9 f0 cc 
+intC8h - e0 43 f0 ce e0 42 f0 cf 
+intD0h - cd de 00 e0 4b f0 d0 e0 
+intD8h - 4a f0 ca e0 40 c9 c5 47 
+intE0h - 2f e6 07 4f f0 43 e6 07 
+intE8h - b9 20 01 04 78 c1 c9 af 
+intF0h - 22 0b 78 b1 20 f9 c9 ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - HYPERLODERUNNER
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 00 (ROM ONLY)
+Rom Size - 00 (32KByte (no ROM banking))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - b2 (Bandai)
+ROM Version - 01
+
+Header Checksum - ae
+Global Checksum - 86 bf

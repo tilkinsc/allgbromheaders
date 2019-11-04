@@ -1,0 +1,52 @@
+rst00h - c9 00 00 00 00 00 00 00 
+rst08h - 00 00 00 00 00 00 00 00 
+rst10h - 3e c0 e0 46 3e 28 3d 20 
+rst18h - fd c9 f0 40 87 d0 f0 44 
+rst20h - fe 91 30 fa 21 a5 c0 46 
+rst28h - f0 44 fe 91 30 04 78 be 
+rst30h - 28 f6 c9 06 a0 21 00 c0 
+rst38h - af 22 05 20 fc c9 00 00 
+
+int40h - c3 60 00 00 00 00 00 00 
+int48h - 00 00 00 00 00 00 00 00 
+int50h - 00 00 00 00 00 00 00 00 
+int58h - 00 00 00 00 00 00 00 00 
+int60h - f5 c5 d5 e5 cd 80 ff 11 
+int68h - ba c0 01 7d 00 3e 03 f5 
+int70h - 1a 6f 13 1a 67 13 b5 28 
+int78h - 06 d5 c5 c5 e9 c1 d1 f1 
+int80h - 3d 20 ec 11 a8 c0 01 96 
+int88h - 00 1a 6f 13 1a 67 13 b5 
+int90h - 28 08 d5 c5 c5 e9 c1 d1 
+int98h - 18 ef 21 a7 c0 af 22 22 
+intA0h - 77 3e 0f ea 00 21 cd 2b 
+intA8h - 41 fa 03 d4 ea 00 21 21 
+intB0h - a5 c0 4e 23 46 03 70 2b 
+intB8h - 71 e1 d1 c1 f1 d9 00 00 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - SHANGHAI POCKET
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) BB (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 00
+Global Checksum - 36 d1

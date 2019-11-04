@@ -1,0 +1,52 @@
+rst00h - bf 1c 8d c4 1f 76 62 4c 
+rst08h - f7 ff ff c4 ff bd ff ff 
+rst10h - ff cf ff fd ff f7 ff ff 
+rst18h - ff ff ff ff ff ff ff ff 
+rst20h - ff ff ff 7f ff af ef ff 
+rst28h - ff ff ff d3 ff ff ff bf 
+rst30h - ff fe ff df ff f7 ff 7f 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 dc 38 df ff ff ff f3 
+int48h - c3 7f 39 ff ff f7 ff ff 
+int50h - c3 a4 39 af ff fd ff ba 
+int58h - c3 ac 39 ff ff ff ff ff 
+int60h - c3 33 3a f0 8a 4f f0 8a 
+int68h - b9 28 fb f0 40 e6 7f e0 
+int70h - 40 3e 07 e0 4b 3e 91 e0 
+int78h - 4a cd e7 05 3e 07 e0 a4 
+int80h - ea 00 20 3e 01 e0 a5 cd 
+int88h - 30 3e 21 40 ff cb f6 af 
+int90h - e0 aa e0 a9 e0 bd 3e bf 
+int98h - ea c6 c2 ea c7 c2 3e 06 
+intA0h - ea c4 c2 ea c5 c2 3e c1 
+intA8h - e0 9b 3e c2 e0 9a 3e 07 
+intB0h - e0 a4 ea 00 20 cd 60 60 
+intB8h - cd b4 03 3e 06 e0 a4 ea 
+intC0h - 00 20 cd 25 79 cd 22 19 
+intC8h - 21 29 09 cd ae 08 cd 63 
+intD0h - 08 f0 40 f6 80 e0 40 c9 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff fd ff f4 ff ff ff ff 
+intE8h - ff ff f7 ff ff ff ff ff 
+intF0h - ff 7d ff df ff fd fb ef 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - DOUBLE DRAGON 3
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 51 (Acclaim)
+ROM Version - 00
+
+Header Checksum - a9
+Global Checksum - 0c 12

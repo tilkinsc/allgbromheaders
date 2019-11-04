@@ -1,0 +1,52 @@
+rst00h - 1e 01 1a e1 cf e9 ff ff 
+rst08h - 87 18 08 ef 2a 66 6f c9 
+rst10h - c3 38 3b 30 f6 24 18 f3 
+rst18h - 62 2e 18 77 c9 ff ff ff 
+rst20h - 1e 17 1a c9 ff ff ff ff 
+rst28h - 85 6f d0 24 c9 ff ff ff 
+rst30h - c3 f8 3d ff ff ff ff ff 
+rst38h - 1e 12 1a c9 ff ff ff ff 
+
+int40h - c3 63 00 ff ff ff ff ff 
+int48h - c3 31 23 ff ff ff ff ff 
+int50h - c3 30 23 ff ff ff ff ff 
+int58h - c3 30 23 ff ff ff ff ff 
+int60h - c3 30 23 f3 f5 c5 d5 e5 
+int68h - 21 40 ff cb 86 cb 8e 21 
+int70h - c2 de 34 fa 84 c8 b7 20 
+int78h - 3b 3c ea 84 c8 cd 90 ff 
+int80h - cd e7 2f cd cb 00 cd c7 
+int88h - 34 af e0 0f fa 99 c8 e0 
+int90h - ff fb cd 37 35 cd 1b 03 
+int98h - cd c1 35 cd fb 6e fa 8c 
+intA0h - c8 26 c9 6f af 77 3e 80 
+intA8h - ea 8c c8 af ea 84 c8 e1 
+intB0h - d1 c1 f1 d9 cd cb 00 af 
+intB8h - e0 0f fa 99 c8 e0 ff fb 
+intC0h - cd 37 35 e1 d1 c1 f1 cd 
+intC8h - c7 2a d9 21 91 c8 2a e0 
+intD0h - 42 2a e0 43 2a e0 4a 2a 
+intD8h - e0 4b 2a e0 47 2a e0 48 
+intE0h - 2a e0 49 7e e0 45 fa c1 
+intE8h - de ea c0 de fa 90 c8 e0 
+intF0h - 40 c9 ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - CASTLEVANIA2 BE
+
+CGB Flag - 4c (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - a4 (Konami)
+ROM Version - 00
+
+Header Checksum - ef
+Global Checksum - 31 e8

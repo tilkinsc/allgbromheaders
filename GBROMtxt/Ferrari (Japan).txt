@@ -1,0 +1,52 @@
+rst00h - c3 00 c0 ff ff ff ff ff 
+rst08h - ff ff ff ff ff ff ff ff 
+rst10h - ff ff ff ff ff ff ff ff 
+rst18h - ff ff ff ff ff ff ff ff 
+rst20h - ff ff ff ff ff ff ff ff 
+rst28h - ff ff ff ff ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 3b c7 ff ff ff ff ff 
+int48h - c3 c9 01 ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - f3 f0 40 17 30 08 f0 44 
+int88h - d6 92 fe 06 30 f8 3e 11 
+int90h - e0 40 af e0 42 e0 43 e0 
+int98h - 26 3e 07 ea 00 21 21 98 
+intA0h - 46 11 00 80 2a 12 13 7a 
+intA8h - fe 98 38 f8 3e 03 ea 00 
+intB0h - 21 21 00 76 11 00 98 06 
+intB8h - 12 0e 14 2a d6 20 12 13 
+intC0h - 0d 20 f8 7b c6 0c 5f 8a 
+intC8h - 93 57 05 20 ec fa 68 77 
+intD0h - e0 47 3e 01 ea 00 21 3e 
+intD8h - 91 e0 40 af 21 5b 04 2b 
+intE0h - cb 7c 28 fb 3d 20 f5 c3 
+intE8h - 50 01 ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 80 00 
+
+Title - FERRARI G-PRIX\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 0b (Coconuts)
+ROM Version - 00
+
+Header Checksum - f7
+Global Checksum - 02 ac

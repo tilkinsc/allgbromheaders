@@ -1,0 +1,52 @@
+rst00h - 00 07 07 07 07 07 07 07 
+rst08h - c3 1f 05 07 07 07 07 07 
+rst10h - c9 07 07 07 07 07 07 07 
+rst18h - c3 95 03 07 07 07 07 07 
+rst20h - 85 6f 3e 00 8c 67 c9 07 
+rst28h - 21 13 c8 34 e1 c9 07 07 
+rst30h - c9 07 07 07 07 07 07 07 
+rst38h - c9 07 07 07 07 07 07 07 
+
+int40h - cd cb 01 d9 07 07 07 07 
+int48h - cd c8 02 d9 07 07 07 07 
+int50h - d9 07 07 07 07 07 07 07 
+int58h - cd 7b 33 d9 07 07 07 07 
+int60h - d9 07 07 07 07 07 07 07 
+int68h - 07 07 07 07 07 07 07 07 
+int70h - 07 07 07 07 07 07 07 07 
+int78h - 07 07 07 07 07 07 07 07 
+int80h - 07 07 07 07 07 07 07 07 
+int88h - 07 07 07 07 07 07 07 07 
+int90h - 07 07 07 07 07 07 07 07 
+int98h - 07 07 07 07 07 07 07 07 
+intA0h - 07 07 07 07 07 07 07 07 
+intA8h - 07 07 07 07 07 07 07 07 
+intB0h - 07 07 07 07 07 07 07 07 
+intB8h - 07 07 07 07 07 07 07 07 
+intC0h - 07 07 07 07 07 07 07 07 
+intC8h - 07 07 07 07 07 07 07 07 
+intD0h - 07 07 07 07 07 07 07 07 
+intD8h - 07 07 07 07 07 07 07 07 
+intE0h - 07 07 07 07 07 07 07 07 
+intE8h - 07 07 07 07 07 07 07 07 
+intF0h - 07 07 07 07 07 07 07 07 
+intF8h - 07 07 07 07 07 07 07 07 
+
+Entry Point - 00 c3 50 01 
+
+Title - TETRIS FLASH\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 01 (Nintendo)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - e4
+Global Checksum - 5f de

@@ -1,0 +1,52 @@
+rst00h - e1 87 85 6f 7c ce 00 67 
+rst08h - 2a 66 6f e9 00 00 00 00 
+rst10h - af e0 ee 18 58 00 00 00 
+rst18h - f0 ed b7 28 f3 3d 18 54 
+rst20h - c9 ff ff ff ff ff ff ff 
+rst28h - c9 ff ff ff ff ff ff ff 
+rst30h - c9 ff ff ff ff ff ff ff 
+rst38h - c9 ff ff ff ff ff ff ff 
+
+int40h - f3 e5 d5 c5 f5 c3 8f 00 
+int48h - f3 e5 f5 21 f8 ff 18 67 
+int50h - f3 e5 d5 c5 f5 c3 d1 00 
+int58h - f3 f5 f0 01 e0 ec 18 01 
+int60h - d9 f0 eb e0 01 f0 ed e0 
+int68h - 02 e0 ea f1 d9 76 f0 ee 
+int70h - b7 28 fb c9 20 10 e0 ee 
+int78h - f0 ee b7 28 fb af e0 ea 
+int80h - 3e 81 e0 02 18 03 af e0 
+int88h - ea f0 ea b7 28 fb c9 f0 
+int90h - 44 fe 90 28 04 fe 91 20 
+int98h - 09 cd e0 ff cd 76 07 d4 
+intA0h - 19 08 cd 5c 05 cd e3 05 
+intA8h - cd af 0b 21 ee ff 3e 56 
+intB0h - 22 34 f1 c1 d1 e1 d9 f0 
+intB8h - 45 be 20 09 2b 3a e0 42 
+intC0h - 7e e0 43 18 09 2a e0 45 
+intC8h - 2a e0 43 7e e0 42 f1 e1 
+intD0h - d9 21 ff ff cb 96 cd f1 
+intD8h - 09 21 ff ff cb d6 f1 c1 
+intE0h - d1 e1 d9 ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 39 0c 
+
+Title - S-PACHINKO WARS
+
+CGB Flag - 20 (Invalid)
+New Licensee Code - (ASCII) D9 (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - e6
+Global Checksum - 14 bb

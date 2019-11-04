@@ -1,0 +1,52 @@
+rst00h - c3 1c 04 00 01 40 11 00 
+rst08h - c3 ba 04 00 01 10 01 10 
+rst10h - c3 ee 04 04 01 10 81 00 
+rst18h - 00 03 11 00 00 11 20 40 
+rst20h - 00 01 40 00 00 02 01 00 
+rst28h - 40 10 10 01 00 10 11 00 
+rst30h - 10 10 02 01 00 01 01 00 
+rst38h - 12 00 00 04 00 00 01 04 
+
+int40h - c3 bf 01 00 59 01 00 00 
+int48h - d9 fa 01 00 00 40 04 20 
+int50h - d9 00 15 09 42 08 04 04 
+int58h - d9 00 20 40 01 18 80 00 
+int60h - d9 00 00 80 0e 10 08 10 
+int68h - 00 01 20 00 00 10 00 00 
+int70h - 01 10 00 10 00 28 00 00 
+int78h - 01 13 14 00 40 00 08 04 
+int80h - ff ff ff ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff 7f ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - BUGS COLLECTION
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 28 (Kemco Japan)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 01
+
+Header Checksum - 05
+Global Checksum - f1 26

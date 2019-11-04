@@ -1,0 +1,52 @@
+rst00h - ff ff ff ff ff ff ff ff 
+rst08h - ff ff ff ff ff ff ff ff 
+rst10h - ff ff ff ff ff ff ff ff 
+rst18h - ff ff ff ff ff ff ff ff 
+rst20h - ff ff ff ff ff ff ff ff 
+rst28h - ff ff ff ff ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - f5 e5 cd 2b 02 e1 f1 d9 
+int48h - f5 e5 00 00 00 e1 f1 d9 
+int50h - f5 e5 00 00 00 e1 f1 d9 
+int58h - f5 e5 cd ed 03 e1 f1 d9 
+int60h - f5 e5 00 00 00 e1 f1 d9 
+int68h - f0 8c 6f 29 29 26 c0 c9 
+int70h - 85 6f 30 01 24 2a b7 c9 
+int78h - f0 f1 87 30 04 3e 82 e0 
+int80h - f1 c9 7d e0 97 7c e0 98 
+int88h - 3e 00 17 e0 96 3c e0 95 
+int90h - c9 e0 01 3e 40 17 e0 02 
+int98h - c9 cd a6 00 3e ff e0 91 
+intA0h - e0 93 cd a6 00 c9 f5 c5 
+intA8h - d5 e5 f0 8c 4f 3e 27 91 
+intB0h - 38 12 3c 47 79 87 87 6f 
+intB8h - 26 c0 11 04 00 3e f0 77 
+intC0h - 19 05 20 fb 21 8e ff 34 
+intC8h - af e0 8b 76 f0 8b 87 28 
+intD0h - fa 38 f5 cd 03 60 e1 d1 
+intD8h - c1 f1 c9 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - SANRIO CARNIVAL
+
+CGB Flag - 32 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 01 (64KByte (4 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 8e (Ape)
+ROM Version - 00
+
+Header Checksum - e9
+Global Checksum - 46 fd

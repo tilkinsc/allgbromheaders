@@ -1,0 +1,52 @@
+rst00h - c3 80 01 43 83 68 81 8f 
+rst08h - 2a 12 13 05 20 fa c9 0a 
+rst10h - c9 97 82 6b 82 74 82 71 
+rst18h - c9 64 82 6d 82 60 82 6c 
+rst20h - c9 64 81 51 82 53 82 54 
+rst28h - e0 8e ea 00 20 e6 60 0f 
+rst30h - cb 37 ea 00 40 c9 83 93 
+rst38h - c3 55 3a 8f 82 71 82 64 
+
+int40h - f5 f0 8f b7 c3 b7 03 6b 
+int48h - f5 c5 e5 c3 f7 03 82 6d 
+int50h - fb c3 53 04 82 64 81 51 
+int58h - d9 53 82 55 0d 0a 83 45 
+int60h - d9 01 02 04 08 10 20 40 
+int68h - 80 00 31 30 50 30 6c 30 
+int70h - b0 30 c5 30 8b 30 f5 2f 
+int78h - 81 30 dc 30 fc 30 c8 31 
+int80h - c1 31 ba 31 b3 31 ac 31 
+int88h - a5 31 9e 31 97 31 90 31 
+int90h - 89 31 82 31 7b 31 74 31 
+int98h - 6d 31 66 31 5f 31 58 31 
+intA0h - 51 31 4a 31 43 31 3c 31 
+intA8h - 35 31 2e 31 27 31 4c 32 
+intB0h - 46 32 40 32 3a 32 34 32 
+intB8h - 2e 32 28 32 22 32 1c 32 
+intC0h - 16 32 10 32 0a 32 04 32 
+intC8h - fe 31 f8 31 f2 31 ec 31 
+intD0h - e6 31 e0 31 da 31 d4 31 
+intD8h - ce 31 f5 3e 1f e0 8e ea 
+intE0h - 00 20 e6 60 0f cb 37 ea 
+intE8h - 00 40 f1 01 f0 00 c5 e9 
+intF0h - 3e 1f e0 8e ea 00 20 e6 
+intF8h - 60 0f cb 37 ea 00 40 c9 
+
+Entry Point - 00 c3 80 01 
+
+Title - SHOU HYPER FISH
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 0H (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - ff
+Global Checksum - a8 5e

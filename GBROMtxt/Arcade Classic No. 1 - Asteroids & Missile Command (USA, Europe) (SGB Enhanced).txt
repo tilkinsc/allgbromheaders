@@ -1,0 +1,52 @@
+rst00h - c9 00 00 00 00 0a 20 00 
+rst08h - ce d9 65 ff de bf ff ff 
+rst10h - da cd 00 18 10 04 08 08 
+rst18h - 93 59 77 7d 5f 5d 7e fd 
+rst20h - a0 22 20 80 20 00 00 82 
+rst28h - df 77 de f7 9f 7f fb ff 
+rst30h - 80 e8 01 50 92 40 14 10 
+rst38h - 17 90 15 bd 15 df cd 46 
+
+int40h - c3 d2 14 80 00 80 00 00 
+int48h - c3 a1 15 ff 7c f7 ff 5f 
+int50h - c3 db 15 0c 04 0c 12 00 
+int58h - c3 db 15 57 df 11 c3 1b 
+int60h - d9 28 00 80 00 02 80 00 
+int68h - ff ff fb ff ff f3 f3 ff 
+int70h - 87 34 80 6a b1 01 40 54 
+int78h - 5d c1 d9 7d e9 f5 7d d7 
+int80h - 80 80 00 8a 88 40 80 08 
+int88h - f7 6d fb fb ff fe f5 fe 
+int90h - 08 40 08 00 12 60 00 08 
+int98h - 7d 55 50 ff 4d ee e5 7b 
+intA0h - 06 24 00 88 88 02 08 28 
+intA8h - f5 f4 ff fb ff bf cf 7d 
+intB0h - 40 0b 01 84 00 0a a0 80 
+intB8h - df 17 5d 97 3d 5f f6 45 
+intC0h - 28 20 a2 08 20 08 00 08 
+intC8h - 5f d6 ff f7 4a bf c5 f6 
+intD0h - 75 2c 04 8e 52 40 e3 00 
+intD8h - 63 5d 57 4f 5d 1f 95 f7 
+intE0h - 20 28 02 20 02 00 20 02 
+intE8h - fe f6 6f fb dd bd f7 6e 
+intF0h - 05 30 01 b0 02 14 11 86 
+intF8h - 5d dd 75 f5 be 57 17 5f 
+
+Entry Point - 00 c3 50 01 
+
+Title - ASTEROIDS/MISCM
+
+CGB Flag - 44 (Invalid)
+New Licensee Code - (ASCII) 01 (Nintendo)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - b2
+Global Checksum - ab 03

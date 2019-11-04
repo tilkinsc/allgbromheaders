@@ -1,0 +1,52 @@
+rst00h - c3 c5 0a 7d ea 2e a9 48 
+rst08h - c3 80 f0 ff ff ff ff ff 
+rst10h - d5 ca 5f db fd ef c5 9f 
+rst18h - 46 97 ff df bf df ff fd 
+rst20h - f3 a0 eb fb ae 8b b2 0a 
+rst28h - ff ff 7f ff dd ff ff ff 
+rst30h - f7 bb ff 7f db 5e de ff 
+rst38h - ef 57 77 ff bf fd ff 5d 
+
+int40h - c3 e7 04 b8 a2 ea aa 88 
+int48h - c3 e3 08 ff ff ff ff ff 
+int50h - d9 c7 97 9a bf ad fa 76 
+int58h - d9 4f ff 7f d6 ff ff df 
+int60h - d9 aa a2 6b ac aa a9 2a 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - bf bf f1 7e fd 7e fe cc 
+int78h - f7 5d ff df ff 7f f5 fd 
+int80h - ff a2 e2 89 29 2a 1e 88 
+int88h - ff fb ff ff ff ff ff ff 
+int90h - 99 dc ba af 82 b5 60 f5 
+int98h - df fd ff fd ff 7f fe ff 
+intA0h - b8 e0 4b 22 3b b8 be aa 
+intA8h - ff df ff ff ff ff ff ff 
+intB0h - cf ee fb ff ff d4 ef 1f 
+intB8h - 5f dd f9 bf ff 77 ff 5f 
+intC0h - 4a ab ae aa 2a aa af eb 
+intC8h - ff ff ff ff be ff ff ff 
+intD0h - f7 fd ff 7f f6 fb f6 7b 
+intD8h - df d7 ff ef ff ff fd ff 
+intE0h - 8e c8 3c 3a 88 0a ea 0f 
+intE8h - ff ff df fe ff bf ff ff 
+intF0h - ff de 6f df ef be fa fe 
+intF8h - f7 1f df 5d ff d5 76 7d 
+
+Entry Point - 00 c3 50 01 
+
+Title - BZONE SBREAKOUT
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 4S (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - d7
+Global Checksum - f8 8a

@@ -1,0 +1,52 @@
+rst00h - ff ff ff ff ff ff ff ff 
+rst08h - e1 f5 d7 f1 e9 ff ff ff 
+rst10h - 87 d5 5f 16 00 19 d1 2a 
+rst18h - 66 6f c9 ff ff ff ff ff 
+rst20h - ea 50 21 ea 3c c1 c9 ff 
+rst28h - f5 c5 d5 e5 fa 3c c1 ea 
+rst30h - 3d c1 3e 01 e7 c3 43 0c 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 1e 2a ff ff ff ff ff 
+int48h - d9 ff ff ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - 18 07 ff ff ff ff ff ff 
+int60h - d9 fb f5 c5 d5 e5 fa 3c 
+int68h - c1 ea 3f c1 3e 01 e7 cd 
+int70h - 7b 00 fa 3f c1 e7 e1 d1 
+int78h - c1 f1 d9 fa a5 c1 b7 28 
+int80h - 0e f0 01 fe d5 28 23 fe 
+int88h - b3 28 2b fe ee 28 2e ea 
+int90h - a6 c1 cd 74 29 fa a4 c1 
+int98h - fe 03 cc 6b 2a 3e 01 ea 
+intA0h - a7 c1 fa a4 c1 b7 c0 c3 
+intA8h - a4 33 3e 01 ea aa c1 3e 
+intB0h - ee ea ab c1 18 e7 3e 01 
+intB8h - ea a9 c1 18 e0 3e 02 ea 
+intC0h - a9 c1 18 d9 ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - ALSTARCHALLENGE
+
+CGB Flag - 32 (Invalid)
+New Licensee Code - (HEX) ff ff
+SGB Flag - ff (Invalid)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 56 (ljn)
+ROM Version - 00
+
+Header Checksum - 14
+Global Checksum - ff 00

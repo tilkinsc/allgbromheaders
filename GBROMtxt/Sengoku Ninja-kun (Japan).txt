@@ -1,0 +1,52 @@
+rst00h - 21 00 00 19 c9 ff ff ff 
+rst08h - 21 01 00 19 c9 ff ff ff 
+rst10h - 21 02 00 19 c9 ff ff ff 
+rst18h - 21 03 00 19 c9 ff ff ff 
+rst20h - 21 04 00 19 c9 ff ff ff 
+rst28h - 21 05 00 19 c9 ff ff ff 
+rst30h - 21 06 00 19 c9 ff ff ff 
+rst38h - 21 07 00 19 c9 ff ff ff 
+
+int40h - f5 c5 d5 e5 c3 8e 03 ff 
+int48h - e5 21 40 ff cb 8e e1 d9 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - ff ff ff ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - SENGOKUNINJAKUN
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 06 (MBC2+BATTERY)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - c9 (ufl)
+ROM Version - 00
+
+Header Checksum - 9c
+Global Checksum - e5 65

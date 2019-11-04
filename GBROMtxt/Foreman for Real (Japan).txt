@@ -1,0 +1,52 @@
+rst00h - c3 00 01 00 00 00 00 00 
+rst08h - ea 06 c0 ea 00 20 c9 00 
+rst10h - 00 00 00 00 00 00 00 00 
+rst18h - 00 00 00 00 00 00 00 00 
+rst20h - 00 85 6f d0 24 c9 00 00 
+rst28h - 00 83 5f d0 14 c9 00 00 
+rst30h - 00 81 4f d0 04 c9 00 00 
+rst38h - 00 00 00 00 00 00 00 00 
+
+int40h - 00 c3 ba 3d 00 00 00 00 
+int48h - 00 c3 09 3e 00 00 00 00 
+int50h - 00 c3 10 3e 00 00 00 00 
+int58h - 00 c3 9a 3f 00 00 00 00 
+int60h - 00 c3 4f 3e 00 00 00 00 
+int68h - 00 00 00 00 00 00 00 12 
+int70h - 00 00 00 00 00 00 00 9a 
+int78h - 01 00 00 00 00 00 00 00 
+int80h - 00 00 00 00 00 00 00 10 
+int88h - 00 00 00 00 00 00 00 c0 
+int90h - 00 00 00 00 00 00 00 00 
+int98h - 00 00 00 00 00 00 00 00 
+intA0h - 80 00 00 00 00 00 00 08 
+intA8h - 20 00 00 00 00 00 00 24 
+intB0h - 08 00 00 00 00 00 00 69 
+intB8h - 00 00 00 00 00 00 00 08 
+intC0h - 04 00 00 00 00 00 00 51 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - a8 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 04 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 0a 
+intF0h - 00 00 00 00 00 00 00 82 
+intF8h - 80 00 00 3e f3 ea 02 e0 
+
+Entry Point - 00 c3 50 01 
+
+Title - FOREMAN FOR REA
+
+CGB Flag - 4c (Invalid)
+New Licensee Code - (ASCII) B0 (Invalid)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - eb
+Global Checksum - 6d 95

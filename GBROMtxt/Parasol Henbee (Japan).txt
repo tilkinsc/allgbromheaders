@@ -1,0 +1,52 @@
+rst00h - 87 e1 5f 16 00 19 5e 23 
+rst08h - 56 d5 e1 e9 f0 ff e0 df 
+rst10h - cb 87 e0 ff f0 44 fe 91 
+rst18h - 20 fa f0 40 e6 7c e0 e0 
+rst20h - e0 40 f0 df e0 ff c9 af 
+rst28h - 22 0b 79 b0 20 f9 c9 21 
+rst30h - ff 9b 01 00 04 3e ff 32 
+rst38h - 0b 78 b1 20 f8 c9 ff ff 
+
+int40h - c3 0a 09 ff ff ff ff ff 
+int48h - c3 bb 09 d9 ff ff ff ff 
+int50h - c3 e2 0a ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 40 98 90 41 98 90 5e 
+int68h - 98 90 5f 98 90 60 9b 54 
+int70h - 00 ff 00 00 60 00 00 78 
+int78h - 00 10 00 01 00 00 00 00 
+int80h - 3f 3f 3a 25 3a 25 3a 25 
+int88h - 3a 25 3a 25 3a 25 3a 25 
+int90h - 3f 3f 3f 20 3f 20 ff ff 
+int98h - ff ff 00 00 00 00 00 00 
+intA0h - fc fc fc fc fc fc fc fc 
+intA8h - fc fc fc fc fc fc fc fc 
+intB0h - fc fc a4 5c a4 5c ff ff 
+intB8h - ff ff 00 00 00 00 07 07 
+intC0h - 1f 18 3d 22 7f 58 7f 65 
+intC8h - ff aa ff 92 df ad bf c0 
+intD0h - 9f ef 4f 75 e7 ff f0 9f 
+intD8h - ff cf 7c 64 38 38 e0 e0 
+intE0h - f8 18 fc 04 f6 ea fe 32 
+intE8h - ff b1 ff 67 ff c9 ff 15 
+intF0h - bf 53 ce 3e 04 fc 18 f8 
+intF8h - f4 fc f4 8c fc fc ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - PARASORU HEMBEI
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 01 (64KByte (4 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - e5 (Epoch)
+ROM Version - 00
+
+Header Checksum - c9
+Global Checksum - 7c e4

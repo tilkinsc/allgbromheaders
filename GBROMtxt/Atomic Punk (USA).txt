@@ -1,0 +1,52 @@
+rst00h - c9 ff ff ff ff ff ff ff 
+rst08h - c9 ff ff ff ff ff ff ff 
+rst10h - f0 41 cb 4f 20 fa 70 c9 
+rst18h - f0 41 cb 4f c8 18 f9 ff 
+rst20h - e9 ff ff ff ff ff ff ff 
+rst28h - f0 41 cb 4f 28 fa 18 e8 
+rst30h - f0 41 cb 4f 28 fa 18 d8 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 35 03 ff ff ff ff ff 
+int48h - c3 98 03 ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - c3 b2 03 ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - ff ff ff ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - ATOMIC PUNK\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 18 (Hudsonsoft)
+ROM Version - 00
+
+Header Checksum - b0
+Global Checksum - 12 f9

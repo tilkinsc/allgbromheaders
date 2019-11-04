@@ -1,0 +1,52 @@
+rst00h - e1 87 df 2a 66 6f e9 ff 
+rst08h - 87 df 2a 66 6f c9 ff ff 
+rst10h - f5 c5 d5 e5 c3 7c 02 ff 
+rst18h - 85 6f d0 24 c9 ff ff ff 
+rst20h - 2f 3c 85 6f d8 25 c9 ff 
+rst28h - 83 5f d0 14 c9 ff ff ff 
+rst30h - f0 40 07 d0 f0 ff 18 23 
+rst38h - dd e4 93 4e 39 ff ff ff 
+
+int40h - c3 5d 04 00 40 90 e4 ff 
+int48h - c3 7b 04 e4 90 40 00 ff 
+int50h - c3 7b 04 00 03 0f 3f ff 
+int58h - c3 7b 04 f5 cb 87 cd 6e 
+int60h - 00 f0 44 fe 91 38 fa f0 
+int68h - 40 e6 5f e0 40 f1 47 af 
+int70h - e0 0f 78 e0 ff c9 f3 af 
+int78h - cd 6e 00 3e 01 ea 50 21 
+int80h - 3e 80 e0 40 f7 cd c6 01 
+int88h - 21 00 c0 01 eb 1e cd 24 
+int90h - 03 cd c6 01 21 8a ff 01 
+int98h - 75 00 cd 24 03 0e 80 06 
+intA0h - 0a 21 ab 00 2a e2 0c 05 
+intA8h - 20 fa c9 3e c0 e0 46 3e 
+intB0h - 28 3d 20 fd c9 21 c0 00 
+intB8h - 2a 4f 2a e2 0c 20 f9 c9 
+intC0h - 01 00 02 00 42 00 43 00 
+intC8h - 47 e4 48 e4 49 e4 45 6f 
+intD0h - 41 40 0f 00 ff 01 2a 12 
+intD8h - 13 0b 78 b1 20 f8 c9 2a 
+intE0h - 12 13 05 20 fa c9 d7 0b 
+intE8h - 78 b1 20 fa c9 f0 40 07 
+intF0h - d0 f0 41 e6 02 28 fa f0 
+intF8h - 41 e6 02 20 fa c9 ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - MORTALKOMBATI&I
+
+CGB Flag - 49 (Invalid)
+New Licensee Code - (ASCII) 51 (Acclaim)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 05 (1MByte (64 banks) - only 63 banks used by MBC1)
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - b9
+Global Checksum - ab 3a

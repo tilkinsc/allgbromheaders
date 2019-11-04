@@ -1,0 +1,52 @@
+rst00h - c3 ef 06 f6 8a fd aa bd 
+rst08h - a8 f7 2a 8f 8a fb a2 fd 
+rst10h - 86 7f 8a 37 2a ff a8 66 
+rst18h - ae a7 aa e2 a2 fb 80 7f 
+rst20h - a2 fe a3 df ae df aa f7 
+rst28h - aa ff a8 ff aa 2f aa f7 
+rst30h - ac ff 9a bf ba ff 29 f9 
+rst38h - ac 6f aa b7 aa fe ae ff 
+
+int40h - c3 35 02 d9 ee ff aa e7 
+int48h - d9 ff aa f7 a2 ff 8a dd 
+int50h - d9 f5 aa ff aa 76 2a dd 
+int58h - cd 47 02 d9 22 bc 82 df 
+int60h - d9 fe aa ff af ff ea ae 
+int68h - aa ff aa ff aa ff 27 f7 
+int70h - ba 7f 88 ff aa 7b aa f7 
+int78h - aa bf a8 fc a2 7c 88 7d 
+int80h - ab ff ac ff 0a fd aa ff 
+int88h - aa ff ca ff 92 5f ae ff 
+int90h - aa f7 2b cb 0a dd aa be 
+int98h - a8 fe a2 b7 aa ad a8 37 
+intA0h - ea ff a8 f7 ea ff aa d7 
+intA8h - 2a ff aa ff aa ff 3a 5f 
+intB0h - ae ff a2 ff 8a ab ba ff 
+intB8h - aa ff aa 6f aa fe aa 6b 
+intC0h - aa ff a2 ff ae fb a8 ff 
+intC8h - aa 7f 80 ff 8a c7 8a ff 
+intD0h - ee 7f aa 7d a3 ff e2 6f 
+intD8h - aa ff a0 ff 02 d5 e8 a3 
+intE0h - aa ff 7a ff fe ff ab ef 
+intE8h - 2a fd 7a ff a8 f9 aa ff 
+intF0h - ea ff 22 f7 aa ff aa ee 
+intF8h - aa ff ea df aa 7d a2 ae 
+
+Entry Point - 00 c3 50 01 
+
+Title - POWER MISSION\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - cb (Vap)
+ROM Version - 00
+
+Header Checksum - 4a
+Global Checksum - 49 e3

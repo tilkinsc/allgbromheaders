@@ -1,0 +1,52 @@
+rst00h - c3 50 01 8d 0e 47 a7 96 
+rst08h - ea e5 ff ea 00 21 c9 08 
+rst10h - 85 6f 7c ce 00 67 c9 00 
+rst18h - 83 5f 7a ce 00 57 c9 00 
+rst20h - 81 4f 78 ce 00 47 c9 00 
+rst28h - 85 6f c9 00 00 00 0d 00 
+rst30h - 83 5f c9 80 20 00 00 00 
+rst38h - f5 3e 80 ea 00 60 f1 d9 
+
+int40h - c3 87 3a d9 80 04 46 0e 
+int48h - c3 5b 3a d9 00 00 43 80 
+int50h - c3 41 3a d9 1c 08 03 00 
+int58h - c3 51 3a d9 0a 00 48 00 
+int60h - d9 10 08 00 00 00 00 00 
+int68h - 49 00 01 00 91 00 11 03 
+int70h - 04 00 3f 02 20 00 8f 00 
+int78h - 15 20 0c 10 82 00 46 02 
+int80h - a6 80 b1 40 00 00 84 80 
+int88h - c3 02 28 00 00 10 00 00 
+int90h - 02 00 00 00 82 01 22 00 
+int98h - 83 00 30 00 40 00 00 20 
+intA0h - 80 00 78 00 0a 54 4a 00 
+intA8h - 84 00 8e 40 1b 20 02 00 
+intB0h - 80 00 80 00 90 00 44 00 
+intB8h - 4b 04 0e 04 49 02 81 10 
+intC0h - 04 00 20 00 02 00 00 04 
+intC8h - 10 10 80 00 04 30 00 00 
+intD0h - 30 00 04 01 08 00 40 01 
+intD8h - 01 01 50 00 a1 00 42 00 
+intE0h - 00 00 10 00 40 00 14 08 
+intE8h - 80 00 41 00 07 02 60 01 
+intF0h - 0a 00 10 00 10 00 00 0d 
+intF8h - b9 00 00 10 a2 08 42 01 
+
+Entry Point - 00 c3 50 01 
+
+Title - KINGDOM CRUSADE
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 6f (Electro Brain)
+ROM Version - 00
+
+Header Checksum - 44
+Global Checksum - b2 8e

@@ -1,0 +1,52 @@
+rst00h - c3 2e 03 00 00 00 00 00 
+rst08h - c3 33 02 00 00 00 00 00 
+rst10h - c3 3e 02 00 00 00 00 00 
+rst18h - c3 49 02 00 00 00 00 00 
+rst20h - c3 54 02 00 00 00 00 00 
+rst28h - c3 ef 06 00 00 00 00 00 
+rst30h - c3 aa 02 00 00 00 00 00 
+rst38h - c3 b8 02 00 00 00 00 00 
+
+int40h - c3 01 02 00 00 00 00 00 
+int48h - d9 00 00 00 00 00 00 00 
+int50h - c3 32 02 00 00 00 00 00 
+int58h - c3 e4 05 00 00 00 00 00 
+int60h - d9 00 00 00 00 00 00 00 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - ff ff ff ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - NADA ASATAROU N
+
+CGB Flag - 4f (Invalid)
+New Licensee Code - (ASCII) 1H (Invalid)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - e7
+Global Checksum - 93 8c

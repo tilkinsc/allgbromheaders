@@ -1,0 +1,52 @@
+rst00h - e1 cd 3c 0b e9 ff ff ff 
+rst08h - c9 ff ff ff ff ff ff ff 
+rst10h - c3 a1 05 ff ff ff ff ff 
+rst18h - 85 6f d0 24 c9 ff ff ff 
+rst20h - c3 0d 0b ff ff ff ff ff 
+rst28h - c9 ff ff ff ff ff ff ff 
+rst30h - c9 ff ff ff ff ff ff ff 
+rst38h - c9 ff ff ff ff ff ff ff 
+
+int40h - c3 90 0f d9 ff ff ff ff 
+int48h - f5 3e d2 e0 47 f1 d9 ff 
+int50h - c3 d5 08 ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - ff ff ff ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - GURANDERMUSASHI
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) B2 (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - c2
+Global Checksum - e7 20

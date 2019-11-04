@@ -1,0 +1,52 @@
+rst00h - 0e 00 90 d0 0c 2f 3c c9 
+rst08h - 83 5f 3e 00 8a 57 c9 00 
+rst10h - d5 5f 16 00 cb 23 cb 12 
+rst18h - 19 5e 23 56 62 6b d1 c9 
+rst20h - f7 7c 12 1c 7d 12 1c c9 
+rst28h - 0b 78 b1 20 fb c9 00 00 
+rst30h - f0 41 cb 4f 20 fa c9 00 
+rst38h - 85 6f 3e 00 8c 67 c9 00 
+
+int40h - 18 1f 00 00 00 00 00 00 
+int48h - c3 86 00 00 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - d9 00 00 00 00 00 00 00 
+int60h - d9 f5 c5 d5 e5 21 4b c1 
+int68h - 34 fa ba d0 a7 28 07 cd 
+int70h - 80 ff af ea ba d0 cd 9b 
+int78h - 01 cd 5c 3b 3e 01 ea 4c 
+int80h - c1 e1 d1 c1 f1 d9 f5 c5 
+int88h - d5 e5 fa 86 d0 a7 28 0b 
+int90h - f0 44 fe 3f 20 05 fa 53 
+int98h - c1 e0 43 e1 d1 c1 f1 d9 
+intA0h - 06 0a 11 80 ff 21 af 00 
+intA8h - 2a 12 13 05 20 fa c9 3e 
+intB0h - c0 e0 46 3e 28 3d 20 fd 
+intB8h - c9 00 00 00 00 00 00 00 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - TENJIN KAISEN 2
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - cd (Meldac)
+ROM Version - 00
+
+Header Checksum - 21
+Global Checksum - e1 4e

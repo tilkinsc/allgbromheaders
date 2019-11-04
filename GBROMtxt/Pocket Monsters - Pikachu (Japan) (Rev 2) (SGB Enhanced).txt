@@ -1,0 +1,52 @@
+rst00h - ff 00 00 00 00 00 00 00 
+rst08h - ff 00 00 00 00 00 00 00 
+rst10h - ff 00 00 00 00 00 00 00 
+rst18h - ff 00 00 00 00 00 00 00 
+rst20h - ff 00 00 00 00 00 00 00 
+rst28h - ff 00 00 00 00 00 00 00 
+rst30h - ff 00 00 00 00 00 00 00 
+rst38h - ff 00 00 00 00 00 00 00 
+
+int40h - c3 3b 1e 00 00 00 00 00 
+int48h - c3 86 15 00 00 00 00 00 
+int50h - c3 9c 21 00 00 00 00 00 
+int58h - c3 ab 1f 00 00 00 00 00 
+int60h - d9 00 00 00 00 00 00 00 
+int68h - 23 20 10 11 24 06 a3 b0 
+int70h - 8a 28 30 60 7a 80 03 01 
+int78h - 81 3a e3 11 2b bd 31 a1 
+int80h - ff ef ff ff ff 7f ff eb 
+int88h - f7 f7 ff 97 ff ff fd ff 
+int90h - ff ff ff ff ff ff df df 
+int98h - ff df ff ff ff ff ff fe 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - fe fb db ff ff ff fb ff 
+intB0h - 3f bf ff 7f cf ff 9f ff 
+intB8h - ff ff 7b ff ff ff ff df 
+intC0h - bf ff 7f bf f7 7b ff ff 
+intC8h - ff 7f ff ff ff 7f ff ff 
+intD0h - df f7 7f ed ff bb 7f ff 
+intD8h - f9 f7 ff bf df ef 6f fe 
+intE0h - fd ef 5f fd dd fc ff bf 
+intE8h - ff ff ff df ff ff ff 7f 
+intF0h - bf ff 7f bf ff 7e ff ff 
+intF8h - ff ea ff ff eb ff ff ff 
+
+Entry Point - 00 c3 66 1d 
+
+Title - POKEMON YELLOW\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 01 (Nintendo)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 13 (MBC3+RAM+BATTERY)
+Rom Size - 05 (1MByte (64 banks) - only 63 banks used by MBC1)
+Ram Size - 03 (32 KByte (4 banks * 8 KByte))
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 02
+
+Header Checksum - 1e
+Global Checksum - ed d9

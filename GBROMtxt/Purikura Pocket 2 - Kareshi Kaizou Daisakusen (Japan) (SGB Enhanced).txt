@@ -1,0 +1,52 @@
+rst00h - c9 ff ff ff ff ff ff ff 
+rst08h - e9 ff ff ff ff ff ff ff 
+rst10h - c3 50 01 ff ff ff ff ff 
+rst18h - e0 92 ea ff 3f c9 ff ff 
+rst20h - cb 7e c8 00 c9 ff ff ff 
+rst28h - c9 ff ff ff ff ff ff ff 
+rst30h - c9 ff ff ff ff ff ff ff 
+rst38h - c3 07 09 ff ff ff ff ff 
+
+int40h - c3 63 09 ff ff ff ff ff 
+int48h - c3 a9 09 ff ff ff ff ff 
+int50h - ff ff ff ff ff ff ff ff 
+int58h - c3 06 0a ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - ff ff ff ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 07 09 
+
+Title - PURIKURA POCKET
+
+CGB Flag - 32 (Invalid)
+New Licensee Code - (ASCII) EB (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 96
+Global Checksum - ed b6

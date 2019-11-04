@@ -1,0 +1,52 @@
+rst00h - c3 e4 08 34 2c 36 00 c9 
+rst08h - 2a 66 6f c9 c9 fa 43 c0 
+rst10h - 2f 3c 85 6f d8 25 c9 fa 
+rst18h - 2f 3c 83 5f d8 15 c9 c9 
+rst20h - 2f 3c 81 4f d8 05 c9 7e 
+rst28h - 85 6f d0 24 c9 46 c7 5b 
+rst30h - 83 5f d0 14 c9 48 41 88 
+rst38h - 81 4f d0 04 c9 22 42 23 
+
+int40h - 18 26 42 c4 42 eb 42 39 
+int48h - 18 2e 43 61 43 62 43 63 
+int50h - d9 c3 99 00 43 b2 43 38 
+int58h - d9 9a 44 78 c7 67 40 7a 
+int60h - d9 8e 40 96 40 b8 00 00 
+int68h - f5 c5 d5 e5 cd 21 06 fb 
+int70h - cd 99 00 e1 d1 c1 f1 c9 
+int78h - f5 e5 f0 81 21 27 07 87 
+int80h - 85 6f 30 01 24 2a 66 6f 
+int88h - e9 21 41 ff cb 4e 20 fc 
+int90h - c9 f0 41 cb 4f 20 fa c9 
+int98h - fb 21 03 c0 7e e6 03 20 
+intA0h - 0a cb c6 cd 02 0f 21 03 
+intA8h - c0 cb 86 c9 0f ea 4b c0 
+intB0h - 3e 02 ea 45 c0 c3 08 40 
+intB8h - fa 45 c0 b7 c0 c3 00 40 
+intC0h - 78 c7 cc 40 e2 40 ea 40 
+intC8h - e2 40 00 41 3e 06 11 0e 
+intD0h - 0c cd 04 05 c0 3e 16 ea 
+intD8h - 4b c0 3e 18 ea 45 c0 c3 
+intE0h - 08 40 fa 45 c0 b7 c0 c3 
+intE8h - 08 40 3e 09 11 1e 22 cd 
+intF0h - 04 05 c0 3e 22 ea 4b c0 
+intF8h - 3e 18 ea 45 c0 c3 08 40 
+
+Entry Point - 00 c3 50 01 
+
+Title - GOD MEDICINE\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - a4 (Konami)
+ROM Version - 00
+
+Header Checksum - 03
+Global Checksum - a9 8e

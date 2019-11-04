@@ -1,0 +1,52 @@
+rst00h - c3 8a 00 54 49 54 55 53 
+rst08h - c3 9e 00 54 49 54 55 53 
+rst10h - c3 f2 02 54 49 54 55 53 
+rst18h - c3 95 00 54 49 54 55 53 
+rst20h - c3 a5 00 54 49 54 55 53 
+rst28h - c3 ca 00 54 49 54 55 53 
+rst30h - c3 24 20 54 49 54 55 53 
+rst38h - c3 88 11 54 49 54 55 53 
+
+int40h - c3 6d 00 54 49 54 55 53 
+int48h - c3 fd d4 54 49 54 55 53 
+int50h - c3 7b 4c c3 9b 11 c3 ab 
+int58h - 00 c3 b0 00 c3 88 11 c3 
+int60h - e0 11 c3 f1 11 47 3e 07 
+int68h - d7 78 c3 00 7b f5 c5 f0 
+int70h - 40 e6 fc e0 40 fa a0 c0 
+int78h - fe c4 28 0b 06 97 cd b5 
+int80h - 18 f0 40 f6 03 e0 40 c1 
+int88h - f1 d9 87 e1 85 6f 8c 95 
+int90h - 67 2a 66 6f e9 2a 12 13 
+int98h - 0b 78 b1 20 f8 c9 f0 44 
+intA0h - fe 90 c8 18 f9 f0 40 e6 
+intA8h - fc e0 40 21 00 40 18 08 
+intB0h - 21 03 40 18 03 21 06 40 
+intB8h - 57 3e 05 ea 00 20 7a 11 
+intC0h - c4 00 d5 e9 f0 ce ea 00 
+intC8h - 20 c9 5e 23 56 23 2a fe 
+intD0h - fe c8 fe fd 28 f4 06 24 
+intD8h - fe 2e 28 1e 04 fe 2c 28 
+intE0h - 19 04 fe 21 28 14 04 fe 
+intE8h - 27 28 0f 04 fe 20 28 0a 
+intF0h - d6 30 fe 0a 38 05 d6 07 
+intF8h - 18 01 78 12 1c 18 cf ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - PREHISTORIK MAN
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 60 (Titus)
+ROM Version - 00
+
+Header Checksum - 33
+Global Checksum - b2 6a

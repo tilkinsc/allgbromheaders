@@ -1,0 +1,52 @@
+rst00h - 3e 01 e0 fe c3 54 01 ff 
+rst08h - d1 6f 26 00 29 19 2a 66 
+rst10h - 6f e9 ff ff ff ff ff ff 
+rst18h - e1 2a 4f 2a 12 13 0d 20 
+rst20h - fa e9 ff ff ff ff ff ff 
+rst28h - c3 c2 16 ff ff ff ff ff 
+rst30h - c3 00 06 ff ff ff ff ff 
+rst38h - c9 ff ff ff ff ff ff ff 
+
+int40h - cd 72 00 c3 9e 01 ff ff 
+int48h - cd 72 00 c3 19 02 ff ff 
+int50h - cd 72 00 c3 03 02 ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - 00 ff f5 3e 01 e0 95 f1 
+int78h - c9 ff ff ff ff ff ff ff 
+int80h - ff ff ff ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - MOMOTAROU GAIDE
+
+CGB Flag - 4e (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 06 (MBC2+BATTERY)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 18 (Hudsonsoft)
+ROM Version - 00
+
+Header Checksum - 3b
+Global Checksum - ba 61

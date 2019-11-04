@@ -1,0 +1,52 @@
+rst00h - c3 50 01 c3 30 03 ff ff 
+rst08h - c3 50 01 c3 7d 04 c3 88 
+rst10h - 04 c3 c5 31 c3 a5 31 c3 
+rst18h - 31 2e c3 65 30 ff ff ff 
+rst20h - 26 c8 f0 91 85 6f 7e c9 
+rst28h - 67 f0 91 85 6f 7c 26 c8 
+rst30h - 77 c9 ff ff ff ff ff ff 
+rst38h - f0 e9 67 f0 e8 85 6f c9 
+
+int40h - c3 65 04 c3 fa 33 ff ff 
+int48h - c3 43 04 c3 b6 2e ff ff 
+int50h - d9 c3 73 31 c3 88 30 ff 
+int58h - d9 c3 fc 32 c3 ba 30 ff 
+int60h - d9 c3 e4 30 c3 b4 1e c3 
+int68h - e8 31 c3 1c 34 c3 e8 2d 
+int70h - c3 30 32 c3 c7 03 c3 67 
+int78h - 33 c3 a5 30 c3 35 34 c3 
+int80h - 41 33 c3 0c 31 0e 80 06 
+int88h - 0a 21 93 00 2a e2 0c 05 
+int90h - 20 fa c9 3e c0 e0 46 3e 
+int98h - 28 3d 20 fd c9 00 0d 1a 
+intA0h - 28 35 42 4f 5b 68 74 7f 
+intA8h - 8b 96 a1 ab b5 be c6 cf 
+intB0h - d6 dd e4 e9 ee f3 f7 fa 
+intB8h - fc fe ff ff 07 9c f6 f8 
+intC0h - 63 d9 db cb 40 7e 1e 82 
+intC8h - 6b 7a 32 74 b6 5f 05 8b 
+intD0h - b2 1b c8 1c 6b bd a9 91 
+intD8h - 36 39 1d 43 60 9d 0f 99 
+intE0h - fc d9 b3 eb 16 7c b4 20 
+intE8h - 80 78 88 12 0a db 19 a7 
+intF0h - 45 16 1c b8 3f b9 3d 2c 
+intF8h - c8 34 ef dd ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - DORASUREGAIDEN\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 06 (MBC2+BATTERY)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - e5 (Epoch)
+ROM Version - 00
+
+Header Checksum - ed
+Global Checksum - 81 90

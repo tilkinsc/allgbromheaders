@@ -1,0 +1,52 @@
+rst00h - 00 cc 10 cc 20 cc 30 cc 
+rst08h - 40 cc 50 cc 60 cc 70 cc 
+rst10h - 80 cc 90 cc a0 cc b0 cc 
+rst18h - c0 cc d0 cc e0 cc f0 cc 
+rst20h - 00 cd 10 cd 20 cd 30 cd 
+rst28h - 40 cd 50 cd 60 cd 70 cd 
+rst30h - 80 cd 90 cd a0 cd b0 cd 
+rst38h - c0 cd d0 cd e0 cd f0 cd 
+
+int40h - c3 8a 0a ff ff ff ff ff 
+int48h - c3 65 0a f0 8a fe ff c8 
+int50h - fa 83 c8 ea 00 20 cd 41 
+int58h - 06 cd 52 08 fa 99 00 ea 
+int60h - 00 20 c9 6f 00 73 00 77 
+int68h - 00 7b 00 7f 00 83 00 1b 
+int70h - 06 38 6c 1b 06 bb 60 1b 
+int78h - 03 15 70 27 06 a1 77 1b 
+int80h - 02 03 63 1b 07 67 74 ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff e8 5d 28 5e 68 
+int98h - 5e a8 5e e8 5e 28 5f 68 
+intA0h - 5f a8 5f e8 5f 28 60 68 
+intA8h - 60 a8 60 e8 60 28 61 68 
+intB0h - 61 a8 61 e8 61 28 62 68 
+intB8h - 62 a8 62 e8 62 28 63 68 
+intC0h - 63 a8 63 e8 63 28 64 68 
+intC8h - 64 a8 64 00 00 00 00 e1 
+intD0h - 4e f1 4e 00 00 01 4f 11 
+intD8h - 4f 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 21 4f 31 4f 00 
+intF8h - 00 00 00 41 4f 51 4f 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - SUPER BLUES\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 60 (Titus)
+ROM Version - 00
+
+Header Checksum - 59
+Global Checksum - c8 01

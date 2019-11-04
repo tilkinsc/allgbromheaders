@@ -1,0 +1,52 @@
+rst00h - c3 10 00 00 13 ed 00 00 
+rst08h - 0d 63 00 00 e3 18 00 00 
+rst10h - e6 7f 87 e1 85 6f 3e 00 
+rst18h - 8c 67 7e 23 66 6f e9 14 
+rst20h - 28 1e 28 28 28 28 0a 28 
+rst28h - 1e 0f 16 21 2d 35 43 4b 
+rst30h - 6a 70 7e 82 87 ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 30 0e 00 00 00 00 00 
+int48h - c3 03 03 00 00 00 00 00 
+int50h - fb cd 97 09 d9 00 00 00 
+int58h - c3 08 04 00 00 00 00 00 
+int60h - d9 ff ff ff ff c5 2a d6 
+int68h - 40 47 e5 21 80 c2 5e 23 
+int70h - 56 e1 fa 00 c3 23 86 12 
+int78h - 13 2b fa 02 c3 cb 6f 7e 
+int80h - 28 02 2f 3c 4f fa fe c2 
+int88h - 81 12 13 fa cf c2 12 13 
+int90h - c6 02 ea cf c2 13 23 23 
+int98h - 05 20 d7 e5 21 80 c2 73 
+intA0h - 23 72 e1 c1 c9 cd f2 04 
+intA8h - 21 2f c4 34 cd d0 00 cd 
+intB0h - 54 10 cd 5a 0f fa 71 d1 
+intB8h - b7 20 09 3e 00 ea 4d da 
+intC0h - ea 49 da c9 fa 0b c3 a7 
+intC8h - 28 fa af ea 0b c3 18 d8 
+intD0h - 21 71 d1 7e b7 c8 35 c0 
+intD8h - fa 70 d1 77 cd 95 05 21 
+intE0h - 72 d1 35 c0 af ea 71 d1 
+intE8h - c9 1e 06 1f 01 1e 04 1f 
+intF0h - 06 1f 02 1e 05 1f 00 ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - FRANK THOMAS BB
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 51 (Acclaim)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 46
+Global Checksum - 99 24

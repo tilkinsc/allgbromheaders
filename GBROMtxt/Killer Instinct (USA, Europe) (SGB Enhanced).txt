@@ -1,0 +1,52 @@
+rst00h - f1 df e0 f8 07 af ea 13 
+rst08h - fb af ea 03 ec e0 02 9e 
+rst10h - 01 ea 13 fb 70 fc 03 ea 
+rst18h - ec 13 21 0f ff cb 9e 21 
+rst20h - ff ff cb de c9 fa 13 fb 
+rst28h - 87 5f 16 00 21 34 00 19 
+rst30h - 2a 66 6f e9 3c 00 48 00 
+rst38h - c3 b0 b9 00 af ea 03 ec 
+
+int40h - c3 fb 06 21 02 ff cb 86 
+int48h - c3 24 04 e8 00 3e 02 ea 
+int50h - c3 d4 03 02 87 30 0a fa 
+int58h - c3 56 3e 0f 20 39 3e 00 
+int60h - c9 fa fc 03 fe c0 20 d4 
+int68h - 21 02 ff cb c6 3e 0c cd 
+int70h - e8 00 cd f1 00 fa fc 03 
+int78h - fe 4e 20 c0 21 02 ff cb 
+int80h - 86 3e 01 ea 03 ec af ea 
+int88h - 13 fb 3e e0 cd e8 00 3e 
+int90h - 02 ea 13 fb 3e 02 c9 3e 
+int98h - 01 e0 02 3e c0 cd e8 00 
+intA0h - cd f1 00 fa fc 03 fe c0 
+intA8h - 20 1e 21 02 ff cb 86 3e 
+intB0h - 4e cd e8 00 cd f1 00 38 
+intB8h - 0f fa fc 03 fe 0c c2 3c 
+intC0h - 00 21 02 ff cb 86 18 0f 
+intC8h - 3e 02 ea 03 ec af ea 13 
+intD0h - fb ea 13 fb 3e 01 c9 3e 
+intD8h - 03 ea 03 ec af ea 13 fb 
+intE0h - 3e 01 ea 13 fb 3e 02 c9 
+intE8h - e0 01 f0 02 f6 80 e0 02 
+intF0h - c9 01 10 27 f0 02 87 d0 
+intF8h - 0b 78 b1 20 f7 37 c9 f3 
+
+Entry Point - 00 c3 50 01 
+
+Title - KILLERINSTINCT9
+
+CGB Flag - 35 (Invalid)
+New Licensee Code - (ASCII) 01 (Nintendo)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - ad
+Global Checksum - b2 1b

@@ -1,0 +1,52 @@
+rst00h - e9 ff ff 10 16 4b 16 86 
+rst08h - 16 c1 16 fc 16 37 17 72 
+rst10h - 17 ad 17 e8 17 23 18 5e 
+rst18h - 18 99 18 d4 18 0f 19 4a 
+rst20h - 19 85 19 ff ff ff ff ff 
+rst28h - ff ff ff 3e c0 e0 46 3e 
+rst30h - 28 3d 20 fd c9 00 01 02 
+rst38h - 03 04 05 06 07 08 09 ff 
+
+int40h - c3 aa 29 4e 4f 4e 45 ff 
+int48h - c3 31 29 53 4f 4c 44 ff 
+int50h - 00 00 00 3e 02 e0 a9 c9 
+int58h - c3 2b 06 af 3d 20 fd c9 
+int60h - 00 3c 3c 7e 66 ff 66 ff 
+int68h - 66 ff 66 ff 3c 7e 00 3c 
+int70h - 00 18 18 3c 38 7c 18 3c 
+int78h - 18 3c 18 7e 7e ff 00 7e 
+int80h - 00 3c 3c 7e 66 ff 0c 7e 
+int88h - 18 3e 32 7f 7e ff 00 7e 
+int90h - 00 3c 3c 7e 66 ff 1c 3e 
+int98h - 06 7f 66 ff 3c 7e 00 3c 
+intA0h - 00 1c 1c 3e 2c 7e 6c fe 
+intA8h - 7e ff 0c 7e 3e 7f 00 3e 
+intB0h - 00 7e 7e ff 60 fe 7c fe 
+intB8h - 06 7f 66 ff 3c 7e 00 3c 
+intC0h - 00 3c 3c 7e 60 fc 7c fe 
+intC8h - 66 ff 66 ff 3c 7e 00 3c 
+intD0h - 00 7e 7e ff 46 ff 0c 5e 
+intD8h - 18 3c 30 78 30 78 00 30 
+intE0h - 00 3c 3c 7e 66 ff 3c 7e 
+intE8h - 66 ff 66 ff 3c 7e 00 3c 
+intF0h - 00 3c 3c 7e 66 ff 3e 7f 
+intF8h - 06 1f 0c 3e 38 7c 00 38 
+
+Entry Point - 00 c3 2b 06 
+
+Title - LAMBORGHINI\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 60 (Titus)
+ROM Version - 00
+
+Header Checksum - 57
+Global Checksum - e6 3e

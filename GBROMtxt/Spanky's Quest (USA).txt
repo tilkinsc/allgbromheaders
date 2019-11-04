@@ -1,0 +1,52 @@
+rst00h - e1 87 ef 2a 66 6f e9 ff 
+rst08h - c3 08 00 ff ff ff ff ff 
+rst10h - f3 e0 ed ea 00 20 fb c9 
+rst18h - c9 ff ff ff ff ff ff ff 
+rst20h - c9 ff ff ff ff ff ff ff 
+rst28h - 85 6f d0 24 c9 ff ff ff 
+rst30h - 87 ef 2a 66 6f c9 ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 3c 02 ff ff ff ff ff 
+int48h - c3 e2 01 ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - ff ff ff ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - SPANKY'S QUEST\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 01 (64KByte (4 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - e9 (Natsume)
+ROM Version - 00
+
+Header Checksum - f9
+Global Checksum - 8d b2

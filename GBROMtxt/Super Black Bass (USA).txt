@@ -1,0 +1,52 @@
+rst00h - c3 50 01 00 00 00 00 00 
+rst08h - 00 00 00 00 00 00 00 00 
+rst10h - 00 00 00 00 00 00 00 00 
+rst18h - 00 00 00 00 00 00 00 00 
+rst20h - 00 00 00 00 00 00 00 00 
+rst28h - 00 00 00 00 00 00 00 00 
+rst30h - 00 00 00 00 00 00 00 00 
+rst38h - 00 00 00 00 00 00 00 00 
+
+int40h - c3 ab 01 00 00 00 00 00 
+int48h - c3 da 01 00 00 00 00 00 
+int50h - c3 e7 01 00 00 00 00 00 
+int58h - c3 fc 01 00 00 00 00 00 
+int60h - d9 00 00 00 00 00 00 00 
+int68h - 00 00 00 00 00 00 00 00 
+int70h - 00 00 00 00 00 00 00 00 
+int78h - 00 00 00 00 00 00 00 00 
+int80h - 00 00 00 00 00 00 00 00 
+int88h - 00 00 00 00 00 00 00 00 
+int90h - 00 00 00 00 00 00 00 00 
+int98h - 00 00 00 00 00 00 00 00 
+intA0h - 00 00 00 00 00 00 00 00 
+intA8h - 00 00 00 00 00 00 00 00 
+intB0h - 00 00 00 00 00 00 00 00 
+intB8h - 00 00 00 00 00 00 00 00 
+intC0h - 20 20 20 20 20 20 20 20 
+intC8h - 20 20 20 20 20 20 20 20 
+intD0h - 28 43 29 31 39 39 37 2d 
+intD8h - 31 39 39 38 20 53 54 41 
+intE0h - 52 46 49 53 48 20 49 4e 
+intE8h - 43 2e 20 20 20 20 20 20 
+intF0h - 20 20 20 20 20 20 20 20 
+intF8h - 20 20 20 20 20 20 20 20 
+
+Entry Point - 00 c3 50 01 
+
+Title - SUPER BLACK BAS
+
+CGB Flag - 53 (Invalid)
+New Licensee Code - (ASCII) 09 (b-ai)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - f0
+Global Checksum - 44 80

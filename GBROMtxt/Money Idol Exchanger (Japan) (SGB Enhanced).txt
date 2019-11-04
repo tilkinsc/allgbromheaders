@@ -1,0 +1,52 @@
+rst00h - ff ff ff ff ff ff ff ff 
+rst08h - ff ff ff ff ff ff ff ff 
+rst10h - ff ff ff ff ff ff ff ff 
+rst18h - ff ff ff ff ff ff ff ff 
+rst20h - ff ff ff ff ff ff ff ff 
+rst28h - ff ff ff ff ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - f5 c5 d5 e5 c3 8c 02 ff 
+int48h - d9 ff ff ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - f5 e5 21 28 cf c3 7d 00 
+int60h - d9 e0 b0 f0 af f5 f0 b0 
+int68h - e0 af ea 00 20 cd 7c 00 
+int70h - f1 e0 af ea 00 20 c9 e0 
+int78h - af ea 00 20 e9 f0 01 ea 
+int80h - 12 cf fa 13 cf e0 01 3e 
+int88h - 80 e0 02 fa 15 cf 3c ea 
+int90h - 15 cf e1 f1 d9 af e0 0f 
+int98h - 3e 0b e0 ff af e0 02 ea 
+intA0h - 12 cf ea 15 cf ea 16 cf 
+intA8h - 3e 88 e0 01 ea 13 cf 3e 
+intB0h - 80 e0 02 c9 05 18 03 06 
+intB8h - 27 03 30 00 05 18 03 05 
+intC0h - 23 03 00 00 05 18 03 04 
+intC8h - 19 02 40 00 05 18 03 03 
+intD0h - 15 02 20 00 05 18 03 02 
+intD8h - 12 02 00 00 ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - EXCHANGER GB\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) E7 (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - f3
+Global Checksum - 07 25

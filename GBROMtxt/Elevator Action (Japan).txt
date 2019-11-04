@@ -1,0 +1,52 @@
+rst00h - 9a 45 fe ff ee ff ae ff 
+rst08h - c3 80 f0 ff ee ff be ff 
+rst10h - 08 9b ff f9 c9 bf aa ff 
+rst18h - 26 c6 f0 9b 6f 08 9b ff 
+rst20h - f9 c9 be ff bb ff ee ff 
+rst28h - 3e 00 a7 20 fb c9 fb ff 
+rst30h - ee ef ff ff ff ff fe ff 
+rst38h - bb ff ff ff ae ff aa ff 
+
+int40h - c3 6d 02 ff af ff ff ff 
+int48h - d9 ff bf ff ab ff be ff 
+int50h - d9 ff ee ff ef ff ee ff 
+int58h - d9 ff fe ff be ff aa ff 
+int60h - d9 ff aa ff ba ff be ff 
+int68h - bf ff ee ff fe ff ff ff 
+int70h - ba ff ee ff ae ff fe ff 
+int78h - fe ff ae ff bb ff ea ff 
+int80h - bf ff ef ff fe ff ba ff 
+int88h - fb ff aa ff af ff fe ff 
+int90h - bf ff ba ff fe ff 8a ff 
+int98h - fb ff eb ff aa ff ab ff 
+intA0h - ea ff be ff ff ff fe ff 
+intA8h - ff ef fa bf bb ff bb ff 
+intB0h - be ff ee ff bb ff ff ff 
+intB8h - ee ff fe ff fb ff fa ff 
+intC0h - be ff fe ff fa ff eb ff 
+intC8h - fe bf fb ff ae ff fa ff 
+intD0h - be ff fe ff be ff ab ff 
+intD8h - fb ff ae fb fb ff af ff 
+intE0h - af ff be ff ab ff eb ff 
+intE8h - be ff eb ff ff ff fb ff 
+intF0h - bb ff be ff eb ff ee ff 
+intF8h - aa ff eb ff be ff ae ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - ELEVATOR ACTION
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 01 (64KByte (4 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - c0 (Taito)
+ROM Version - 00
+
+Header Checksum - e5
+Global Checksum - 85 ec

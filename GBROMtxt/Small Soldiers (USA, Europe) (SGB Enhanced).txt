@@ -1,0 +1,52 @@
+rst00h - f3 ea 01 21 e0 8e fb c9 
+rst08h - ea 01 21 e0 8e c9 ff ff 
+rst10h - c3 03 b0 ff ff ff ff ff 
+rst18h - cb 7c c8 c3 ec 37 ff ff 
+rst20h - c3 a8 27 ff ff ff ff ff 
+rst28h - e1 21 3b 13 e5 c3 77 27 
+rst30h - e1 21 33 13 e5 c3 77 27 
+rst38h - d7 c9 ff ff ff ff ff ff 
+
+int40h - c3 68 01 ff ff ff ff ff 
+int48h - c3 53 01 ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 f5 af e0 8c f0 8c a7 
+int68h - 28 fb f1 c9 f5 f0 41 e6 
+int70h - 02 20 fa f1 12 13 c9 f5 
+int78h - f0 41 e6 02 20 fa f1 22 
+int80h - c9 4f f0 8e f5 78 f3 ea 
+int88h - 01 21 e0 8e fb 79 01 93 
+int90h - 00 c5 e9 f1 f3 ea 01 21 
+int98h - e0 8e fb c9 11 00 80 af 
+intA0h - cd 6c 00 7a fe a0 20 f7 
+intA8h - c9 11 00 00 47 f0 8f b8 
+intB0h - 28 02 30 0a 13 f0 8f b8 
+intB8h - 38 fa af e0 8f c9 af e0 
+intC0h - 8f 11 88 88 c9 11 00 dc 
+intC8h - f0 ce 4f f0 cf 47 3e 3c 
+intD0h - 21 00 00 f5 7d 12 13 7c 
+intD8h - 12 13 09 f1 3d 20 f4 c9 
+intE0h - 29 26 dc 2a 66 6f c9 ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - SMALL SOLDIERS\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 78 (T*HQ)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 3e
+Global Checksum - cb 46

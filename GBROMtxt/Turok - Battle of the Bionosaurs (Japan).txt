@@ -1,0 +1,52 @@
+rst00h - c3 12 12 4c 49 4d 49 54 
+rst08h - c3 95 11 52 49 47 48 54 
+rst10h - c3 76 33 4f 55 54 0e b6 
+rst18h - 85 6f 8c 95 67 c9 41 47 
+rst20h - 83 5f 8a 93 57 c9 54 49 
+rst28h - f5 2a 12 13 f1 0b c9 65 
+rst30h - e5 d5 e1 d1 c9 74 53 74 
+rst38h - 6f 70 0c 66 54 e4 53 5c 
+
+int40h - c3 56 08 08 57 65 50 75 
+int48h - c3 d0 c2 51 0e 34 44 10 
+int50h - d9 45 52 53 4f 53 50 45 
+int58h - d9 44 5f 53 4c 49 44 45 
+int60h - d9 fe 44 10 50 52 49 50 
+int68h - 01 04 04 04 04 04 04 04 
+int70h - 04 04 04 04 04 04 04 04 
+int78h - 04 04 04 04 04 04 04 04 
+int80h - 04 04 04 04 04 04 04 04 
+int88h - 04 04 04 04 04 04 04 04 
+int90h - 04 04 04 04 04 04 04 04 
+int98h - 04 04 04 04 04 04 04 04 
+intA0h - 04 04 04 04 04 04 04 04 
+intA8h - 04 04 04 04 04 04 04 04 
+intB0h - 04 04 04 04 04 04 04 04 
+intB8h - 04 04 04 04 04 04 04 04 
+intC0h - 04 04 04 04 04 04 04 04 
+intC8h - 04 04 04 04 04 04 04 04 
+intD0h - 41 21 41 4c 54 55 52 41 
+intD8h - 5f 47 45 4e 45 52 41 43 
+intE0h - 49 4f 4e 5f 50 49 45 44 
+intE8h - 52 41 53 5f 43 41 59 45 
+intF0h - 4e 44 4f 0e 32 43 06 45 
+intF8h - 4e 45 52 5f 43 0e 05 44 
+
+Entry Point - 00 c3 50 01 
+
+Title - TUROK BATTLE OF
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 0H (Invalid)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 12
+Global Checksum - 7e 37

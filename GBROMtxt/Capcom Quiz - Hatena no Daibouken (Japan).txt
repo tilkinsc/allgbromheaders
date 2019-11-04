@@ -1,0 +1,52 @@
+rst00h - c3 7b 1d 00 00 00 00 00 
+rst08h - 00 00 00 00 00 00 00 00 
+rst10h - 00 00 00 00 00 00 00 00 
+rst18h - 00 00 00 00 00 00 00 00 
+rst20h - 00 00 00 00 00 00 00 00 
+rst28h - 00 00 00 00 00 00 00 00 
+rst30h - 00 00 00 00 00 00 00 00 
+rst38h - 00 00 00 00 00 00 00 00 
+
+int40h - c3 41 19 00 00 00 00 00 
+int48h - 18 26 00 00 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - c3 49 1b 00 00 00 00 00 
+int60h - d9 00 00 00 00 00 00 00 
+int68h - 00 00 00 00 00 00 00 00 
+int70h - f5 3e 83 e0 40 af e0 4b 
+int78h - f1 d9 00 00 00 00 00 00 
+int80h - 3d c8 f5 cd e0 00 f1 18 
+int88h - f7 00 00 00 00 00 00 00 
+int90h - fa 08 c1 3d 20 01 76 c9 
+int98h - 00 00 00 00 00 00 00 00 
+intA0h - 00 00 00 00 00 00 00 00 
+intA8h - 00 00 00 00 00 00 00 00 
+intB0h - 00 00 00 00 00 00 00 00 
+intB8h - 00 00 00 00 00 00 00 00 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - af ea 08 c1 76 fa 08 c1 
+intE8h - a7 28 fa c9 00 00 00 00 
+intF0h - 1e 0e 12 1c af 12 1c 12 
+intF8h - c9 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - CAPCOM QUIZ\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 08 (Capcom)
+ROM Version - 00
+
+Header Checksum - bf
+Global Checksum - b4 17

@@ -1,0 +1,52 @@
+rst00h - 87 e1 5f 16 00 19 5e 23 
+rst08h - 56 6b 62 e9 e9 d8 88 27 
+rst10h - 85 6f d0 24 c9 80 86 80 
+rst18h - 7c 92 c0 7d 93 c9 54 04 
+rst20h - 7d 93 6f 7c 9a 67 c9 30 
+rst28h - 7d 91 6f 7c 98 67 c9 00 
+rst30h - 83 5f d0 14 c9 0d 48 08 
+rst38h - ff fb bf ff 00 c2 69 00 
+
+int40h - c3 f3 01 df 01 10 00 22 
+int48h - d9 ff 5f ff 91 54 70 00 
+int50h - c3 22 02 ff 11 00 1a 00 
+int58h - d9 41 02 af a8 04 40 00 
+int60h - d9 db ef fb 02 82 10 20 
+int68h - ff b6 f6 fb 24 81 dd 8c 
+int70h - ff f7 f7 7f 24 c4 02 00 
+int78h - fe ff fd ff 3b 90 01 4a 
+int80h - ff ff bf ff a9 54 0c 01 
+int88h - ff 7e ff ff d9 82 90 01 
+int90h - ff fe ff fb 20 00 00 00 
+int98h - ff fd ff 3e 5c 94 02 32 
+intA0h - ff fb 7f ff c1 40 40 00 
+intA8h - 5f 3d ff ff 1a c1 10 00 
+intB0h - ff ff ff ef 89 41 11 11 
+intB8h - ff eb f6 ff 01 1c 00 40 
+intC0h - ff ff ff f6 80 80 07 42 
+intC8h - ff fd ff de 29 cf 31 40 
+intD0h - ff 7f f7 9f 00 10 04 00 
+intD8h - ff f6 ef f4 ad 80 3d c2 
+intE0h - ff df fd e7 68 a0 32 00 
+intE8h - fe ef bb ba 25 01 95 00 
+intF0h - ff 77 bc f7 f1 20 11 03 
+intF8h - fe d6 6f df 9a 40 30 0a 
+
+Entry Point - 00 c3 50 01 
+
+Title - PACHISLO GB\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 34 (Konami)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 06 (MBC2+BATTERY)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 46
+Global Checksum - bc 00

@@ -1,0 +1,52 @@
+rst00h - 3e c0 e0 46 3e 28 3d 20 
+rst08h - fd c9 3e a6 e0 4b af e0 
+rst10h - 4a e5 21 40 ff cb ae e1 
+rst18h - c9 3e 01 c3 63 00 f5 3e 
+rst20h - 02 ea 00 20 f1 c9 3e 03 
+rst28h - c3 63 00 3e 04 c3 63 00 
+rst30h - 3e 05 c3 63 00 3e 06 c3 
+rst38h - 63 00 d5 20 d5 64 d5 f4 
+
+int40h - d9 b2 b4 00 48 00 08 f2 
+int48h - f3 f5 cd 01 11 f1 fb d9 
+int50h - f3 f5 c5 d5 e5 c3 ce 3d 
+int58h - d9 e4 c2 da 3c b4 00 58 
+int60h - d9 3e 07 ea 00 20 c9 21 
+int68h - 00 98 c3 70 00 21 00 9c 
+int70h - 11 00 04 c3 79 00 11 00 
+int78h - 20 af 22 1b ba 20 fb bb 
+int80h - 20 f8 c9 f0 40 e6 7c e0 
+int88h - 40 c9 f0 40 f6 83 e0 40 
+int90h - c9 c8 f0 40 f6 82 e0 40 
+int98h - c8 b2 b4 00 00 00 50 00 
+intA0h - c2 50 25 ce ec 66 66 cc 
+intA8h - 0c 00 0a 02 72 00 82 00 
+intB0h - 0c 00 0c 00 08 10 1e 88 
+intB8h - 88 00 0e dc cc 6e e6 dc 
+intC0h - dc d8 98 ba ba 66 62 6e 
+intC8h - 0e ec cc dc dc 98 9e ba 
+intD0h - b8 32 3e 42 44 44 54 4c 
+intD8h - 44 4a 54 48 42 44 00 00 
+intE0h - 00 00 00 00 00 00 00 02 
+intE8h - 00 00 56 00 6c 00 00 b2 
+intF0h - b4 00 50 3c fa f2 ae e0 
+intF8h - 0e e0 ff 30 a0 fe cc 0a 
+
+Entry Point - 00 c3 50 01 
+
+Title - BEETLEJUICE\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 56 (ljn)
+ROM Version - 00
+
+Header Checksum - 6c
+Global Checksum - 85 83

@@ -1,0 +1,52 @@
+rst00h - c3 69 05 ff ff ff ff ff 
+rst08h - 2a 66 6f c9 ff ff ff ff 
+rst10h - 2f 3c 85 6f d8 25 c9 ff 
+rst18h - 2f 3c 83 5f d8 15 c9 ff 
+rst20h - 2f 3c 81 4f d8 05 c9 ff 
+rst28h - 85 6f d0 24 c9 ff ff ff 
+rst30h - 83 5f d0 14 c9 ff ff ff 
+rst38h - 81 4f d0 04 c9 ff ff ff 
+
+int40h - 18 26 ff ff ff ff ff ff 
+int48h - 18 70 ff ff ff ff ff ff 
+int50h - c3 da 00 ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - f5 c5 d5 e5 cd 84 02 e1 
+int70h - d1 c1 f1 d9 ff ff ff ff 
+int78h - c3 b2 01 c3 e2 19 c3 d7 
+int80h - 08 c3 b7 19 c3 a4 10 c3 
+int88h - 85 26 c3 3f 02 c3 7b 1c 
+int90h - c3 86 1c c3 8f 1c c3 98 
+int98h - 1c c3 a1 1c cd 74 06 cd 
+intA0h - 8b 18 c3 86 06 cd 74 06 
+intA8h - cd 8b 18 c3 81 06 cd ae 
+intB0h - 06 cd 62 16 c3 8b 06 c3 
+intB8h - 38 0b f5 e5 f0 82 21 9f 
+intC0h - 04 87 85 6f 30 01 24 2a 
+intC8h - 66 6f e9 21 41 ff cb 4e 
+intD0h - 20 fc c9 f0 41 cb 4f 20 
+intD8h - fa c9 fb e5 d5 c5 f5 21 
+intE0h - 09 c0 7e e6 03 20 0a cb 
+intE8h - c6 cd fb 2a 21 09 c0 cb 
+intF0h - 86 f1 c1 d1 e1 c9 ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - GANBARE GOEMON\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - a4 (Konami)
+ROM Version - 00
+
+Header Checksum - 6a
+Global Checksum - 71 5c

@@ -1,0 +1,52 @@
+rst00h - c9 ff ff ff ff ff ff ff 
+rst08h - 22 0d 20 fc 05 20 f9 c9 
+rst10h - e1 87 5f 16 00 19 2a 66 
+rst18h - 6f e9 ff ff ff ff ff ff 
+rst20h - 6f 26 00 29 19 2a 66 6f 
+rst28h - ff ff ff ff ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 39 16 00 00 00 00 00 
+int48h - d9 ff ff ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - d9 ff ff ff ff ff ff ff 
+int70h - f3 31 00 e0 af cd 7b 00 
+int78h - c3 50 01 47 f3 af e0 0f 
+int80h - e0 ff 3e 01 ea 50 21 ea 
+int88h - 3f c9 78 b7 28 08 21 00 
+int90h - c1 01 fe 1e 18 06 21 00 
+int98h - c0 01 fe 1f af 22 0b 78 
+intA0h - b1 20 f9 21 fe ff 06 7e 
+intA8h - 32 05 20 fc 21 ff fe 05 
+intB0h - 32 05 20 fc cd cb 00 cd 
+intB8h - 80 ff 3e e4 e0 47 3e e4 
+intC0h - e0 48 3e c0 e0 49 3e 93 
+intC8h - e0 40 c9 f3 3e c1 e0 8b 
+intD0h - 21 de 00 0e 80 06 0a 2a 
+intD8h - e2 0c 05 20 fa c9 f0 8b 
+intE0h - e0 46 3e 28 3d 20 fd c9 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 70 00 
+
+Title - BILL AND TED\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 56 (ljn)
+ROM Version - 00
+
+Header Checksum - 7a
+Global Checksum - 96 e0

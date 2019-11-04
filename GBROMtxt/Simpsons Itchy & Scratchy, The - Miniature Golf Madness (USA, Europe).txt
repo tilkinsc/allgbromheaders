@@ -1,0 +1,52 @@
+rst00h - c3 58 01 00 00 00 00 00 
+rst08h - 00 00 00 00 00 00 00 00 
+rst10h - b7 28 06 ea b5 ff ea 50 
+rst18h - 21 c9 00 00 00 00 00 00 
+rst20h - 00 00 00 00 00 00 00 00 
+rst28h - 00 00 00 00 00 00 00 00 
+rst30h - 00 00 00 00 00 00 00 00 
+rst38h - 00 00 00 00 00 00 00 00 
+
+int40h - c3 f4 03 00 00 00 00 00 
+int48h - c3 b1 04 00 00 00 00 00 
+int50h - c3 db 04 00 00 00 00 00 
+int58h - c3 98 04 00 00 00 00 00 
+int60h - c3 99 04 00 00 00 00 00 
+int68h - d9 ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - ff ff ff ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 58 01 
+
+Title - ITCHY & SCRATCH
+
+CGB Flag - 59 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 51 (Acclaim)
+ROM Version - 00
+
+Header Checksum - 4a
+Global Checksum - 57 6b

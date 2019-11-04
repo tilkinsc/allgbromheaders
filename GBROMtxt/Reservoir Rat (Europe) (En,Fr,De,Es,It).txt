@@ -1,0 +1,52 @@
+rst00h - d9 ff ff ff ff ff ff ff 
+rst08h - 18 5d ff ff ff ff ff ff 
+rst10h - 23 cb 7c c8 18 67 ff ff 
+rst18h - cb 7c c8 18 60 ff ff ff 
+rst20h - d9 ff ff ff ff ff ff ff 
+rst28h - d9 ff ff ff ff ff ff ff 
+rst30h - d9 ff ff ff ff ff ff ff 
+rst38h - d9 ff ff ff ff ff ff ff 
+
+int40h - c3 72 02 ff ff ff ff ff 
+int48h - c3 00 03 ff ff ff ff ff 
+int50h - c3 ed 02 ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff c5 
+int68h - 47 f0 aa 4f 78 e6 0f e0 
+int70h - aa ea 00 21 79 c1 a7 c0 
+int78h - 3c c9 f5 18 05 f5 7c d6 
+int80h - 40 67 f0 aa 3c e6 0f e0 
+int88h - aa ea 00 21 f1 c9 f0 40 
+int90h - cb ff e0 40 c9 f3 cd 15 
+int98h - 02 f0 40 cb bf e0 40 fb 
+intA0h - c9 3e c3 e0 46 3e 28 3d 
+intA8h - 20 fd c9 0b 77 23 0b cb 
+intB0h - 78 28 f9 c9 ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 41 0b 
+
+Title - RESERVOIR RAT\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 54 (Konami)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 7e
+Global Checksum - 96 94

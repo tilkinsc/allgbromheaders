@@ -1,0 +1,52 @@
+rst00h - 87 e1 5f 16 00 19 5e 23 
+rst08h - 56 d5 e1 e9 f5 f0 41 e6 
+rst10h - 04 28 06 f0 40 e6 ef e0 
+rst18h - 40 f1 d9 fb f5 fa 99 cb 
+rst20h - 3d 38 08 ea 99 cb 20 03 
+rst28h - ea 98 cb cd 57 59 f1 d9 
+rst30h - 00 00 00 00 00 00 00 00 
+rst38h - 00 00 00 00 00 00 00 00 
+
+int40h - c3 61 00 00 00 00 00 00 
+int48h - c3 0c 00 00 00 00 00 00 
+int50h - c3 1b 00 00 00 00 00 00 
+int58h - d9 00 00 00 00 00 00 00 
+int60h - d9 f5 f0 40 f6 10 e0 40 
+int68h - fa 11 cc 3c fe 40 38 04 
+int70h - ea 12 cc af ea 11 cc f1 
+int78h - d9 49 4e 53 54 52 55 43 
+int80h - 54 49 4f 4e 53 00 43 4f 
+int88h - 4c 4c 49 44 45 20 53 41 
+int90h - 4d 45 20 53 48 41 50 45 
+int98h - 00 20 42 41 4c 4c 53 20 
+intA0h - 54 4f 20 44 45 53 54 52 
+intA8h - 4f 59 20 00 20 20 20 20 
+intB0h - 20 20 20 54 48 45 4d 20 
+intB8h - 20 20 20 20 20 20 00 20 
+intC0h - 44 49 46 46 45 52 45 4e 
+intC8h - 54 20 53 48 41 50 45 53 
+intD0h - 20 00 47 45 4e 45 52 41 
+intD8h - 54 45 20 20 41 20 50 4f 
+intE0h - 44 20 4f 46 00 20 54 48 
+intE8h - 45 20 54 48 49 52 44 20 
+intF0h - 53 48 41 50 45 20 20 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - THEGAMEOFHARMON
+
+CGB Flag - 59 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 00 (ROM ONLY)
+Rom Size - 00 (32KByte (no ROM banking))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 79 (Accolade)
+ROM Version - 00
+
+Header Checksum - bf
+Global Checksum - 89 98

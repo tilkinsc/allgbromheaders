@@ -1,0 +1,52 @@
+rst00h - c3 61 00 c3 61 00 c3 61 
+rst08h - 00 c3 61 00 c3 61 00 c3 
+rst10h - 61 00 c3 61 00 c3 61 00 
+rst18h - c3 61 00 c3 61 00 c3 61 
+rst20h - 00 c3 61 00 c3 61 00 c3 
+rst28h - 61 00 c3 61 00 c3 61 00 
+rst30h - d9 ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 a3 01 ff ff ff ff ff 
+int48h - c3 ed 01 ff ff ff ff ff 
+int50h - c3 2f 02 ff ff ff ff ff 
+int58h - c3 1c 02 ff ff ff ff ff 
+int60h - d9 c9 ff ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - ff ff ff ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - f3 c3 3e 03 
+
+Title - REN AND STIMPY\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 78 (t*hq)
+ROM Version - 00
+
+Header Checksum - 8c
+Global Checksum - 8f b2

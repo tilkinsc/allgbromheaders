@@ -1,0 +1,52 @@
+rst00h - 0e 00 90 d0 0c 2f 3c c9 
+rst08h - 83 5f 3e 00 8a 57 c9 00 
+rst10h - d5 5f 16 00 cb 23 cb 12 
+rst18h - 19 5e 23 56 62 6b d1 c9 
+rst20h - f7 2a 12 1c c9 00 00 00 
+rst28h - 0b 78 b1 20 fb c9 00 00 
+rst30h - f0 41 cb 4f 20 fa c9 00 
+rst38h - 85 6f 3e 00 8c 67 c9 00 
+
+int40h - 18 1f 00 00 00 00 00 00 
+int48h - 18 46 00 00 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - d9 00 00 00 00 00 00 00 
+int60h - d9 f5 c5 d5 e5 f3 21 4b 
+int68h - c1 34 cd 80 ff cd 8b 32 
+int70h - cd d7 00 cd b2 32 cd 57 
+int78h - 32 cd ea 27 cd 0a 33 cd 
+int80h - 8b 32 cd ad 33 3e 01 ea 
+int88h - 4c c1 fb e1 d1 c1 f1 d9 
+int90h - f5 c5 d5 e5 f3 fa a7 d0 
+int98h - b7 20 0c fa 93 d0 b7 20 
+intA0h - 06 fb e1 d1 c1 f1 d9 fe 
+intA8h - 02 28 09 cd a7 01 fb e1 
+intB0h - d1 c1 f1 d9 cd b1 01 fb 
+intB8h - e1 d1 c1 f1 d9 06 0a 11 
+intC0h - 80 ff 21 cd 00 7e 12 23 
+intC8h - 13 05 20 f9 c9 3e c0 e0 
+intD0h - 46 3e 28 3d 20 fd c9 fa 
+intD8h - b3 d1 b7 28 07 3e 00 e0 
+intE0h - 43 e0 42 c9 fa 4f c1 e0 
+intE8h - 43 fa 50 c1 e0 42 c9 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - URUSEIYATSURA\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 06 (MBC2+BATTERY)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 1a (Yanoman)
+ROM Version - 00
+
+Header Checksum - be
+Global Checksum - 25 4b

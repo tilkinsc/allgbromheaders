@@ -1,0 +1,52 @@
+rst00h - c3 52 01 ff ff ff ff ff 
+rst08h - c3 6d 01 ff ff ff ff ff 
+rst10h - c3 b8 16 ff ff ff ff ff 
+rst18h - c3 7f 01 ff ff ff ff ff 
+rst20h - c3 8b 01 ff ff ff ff ff 
+rst28h - c3 99 01 ff ff ff ff ff 
+rst30h - 85 6f 30 01 24 7e c9 ff 
+rst38h - c9 80 f0 ff ff ff ff ff 
+
+int40h - c3 4c 06 ff ff ff ff ff 
+int48h - c3 ba 07 ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - c3 b9 07 ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - ff ff ff ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 96 03 
+
+Title - ULTRAMAN GEKIDE
+
+CGB Flag - 4e (Invalid)
+New Licensee Code - (ASCII) CF (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - a9
+Global Checksum - 6b 13

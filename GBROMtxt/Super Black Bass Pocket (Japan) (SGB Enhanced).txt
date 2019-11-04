@@ -1,0 +1,52 @@
+rst00h - c3 50 01 fb 2a fe 16 f9 
+rst08h - 7e fe 02 d7 16 f9 53 ea 
+rst10h - ff 00 db 02 fe 02 7f 00 
+rst18h - ef 08 df 01 3f 32 ff eb 
+rst20h - ff 00 ff 01 fe 50 ff 40 
+rst28h - fd ac 1f 86 ff 10 ff 7f 
+rst30h - ff 10 ff 10 fb 00 ef 00 
+rst38h - ff b0 df 20 ff 44 ff 8d 
+
+int40h - c3 82 02 08 df 04 ff 02 
+int48h - c3 b1 02 00 f3 22 ff 3f 
+int50h - c3 be 02 40 97 21 7f 00 
+int58h - c3 d3 02 50 df 48 7f 7f 
+int60h - d9 00 6f 12 ef 04 ef 10 
+int68h - eb 00 ff 09 cf 03 fb ff 
+int70h - ff 46 ff 12 ff 40 fd 80 
+int78h - 7f 00 ff 00 ff 10 f7 cd 
+int80h - 00 ff 01 bf 00 ff 00 ff 
+int88h - 00 ff 04 ff 00 ff 00 ff 
+int90h - ff 58 ff 08 fb 41 dd 16 
+int98h - f7 00 fa 60 ff 00 7f b7 
+intA0h - ff 40 ff 88 ef 00 ef 02 
+intA8h - ff 06 ff 04 ff 00 d7 fe 
+intB0h - ff 41 df 12 ff 00 ff 0d 
+intB8h - df 00 ff 64 bf 80 ff dd 
+intC0h - ff 02 ff 90 ff 00 ff 00 
+intC8h - f5 83 ff 40 fe 00 fe ef 
+intD0h - ff 28 fd 00 ff 09 f7 48 
+intD8h - ff 81 e9 00 ff 04 fb e7 
+intE0h - ff 08 ff 05 f5 04 fd 08 
+intE8h - ff 04 df 00 ff 00 ff ee 
+intF0h - ff 00 ff 00 ff 04 bd 00 
+intF8h - e6 48 fe 08 f9 20 df 57 
+
+Entry Point - 00 c3 50 01 
+
+Title - SUPER BLACK BAS
+
+CGB Flag - 53 (Invalid)
+New Licensee Code - (ASCII) 0H (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 05 (1MByte (64 banks) - only 63 banks used by MBC1)
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - da
+Global Checksum - 4e 86

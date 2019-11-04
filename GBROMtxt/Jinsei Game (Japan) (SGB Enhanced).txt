@@ -1,0 +1,52 @@
+rst00h - 5f 16 00 cb 23 cb 12 e1 
+rst08h - 19 5e 23 56 d5 e1 e9 00 
+rst10h - 5f 16 00 cb 23 cb 12 e1 
+rst18h - e5 23 19 5e 23 56 d5 e1 
+rst20h - e9 ff ff ff ff ff ff ff 
+rst28h - 5f 16 00 cb 23 cb 12 e1 
+rst30h - e5 01 06 00 09 2a 66 6f 
+rst38h - 19 5e 23 56 d5 e1 e9 ff 
+
+int40h - c3 be 03 02 d3 6c 40 00 
+int48h - c3 f8 03 04 b7 6c 00 00 
+int50h - d9 7d 44 c8 f4 93 20 00 
+int58h - d9 5e 04 01 da a4 02 08 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff fd ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - 00 00 00 02 02 00 00 40 
+int88h - 00 00 80 00 10 0c 02 00 
+int90h - 02 44 00 02 24 00 11 40 
+int98h - 4a 80 04 00 00 00 00 00 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff bf ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - 00 00 00 00 20 00 01 10 
+intC8h - 04 02 00 00 00 01 00 41 
+intD0h - 01 21 00 00 00 40 90 20 
+intD8h - 00 1a 80 00 22 01 12 00 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ef ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - THE GAME OF LIF
+
+CGB Flag - 45 (Invalid)
+New Licensee Code - (ASCII) A7 (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 06 (MBC2+BATTERY)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 20
+Global Checksum - b1 e3

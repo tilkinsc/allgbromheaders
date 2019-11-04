@@ -1,0 +1,52 @@
+rst00h - c3 d8 df 00 00 00 00 00 
+rst08h - c3 db df 00 00 00 00 00 
+rst10h - c3 de df 00 00 00 00 00 
+rst18h - c3 e1 df 00 00 00 00 00 
+rst20h - c3 e4 df 00 00 00 00 00 
+rst28h - c3 e7 df 00 00 00 00 00 
+rst30h - c3 ea df 00 00 00 00 00 
+rst38h - c3 38 00 00 00 00 00 00 
+
+int40h - f5 e5 cd f0 df e1 f1 d9 
+int48h - f5 e5 cd f3 df e1 f1 d9 
+int50h - f5 e5 cd f6 df e1 f1 d9 
+int58h - f5 e5 cd f9 df e1 f1 d9 
+int60h - f5 e5 cd fc df e1 f1 d9 
+int68h - 4c 2c 68 00 4c 34 69 00 
+int70h - 54 2c 6a 00 54 34 6b 00 
+int78h - ec 04 f0 13 f5 19 fb 1e 
+int80h - 0a 22 19 1e 1f 19 24 13 
+int88h - 28 04 24 f5 1f ef 19 ea 
+int90h - 0a e6 fb ea f5 ef f0 f5 
+int98h - fe 01 ff 02 fd 03 02 ff 
+intA0h - 01 fe 03 fd 80 80 95 18 
+intA8h - 00 10 95 20 00 10 95 78 
+intB0h - 00 10 95 80 00 10 30 18 
+intB8h - bc 80 30 20 bd 80 30 28 
+intC0h - c0 80 30 30 c1 80 38 18 
+intC8h - be 80 38 20 bf 80 38 28 
+intD0h - c2 80 38 30 c3 80 40 78 
+intD8h - bc 00 40 80 bd 00 40 88 
+intE0h - c0 00 40 90 c1 00 48 78 
+intE8h - be 00 48 80 bf 00 48 88 
+intF0h - c2 00 48 90 c3 00 ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - DARUMAN BUSTERS
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 01 (64KByte (4 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - d9 (Banpresto)
+ROM Version - 00
+
+Header Checksum - bc
+Global Checksum - c1 8f

@@ -1,0 +1,52 @@
+rst00h - 3e c0 e0 46 3e 27 3d 20 
+rst08h - fd 00 00 00 c9 7d 5f 37 
+rst10h - cd 85 00 d9 66 b3 46 78 
+rst18h - 3e 56 cd cb 38 d9 bf b9 
+rst20h - cd cb 38 d9 d3 ef 77 03 
+rst28h - fa 4d c6 b7 20 26 18 37 
+rst30h - 0e 04 cd 06 3b d9 23 f7 
+rst38h - c3 b0 b9 6d ef 2f b3 17 
+
+int40h - d9 f0 40 f6 83 e0 40 c9 
+int48h - f3 f5 cd 51 00 f1 fb d9 
+int50h - d9 c3 2e 0d 33 33 d9 b9 
+int58h - d9 5f ce e7 63 ff ec 3f 
+int60h - d9 3e 07 ea 00 20 c9 fa 
+int68h - 15 cb b7 20 e7 d9 00 00 
+int70h - 00 00 cd 7a 00 21 00 98 
+int78h - 18 03 21 00 9c 11 00 04 
+int80h - 18 03 11 00 20 af 22 1b 
+int88h - ba 20 fb bb 20 f8 c9 f0 
+int90h - 40 17 d0 3e 91 cd 92 20 
+int98h - f0 40 e6 7c e0 40 c9 3e 
+intA0h - 01 ea 00 20 af e0 9e af 
+intA8h - e0 9b 46 23 4e 23 c5 f0 
+intB0h - 9b b7 28 09 f0 9b 3d e0 
+intB8h - 9b f0 9c 18 0e 2a fe fe 
+intC0h - 38 28 ee fe e0 9d 2a 3d 
+intC8h - e0 9b 2a 4f f0 9d 81 e0 
+intD0h - 9c 79 d5 5f f0 9e 83 d1 
+intD8h - 12 13 05 20 d2 c1 3e 20 
+intE0h - 90 83 5f 8a 93 57 0d 20 
+intE8h - c5 c9 fe fd 20 e4 af e0 
+intF0h - 9d 3e 02 18 d3 f0 ab c6 
+intF8h - c0 4f f0 ac ce 00 47 c9 
+
+Entry Point - 00 c3 50 01 
+
+Title - SUPERDONKEYKONG
+
+CGB Flag - 20 (Invalid)
+New Licensee Code - (ASCII) 01 (Nintendo)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 9f
+Global Checksum - 72 03

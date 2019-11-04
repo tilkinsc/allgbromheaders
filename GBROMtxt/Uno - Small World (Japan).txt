@@ -1,0 +1,52 @@
+rst00h - f3 c3 00 01 ff ff ff ff 
+rst08h - 21 2d d0 7e 76 be 28 fc 
+rst10h - c9 ff ff ff ff ff ff ff 
+rst18h - d9 ff ff ff ff ff ff ff 
+rst20h - d9 ff ff ff ff ff ff ff 
+rst28h - d9 ff ff ff ff ff ff ff 
+rst30h - 87 e1 5f 16 00 19 5e 23 
+rst38h - 56 d5 e1 e9 ff ff ff ff 
+
+int40h - c3 50 01 ff ff ff ff ff 
+int48h - c3 64 02 ff ff ff ff ff 
+int50h - c3 f8 03 ff ff ff ff ff 
+int58h - c3 8b 02 ff ff ff ff ff 
+int60h - c3 64 02 ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - ff ff ff ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 83 04 
+
+Title - UNO-SMALL WORLD
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - da (Tomy)
+ROM Version - 00
+
+Header Checksum - c9
+Global Checksum - c3 15

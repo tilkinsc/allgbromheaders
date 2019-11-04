@@ -1,0 +1,52 @@
+rst00h - 0e 00 90 d0 0c 2f 3c c9 
+rst08h - 83 5f 3e 00 8a 57 c9 00 
+rst10h - d5 5f 16 00 cb 23 cb 12 
+rst18h - 19 5e 23 56 62 6b d1 c9 
+rst20h - f7 7c 12 1c 7d 12 1c c9 
+rst28h - 0b 78 b1 20 fb c9 00 00 
+rst30h - f0 41 cb 4f 20 fa c9 00 
+rst38h - 85 6f 3e 00 8c 67 c9 00 
+
+int40h - 18 1f 00 00 00 00 00 00 
+int48h - 18 43 00 00 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - d9 00 00 00 00 00 00 00 
+int60h - d9 f5 c5 d5 e5 f3 21 45 
+int68h - c1 34 cd 80 ff cd 50 25 
+int70h - cd b5 00 cd 66 25 cd 36 
+int78h - 25 cd 6d 0f cd 00 26 cd 
+int80h - 50 25 3e 01 ea 46 c1 fb 
+int88h - e1 d1 c1 f1 d9 f5 c5 d5 
+int90h - e5 f3 cd f8 01 fb e1 d1 
+int98h - c1 f1 d9 06 0a 11 80 ff 
+intA0h - 21 ab 00 7e 12 23 13 05 
+intA8h - 20 f9 c9 3e c0 e0 46 3e 
+intB0h - 28 3d 20 fd c9 fa 49 c1 
+intB8h - e0 43 fa 4a c1 e0 42 c9 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - CHIBIMARUKO4\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - a7 (Takara)
+ROM Version - 00
+
+Header Checksum - db
+Global Checksum - c1 c9

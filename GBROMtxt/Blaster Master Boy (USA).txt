@@ -1,0 +1,52 @@
+rst00h - c9 3c af ff 8b fd fe ff 
+rst08h - c3 80 f0 ff ff ff be ff 
+rst10h - fb ff bf ff af ff eb ff 
+rst18h - fb ff aa ff fe ff ba ff 
+rst20h - be fd ae f7 be ff eb ff 
+rst28h - 85 6f d0 24 c9 ff ab ef 
+rst30h - 83 5f d0 14 c9 fb ff ff 
+rst38h - 81 4f d0 04 c9 ff ae ff 
+
+int40h - c3 24 03 ff be ff ff ff 
+int48h - c3 31 04 ff fa ff be ff 
+int50h - d9 ff bb ff be ff ea ff 
+int58h - d9 ff ff ff be ff fa ff 
+int60h - d9 ef bb ff be ff ff ff 
+int68h - eb ff fb ff af ff b6 ff 
+int70h - ab ef af ff ba ff eb ff 
+int78h - fa fb ab df ab ff bb df 
+int80h - ef ff fb ff ff ff ff ff 
+int88h - bf ff f3 ef ae ff fb ff 
+int90h - be ff af ff bb ff ae ff 
+int98h - ba ff ff ff ea ff be ff 
+intA0h - ee ff fb ff fb ff bf ff 
+intA8h - ab fd fb ff ff ff ff ff 
+intB0h - ab ff bf ff fe ff ef ff 
+intB8h - ee ff ee ff ee ff ff ff 
+intC0h - fe ff ef ff be ff ff ff 
+intC8h - ff ff fa ff fb ff ea ff 
+intD0h - ef ff bc ff bf ff fe 7f 
+intD8h - ae ff bf ff ab ff ca ff 
+intE0h - bf ff bf ff ff f7 ea ff 
+intE8h - be ef ab ff be ff ee ff 
+intF0h - bb ff fa ff aa ff ee ff 
+intF8h - ea ff fb ff ab ff ba ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - BLASTER MASTER 
+
+CGB Flag - 42 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - bb (Sunsoft)
+ROM Version - 00
+
+Header Checksum - cd
+Global Checksum - 70 a6

@@ -1,0 +1,52 @@
+rst00h - 87 e1 5f 16 00 19 2a 66 
+rst08h - 6f e9 ff ff ff ff ff ff 
+rst10h - 37 d4 5f d4 73 d4 87 d4 
+rst18h - af d4 c3 d4 d7 d4 ff d4 
+rst20h - 27 d5 3b d5 00 00 00 40 
+rst28h - 90 e4 00 40 80 d0 00 03 
+rst30h - 03 03 02 02 02 02 01 01 
+rst38h - 01 af d4 00 00 ff ff ff 
+
+int40h - c3 5f 08 ff ff ff ff ff 
+int48h - c3 f3 08 ff ff ff ff ff 
+int50h - c3 1f 09 ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 ff ff ff ff 04 77 00 
+int68h - 05 85 00 06 95 00 07 a1 
+int70h - 00 08 b3 00 09 c3 00 5f 
+int78h - d4 87 d4 9b d4 c3 d4 eb 
+int80h - d4 ff d4 00 00 5f d4 87 
+int88h - d4 9b d4 c3 d4 eb d4 ff 
+int90h - d4 13 d5 00 00 73 d4 9b 
+int98h - d4 c3 d4 eb d4 ff d4 00 
+intA0h - 00 5f d4 87 d4 9b d4 c3 
+intA8h - d4 eb d4 ff d4 13 d5 27 
+intB0h - d5 00 00 5f d4 87 d4 9b 
+intB8h - d4 c3 d4 eb d4 ff d4 13 
+intC0h - d5 00 00 73 d4 9b d4 c3 
+intC8h - d4 eb d4 ff d4 00 00 04 
+intD0h - 02 00 02 09 01 01 00 00 
+intD8h - 01 09 02 03 06 06 02 09 
+intE0h - 03 06 06 02 00 09 04 02 
+intE8h - 05 00 08 09 05 04 07 02 
+intF0h - 01 04 00 80 84 82 81 83 
+intF8h - 1b 07 00 19 11 1d 1b 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - TOXIC CRUSADERS
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - b2 (Bandai)
+ROM Version - 00
+
+Header Checksum - de
+Global Checksum - 30 e3

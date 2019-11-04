@@ -1,0 +1,52 @@
+rst00h - c3 7e 02 07 44 6a 07 e0 
+rst08h - 61 07 ff 6f 07 1e 67 07 
+rst10h - 05 74 07 c2 5a 07 98 53 
+rst18h - 07 50 60 07 a8 55 07 78 
+rst20h - 5e 07 6a 58 07 50 6a 07 
+rst28h - 2f 52 f5 00 f5 00 f3 00 
+rst30h - 3e 52 01 3e 52 02 3e 52 
+rst38h - 03 3e 52 ff ff ff f7 00 
+
+int40h - c3 8a 0c 00 df ff 90 02 
+int48h - d9 00 f0 ff 94 0a 94 f6 
+int50h - c3 03 02 ff f7 04 f0 ff 
+int58h - cd ab 36 d9 f1 fb 02 f4 
+int60h - d9 52 fb 04 f4 6b 52 fb 
+int68h - 01 fa 80 f7 04 f2 ff 90 
+int70h - 00 f2 ff 90 00 f2 ff 95 
+int78h - 00 f4 75 52 f2 f1 ff fb 
+int80h - 01 f7 04 f2 ff 90 00 f2 
+int88h - ff 91 00 f2 ff 93 00 f2 
+int90h - ff 93 00 f2 ff ad 00 f4 
+int98h - 93 52 f2 f1 ff fb 01 f7 
+intA0h - 08 fa 80 f2 fc 90 00 f2 
+intA8h - fe 90 00 f2 fe 90 00 f2 
+intB0h - fe 90 00 f2 fe f0 ff 94 
+intB8h - 0a 94 f6 f1 f2 f1 ff fb 
+intC0h - 00 f4 c4 52 f7 01 9c 00 
+intC8h - f0 ff 91 1e 91 c4 91 1e 
+intD0h - f1 f2 f1 ff fb 05 f4 e7 
+intD8h - 52 fb 04 f4 e7 52 fb 00 
+intE0h - f4 e7 52 fb 01 fa 80 da 
+intE8h - ff 90 00 d2 00 90 00 90 
+intF0h - 00 90 00 a6 00 92 10 f0 
+intF8h - ff 94 ec 94 14 f1 f2 f1 
+
+Entry Point - 00 c3 50 01 
+
+Title - MONSTER MAKER\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - af (Namco)
+ROM Version - 00
+
+Header Checksum - 7d
+Global Checksum - 84 8c

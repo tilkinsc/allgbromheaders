@@ -1,0 +1,52 @@
+rst00h - e1 e7 62 6b e9 80 90 3a 
+rst08h - e1 d5 18 f5 ff ff ef ff 
+rst10h - 85 6f d0 24 c9 c4 9b 54 
+rst18h - 85 6f 30 01 24 7e c9 ff 
+rst20h - 87 d7 5e 23 56 c9 00 62 
+rst28h - 83 5f d0 14 c9 be ff ff 
+rst30h - c9 83 2f 06 16 71 59 81 
+rst38h - c9 80 f0 37 ff ff f7 ff 
+
+int40h - c3 92 01 08 60 6a 88 81 
+int48h - c3 d0 00 ee fd ff ff df 
+int50h - d9 82 1d 04 50 1c 70 16 
+int58h - d9 ff ff fd f7 f9 ff ff 
+int60h - d9 32 08 05 81 82 0d 98 
+int68h - 3e 06 e0 9a ea 00 20 c3 
+int70h - af 46 c5 d5 e5 47 e6 7f 
+int78h - fe 20 30 10 78 21 28 d5 
+int80h - be 28 12 b7 28 01 77 cd 
+int88h - 99 00 06 01 af ea e7 de 
+int90h - 78 e6 7f e0 8f e1 d1 c1 
+int98h - c9 3e 00 e0 8f f0 9a f5 
+intA0h - cb 78 20 09 3e 06 e0 9a 
+intA8h - ea 00 20 18 07 3e 07 e0 
+intB0h - 9a ea 00 20 78 e6 7f 21 
+intB8h - 00 40 e7 21 00 d9 01 50 
+intC0h - 04 1a 22 13 0b 78 b1 20 
+intC8h - f8 f1 e0 9a ea 00 20 c9 
+intD0h - f5 c5 d5 e5 21 41 ff cb 
+intD8h - 56 28 1e cb 96 af e0 0f 
+intE0h - f0 ff e6 fd e0 ff fa 24 
+intE8h - d5 b7 20 07 21 41 ff cb 
+intF0h - b6 18 06 f0 40 cb e7 e0 
+intF8h - 40 e1 d1 c1 f1 d9 d5 ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - SUPER MOMOTETU 
+
+CGB Flag - 32 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 18 (Hudsonsoft)
+ROM Version - 00
+
+Header Checksum - 4c
+Global Checksum - e5 c5

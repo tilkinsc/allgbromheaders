@@ -1,0 +1,52 @@
+rst00h - 0e 00 90 d0 0c 2f 3c c9 
+rst08h - 00 00 00 00 00 00 00 00 
+rst10h - d5 5f 16 00 cb 23 cb 12 
+rst18h - 19 5e 23 56 62 6b d1 c9 
+rst20h - 7c 12 13 7d 12 13 c9 00 
+rst28h - 0b 78 b1 20 fb c9 fa d5 
+rst30h - c0 b7 c0 f0 02 cb 7f 20 
+rst38h - fa fa 0a c4 e0 01 c9 00 
+
+int40h - 18 2e 00 00 00 00 00 00 
+int48h - c3 a7 01 00 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - 18 58 00 00 00 00 00 00 
+int60h - d9 00 00 00 00 00 00 00 
+int68h - 00 00 00 00 00 00 00 00 
+int70h - f5 c5 d5 e5 f3 fa c6 c0 
+int78h - b7 20 31 3e 01 ea c6 c0 
+int80h - cd 80 ff fa aa d0 e0 43 
+int88h - fa a9 d0 e0 42 cd a4 48 
+int90h - cd c9 48 3e 03 ea 80 21 
+int98h - cd ff 1c 3e 01 ea 80 21 
+intA0h - cd 33 18 3e 01 ea c4 c0 
+intA8h - af ea c6 c0 fb e1 d1 c1 
+intB0h - f1 d9 f5 c5 d5 e5 f3 fa 
+intB8h - d6 c0 b7 ca 5c 02 fa d4 
+intC0h - c0 b7 28 19 cd 14 02 cd 
+intC8h - 2e 00 fa d5 c0 b7 28 0d 
+intD0h - cd 19 02 cd 33 00 21 02 
+intD8h - ff cb 86 cb fe 3e 01 ea 
+intE0h - c5 c0 fb e1 d1 c1 f1 d9 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - BURAI FIGHTER D
+
+CGB Flag - 45 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 01 (64KByte (4 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 5c (Naxat Soft)
+ROM Version - 00
+
+Header Checksum - 43
+Global Checksum - 2a 94

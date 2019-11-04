@@ -1,0 +1,52 @@
+rst00h - 80 40 20 10 08 04 02 01 
+rst08h - 85 6f 3e 00 8c 67 7e c9 
+rst10h - 83 5f 3e 00 8a 57 1a c9 
+rst18h - 81 b8 d8 90 18 fb 7d ff 
+rst20h - f5 f3 f0 41 e6 03 20 fa 
+rst28h - f1 77 fb c9 ff ff ff ff 
+rst30h - 06 00 b9 38 04 91 04 18 
+rst38h - f9 4f c9 ff f5 f7 f7 ff 
+
+int40h - c3 19 05 04 00 a2 ba 82 
+int48h - c3 cf 09 ff ff ff ff bf 
+int50h - c3 f8 13 cd 56 00 cd 59 
+int58h - 00 cd 5c 00 cd 5f 00 cd 
+int60h - 62 00 cd 65 00 cd 68 00 
+int68h - cd 6b 00 f0 b6 a7 28 fb 
+int70h - cd c9 02 af e0 b6 c9 af 
+int78h - e0 b6 18 ef 3e 0e 18 02 
+int80h - 3e 04 11 8c 00 d5 e0 c8 
+int88h - ea ff 3f e9 f0 c9 e0 c8 
+int90h - ea ff 3f c9 e5 c5 2a 12 
+int98h - 13 05 20 fa c1 e1 0d 20 
+intA0h - f3 c9 f0 cf 57 f0 ce 5f 
+intA8h - 06 04 cb 1a cb 1b 05 20 
+intB0h - f9 7b e6 fe d6 80 07 07 
+intB8h - c6 10 e0 cc f0 ce e6 1f 
+intC0h - 17 17 17 c6 08 e0 cd c9 
+intC8h - e5 21 00 79 5f 16 00 cb 
+intD0h - 23 cb 12 cb 23 cb 12 cb 
+intD8h - 23 cb 12 19 5d 54 e1 3e 
+intE0h - 0c e0 c8 ea ff 3f c5 06 
+intE8h - 08 1a e7 23 1a e7 13 23 
+intF0h - 05 20 f6 c1 05 20 ef f0 
+intF8h - c9 e0 c8 ea ff 3f c9 f7 
+
+Entry Point - 00 c3 50 01 
+
+Title - GB MARMALADEBOY
+
+CGB Flag - 31 (Invalid)
+New Licensee Code - (ASCII) B2 (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - f1
+Global Checksum - 99 c1

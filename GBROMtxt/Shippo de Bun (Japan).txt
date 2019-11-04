@@ -1,0 +1,52 @@
+rst00h - 50 01 2e 00 6b 02 f4 03 
+rst08h - 42 03 71 04 e8 04 fc 0f 
+rst10h - bd 10 8b 11 3c 16 32 17 
+rst18h - 63 17 54 18 29 22 b1 4d 
+rst20h - 1a 23 a0 23 54 25 9d 06 
+rst28h - b7 06 55 02 ba 18 00 00 
+rst30h - 10 00 20 00 50 00 00 01 
+rst38h - 50 01 50 02 00 05 00 10 
+
+int40h - c3 ef 01 ff ff ff ff ff 
+int48h - f5 fa b5 c0 a7 28 1b f0 
+int50h - 41 e6 02 20 fa fa ae c0 
+int58h - e0 43 fa ad c0 e0 42 fa 
+int60h - b4 c0 e0 47 f0 40 f6 02 
+int68h - e0 40 f1 d9 fa b5 c0 a7 
+int70h - 20 15 f0 99 e6 01 c0 fa 
+int78h - ad c0 e0 42 fa ae c0 e0 
+int80h - 43 fa b3 c0 e0 47 c9 af 
+int88h - e0 42 e0 43 fa b3 c0 e0 
+int90h - 47 fa fb ca a7 c8 f0 40 
+int98h - e6 fd e0 40 c9 04 05 00 
+intA0h - 38 38 37 40 37 41 42 37 
+intA8h - 43 44 45 46 38 47 48 49 
+intB0h - 4a 4b 4c 04 05 00 38 38 
+intB8h - 37 38 37 37 38 37 37 38 
+intC0h - 38 00 38 38 37 38 37 37 
+intC8h - 37 03 06 02 01 02 02 01 
+intD0h - 06 02 01 03 06 02 03 06 
+intD8h - 02 03 06 02 05 12 1e 18 
+intE0h - 24 2a 30 36 3d 43 4b 51 
+intE8h - 58 63 6a 72 78 7e 84 8a 
+intF0h - 90 02 08 04 01 20 20 10 
+intF8h - 10 ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - SHIPPO DE BUN\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 01 (64KByte (4 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - cb (Vap)
+ROM Version - 00
+
+Header Checksum - 99
+Global Checksum - 44 25

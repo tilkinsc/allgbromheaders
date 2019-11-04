@@ -1,0 +1,52 @@
+rst00h - c3 50 01 85 0e 47 a7 86 
+rst08h - ea e5 ff ea 00 21 c9 b8 
+rst10h - 85 6f 7c ce 00 67 c9 01 
+rst18h - 83 5f 7a ce 00 57 c9 44 
+rst20h - 81 4f 78 ce 00 47 c9 88 
+rst28h - 85 6f c9 a0 cd 10 9f 43 
+rst30h - 83 5f c9 84 7e 80 d4 00 
+rst38h - f5 3e 80 ea 00 60 f1 d9 
+
+int40h - c3 c8 3b d9 a7 05 ff 1f 
+int48h - c3 9c 3b d9 f1 44 d7 82 
+int50h - c3 82 3b d9 3e 0c 3f 80 
+int58h - c3 92 3b d9 3b 08 69 80 
+int60h - d9 10 39 20 79 20 2d 04 
+int68h - ff 88 5d 60 f7 80 9d 43 
+int70h - 9e 21 bf 82 66 4a ff 11 
+int78h - 97 72 3e 10 da 24 67 02 
+int80h - ef 86 fd 5a 4f 04 be bc 
+int88h - e3 26 ff 02 eb 70 fd 02 
+int90h - f7 40 61 00 8f 41 f2 00 
+int98h - db 20 f4 01 6d 40 2a 22 
+intA0h - db 0b 7c 08 fb 54 7e 8c 
+intA8h - be 46 af c8 df a0 c7 10 
+intB0h - b5 00 83 00 fd 85 fc 02 
+intB8h - db 04 de 26 6f 46 85 91 
+intC0h - 84 10 63 25 f7 00 55 04 
+intC8h - 93 30 af 02 0e b1 4d 00 
+intD0h - ba 10 ff 89 39 00 c5 01 
+intD8h - 11 01 7e 03 fd 80 cb 00 
+intE0h - ec 60 96 40 f5 18 d7 98 
+intE8h - d2 02 55 03 0f 12 f9 11 
+intF0h - ce 00 76 00 fb 08 c8 0d 
+intF8h - f9 88 2a 11 eb 8d cb 61 
+
+Entry Point - 00 c3 50 01 
+
+Title - PRINCE VALIANT\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 67 (Ocean)
+ROM Version - 00
+
+Header Checksum - 8c
+Global Checksum - 8e ec

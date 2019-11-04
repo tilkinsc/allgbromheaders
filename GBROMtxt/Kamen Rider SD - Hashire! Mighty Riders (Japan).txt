@@ -1,0 +1,52 @@
+rst00h - 78 c2 09 fb e2 30 a9 80 
+rst08h - 8d 00 21 c2 30 a2 ff 1f 
+rst10h - 9a 22 6b 81 00 ad 43 21 
+rst18h - f0 fb c2 30 9c ec 0c 9c 
+rst20h - ee 0c a9 01 00 8d 02 0d 
+rst28h - a9 80 00 8d a4 09 9c 22 
+rst30h - 1d 22 20 e0 00 a9 00 0e 
+rst38h - a0 00 00 22 3d e0 00 20 
+
+int40h - c3 af 03 30 a9 00 80 8d 
+int48h - d9 1d a9 0b 00 8d 24 1d 
+int50h - d9 01 00 8d f4 1c 8d f8 
+int58h - c3 92 10 09 9c a8 09 9c 
+int60h - d9 1c 9c 16 15 9c 12 0d 
+int68h - 9c 14 0d a9 ff ff 8d 1a 
+int70h - 15 a9 04 00 8d 20 15 ad 
+int78h - 58 1d f0 2d a9 00 10 8d 
+int80h - 64 1d 9c 66 1d a9 00 06 
+int88h - 8d 68 1d 9c 6a 1d a9 00 
+int90h - 03 8d 6c 1d 9c 6e 1d a9 
+int98h - 01 00 8d 70 1d a9 03 00 
+intA0h - 8d 72 1d a9 05 00 8d 74 
+intA8h - 1d 9c ec 1c a9 01 00 8d 
+intB0h - 10 0d a2 00 00 8a 95 89 
+intB8h - 95 a9 e8 e8 e0 20 00 d0 
+intC0h - f4 a9 01 00 8d 06 0d 58 
+intC8h - 58 22 00 80 02 20 38 9d 
+intD0h - 20 5b 90 20 67 8f 20 a8 
+intD8h - 8c 20 f0 80 58 20 52 e2 
+intE0h - 78 ad 04 0d f0 e2 ad 7a 
+intE8h - 09 89 00 10 d0 da 80 e6 
+intF0h - ad 16 0d d0 2f ad 06 0d 
+intF8h - d0 2a ad 70 09 89 00 20 
+
+Entry Point - 00 c3 50 01 
+
+Title - GB MASKRIDER SD
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - e2 (Uutaka)
+ROM Version - 00
+
+Header Checksum - 00
+Global Checksum - 78 32

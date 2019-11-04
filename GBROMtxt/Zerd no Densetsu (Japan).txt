@@ -1,0 +1,52 @@
+rst00h - c3 50 01 bf ae ff fa ff 
+rst08h - c3 80 f0 ff eb ff ea ff 
+rst10h - aa fb fe ff ee ff 9a fd 
+rst18h - ee ff be df ca fe ea ff 
+rst20h - aa ff ba ff ae ff aa ff 
+rst28h - eb ff aa ef ab ff af ff 
+rst30h - fe ef fb ff aa ff ae ff 
+rst38h - aa ff be ff ea ff 8a ff 
+
+int40h - c3 5c 01 bf 2a ff aa ff 
+int48h - c3 cc c2 ff e3 ff a6 ff 
+int50h - d9 ef aa ff ae ff aa ff 
+int58h - d9 ff aa fe ba ff ae ff 
+int60h - d9 fb 2b ff b2 ff aa ff 
+int68h - ae ff be fe be ff ab ff 
+int70h - bb ff bb fb eb fd fa ff 
+int78h - bb ff ba 7f 3a ef ee ff 
+int80h - eb ff aa ff ab ff e2 ff 
+int88h - aa ff eb ff eb ff aa ff 
+int90h - aa 7f aa 7f af ff ba ff 
+int98h - aa ff aa ff af ff aa df 
+intA0h - ef ff aa ff 2a ff ca ff 
+intA8h - aa ff aa df ab ef ae ff 
+intB0h - be ff ea ff bf bf ee ff 
+intB8h - be ff 8b ff bb ff ae 9b 
+intC0h - aa bf af ff af ff aa ff 
+intC8h - aa ff ef ff aa 5f ee 7f 
+intD0h - aa bf aa ff ab ff cc ff 
+intD8h - fb ff ee ef aa 7f 2a ff 
+intE0h - 9e fb ea ff aa 7f ee ff 
+intE8h - aa ff ab ff fb ff aa ff 
+intF0h - ca 7f eb ef be ff ee ff 
+intF8h - aa fd ee ff ea ff ab ff 
+
+Entry Point - 00 c3 6e 01 
+
+Title - LEGEND OF ZERD\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 8c (Vic Tokai)
+ROM Version - 00
+
+Header Checksum - 9b
+Global Checksum - 22 a0

@@ -1,0 +1,52 @@
+rst00h - c3 80 f0 ff ff ff ff ff 
+rst08h - cd 38 03 c9 ff ff ff ff 
+rst10h - cd f6 02 c9 ff ff ff ff 
+rst18h - cd fd 02 c9 ff ff ff ff 
+rst20h - cd 07 03 c9 ff ff ff ff 
+rst28h - cd 70 03 c9 ff ff ff ff 
+rst30h - cd 1e 03 c9 ff ff ff ff 
+rst38h - cd dc 02 c9 ff ff ff ff 
+
+int40h - cd 49 17 c9 ff ff ff ff 
+int48h - cd 74 1f c9 ff ff ff ff 
+int50h - ff ff ff ff ff ff ff ff 
+int58h - c3 b2 06 ff ff ff ff ff 
+int60h - ff ff ff ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - ff ff ff ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - NETTOU TOSHINDE
+
+CGB Flag - 4e (Invalid)
+New Licensee Code - (ASCII) A7 (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 01
+
+Header Checksum - 88
+Global Checksum - 3a f7

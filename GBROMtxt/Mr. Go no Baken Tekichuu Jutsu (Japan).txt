@@ -1,0 +1,52 @@
+rst00h - 9a 45 fe fe ee ff ae ff 
+rst08h - be ff ae ff ee ff be ff 
+rst10h - 26 c6 f0 97 6f 00 00 00 
+rst18h - 08 97 ff f9 c9 ff aa ff 
+rst20h - 87 85 6f 30 01 24 2a 66 
+rst28h - 6f c9 fb ff ee fd fb ff 
+rst30h - ee ef bf ff ff ff fe ff 
+rst38h - c3 50 01 ff aa ff aa ff 
+
+int40h - c3 14 31 ff af ff ff ff 
+int48h - f5 f0 cc e0 40 f0 ce e0 
+int50h - 42 f0 cd e0 43 c3 45 32 
+int58h - 49 30 b8 30 ba 08 8d 09 
+int60h - ab 0a e1 0e d5 1c 0e 2b 
+int68h - 43 14 5a 15 bb 18 6b 1a 
+int70h - 21 1b a6 2d ae ff fa ff 
+int78h - ea ff ae ff bb ff ea ff 
+int80h - be ff eb ff ee ff ba ff 
+int88h - bb ff aa ff af ff ae ff 
+int90h - bf ff aa ff de bf 8a ef 
+int98h - fb ff eb ff aa ff ab ff 
+intA0h - ea ff be ff ff ff fe ff 
+intA8h - ef ef fa bf bb ff bb ff 
+intB0h - be ff ee ff ab ff fe ff 
+intB8h - ea ff ea ff fb ff ea ff 
+intC0h - be ff fe ff fa ff eb ff 
+intC8h - fe bf fb ef ae ff ea ff 
+intD0h - ba ff fe ff be ff aa ef 
+intD8h - ab ff aa fb fb ff af f7 
+intE0h - af ff ba ff ab ff eb ff 
+intE8h - ba ff eb ff eb ff fb ff 
+intF0h - bb ff ba ff eb ff ee ff 
+intF8h - aa ff ab ff be ff ae ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - TEKICHUJUTSU\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 06 (MBC2+BATTERY)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - c0 (Taito)
+ROM Version - 00
+
+Header Checksum - 77
+Global Checksum - 73 48

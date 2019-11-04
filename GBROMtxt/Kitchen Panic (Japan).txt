@@ -1,0 +1,52 @@
+rst00h - f3 c3 00 02 31 39 39 31 
+rst08h - 2d 32 2d 32 32 00 70 72 
+rst10h - 6f 67 72 61 6d 6d 65 64 
+rst18h - 20 62 79 20 4d 6f 74 6f 
+rst20h - 73 2e 4b 61 6e 61 79 61 
+rst28h - 6d 61 00 00 00 00 00 00 
+rst30h - 87 e1 85 6f 7c ce 00 67 
+rst38h - 2a 66 6f e9 00 00 00 00 
+
+int40h - f3 c3 72 0f 00 00 00 00 
+int48h - 00 00 00 00 00 00 00 00 
+int50h - fb f5 af e0 07 3e bc e0 
+int58h - 06 3e 04 e0 07 cd d1 12 
+int60h - f1 d9 00 00 00 00 00 00 
+int68h - 00 00 00 00 00 00 00 00 
+int70h - 00 00 00 00 00 00 00 00 
+int78h - 00 00 00 00 00 00 00 00 
+int80h - 00 00 00 00 00 00 00 00 
+int88h - 00 00 00 00 00 00 00 00 
+int90h - 00 00 00 00 00 00 00 00 
+int98h - 00 00 00 00 00 00 00 00 
+intA0h - 00 00 00 00 00 00 00 00 
+intA8h - 00 00 00 00 00 00 00 00 
+intB0h - 00 00 00 00 00 00 00 00 
+intB8h - 00 00 00 00 00 00 00 00 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 00 02 
+
+Title - KITCHIN PANIC\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 0b (Coconuts)
+ROM Version - 00
+
+Header Checksum - 44
+Global Checksum - e9 46

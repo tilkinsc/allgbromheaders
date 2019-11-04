@@ -1,0 +1,52 @@
+rst00h - ff ff ff ff ff ff ff ff 
+rst08h - ff ff ff ff ff ff ff ff 
+rst10h - ff ff ff ff ff ff ff ff 
+rst18h - ff ff ff ff ff ff ff ff 
+rst20h - c3 07 04 ff ff ff ff ff 
+rst28h - c3 2b 04 ff ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 65 0d ff ff ff ff ff 
+int48h - c3 87 0d ff ff ff ff ff 
+int50h - c3 d2 2e ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 20 53 6f 66 74 77 61 
+int68h - 72 65 20 62 79 20 4d 61 
+int70h - 72 6b 20 44 2e 20 4b 6c 
+int78h - 65 69 6e 20 75 6e 64 65 
+int80h - 72 20 63 6f 6e 74 72 61 
+int88h - 63 74 20 74 6f 20 49 6d 
+int90h - 61 67 69 6e 65 65 72 69 
+int98h - 6e 67 2c 20 49 6e 63 2e 
+intA0h - 20 44 65 6c 69 76 65 72 
+intA8h - 65 64 20 30 36 2d 31 34 
+intB0h - 2d 39 31 2c 20 43 6f 6d 
+intB8h - 70 6c 65 74 65 64 20 62 
+intC0h - 79 20 49 6d 61 67 69 6e 
+intC8h - 65 65 72 69 6e 67 20 30 
+intD0h - 37 2d 33 31 2d 39 31 20 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 73 04 
+
+Title - SIMPSON ESCAPE\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - b0 (Acclaim)
+ROM Version - 00
+
+Header Checksum - 3a
+Global Checksum - 57 9e

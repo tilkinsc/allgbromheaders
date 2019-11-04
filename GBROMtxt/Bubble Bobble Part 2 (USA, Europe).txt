@@ -1,0 +1,52 @@
+rst00h - c3 6a 3f 00 00 00 80 02 
+rst08h - c3 80 f0 c8 00 00 28 80 
+rst10h - a1 08 00 02 90 60 20 1a 
+rst18h - 28 aa 02 70 08 e0 20 04 
+rst20h - 00 42 8c 10 00 05 06 aa 
+rst28h - 14 c1 05 13 30 0f a0 74 
+rst30h - 00 50 80 80 80 11 00 46 
+rst38h - 18 fe 00 57 80 27 08 4c 
+
+int40h - c3 20 02 80 1a 40 04 08 
+int48h - d9 44 28 30 8d 34 04 01 
+int50h - d9 0c 20 85 0a e0 88 02 
+int58h - d9 86 02 00 08 b2 08 03 
+int60h - d9 80 40 06 2a 00 ae 30 
+int68h - 01 00 a0 88 07 79 04 52 
+int70h - 8a 15 a2 10 80 04 28 f0 
+int78h - 80 09 20 04 02 20 20 58 
+int80h - 04 32 41 f3 00 80 00 00 
+int88h - 00 02 25 08 80 b4 08 22 
+int90h - 52 11 82 90 00 92 a2 80 
+int98h - 20 05 00 80 00 02 0c 80 
+intA0h - 00 00 23 00 00 00 18 00 
+intA8h - 28 62 50 c0 80 09 b8 34 
+intB0h - 04 44 3a ba 8a c9 03 01 
+intB8h - 28 b9 20 4a 04 29 08 d0 
+intC0h - 60 20 40 18 08 20 02 00 
+intC8h - 81 a9 02 d0 80 40 28 08 
+intD0h - 87 49 80 02 1c 84 80 9d 
+intD8h - 08 80 62 d9 28 05 80 45 
+intE0h - 00 45 90 10 10 11 20 05 
+intE8h - 00 e0 a0 4a d8 a6 00 31 
+intF0h - 09 08 00 97 82 48 80 0a 
+intF8h - 20 45 98 84 02 50 02 80 
+
+Entry Point - 00 c3 50 01 
+
+Title - BUBBLEBOBBLE2\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - c0 (Taito)
+ROM Version - 00
+
+Header Checksum - 9f
+Global Checksum - 80 40

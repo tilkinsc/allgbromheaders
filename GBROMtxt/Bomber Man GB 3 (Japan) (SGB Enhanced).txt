@@ -1,0 +1,52 @@
+rst00h - c3 ed 01 ff ff ff ff ff 
+rst08h - c3 df 01 ff ff ff ff ff 
+rst10h - c3 7c 02 ff ff ff ff ff 
+rst18h - ff ff ff ff ff ff ff ff 
+rst20h - ff ff ff ff ff ff ff ff 
+rst28h - ff ff ff ff ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 88 02 ff ff ff ff ff 
+int48h - 18 09 ff ff ff ff ff ff 
+int50h - c3 54 03 f5 d5 e5 21 e8 
+int58h - ff 2a b6 20 40 2c 2a 66 
+int60h - 6f 2a 57 2a 5f 2a 12 1c 
+int68h - 2a 12 f0 41 e6 03 fe 03 
+int70h - 28 2b 21 ea ff 7e c6 04 
+int78h - 22 7e ce 00 77 21 ea ff 
+int80h - f0 ee be 20 18 23 f0 ef 
+int88h - be 20 12 af e0 ea e0 ee 
+int90h - 3e d0 e0 eb e0 ef 3e 01 
+int98h - e0 e8 ea c8 c1 f0 ec fe 
+intA0h - 01 28 0b fe 02 28 26 fe 
+intA8h - 03 ca 09 03 18 2d f0 41 
+intB0h - cb 57 20 11 21 c6 c1 34 
+intB8h - f0 ed be 20 1e 3e 40 e0 
+intC0h - 41 e0 e9 18 16 f0 40 e6 
+intC8h - fd e0 40 18 0e 21 c6 c1 
+intD0h - 34 f0 ed be 20 05 af e0 
+intD8h - 43 e0 42 e1 d1 f0 0f e6 
+intE0h - 05 e0 0f f1 d9 ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - BOMBERMAN GB3\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 18 (Hudsonsoft)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - d5
+Global Checksum - 6e 84

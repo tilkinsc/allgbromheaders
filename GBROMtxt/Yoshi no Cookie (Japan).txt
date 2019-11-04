@@ -1,0 +1,52 @@
+rst00h - c3 34 03 16 00 19 5e 23 
+rst08h - c3 94 08 e9 ff ff bf ff 
+rst10h - c9 ff ff ff ff ff ff ff 
+rst18h - c9 ff ff ff ff ff ff ff 
+rst20h - c9 ff ff ff ff ff ff ff 
+rst28h - c9 ff ff ff bf ff ff ff 
+rst30h - c9 ff ff ff ff ff ff ff 
+rst38h - c9 ff ff ff ff ff fb ff 
+
+int40h - cd 59 02 d9 ff ff ff ff 
+int48h - d9 ff ef ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - cd b2 03 d9 ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ef ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - fb ff bf ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ef ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff df ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff fe ff ff ff 
+intF0h - ff ff ff ff ff ff bf ff 
+intF8h - fb ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - YOSSY NO COOKIE
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 01 (Nintendo)
+ROM Version - 00
+
+Header Checksum - a5
+Global Checksum - fe 7f

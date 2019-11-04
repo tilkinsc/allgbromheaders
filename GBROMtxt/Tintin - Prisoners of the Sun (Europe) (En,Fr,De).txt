@@ -1,0 +1,52 @@
+rst00h - c3 4b 14 00 03 04 05 00 
+rst08h - c3 f2 13 00 09 0a 0b 00 
+rst10h - c3 ee 3e ff ce 00 06 00 
+rst18h - 85 6f 8c 95 67 c9 00 00 
+rst20h - 83 5f 8a 93 57 c9 00 00 
+rst28h - f5 2a 12 13 f1 0b c9 00 
+rst30h - e5 d5 e1 d1 c9 80 00 00 
+rst38h - 92 00 04 00 00 00 00 00 
+
+int40h - c3 b4 0d 00 ff ff ff ff 
+int48h - c3 d4 c2 00 38 80 00 00 
+int50h - d9 ff ff ff 93 00 04 00 
+int58h - d9 00 00 00 12 01 00 00 
+int60h - d9 ff ff ff 1c 80 00 00 
+int68h - 01 84 04 84 04 84 04 84 
+int70h - 04 84 04 84 04 84 04 84 
+int78h - 04 84 04 04 04 04 04 04 
+int80h - 04 84 04 84 04 04 08 08 
+int88h - 08 04 04 04 08 04 04 04 
+int90h - 04 04 04 04 04 84 04 84 
+int98h - 04 84 04 84 04 04 04 04 
+intA0h - 04 85 04 84 04 88 08 04 
+intA8h - 04 00 f0 8f f5 3e c5 cd 
+intB0h - c5 0b 3e 05 e0 8f ea 00 
+intB8h - 20 21 20 99 11 48 73 0e 
+intC0h - c5 06 00 3e 02 cd 7d 02 
+intC8h - 3e 03 e0 8f ea 00 20 cd 
+intD0h - d0 7c f1 e0 8f ea 00 20 
+intD8h - c9 ff ff ff c4 80 00 00 
+intE0h - 98 00 04 00 00 00 00 00 
+intE8h - 0f 04 00 00 ff ff ff ff 
+intF0h - 58 00 00 00 9c 43 01 00 
+intF8h - 20 9d 00 00 99 00 04 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - TINTIN TEMPLESU
+
+CGB Flag - 4e (Invalid)
+New Licensee Code - (ASCII) 70 (Infogrames)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 95
+Global Checksum - a0 a4

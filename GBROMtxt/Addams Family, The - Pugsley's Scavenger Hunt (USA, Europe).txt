@@ -1,0 +1,52 @@
+rst00h - c3 58 01 ff ff ff ff ff 
+rst08h - c3 58 01 ff ff ff ff ff 
+rst10h - c9 ff ff ff ff ff ff ff 
+rst18h - c9 ff ff ff ff ff ff ff 
+rst20h - e9 ff ff ff ff ff ff ff 
+rst28h - c9 ff ff ff ff ff ff ff 
+rst30h - c9 ff ff ff ff ff ff ff 
+rst38h - c9 ff ff ff ff ff ff ff 
+
+int40h - c3 86 00 ff ff ff ff ff 
+int48h - c3 61 00 ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - c3 86 00 ff ff ff ff ff 
+int60h - d9 f3 f5 fa 42 c1 a7 28 
+int68h - 15 f0 45 f0 41 e6 02 20 
+int70h - fa 3e 97 e0 40 af e0 45 
+int78h - e0 42 e0 43 f1 d9 f0 41 
+int80h - e6 02 20 fa f1 d9 f3 f5 
+int88h - c5 d5 e5 fa 42 c1 a7 28 
+int90h - 0b 3e 9f e0 40 3e 87 e0 
+int98h - 45 cd 5e 04 fa 62 c1 3c 
+intA0h - ea 62 c1 fa 0e c2 a7 c4 
+intA8h - bd 00 af ea 45 c1 3e e0 
+intB0h - e0 0f e1 d1 c1 f0 41 e6 
+intB8h - 02 20 fa f1 d9 fa 44 c1 
+intC0h - f5 3e 02 ea 44 c1 ea 00 
+intC8h - 21 cd e5 40 c3 4a 26 ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 58 01 
+
+Title - ADDAMS FAMILY 2
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 67 (Ocean)
+ROM Version - 00
+
+Header Checksum - 9e
+Global Checksum - 3d b7

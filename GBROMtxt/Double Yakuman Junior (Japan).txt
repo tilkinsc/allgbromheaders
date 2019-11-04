@@ -1,0 +1,52 @@
+rst00h - c3 d8 df 00 00 00 00 00 
+rst08h - c3 db df 00 00 00 00 00 
+rst10h - c3 de df 00 00 00 00 00 
+rst18h - c3 e1 df 00 00 00 00 00 
+rst20h - c3 e4 df 00 00 00 00 00 
+rst28h - c3 e7 df 00 00 00 00 00 
+rst30h - c3 ea df 00 00 00 00 00 
+rst38h - c3 38 00 00 00 00 00 00 
+
+int40h - f5 e5 cd f0 df e1 f1 d9 
+int48h - f5 e5 cd f3 df e1 f1 d9 
+int50h - f5 e5 cd f6 df e1 f1 d9 
+int58h - f5 e5 cd f9 df e1 f1 d9 
+int60h - f5 e5 cd fc df e1 f1 d9 
+int68h - 00 00 00 00 00 00 00 00 
+int70h - 00 00 00 00 00 00 00 00 
+int78h - 00 00 00 00 00 00 00 00 
+int80h - 00 00 00 00 00 00 00 00 
+int88h - 00 00 00 00 00 00 00 00 
+int90h - 00 00 00 00 00 00 00 00 
+int98h - 00 00 00 00 00 00 00 00 
+intA0h - 00 00 00 00 00 00 00 00 
+intA8h - 00 00 00 00 00 00 00 00 
+intB0h - 00 00 00 00 00 00 00 00 
+intB8h - 00 00 00 00 00 00 00 00 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - DOUBLEYAKUMAN J
+
+CGB Flag - 52 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - cb (Vap)
+ROM Version - 00
+
+Header Checksum - 8c
+Global Checksum - b6 ef

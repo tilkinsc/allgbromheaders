@@ -1,0 +1,52 @@
+rst00h - c9 ff ff ff ff ff ff ff 
+rst08h - e1 87 f7 2a 66 6f e9 ff 
+rst10h - 2a 12 1c 05 20 fa c9 ff 
+rst18h - c3 af 2d ff ff ff ff ff 
+rst20h - ff ff ff ff ff ff ff ff 
+rst28h - 87 f7 2a 66 6f c9 ff ff 
+rst30h - 85 6f d0 24 c9 ff ff ff 
+rst38h - 83 5f d0 14 c9 ff ff ff 
+
+int40h - c3 61 00 ff ff ff ff ff 
+int48h - c3 c8 00 ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 f5 f0 a0 e0 40 af e0 
+int68h - 0f f0 a1 e0 ff f0 a8 17 
+int70h - 38 43 37 1f e0 a8 cd 80 
+int78h - ff cd 56 02 f0 a2 e0 43 
+int80h - f0 a3 e0 42 f0 ab e0 47 
+int88h - f0 ac e0 48 f0 ad e0 49 
+int90h - fb cd ed 03 cd 14 02 cd 
+int98h - 95 2e f0 bb a7 28 05 cd 
+intA0h - 4e 05 18 09 cd 06 04 cd 
+intA8h - bf 05 cd 5a 05 f0 a8 e6 
+intB0h - 3f e0 a8 f1 d9 c5 d5 e5 
+intB8h - f0 a2 e0 43 f0 a3 e0 42 
+intC0h - cd 95 2e e1 d1 c1 f1 d9 
+intC8h - f5 f0 41 e6 03 20 fa f0 
+intD0h - ae e0 40 f0 b0 e0 42 f0 
+intD8h - af e0 43 3e e4 e0 47 f0 
+intE0h - ff e6 01 e0 ff f1 d9 ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - SUPERCHINESELAN
+
+CGB Flag - 44 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 01 (64KByte (4 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - ba (*Culture Brain O)
+ROM Version - 00
+
+Header Checksum - 7e
+Global Checksum - ca 30

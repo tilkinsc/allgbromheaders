@@ -1,0 +1,52 @@
+rst00h - c3 c4 01 00 00 00 00 00 
+rst08h - 00 00 00 00 00 00 00 00 
+rst10h - 00 00 00 00 00 00 00 00 
+rst18h - 00 00 00 00 00 00 00 00 
+rst20h - 00 00 00 00 00 00 00 00 
+rst28h - 00 00 00 00 00 00 00 00 
+rst30h - 00 00 00 00 00 00 00 00 
+rst38h - 00 00 00 00 00 00 00 00 
+
+int40h - c3 61 00 00 00 00 00 00 
+int48h - c3 e9 17 00 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - c3 06 18 00 00 00 00 00 
+int60h - d9 f5 c5 d5 e5 cd 80 ff 
+int68h - fa b0 c0 e0 45 cd 19 02 
+int70h - 21 ac c0 2a e0 43 2a e0 
+int78h - 42 2a e0 4b 2a e0 4a 21 
+int80h - ab c0 34 3e ff ea 1c da 
+int88h - 21 1e da 34 7e fe 1e d2 
+int90h - d6 18 e1 d1 c1 f1 d9 21 
+int98h - b6 00 11 b1 c0 cd a0 00 
+intA0h - 1a 47 a6 96 9f 4f 78 23 
+intA8h - a6 96 9f a9 2f 17 78 17 
+intB0h - 23 a6 23 12 13 c9 01 40 
+intB8h - 7f 04 40 7f 21 b6 c0 2a 
+intC0h - 5f 3a 57 cd db 00 21 b4 
+intC8h - c0 7e 83 5f 22 7e 8a 57 
+intD0h - 22 cd db 00 7e 93 22 7e 
+intD8h - 9a 77 c9 cb 2a cb 1b cb 
+intE0h - 2a cb 1b cb 2a cb 1b cb 
+intE8h - 2a cb 1b cb 2a cb 1b c9 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 d6 18 
+
+Title - HEIANKYO ALIEN\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 00 (ROM ONLY)
+Rom Size - 00 (32KByte (no ROM banking))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - cd (Meldac)
+ROM Version - 00
+
+Header Checksum - 39
+Global Checksum - 79 dd

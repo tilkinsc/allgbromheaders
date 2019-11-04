@@ -1,0 +1,52 @@
+rst00h - c3 50 01 00 00 00 00 00 
+rst08h - 00 00 00 00 00 00 00 00 
+rst10h - 00 00 00 00 00 00 00 00 
+rst18h - 00 00 00 00 00 00 00 00 
+rst20h - 00 00 00 00 00 00 00 00 
+rst28h - 00 00 00 00 00 00 00 00 
+rst30h - 00 00 00 00 00 00 00 00 
+rst38h - 00 00 00 00 00 00 00 00 
+
+int40h - cd 64 00 d9 00 00 00 00 
+int48h - cd 97 00 d9 00 00 00 00 
+int50h - cd 87 00 d9 00 00 00 00 
+int58h - cd 87 00 d9 00 00 00 00 
+int60h - cd 87 00 d9 f5 c5 d5 e5 
+int68h - fa a4 c0 cd 80 ff cd aa 
+int70h - 00 cd 57 2d cd 1e 2b 21 
+int78h - ae c0 f0 0f b6 77 21 ad 
+int80h - c0 34 e1 d1 c1 f1 c9 f5 
+int88h - c5 d5 e5 21 ae c0 f0 0f 
+int90h - b6 77 e1 d1 c1 f1 c9 f5 
+int98h - c5 d5 e5 cd 2d 03 21 ae 
+intA0h - c0 f0 0f b6 77 e1 d1 c1 
+intA8h - f1 c9 fa a5 c0 e0 40 fa 
+intB0h - aa c0 e0 47 fa ab c0 e0 
+intB8h - 48 fa ac c0 e0 49 fa a6 
+intC0h - c0 e0 43 fa a7 c0 e0 42 
+intC8h - fa a8 c0 e0 4b fa a9 c0 
+intD0h - e0 4a c9 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - MYSTIC QUEST\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 06 (MBC2+BATTERY)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 01 (Nintendo)
+ROM Version - 00
+
+Header Checksum - 51
+Global Checksum - 23 86

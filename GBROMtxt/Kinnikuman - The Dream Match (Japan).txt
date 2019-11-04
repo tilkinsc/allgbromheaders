@@ -1,0 +1,52 @@
+rst00h - c3 50 01 3e 20 e0 00 f0 
+rst08h - 00 f0 00 2f e6 0f cb 37 
+rst10h - 47 3e 10 e0 00 f0 00 f0 
+rst18h - 00 f0 00 f0 00 f0 00 f0 
+rst20h - 00 2f e6 0f b0 4f f0 f0 
+rst28h - a9 a1 e0 f1 79 e0 f0 3e 
+rst30h - 30 e0 00 c9 00 00 00 00 
+rst38h - 00 00 00 00 00 00 00 00 
+
+int40h - f3 f5 c5 d5 e5 c3 a9 01 
+int48h - f3 f5 c5 e5 c3 d2 02 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - f3 f5 c3 d0 04 00 00 00 
+int60h - d9 00 00 00 00 00 00 00 
+int68h - 00 00 00 00 00 00 00 00 
+int70h - 00 00 00 00 00 00 00 00 
+int78h - 00 00 00 00 00 00 00 00 
+int80h - 00 00 00 00 00 00 00 00 
+int88h - 00 00 00 00 00 00 00 00 
+int90h - 00 00 00 00 00 00 00 00 
+int98h - 00 00 00 00 00 00 00 00 
+intA0h - 00 00 00 00 00 00 00 00 
+intA8h - 00 00 00 00 00 00 00 00 
+intB0h - 00 00 00 00 00 00 00 00 
+intB8h - 00 00 00 00 00 00 00 00 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - GB KINNIKUMAN D
+
+CGB Flag - 4d (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - e2 (Uutaka)
+ROM Version - 00
+
+Header Checksum - b3
+Global Checksum - 87 ce

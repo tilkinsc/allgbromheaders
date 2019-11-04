@@ -1,0 +1,52 @@
+rst00h - 00 22 c3 1b 22 c3 1b af 
+rst08h - cd 38 03 c9 6a db a8 37 
+rst10h - cd f6 02 c9 f5 55 55 45 
+rst18h - cd fd 02 c9 f3 20 45 c7 
+rst20h - cd 07 03 c9 ab 68 ba ea 
+rst28h - cd 70 03 c9 8b aa a2 fb 
+rst30h - cd 1e 03 c9 3d d5 51 49 
+rst38h - cd dc 02 c9 15 77 55 51 
+
+int40h - cd 49 17 c9 ab af 28 ab 
+int48h - cd 81 1f c9 ea fb ed b3 
+int50h - d5 59 c1 27 55 7d 45 55 
+int58h - c3 b2 06 5d 51 15 55 dd 
+int60h - be bf af ef fb fa aa ab 
+int68h - eb fb bf ae ef e1 aa be 
+int70h - d5 71 55 5f 5d 55 7d 1d 
+int78h - 51 d5 55 f7 5d 57 57 35 
+int80h - 42 54 50 20 fa ab 7b af 
+int88h - 2e 03 aa ab 0f ea 1b fa 
+int90h - f5 d5 dd fd cd 01 e1 e1 
+int98h - d1 f1 ed c9 4b cd e8 17 
+intA0h - 7e c2 01 ff 20 47 21 4f 
+intA8h - 2a fe 3a fe fb f9 cd 02 
+intB0h - 21 f0 cb 86 cb 86 cb 86 
+intB8h - cb 86 32 fe e5 7d 23 d3 
+intC0h - 7c 24 d3 c1 32 fe e1 32 
+intC8h - fe e2 17 36 fb 06 d3 78 
+intD0h - 02 cb cb 5f 00 21 f0 19 
+intD8h - 7e b7 17 cb 46 11 cb c6 
+intE0h - dd 01 07 6e dd 03 3a f0 
+intE8h - 05 9e 18 e1 02 4f 21 21 
+intF0h - 00 21 f0 09 cb 86 75 dd 
+intF8h - 03 72 dd 00 c3 01 cb cb 
+
+Entry Point - 00 c3 50 01 
+
+Title - BA.TOSHINDEN\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 01 (Nintendo)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - ed
+Global Checksum - 65 32

@@ -1,0 +1,52 @@
+rst00h - c3 50 01 7e 5f eb fd ff 
+rst08h - c9 e9 7c 76 4b ab 39 e1 
+rst10h - c3 c5 32 48 e4 0c 0e c4 
+rst18h - c3 b6 32 00 55 56 5f e8 
+rst20h - c3 0a 32 71 90 bf 69 51 
+rst28h - c3 04 32 08 20 82 08 a4 
+rst30h - c9 3d 54 f9 9e 87 88 d6 
+rst38h - c9 50 b9 38 60 28 16 dc 
+
+int40h - c3 00 c0 ff 5f ff ff ff 
+int48h - c3 4e c0 ff fd ff 7d ff 
+int50h - c3 c8 c0 ff ff ff fb ff 
+int58h - d9 ff ff eb ff ef ff 7f 
+int60h - d9 fd ff ff af ff ef f6 
+int68h - ff ff ff ff df ff 9f bf 
+int70h - ff ff be ff ff fb f7 ff 
+int78h - ff ff ff ff ff ff ef ff 
+int80h - 9b 9b fe f6 fd b9 63 55 
+int88h - a6 6f 7f d9 a3 ef 7f aa 
+int90h - d2 a7 6c 19 0e b1 0c 9a 
+int98h - 79 88 54 c1 0f 88 aa ec 
+intA0h - e7 e4 df bf 82 2a a4 43 
+intA8h - 02 01 40 95 53 37 08 0c 
+intB0h - b1 9e 64 8f 79 31 69 29 
+intB8h - 5f 6b 11 1c 5d ce 92 9d 
+intC0h - bf ff ff ff fd ff ff fd 
+intC8h - ff ff ff ff ff ff fd ff 
+intD0h - df ff ff ff ff ff ff f5 
+intD8h - 3f ff fe ff ff ff ff ff 
+intE0h - fb ff fe f7 bf f7 ff f7 
+intE8h - bf bf ff ff ff ff ff ff 
+intF0h - ff cf ff ff ff fd ef ff 
+intF8h - f7 ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - ALFRED CHICKEN\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) BB (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 66
+Global Checksum - 13 83

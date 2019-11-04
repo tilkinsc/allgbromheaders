@@ -1,0 +1,52 @@
+rst00h - d0 ff ff ff ff ff ff ff 
+rst08h - c3 80 f0 ff ff ff ff ff 
+rst10h - 83 ff ff ff ff ff ff ff 
+rst18h - 01 ff ff ff ff fd ff fe 
+rst20h - ff ff ff ff ff ff ff ff 
+rst28h - ff 3f ff fa a2 bf f3 2e 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ef 7f fc f3 ed bb f6 d5 
+
+int40h - c3 b7 01 ff ff ff ff ff 
+int48h - d9 ff 7f fe fe 9f fe ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - d9 ed ff 7e fe ee ff e7 
+int60h - d9 31 39 39 37 20 46 65 
+int68h - 62 2e 20 63 6f 6d 70 6c 
+int70h - 65 74 65 2e 4d 61 6b 69 
+int78h - 6e 67 20 62 79 20 43 2d 
+int80h - 6c 61 62 2e 63 6f 2e 2c 
+int88h - 6c 74 64 2e ff f3 ff fe 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - f5 ff ff bf de ef ff ff 
+intA0h - fe ff ff ff ff ff ff ff 
+intA8h - ff fe ff e9 ef dc d3 4f 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - fd bf 5f ef 7d f7 e9 ce 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - bf ff f7 87 b3 f6 f6 d9 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff cf 3d e3 d3 e5 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff 7f f8 c5 7f fb 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff dd 7b fb db 73 77 
+
+Entry Point - 00 c3 50 01 
+
+Title - EIZYUKUGO 1000\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 9C (Invalid)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 87
+Global Checksum - b7 be

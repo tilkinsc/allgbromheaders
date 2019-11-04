@@ -1,0 +1,52 @@
+rst00h - c9 8b 02 00 00 00 00 00 
+rst08h - c3 80 f0 ff ff ff ff ff 
+rst10h - c9 ff ff ff ff ff ff ff 
+rst18h - c9 ff ff ff ff ff ff ff 
+rst20h - c9 ff ff ff ff ff ff ff 
+rst28h - c9 e1 5f 16 00 19 5e 23 
+rst30h - c9 d5 e1 e9 ff ff ff ff 
+rst38h - c9 ff ff ff ff ff ff ff 
+
+int40h - c3 70 00 ff ff ff ff ff 
+int48h - c3 8b 00 ff ff ff ff ff 
+int50h - c3 b3 00 ff ff ff ff ff 
+int58h - c3 a6 00 ff ff ff ff ff 
+int60h - 18 fe ff ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - f3 f5 c5 d5 e5 fa 32 c3 
+int78h - a7 20 0b 3c ea 32 c3 cd 
+int80h - 20 0f af ea 32 c3 e1 d1 
+int88h - c1 f1 d9 f3 f5 c5 d5 e5 
+int90h - fa 52 c3 a7 20 0b 3c ea 
+int98h - 52 c3 cd 7d 12 af ea 52 
+intA0h - c3 e1 d1 c1 f1 d9 f3 f5 
+intA8h - c5 d5 e5 cd ef 10 e1 d1 
+intB0h - c1 f1 d9 f3 e5 d5 c5 f5 
+intB8h - 21 9b c3 34 23 34 f1 c1 
+intC0h - d1 e1 d9 ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - NAIL N SCALE\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - c5 (Data East)
+ROM Version - 00
+
+Header Checksum - 04
+Global Checksum - 79 1d

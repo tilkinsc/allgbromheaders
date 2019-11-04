@@ -1,0 +1,52 @@
+rst00h - 78 ea 00 20 e0 e0 e9 00 
+rst08h - c3 61 00 00 00 00 00 00 
+rst10h - c3 88 00 00 00 00 00 00 
+rst18h - c3 a2 00 00 00 00 00 00 
+rst20h - f0 ff e6 f7 e0 ff c9 ff 
+rst28h - f0 ff f6 08 e0 ff c9 ff 
+rst30h - c3 75 00 ff ff ff ff ff 
+rst38h - c9 ff ff ff ff ff ff ff 
+
+int40h - c3 52 05 00 00 04 00 00 
+int48h - c3 94 04 00 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - c3 1a 17 d9 00 00 00 00 
+int60h - d9 f0 e0 f5 78 ea 00 20 
+int68h - e0 e0 cd 74 00 f1 ea 00 
+int70h - 20 e0 e0 c9 e9 f0 e0 f5 
+int78h - 78 ea 00 20 e0 e0 cd 48 
+int80h - 0f f1 ea 00 20 e0 e0 c9 
+int88h - f0 ff e6 fe e0 ff f0 40 
+int90h - cb 7f ca a1 00 f0 44 fe 
+int98h - 91 20 fa f0 40 e6 7f e0 
+intA0h - 40 c9 f6 80 e0 40 f0 ff 
+intA8h - f6 09 e0 ff c9 e0 e8 e9 
+intB0h - ea eb ec ed ee df 08 07 
+intB8h - 06 05 04 03 02 01 00 e0 
+intC0h - e1 e2 e3 e4 e5 e6 e7 df 
+intC8h - 00 01 02 03 04 05 06 07 
+intD0h - 08 ef f0 f1 f2 f3 f4 f5 
+intD8h - f6 f7 f8 d4 d5 00 00 00 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - KOF HEATOFBATTL
+
+CGB Flag - 45 (Invalid)
+New Licensee Code - (ASCII) 38 (Hudson)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - cd
+Global Checksum - 86 7a

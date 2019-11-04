@@ -1,0 +1,52 @@
+rst00h - c3 00 03 00 00 00 00 00 
+rst08h - e1 c5 4f af 47 09 c1 2a 
+rst10h - 66 6f e9 00 00 00 00 00 
+rst18h - 00 00 00 00 00 00 00 00 
+rst20h - 00 00 00 00 00 00 00 00 
+rst28h - 00 00 00 00 00 00 00 00 
+rst30h - 00 00 00 00 00 00 00 00 
+rst38h - 00 00 00 00 00 00 00 00 
+
+int40h - f3 f5 c5 d5 e5 c3 2b 32 
+int48h - f3 f5 c5 d5 e5 c3 ac 09 
+int50h - f3 f5 c5 d5 e5 c3 9f 0a 
+int58h - d9 00 00 00 00 00 00 00 
+int60h - d9 00 00 00 3e 01 e0 c5 
+int68h - 06 03 18 0e af e0 c5 e0 
+int70h - 47 e0 48 e0 49 cd a4 2f 
+int78h - af 47 0e fc 21 94 ff cd 
+int80h - f0 00 21 90 ff af 22 22 
+int88h - 32 2d 0e 94 3e 03 f5 1e 
+int90h - 04 f2 53 07 07 15 20 fb 
+int98h - e6 03 b8 38 01 78 53 0f 
+intA0h - 0f 15 20 fb b6 77 1d 20 
+intA8h - e8 2c 0c f1 3d 20 df 2e 
+intB0h - 90 2a e0 47 e0 fc 2a e0 
+intB8h - 48 e0 fd 7e e0 49 e0 fe 
+intC0h - 0e 04 f0 cc b7 28 01 4f 
+intC8h - cd e9 00 f0 c5 b7 20 0e 
+intD0h - 04 78 fe 04 20 ac 0e 94 
+intD8h - 21 fc ff c3 f0 00 05 78 
+intE0h - fe ff 20 9e cd 9f 2f 18 
+intE8h - ed cd cc 03 0d 20 fa c9 
+intF0h - 1e 03 f2 0c 22 1d 20 fa 
+intF8h - c9 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 00 03 
+
+Title - OTOGI BANASI TA
+
+CGB Flag - 49 (Invalid)
+New Licensee Code - (ASCII) 1H (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 06 (MBC2+BATTERY)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - e1
+Global Checksum - 0f 07

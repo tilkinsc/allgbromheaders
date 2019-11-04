@@ -1,0 +1,52 @@
+rst00h - c3 36 39 00 00 00 3b 00 
+rst08h - c3 80 f0 00 3b 00 11 00 
+rst10h - ff cc 5b 14 5b 88 ff 35 
+rst18h - fd 25 ff 40 9f 61 af 9f 
+rst20h - c8 90 96 e0 ec 79 de 10 
+rst28h - f7 01 bd 6d 75 88 cf e3 
+rst30h - ff 05 77 80 fc 2c 7e 0c 
+rst38h - f0 92 ef 03 7f 59 ff 3b 
+
+int40h - c3 3c 07 00 f3 41 ff 3c 
+int48h - d9 00 6f f8 77 75 64 ff 
+int50h - c3 1e 07 1f ff 0c fd 21 
+int58h - d9 53 ff 22 fd 6b df ed 
+int60h - d9 50 52 4f 47 52 41 4d 
+int68h - 4d 45 44 20 42 59 20 6d 
+int70h - 69 6e 6f 72 75 28 31 32 
+int78h - 2f 31 38 2d 30 29 f7 ee 
+int80h - 00 ff 2c ff 4c fe 00 dc 
+int88h - 88 ef a4 de 10 9b 20 bd 
+int90h - 7f 28 79 48 ff 00 8f 04 
+int98h - d7 00 b5 10 6d 26 f7 fb 
+intA0h - ff 01 de 41 dd 41 4f 09 
+intA8h - d6 10 f5 10 fe b3 47 af 
+intB0h - a8 05 f2 77 ae 6a 1f 99 
+intB8h - d2 df 40 51 1b 47 2b 61 
+intC0h - ff 00 d5 44 f7 35 f7 22 
+intC8h - 4c c7 73 04 eb 75 bd b7 
+intD0h - ff 28 df 82 ff 07 8b 35 
+intD8h - ff 8e ff 20 ea fd bf bc 
+intE0h - ff cc b5 04 ff dc 7e 1d 
+intE8h - ff 4e f7 24 e7 61 7d be 
+intF0h - ff 92 7d 12 3b 43 5f a1 
+intF8h - bf 91 9d 99 9d 2c f3 ef 
+
+Entry Point - 00 c3 50 01 
+
+Title - HINSYUTU EIBUNP
+
+CGB Flag - 4f (Invalid)
+New Licensee Code - (ASCII) 9C (Invalid)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 79
+Global Checksum - ef cc

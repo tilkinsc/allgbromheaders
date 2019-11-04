@@ -1,0 +1,52 @@
+rst00h - c3 50 01 00 00 00 00 00 
+rst08h - c3 50 01 00 00 00 00 00 
+rst10h - 00 00 00 00 00 00 00 00 
+rst18h - 01 01 01 01 02 02 02 02 
+rst20h - 00 00 00 00 00 00 00 00 
+rst28h - ff ff 00 00 00 00 00 00 
+rst30h - 00 00 00 00 00 00 00 00 
+rst38h - ff ff 60 60 60 60 c0 c0 
+
+int40h - c3 63 04 00 00 00 00 00 
+int48h - c3 20 05 00 01 01 0f 0f 
+int50h - c3 12 05 00 00 00 00 00 
+int58h - c3 ce 04 3c e0 e0 81 81 
+int60h - 00 00 00 d9 00 00 01 01 
+int68h - 06 06 19 19 63 63 87 87 
+int70h - 00 00 10 10 60 60 c8 c8 
+int78h - 90 90 60 60 c0 c0 81 81 
+int80h - 00 00 00 00 00 00 00 00 
+int88h - 7f 7f 80 80 80 80 00 00 
+int90h - 00 00 00 00 00 00 00 00 
+int98h - ff ff 03 03 1c 1c 7f 7f 
+intA0h - 00 00 00 00 00 00 00 00 
+intA8h - c0 c0 00 00 00 00 e0 e0 
+intB0h - 00 00 00 00 00 00 07 07 
+intB8h - 08 08 08 08 10 10 10 10 
+intC0h - 04 04 04 04 08 08 f8 f8 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 01 01 01 01 03 03 
+intD8h - 03 03 06 06 06 06 0c 0c 
+intE0h - c0 c0 80 80 80 80 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 0e 0e 1e 1e 1c 1c 1f 1f 
+intF8h - 00 00 01 01 01 01 03 03 
+
+Entry Point - 00 c3 50 01 
+
+Title - HOKUTO NO KEN  
+
+CGB Flag - 20 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - ac (Toei Animation)
+ROM Version - 00
+
+Header Checksum - 43
+Global Checksum - 23 03

@@ -1,0 +1,52 @@
+rst00h - c9 00 00 00 00 00 00 00 
+rst08h - 00 00 00 00 00 00 00 00 
+rst10h - 00 00 00 00 00 00 00 00 
+rst18h - 00 00 00 00 00 00 00 00 
+rst20h - 00 00 00 00 00 00 00 00 
+rst28h - 00 00 00 00 00 00 00 00 
+rst30h - 00 00 00 00 00 00 00 00 
+rst38h - 00 00 00 00 00 00 00 00 
+
+int40h - c3 63 00 00 00 00 00 00 
+int48h - c3 98 00 00 00 00 00 00 
+int50h - c3 a4 00 00 00 00 00 00 
+int58h - c3 b0 00 00 00 00 00 00 
+int60h - c3 bc 00 f5 c5 d5 e5 cd 
+int68h - fd 05 0e 02 21 a4 c0 7e 
+int70h - c6 01 22 30 03 0d 20 f7 
+int78h - 21 a5 c0 3a fe 0e 38 13 
+int80h - 7e fe 10 38 0e af 22 22 
+int88h - 0e 02 7e c6 01 22 30 03 
+int90h - 0d 20 f7 e1 d1 c1 f1 d9 
+int98h - f5 c5 d5 e5 cd 00 00 e1 
+intA0h - d1 c1 f1 d9 f5 c5 d5 e5 
+intA8h - cd 00 00 e1 d1 c1 f1 d9 
+intB0h - f5 c5 d5 e5 cd 19 04 e1 
+intB8h - d1 c1 f1 d9 f5 c5 d5 e5 
+intC0h - cd 00 00 e1 d1 c1 f1 d9 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - MON RACE OTHER\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) C8 (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 03 (32 KByte (4 banks * 8 KByte))
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 65
+Global Checksum - ec 56

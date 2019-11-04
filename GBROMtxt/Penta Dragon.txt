@@ -1,0 +1,52 @@
+rst00h - d0 63 fb ef fe f1 ae f6 
+rst08h - c3 00 00 fe ff 9f ff ff 
+rst10h - c3 de 09 df ae bb 52 7b 
+rst18h - c3 00 00 ff f6 ff ff ff 
+rst20h - ea 80 d8 d9 d7 6e 8a 62 
+rst28h - c3 9a 09 ff ff f7 fe ff 
+rst30h - c3 a5 42 7f cd 7b fe ff 
+rst38h - ea 87 d8 d9 fd 3f db ff 
+
+int40h - c3 d1 06 33 d3 d9 fa ea 
+int48h - c3 53 08 ff 7f ff db fa 
+int50h - c3 b3 06 e7 dc 2f 9e fa 
+int58h - d9 7d fb 7d fd ed bf ff 
+int60h - d9 ea 09 dc c3 be 09 f0 
+int68h - ff e0 98 cb 87 f0 44 fe 
+int70h - 91 38 fa f0 40 e6 7f e0 
+int78h - 40 f0 98 e0 ff c9 3e 01 
+int80h - ea 89 d8 af ea 80 d8 c9 
+int88h - 3e d2 e0 06 3e d2 e0 05 
+int90h - 3e 00 e0 07 3e 04 e0 07 
+int98h - c9 f0 41 e6 03 fe 03 20 
+intA0h - f8 f0 41 e6 03 20 fa c9 
+intA8h - fa 09 dd a7 20 14 c5 f0 
+intB0h - 93 4f f0 95 a9 a1 47 79 
+intB8h - e0 95 f0 96 a0 e0 94 79 
+intC0h - c1 c9 af e0 95 e0 94 c9 
+intC8h - f0 40 f6 80 e0 40 c9 ff 
+intD0h - 7c 76 ce f8 dd ef ff ff 
+intD8h - df ff 57 ff 7d ff dd ff 
+intE0h - 70 33 bf ba 6e 8a b4 99 
+intE8h - ff fb fb f7 7f ef ff df 
+intF0h - 21 5d f3 db f6 3c 7e fd 
+intF8h - ff ff fb ff f5 bf fc f9 
+
+Entry Point - 00 c3 50 01 
+
+Title - PENTADRAGON\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 1a (Yanoman)
+ROM Version - 00
+
+Header Checksum - 92
+Global Checksum - 0c 3e

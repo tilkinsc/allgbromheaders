@@ -1,0 +1,52 @@
+rst00h - c3 85 01 ff ff ff 00 00 
+rst08h - c3 85 01 ff ff ff ff ff 
+rst10h - ff ff ff ff ff ff ff ff 
+rst18h - ff ff ff ff ff ff ff ff 
+rst20h - ff ff ff ff ff ff ff ff 
+rst28h - 87 e1 5f 16 00 19 5e 23 
+rst30h - 56 d5 e1 e9 ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 60 00 ff ff ff ff ff 
+int48h - c3 95 00 ff ff ff ff ff 
+int50h - f5 3e 03 ea 00 20 cd f0 
+int58h - 7f f0 fd ea 00 20 f1 d9 
+int60h - f5 c5 d5 e5 cd 4f 22 cd 
+int68h - 7d 1b cd 2a 1c cd b6 ff 
+int70h - cd 24 3f cd 61 3d cd f8 
+int78h - 23 21 ac ff 34 f0 b3 fe 
+int80h - 3a 20 05 21 40 ff cb ee 
+int88h - af e0 43 e0 42 3c e0 85 
+int90h - e1 d1 c1 f1 d9 f5 e5 f0 
+int98h - 41 e6 03 20 fa fa a5 c0 
+intA0h - a7 20 2c f0 a4 e0 43 fa 
+intA8h - de c0 a7 28 05 fa df c0 
+intB0h - e0 42 f0 b3 fe 3a 20 14 
+intB8h - 21 4a ff 7e fe 40 28 1e 
+intC0h - 35 fe 87 30 07 c6 08 e0 
+intC8h - 45 ea a5 c0 e1 f1 d9 21 
+intD0h - 40 ff cb ae 3e 0f e0 45 
+intD8h - af ea a5 c0 18 ee f5 f0 
+intE0h - fb a7 28 06 3d e0 fb f1 
+intE8h - 18 db 3e ff ea ad c0 18 
+intF0h - f6 ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - SUPER MARIOLAND
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 01 (64KByte (4 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 01 (Nintendo)
+ROM Version - 00
+
+Header Checksum - 9e
+Global Checksum - 41 6b

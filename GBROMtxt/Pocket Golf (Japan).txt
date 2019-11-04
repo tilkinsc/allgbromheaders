@@ -1,0 +1,52 @@
+rst00h - c3 d8 df 00 00 00 00 00 
+rst08h - c3 db df 00 00 00 00 00 
+rst10h - c3 de df 00 00 00 00 00 
+rst18h - c3 e1 df 00 00 00 00 00 
+rst20h - c3 e4 df 00 00 00 00 00 
+rst28h - c3 e7 df 00 00 00 00 00 
+rst30h - c3 ea df 00 00 00 00 00 
+rst38h - c3 38 00 00 00 00 00 00 
+
+int40h - f5 e5 cd f0 df e1 f1 d9 
+int48h - f5 e5 cd f3 df e1 f1 d9 
+int50h - f5 e5 cd f6 df e1 f1 d9 
+int58h - f5 e5 cd f9 df e1 f1 d9 
+int60h - f5 e5 cd fc df e1 f1 d9 
+int68h - ba ff ba ff aa ff a7 f7 
+int70h - ba 7f 88 fb ea fe ea f7 
+int78h - aa bf a8 fc a2 7c af 7d 
+int80h - ab ff ac ff 2b fd aa ff 
+int88h - aa ff ea fb 9a 5f ee ff 
+int90h - aa f7 ab cb 0a dd ab be 
+int98h - aa fe a2 b7 aa bd a8 77 
+intA0h - ee ff aa f7 fa ff aa d7 
+intA8h - 6b ff aa ff aa ff 3b df 
+intB0h - ae ff aa ff 8a ab ba ff 
+intB8h - aa ff aa ef aa fe ea 6b 
+intC0h - aa ff a3 ff ae fb a8 ff 
+intC8h - aa 7f a0 ff 8a c7 8a ff 
+intD0h - ee 7f aa 7d b3 ff e2 7f 
+intD8h - aa ff a0 ff 06 d7 e8 e3 
+intE0h - aa ff 7a ff fe ff ab ef 
+intE8h - 2a fd 7a ff ac f9 ab ff 
+intF0h - ea ef b2 f7 ba fb aa ef 
+intF8h - ea ff ea ff aa 5f a2 ae 
+
+Entry Point - 00 c3 50 01 
+
+Title - POCKET GOLF    
+
+CGB Flag - 20 (Invalid)
+New Licensee Code - (ASCII) 9H (Invalid)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 82
+Global Checksum - bf 61

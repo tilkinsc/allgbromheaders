@@ -1,0 +1,52 @@
+rst00h - c3 00 01 00 00 00 00 00 
+rst08h - c3 37 07 00 00 00 00 00 
+rst10h - c3 53 01 00 00 00 00 00 
+rst18h - c3 59 01 00 00 00 00 00 
+rst20h - c3 fb 00 00 00 00 00 00 
+rst28h - c3 fb 00 00 00 00 00 00 
+rst30h - c3 fb 00 00 00 00 00 00 
+rst38h - c3 37 07 00 00 00 00 00 
+
+int40h - c3 aa c0 00 00 00 00 00 
+int48h - c3 ad c0 00 00 00 00 00 
+int50h - c3 b0 c0 00 00 00 00 00 
+int58h - c3 b3 c0 00 00 00 00 00 
+int60h - c3 b6 c0 00 00 00 00 00 
+int68h - 81 00 00 80 0b 18 1e 80 
+int70h - 11 17 10 80 17 1d 10 80 
+int78h - 16 17 25 80 1e 13 17 80 
+int80h - 17 1f 17 80 1d 16 10 80 
+int88h - 16 14 0d 80 18 13 18 80 
+int90h - 00 73 68 00 00 65 96 00 
+int98h - 00 52 51 00 00 41 53 00 
+intA0h - 00 32 26 00 00 22 53 00 
+intA8h - 00 25 07 00 00 19 90 00 
+intB0h - 00 00 00 02 07 06 05 04 
+intB8h - 03 02 01 00 00 20 0f 1c 
+intC0h - 1d 13 19 18 00 01 03 00 
+intC8h - 1d 0f 18 1e 00 1e 19 00 
+intD0h - 0d 1d 11 00 03 06 25 01 
+intD8h - 05 25 0a 02 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 3e f3 ea 02 e0 
+
+Entry Point - 00 c3 64 09 
+
+Title - ALTERED SPACE\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - bd (Sony Imagesoft)
+ROM Version - 00
+
+Header Checksum - 9a
+Global Checksum - 99 0a

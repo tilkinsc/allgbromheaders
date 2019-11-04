@@ -1,0 +1,52 @@
+rst00h - 00 44 22 82 08 83 00 00 
+rst08h - c3 80 f0 42 a2 18 20 44 
+rst10h - 00 11 08 04 20 60 a2 22 
+rst18h - 08 c3 00 58 20 41 80 90 
+rst20h - 20 12 08 04 20 0a 08 03 
+rst28h - 02 21 00 01 00 86 00 08 
+rst30h - 05 05 05 05 05 05 05 05 
+rst38h - 1e 05 05 05 05 01 3c 0f 
+
+int40h - c3 9e 01 0f 4e 43 4c 55 
+int48h - c3 57 02 44 45 46 2e 49 
+int50h - c3 2e 04 0a 09 49 4e 43 
+int58h - c3 58 00 45 09 45 58 54 
+int60h - d9 01 aa 00 00 10 02 08 
+int68h - 08 04 00 01 00 00 82 2c 
+int70h - 00 83 80 05 00 81 8a 03 
+int78h - 88 00 20 00 00 01 80 81 
+int80h - 02 10 08 40 00 40 80 00 
+int88h - 88 00 08 00 00 48 02 60 
+int90h - 00 17 00 09 80 0c a0 59 
+int98h - 08 80 00 80 00 10 28 01 
+intA0h - 00 02 80 00 00 01 80 50 
+intA8h - 28 00 20 12 00 c0 00 10 
+intB0h - 88 10 08 01 82 3b 80 80 
+intB8h - a0 a0 00 01 00 00 20 04 
+intC0h - 00 00 00 e0 08 14 0a 02 
+intC8h - 00 00 20 00 a0 60 02 44 
+intD0h - 02 10 08 81 88 de 80 52 
+intD8h - 20 41 00 02 00 21 a0 80 
+intE0h - 80 12 20 48 00 32 00 08 
+intE8h - 08 40 80 20 28 20 0a 02 
+intF0h - 02 00 02 12 20 80 22 4a 
+intF8h - 00 00 00 00 00 00 20 09 
+
+Entry Point - 00 c3 50 01 
+
+Title - STOP THAT ROACH
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - c8 (Koei)
+ROM Version - 00
+
+Header Checksum - f7
+Global Checksum - ec 07

@@ -1,0 +1,52 @@
+rst00h - 82 48 21 14 06 04 ff 0b 
+rst08h - 4b 00 ff 05 56 00 ff 05 
+rst10h - 5b 00 3e c0 e0 46 3e 28 
+rst18h - 3d 20 fd c9 3e a6 e0 4b 
+rst20h - 3e 8f e0 4a e5 21 40 ff 
+rst28h - cb ae e1 c9 3e 01 c3 0f 
+rst30h - 07 f5 3e 02 ea 00 20 f1 
+rst38h - c9 3e 03 c3 0f 07 00 00 
+
+int40h - d9 0f d0 00 00 00 d9 00 
+int48h - d9 12 d0 d9 00 00 d9 00 
+int50h - f3 f5 c5 d5 e5 c3 c4 08 
+int58h - f5 af ea 48 d5 c3 06 0c 
+int60h - d9 21 00 98 c3 6d 00 cd 
+int68h - 61 00 21 00 9c 11 00 04 
+int70h - c3 76 00 11 00 20 af 22 
+int78h - 1b ba 20 fb bb 20 f8 c9 
+int80h - cd 13 07 f0 40 e6 7c e0 
+int88h - 40 c9 fb cd 24 3a f0 40 
+int90h - f6 83 e0 40 c9 af ea 09 
+int98h - cc c9 af e0 a6 af e0 a3 
+intA0h - 46 23 4e 23 c5 f0 a3 b7 
+intA8h - 28 0a f0 a3 3d e0 a3 f0 
+intB0h - a4 c3 c2 00 2a fe fe 38 
+intB8h - 10 ee fe e0 a5 2a 3d e0 
+intC0h - a3 2a 4f f0 a5 81 e0 a4 
+intC8h - 79 d5 5f f0 a6 83 d1 12 
+intD0h - 13 05 20 d1 c1 3e 20 90 
+intD8h - 83 5f 8a 93 57 0d 20 c4 
+intE0h - c9 14 04 ff 14 00 00 ff 
+intE8h - 2e 14 41 41 42 43 41 44 
+intF0h - 45 41 ff 05 46 14 04 fe 
+intF8h - 50 d0 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - WWF SUPERSTARS\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 09 (Hot-b)
+ROM Version - 00
+
+Header Checksum - ab
+Global Checksum - e1 48

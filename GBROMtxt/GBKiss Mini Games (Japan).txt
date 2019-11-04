@@ -1,0 +1,52 @@
+rst00h - 00 00 00 00 00 00 00 00 
+rst08h - c3 68 00 01 01 4a 01 02 
+rst10h - c3 c9 00 00 fe 03 00 bf 
+rst18h - 00 00 00 00 00 00 00 00 
+rst20h - e0 80 ea 00 20 c9 00 00 
+rst28h - 00 00 00 00 00 00 00 00 
+rst30h - 00 00 00 00 00 00 00 00 
+rst38h - 00 00 00 00 00 00 00 00 
+
+int40h - c3 06 c0 00 00 00 00 00 
+int48h - 00 00 00 00 00 00 00 00 
+int50h - c3 00 c0 c3 1c 02 00 00 
+int58h - c3 03 c0 00 00 00 00 00 
+int60h - 00 00 00 00 00 00 00 00 
+int68h - e8 fb f5 d5 e5 f8 0b 5e 
+int70h - 23 56 1a 13 72 2b 73 5f 
+int78h - fa 0d 00 bb 38 15 16 00 
+int80h - 21 e0 01 19 19 5e 23 56 
+int88h - f8 09 73 23 72 e1 d1 f1 
+int90h - e8 03 c9 53 2b f0 80 32 
+int98h - 36 00 2b 36 bd cb 23 7a 
+intA0h - 07 e6 01 c6 0e 6f 26 00 
+intA8h - 7e cd f7 00 21 00 40 55 
+intB0h - 19 5e 23 56 f8 06 73 23 
+intB8h - 72 e1 d1 f1 c9 f5 e5 f8 
+intC0h - 04 7e cd f7 00 e1 f1 33 
+intC8h - c9 f5 f5 d5 e5 f8 08 2a 
+intD0h - 66 6f 5e 23 56 e5 2b 19 
+intD8h - 5d 54 f8 0b 72 2b 73 d1 
+intE0h - 13 2b 72 2b 73 e1 d1 f1 
+intE8h - c9 af e0 81 3c ea 00 60 
+intF0h - af ea 00 00 fa 0c 00 e0 
+intF8h - 80 ea 00 20 c9 00 00 00 
+
+Entry Point - f3 c3 e5 02 
+
+Title - GBKISS MINIGAME
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 18 (Hudsonsoft)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - ff (HuC1+RAM+BATTERY)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 03 (32 KByte (4 banks * 8 KByte))
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 1c
+Global Checksum - 75 09

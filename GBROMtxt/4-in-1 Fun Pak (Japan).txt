@@ -1,0 +1,52 @@
+rst00h - c9 f0 41 e6 02 20 fa c9 
+rst08h - f0 40 07 d0 f0 41 e6 02 
+rst10h - 28 fa 18 ed ff ff ff ff 
+rst18h - fa a4 c3 b7 28 fa af ea 
+rst20h - a4 c3 c9 24 2a 66 6f e9 
+rst28h - e1 07 85 6f 30 f6 18 f3 
+rst30h - c9 ff ff ff ff ff ff ff 
+rst38h - c9 ff ff ff ff ff ff ff 
+
+int40h - c3 00 c0 ff ff ff ff ff 
+int48h - c3 03 c0 ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - c3 06 c0 ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - d9 ff ff ff ff ff ff ff 
+int70h - f3 31 00 e0 3e 01 ea 00 
+int78h - 20 cd ad 09 3e bb ea 0a 
+int80h - c0 3e 01 ea 13 c3 cd 24 
+int88h - 09 cd c9 09 cd 5a 09 af 
+int90h - ea ba c3 ea bb c3 cd 62 
+int98h - 0e 3e 01 cd 62 0e cd 77 
+intA0h - 0e 06 06 21 77 4b cd fb 
+intA8h - 09 c3 50 01 f3 31 00 e0 
+intB0h - 3e 01 ea 00 20 cd ad 09 
+intB8h - f0 44 fe 91 38 fa 3e bc 
+intC0h - 18 bc ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 ac 00 
+
+Title - FUNPAK 4IN1\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 9c (Imagineer)
+ROM Version - 00
+
+Header Checksum - 67
+Global Checksum - 3a 7f

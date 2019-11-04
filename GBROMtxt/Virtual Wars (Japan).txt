@@ -1,0 +1,52 @@
+rst00h - 54 48 45 20 4c 41 57 4e 
+rst08h - 4d 4f 57 45 52 20 4d 41 
+rst10h - 4e 20 4a 41 50 20 76 31 
+rst18h - 2e 39 30 20 30 31 2f 31 
+rst20h - 31 2f 39 33 20 42 59 20 
+rst28h - 4b 45 4e 20 4d 55 52 46 
+rst30h - 49 54 54 2e 20 00 00 00 
+rst38h - 00 e7 ff eb ff e7 ff 5d 
+
+int40h - c3 eb 2c bf ff bf ff f8 
+int48h - c3 c6 2d d3 ef bf f7 5f 
+int50h - c3 1e 2e ff ff 67 ff 7f 
+int58h - c3 1f 2e f9 ff b7 ff b7 
+int60h - c3 20 2e bf ff f3 ff ff 
+int68h - ff 7e fb f7 fd f7 ff 3f 
+int70h - 3f de ff 4f ff b5 f7 df 
+int78h - ff df ff fc 7f 37 ff 55 
+int80h - df ff ff f6 ff d7 ff 7e 
+int88h - fd 66 ff ee ff 9b ff 77 
+int90h - ff ad 75 af ff 8b ff d3 
+int98h - 7e 5f 7f fb ff ff ff 3f 
+intA0h - fe ff ff ee ff aa ff 6f 
+intA8h - ff db df df 7e d1 ff 7f 
+intB0h - ff 7e ff f7 ff cf ff df 
+intB8h - ff df df ff ff d5 ff b7 
+intC0h - f7 69 ff f6 ff a3 ff ff 
+intC8h - ff 7f 6f fe ff ff ff fe 
+intD0h - ff fe ff 6e ff d9 ff 6f 
+intD8h - ff ff ff ef ff d1 ff db 
+intE0h - ff e7 ff 87 ff d7 ff ff 
+intE8h - 7f fd ff 7e ff ed db fd 
+intF0h - 7f fe ff b3 ff ce ff 3f 
+intF8h - ff ef ff 77 ff af ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - VIRTUAL WARS\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 0c (Elite Systems)
+ROM Version - 00
+
+Header Checksum - 54
+Global Checksum - 89 3e

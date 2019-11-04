@@ -1,0 +1,52 @@
+rst00h - ff ff ff ff ff ff ff ff 
+rst08h - 18 49 ff ff ff ff ff ff 
+rst10h - 23 cb 7c c8 18 50 ff ff 
+rst18h - cb 7c c8 18 49 ff ff ff 
+rst20h - ff ff ff ff ff ff ff ff 
+rst28h - ff ff ff ff ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 bf 0c ff ff ff ff ff 
+int48h - c3 ca 0d ff ff ff ff ff 
+int50h - c3 37 0d c5 47 f0 a3 4f 
+int58h - 78 e6 0f e0 a3 ea 00 21 
+int60h - 79 c1 c9 f5 18 05 f5 7c 
+int68h - d6 40 67 f0 a3 3c e6 0f 
+int70h - e0 a3 ea 00 21 f1 c9 0b 
+int78h - 77 23 0b cb 78 28 f9 c9 
+int80h - f0 40 cb ff e0 40 c9 f3 
+int88h - cd 63 0c f0 40 cb bf e0 
+int90h - 40 fb c9 3e c4 e0 46 3e 
+int98h - 28 3d 20 fd c9 ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 bf 04 
+
+Title - PINBALL DELUXE\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 54 (Konami)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 5d
+Global Checksum - 36 63

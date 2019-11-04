@@ -1,0 +1,52 @@
+rst00h - 05 05 05 05 05 05 05 05 
+rst08h - 05 05 05 05 05 05 05 05 
+rst10h - 05 05 05 05 05 05 05 05 
+rst18h - 05 05 05 05 05 05 05 05 
+rst20h - 05 05 05 05 05 05 05 05 
+rst28h - 05 05 05 05 05 05 05 05 
+rst30h - 05 05 05 05 05 05 05 05 
+rst38h - 05 05 05 05 05 05 05 05 
+
+int40h - c3 b7 01 ff ff ff ff ff 
+int48h - d9 ff ff ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 e0 b2 f0 b1 f5 f0 b2 
+int68h - e0 b1 ea 00 20 cd 7c 00 
+int70h - f1 e0 b1 ea 00 20 c9 e0 
+int78h - b1 ea 00 20 e9 01 00 04 
+int80h - af 22 0b 78 b1 20 f9 c9 
+int88h - c5 47 fa 23 cc a7 28 04 
+int90h - 78 ea 02 ce c1 c9 c3 bf 
+int98h - 00 87 85 6f 7c ce 00 67 
+intA0h - c9 83 5f 7a ce 00 57 c9 
+intA8h - 87 83 5f 7a ce 00 57 c9 
+intB0h - 06 00 d6 0a 38 03 04 18 
+intB8h - f9 c6 0a cb 30 b0 c9 87 
+intC0h - e1 d5 5f 16 00 19 5e 23 
+intC8h - 56 d5 e1 d1 e9 16 00 21 
+intD0h - 00 fe 0e a0 cd 12 04 16 
+intD8h - 00 21 00 c0 01 a0 00 cd 
+intE0h - 12 04 16 f0 21 a0 c0 01 
+intE8h - a0 00 cd 12 04 c9 4d 61 
+intF0h - 6b 69 6e 67 20 62 79 20 
+intF8h - 43 2d 6c 61 62 2e 20 ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - YAKA SEKAISHI G
+
+CGB Flag - 42 (Invalid)
+New Licensee Code - (ASCII) 9C (Invalid)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - f3
+Global Checksum - 14 56

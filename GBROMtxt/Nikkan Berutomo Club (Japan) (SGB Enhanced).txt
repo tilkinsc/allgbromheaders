@@ -1,0 +1,52 @@
+rst00h - 18 5f 54 ab c8 45 c0 28 
+rst08h - c3 80 f0 35 98 5c 04 d3 
+rst10h - c3 e8 26 8d df 4a 7f 2f 
+rst18h - c3 fa 26 45 5b d6 ef 17 
+rst20h - c3 d8 24 47 bc 5b df 7b 
+rst28h - c3 e6 24 6e ff 36 ff ff 
+rst30h - ff f3 fe 66 df 6c df f2 
+rst38h - f7 16 f3 fd ff f2 bf df 
+
+int40h - c3 3e 04 d1 ff 4e f7 2a 
+int48h - c3 cd 04 9e ff f1 ff fe 
+int50h - c3 d6 04 a7 ff 73 ff f3 
+int58h - c3 e2 04 f5 ff f3 fe ff 
+int60h - d9 e1 87 85 6f 30 01 24 
+int68h - 2a 66 6f e9 3e c0 e0 46 
+int70h - 3e 28 3d 20 fd c9 50 72 
+int78h - 6f 64 75 63 65 20 62 79 
+int80h - 20 69 6e 6f 00 50 72 6f 
+int88h - 67 72 61 6d 20 62 79 20 
+int90h - 6d 69 6e 6f 2f 6d 6f 6e 
+int98h - 6f 00 53 63 65 6e 61 72 
+intA0h - 69 6f 20 62 79 20 6d 6f 
+intA8h - 67 00 be f8 be 0f e5 57 
+intB0h - fe 47 db 2b ff 33 ff 7a 
+intB8h - 7f 7e 74 b5 ff 49 7f df 
+intC0h - ff 7c ef 78 ff 36 ff b8 
+intC8h - fd d3 bf ac f7 22 ff ff 
+intD0h - ff bd ff 25 ff 3a f7 a0 
+intD8h - ff d7 ff 94 fb fd b6 7f 
+intE0h - ff c9 ff 35 ff dd bd 49 
+intE8h - fc 8d ff 19 ff e1 bc f7 
+intF0h - fe 77 ef c2 ff 0f f7 87 
+intF8h - b7 1a ef ef fd fa d7 ef 
+
+Entry Point - 00 c3 50 01 
+
+Title - BERUTOMOKURABU\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 8F (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 10 (MBC3+TIMER+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - e6
+Global Checksum - dc c8

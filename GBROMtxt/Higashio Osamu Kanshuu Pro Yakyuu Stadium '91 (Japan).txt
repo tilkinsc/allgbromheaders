@@ -1,0 +1,52 @@
+rst00h - 87 e1 5f 16 00 19 5e 23 
+rst08h - 56 6b 62 e9 20 20 20 20 
+rst10h - 20 20 20 09 34 30 30 33 
+rst18h - 20 42 41 54 54 45 52 20 
+rst20h - 20 20 20 20 20 20 20 09 
+rst28h - 34 30 30 36 20 46 49 4e 
+rst30h - 49 54 30 20 20 20 20 20 
+rst38h - 20 20 20 09 34 30 30 39 
+
+int40h - c3 a5 01 4e 49 54 49 4d 
+int48h - d9 5f 4a 50 20 20 20 09 
+int50h - c3 ee 01 30 30 43 20 44 
+int58h - c3 fa 01 43 50 55 20 20 
+int60h - d9 20 20 20 20 09 34 30 
+int68h - 30 46 20 44 45 46 5f 43 
+int70h - 50 55 5f 49 4e 49 54 20 
+int78h - 20 09 34 30 31 32 20 50 
+int80h - 49 54 5f 43 48 5f 4a 50 
+int88h - 20 20 20 20 20 09 34 30 
+int90h - 31 35 20 42 41 54 5f 43 
+int98h - 48 5f 4a 50 20 20 20 20 
+intA0h - 20 09 0d 0a 34 30 31 38 
+intA8h - 20 50 49 54 5f 43 48 32 
+intB0h - 5f 4a 50 20 20 20 20 09 
+intB8h - 34 31 30 30 20 4f 52 44 
+intC0h - 45 52 5f 4e 41 4d 45 20 
+intC8h - 20 20 20 09 34 30 30 30 
+intD0h - 20 4f 42 4a 5f 44 54 20 
+intD8h - 20 20 20 20 20 20 20 09 
+intE0h - 34 31 30 30 20 50 54 5f 
+intE8h - 44 41 54 41 20 20 20 20 
+intF0h - 20 20 20 09 0d 0a 34 32 
+intF8h - 30 30 20 54 49 4d 45 5f 
+
+Entry Point - 00 c3 50 01 
+
+Title - PURO STADIUM '9
+
+CGB Flag - 31 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 06 (MBC2+BATTERY)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - c4 (Tokuma Shoten Intermedia)
+ROM Version - 00
+
+Header Checksum - ed
+Global Checksum - 07 51

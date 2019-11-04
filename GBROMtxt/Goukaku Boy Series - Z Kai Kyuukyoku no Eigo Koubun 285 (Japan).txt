@@ -1,0 +1,52 @@
+rst00h - c3 50 01 00 00 00 00 00 
+rst08h - c3 50 01 00 00 00 00 00 
+rst10h - c9 00 00 00 00 00 00 00 
+rst18h - c9 00 00 00 00 00 00 00 
+rst20h - e9 00 00 00 00 00 00 00 
+rst28h - c9 00 00 00 00 00 00 00 
+rst30h - c9 00 00 00 00 00 00 00 
+rst38h - c3 93 27 00 00 00 00 00 
+
+int40h - c3 7e 00 00 00 00 00 00 
+int48h - d9 00 00 00 00 00 00 00 
+int50h - c3 61 00 00 00 00 00 00 
+int58h - d9 00 00 00 00 00 00 00 
+int60h - d9 f3 f5 c5 d5 e5 3e 03 
+int68h - ea 00 21 cd 03 40 fa 00 
+int70h - c0 ea 00 21 3e bc e0 05 
+int78h - e1 d1 c1 f1 fb d9 f3 f5 
+int80h - c5 d5 e5 cd 80 ff cd 38 
+int88h - 02 cd ae 00 21 04 c0 34 
+int90h - e1 d1 c1 f1 fb d9 0e 80 
+int98h - 1e 0a 21 a4 00 2a e2 0c 
+intA0h - 1d 20 fa c9 3e cb e0 46 
+intA8h - 3e 28 3d 20 fd c9 fa 06 
+intB0h - c0 ea 07 c0 3e 20 e0 00 
+intB8h - f0 00 f0 00 2f e6 0f cb 
+intC0h - 37 5f 3e 10 e0 00 f0 00 
+intC8h - f0 00 f0 00 f0 00 f0 00 
+intD0h - f0 00 2f e6 0f b3 ea 06 
+intD8h - c0 3e 30 e0 00 21 06 c0 
+intE0h - fa 07 c0 ae a6 ea 07 c0 
+intE8h - c9 21 04 c0 7e 76 be 28 
+intF0h - fc c9 f0 41 e6 03 20 fa 
+intF8h - c9 f0 44 fe 92 38 fa c9 
+
+Entry Point - 00 c3 50 01 
+
+Title - ZKAIEIGOKOBUN28
+
+CGB Flag - 35 (Invalid)
+New Licensee Code - (ASCII) 9C (Invalid)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - c3
+Global Checksum - bd c1

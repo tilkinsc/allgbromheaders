@@ -1,0 +1,52 @@
+rst00h - e1 87 df 2a 66 6f e9 ff 
+rst08h - 87 df 2a 66 6f c9 ff ff 
+rst10h - f5 c5 d5 e5 c3 6b 06 ff 
+rst18h - 85 6f d0 24 c9 ff ff ff 
+rst20h - 2f 3c 85 6f d8 25 c9 ff 
+rst28h - 83 5f d0 14 c9 ff ff ff 
+rst30h - d5 e5 21 b0 ff 5e 23 56 
+rst38h - ef 1a e1 d1 c9 ff ff ff 
+
+int40h - c3 fa 05 ff ff ff ff ff 
+int48h - c3 15 06 ff ff ff ff ff 
+int50h - c3 16 06 ff ff ff ff ff 
+int58h - c3 3a 06 f3 af cd ca 00 
+int60h - 3e 01 ea 50 21 3e 80 e0 
+int68h - 40 cd ae 00 cd 5b 05 cd 
+int70h - 86 05 cd 72 05 0e 80 06 
+int78h - 0a 21 83 00 2a e2 0c 05 
+int80h - 20 fa c9 3e c1 e0 46 3e 
+int88h - 28 3d 20 fd c9 21 98 00 
+int90h - 2a 4f 2a e2 0c 20 f9 c9 
+int98h - 01 00 02 00 42 00 43 00 
+intA0h - 47 e4 48 e4 49 e4 45 6f 
+intA8h - 41 40 0f 00 ff 01 f0 40 
+intB0h - cb 7f c8 f0 ff f5 cb 87 
+intB8h - e0 ff f0 44 fe 91 20 fa 
+intC0h - f0 40 e6 7f e0 40 f1 e0 
+intC8h - ff c9 47 af e0 0f 78 e0 
+intD0h - ff c9 2a 12 13 0b 78 b1 
+intD8h - 20 f8 c9 2a 12 13 05 20 
+intE0h - fa c9 f0 40 07 d0 f0 41 
+intE8h - e6 02 28 fa f0 41 e6 02 
+intF0h - 20 fa c9 ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - c3 60 01 00 
+
+Title - CASINO FUNPAK\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 71 (Interplay)
+ROM Version - 00
+
+Header Checksum - d0
+Global Checksum - e7 3f

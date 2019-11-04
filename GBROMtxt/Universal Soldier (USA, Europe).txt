@@ -1,0 +1,52 @@
+rst00h - c9 c3 52 0d c3 cb 0c 00 
+rst08h - 00 00 00 00 00 00 00 00 
+rst10h - 00 00 00 00 60 60 60 60 
+rst18h - 40 40 40 40 20 20 20 20 
+rst20h - f9 fa fa fb fb fc fc fd 
+rst28h - fd fe fe ff ff 00 00 00 
+rst30h - 00 00 01 02 02 03 03 7f 
+rst38h - c3 18 3a c3 45 3a 00 00 
+
+int40h - c3 3d 0c 00 00 00 00 00 
+int48h - f5 3e f1 e0 40 c3 83 0c 
+int50h - c3 84 0c c3 cb 3d 00 00 
+int58h - d9 c3 f0 0d 00 00 00 00 
+int60h - d9 c3 b6 1e c3 c1 22 c3 
+int68h - 79 22 c3 58 24 c3 35 22 
+int70h - c3 16 37 c3 29 38 c3 22 
+int78h - 0d c3 66 1e c3 72 1d c3 
+int80h - 35 1e c3 20 22 c3 51 1e 
+int88h - c3 a7 1e c3 3a 07 c3 b7 
+int90h - 1a c3 93 1e c3 78 07 c3 
+int98h - 8b 1a c3 9e 1a c3 81 1e 
+intA0h - 00 00 00 00 00 00 00 00 
+intA8h - 00 00 00 00 00 00 00 00 
+intB0h - 00 00 00 00 00 00 00 00 
+intB8h - 00 00 00 00 00 00 00 00 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - UNIVERSALSOLDIE
+
+CGB Flag - 52 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 79 (Accolade)
+ROM Version - 00
+
+Header Checksum - 9e
+Global Checksum - 19 4a

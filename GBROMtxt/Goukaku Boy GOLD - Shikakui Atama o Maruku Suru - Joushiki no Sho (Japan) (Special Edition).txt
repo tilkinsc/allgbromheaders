@@ -1,0 +1,52 @@
+rst00h - 87 e1 d7 2a 66 6f e9 ff 
+rst08h - ff ff ff ff ff ff ff ff 
+rst10h - 85 6f d0 24 c9 ff ff ff 
+rst18h - 83 5f d0 14 c9 ff ff ff 
+rst20h - 81 4f d0 04 c9 ff ff ff 
+rst28h - c9 ff ff ff ff ff ff ff 
+rst30h - c9 ff ff ff ff ff ff ff 
+rst38h - c9 ff ff ff ff ff ff ff 
+
+int40h - c3 68 00 ff ff ff ff ff 
+int48h - d9 ff ff ff ff ff ff ff 
+int50h - c3 60 06 ff ff ff ff ff 
+int58h - c3 50 19 ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - f5 c5 d5 e5 cd 80 ff f0 
+int70h - a0 e0 42 f0 a1 e0 43 21 
+int78h - 47 ff 0e a2 06 05 f2 22 
+int80h - 0c 05 20 fa cd c4 19 21 
+int88h - 92 ff 2a a7 20 2c f0 96 
+int90h - a7 28 03 3d e0 96 34 7e 
+int98h - fe 3c 38 1e af 22 f0 97 
+intA0h - a7 28 03 3d e0 97 34 7e 
+intA8h - fe 3c 38 0e af 22 34 7e 
+intB0h - fe 64 38 06 3e 63 32 3e 
+intB8h - 3b 77 21 98 ff 34 7e fe 
+intC0h - 3c 38 07 af 22 7e a7 28 
+intC8h - 01 35 21 9a ff 34 7e fe 
+intD0h - 3c 38 15 af 22 34 7e fe 
+intD8h - 3c 38 0d af 22 34 20 08 
+intE0h - 23 34 20 04 3e ff 32 77 
+intE8h - 21 8a ff 3e 01 22 34 e1 
+intF0h - d1 c1 f1 d9 af e0 8a 76 
+intF8h - f0 8a b7 28 fa c9 ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - SIKAKUJOSIKBS4J
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 9C (Invalid)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 1b (MBC5+RAM+BATTERY)
+Rom Size - 05 (1MByte (64 banks) - only 63 banks used by MBC1)
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - bb
+Global Checksum - 5d 70

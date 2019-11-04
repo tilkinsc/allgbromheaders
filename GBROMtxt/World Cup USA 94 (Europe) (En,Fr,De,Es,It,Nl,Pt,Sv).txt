@@ -1,0 +1,52 @@
+rst00h - 78 87 87 c9 ff ff ff ff 
+rst08h - e0 8d ea 00 21 c9 fb c9 
+rst10h - 87 e1 85 6f 8c 95 67 2a 
+rst18h - 66 6f e9 ff ff ff ff ff 
+rst20h - 75 ff ff ff ff ff fb ff 
+rst28h - ff ff ff ff ff ff ff ff 
+rst30h - c9 ff ff ff ff ff ff ff 
+rst38h - c9 ff ff ff ff ff ff ff 
+
+int40h - c3 53 01 ff ff ff ff ff 
+int48h - c3 56 01 ff ff ff ff ff 
+int50h - c3 59 01 ff ff ff ff ff 
+int58h - c3 5c 01 ff ff ff ff ff 
+int60h - c3 5f 01 ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - 80 ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - ff ff ff ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - fb f7 ff ff ff ff ff ff 
+int98h - ff ff fe bf ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff fb ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - WORLD CUP USA 9
+
+CGB Flag - 34 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 4f (U.S. Gold)
+ROM Version - 00
+
+Header Checksum - 69
+Global Checksum - 37 5e

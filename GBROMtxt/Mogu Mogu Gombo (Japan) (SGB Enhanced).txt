@@ -1,0 +1,52 @@
+rst00h - c3 14 04 fd a8 7a 6c d3 
+rst08h - 2a bf aa f7 a8 a3 2a 7f 
+rst10h - 2a 7f ff fd ae ff ab 77 
+rst18h - fe 5f a8 ff ea ff 8a fd 
+rst20h - a8 1f 8a 4f a8 ff a2 fd 
+rst28h - 22 75 ae df aa ff eb ff 
+rst30h - a2 fb 2a bf aa ff ba ff 
+rst38h - eb 6f ea 7f aa 77 ba de 
+
+int40h - c3 78 37 c7 c2 de c3 df 
+int48h - c3 7e 38 74 b8 f7 aa bd 
+int50h - d9 ef 07 ef ab ff a3 fe 
+int58h - d9 47 fb fe b3 ef 8e 5d 
+int60h - d9 d2 8a f6 20 56 a2 e7 
+int68h - b8 cf 8a db cc bf 88 ac 
+int70h - 8a bf aa f7 ab fb a8 ff 
+int78h - ae f6 e8 7e aa 77 e8 6f 
+int80h - 8e 0d c5 7e ca ad 8a f9 
+int88h - a8 78 a2 fe 3a d7 a8 fd 
+int90h - ea 1d af fd aa fd aa fe 
+int98h - ee fd a9 fb 69 ff ee e7 
+intA0h - 4b df 82 66 82 a7 2a 9f 
+intA8h - a8 f7 aa dd 60 b7 a2 fd 
+intB0h - ab be ae d7 ab ef 0b ff 
+intB8h - ab ff a8 ff aa df a2 fc 
+intC0h - cb b4 02 b5 6a ff aa f1 
+intC8h - 89 fd 21 df a8 f7 a8 f3 
+intD0h - ae 7f 2b 2f aa bd 9a 3d 
+intD8h - 8a df 9a ef aa ff aa fb 
+intE0h - 8a f7 88 8f 23 ff 62 b7 
+intE8h - aa fd a0 f7 62 fa 42 7e 
+intF0h - a3 f9 aa 7b aa ff 2a 77 
+intF8h - aa ff aa fc 8a fe ee fe 
+
+Entry Point - 00 c3 50 01 
+
+Title - DMGMOGUMOGUGOMB
+
+CGB Flag - 4f (Invalid)
+New Licensee Code - (ASCII) B2 (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 06 (MBC2+BATTERY)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 78
+Global Checksum - c8 37

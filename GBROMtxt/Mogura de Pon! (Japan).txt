@@ -1,0 +1,52 @@
+rst00h - 81 41 6f 7f ab ff c8 b7 
+rst08h - c3 80 f0 75 89 61 82 65 
+rst10h - 2a fa a6 fd 01 ff 22 b5 
+rst18h - 84 6e ac ee a0 b4 06 bd 
+rst20h - ab 20 28 c5 ea 40 2a 99 
+rst28h - fa 9f ec 9f aa dd a8 bf 
+rst30h - 3c fb 0e 8e ea 5f c8 ff 
+rst38h - aa ed aa ff e3 5f 9a ef 
+
+int40h - c3 14 02 5f 3b 7e ea df 
+int48h - d9 7d bb ff bb 7d da bd 
+int50h - d9 ff eb bd aa bf a8 bb 
+int58h - c3 d0 02 75 0a db a3 9c 
+int60h - c3 63 00 f5 f0 8a e6 0f 
+int68h - fe 0f ca 6f 00 f1 d9 cd 
+int70h - 00 3c c3 50 01 de a8 7a 
+int78h - 4a 24 68 bf aa b6 2e b7 
+int80h - ba ff ba f7 6a df ea ef 
+int88h - 2a ed e8 f8 bf 5b aa f7 
+int90h - 80 e1 a2 13 20 6c ea f7 
+int98h - 33 fe 8c dd a3 f6 ac ff 
+intA0h - 88 4c a4 a8 8a f0 a0 1c 
+intA8h - a0 ed 3a c7 bb ff 2c fe 
+intB0h - 22 d7 ea ea a8 bd 2a 67 
+intB8h - 0a 7f ba ff ba ff 22 ff 
+intC0h - aa 75 b2 57 ba da ea ee 
+intC8h - af fd 2a b5 88 ff 23 ff 
+intD0h - 3b df af ba b9 ef aa ff 
+intD8h - b2 fc ef fb a2 7f cb ff 
+intE0h - a8 d9 08 fd 88 8a a2 e3 
+intE8h - ac 7e 02 09 28 e7 62 26 
+intF0h - 22 92 a0 f7 8a 9a 38 bc 
+intF8h - 80 f8 aa df 38 ff 9a 69 
+
+Entry Point - 00 c3 50 01 
+
+Title - MOGURA DE PON!\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 00 (ROM ONLY)
+Rom Size - 00 (32KByte (no ROM banking))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - e7 (Athena)
+ROM Version - 00
+
+Header Checksum - 5e
+Global Checksum - 9e d7

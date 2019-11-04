@@ -1,0 +1,52 @@
+rst00h - c3 50 01 ff ff ff ff ff 
+rst08h - c3 50 01 ff ff ff ff ff 
+rst10h - c9 ff ff ff ff ff ff ff 
+rst18h - c9 ff ff ff ff ff ff ff 
+rst20h - e9 ff ff ff ff ff ff ff 
+rst28h - c9 ff ff ff ff ff ff ff 
+rst30h - c9 ff ff ff ff ff ff ff 
+rst38h - c9 ff ff ff ff ff ff ff 
+
+int40h - c3 62 00 ff ff ff ff ff 
+int48h - c3 61 00 ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 d9 f5 c5 d5 e5 fa 95 
+int68h - c0 e0 40 fa 96 c0 ea 92 
+int70h - c0 cd 80 ff cd 59 1f fa 
+int78h - 93 c0 b7 20 15 cd e8 17 
+int80h - cd ce 11 cd ae 03 fa dd 
+int88h - c0 b7 20 06 cd 7b 12 cd 
+int90h - 32 13 af ea 98 c0 3e 01 
+int98h - ea 96 c0 ea 00 21 cd bf 
+intA0h - 6d 3e e0 e0 0f fa 92 c0 
+intA8h - ea 96 c0 ea 00 21 e1 d1 
+intB0h - c1 f0 41 e6 03 28 fa f0 
+intB8h - 41 e6 03 20 fa f1 d9 ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - KYOUDAI JINGI\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 9C (Invalid)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 01 (64KByte (4 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 8f
+Global Checksum - f2 3a

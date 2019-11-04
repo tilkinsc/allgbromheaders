@@ -1,0 +1,52 @@
+rst00h - c3 69 00 c4 a2 ea 20 c7 
+rst08h - c3 80 f0 77 22 8a 88 2a 
+rst10h - 21 00 9c 01 00 04 16 5a 
+rst18h - c3 b6 07 21 00 98 01 00 
+rst20h - 04 16 80 c3 b6 07 21 00 
+rst28h - 9c 01 00 04 16 47 c3 b6 
+rst30h - 07 21 00 98 01 00 08 16 
+rst38h - 47 c3 b6 07 d6 24 18 d3 
+
+int40h - 18 42 c0 9b a2 92 20 96 
+int48h - 18 2b c0 f0 20 a6 22 f6 
+int50h - f5 fa 67 c1 b7 20 1c 2f 
+int58h - ea 67 c1 3e 02 ea 00 20 
+int60h - fb c5 d5 e5 cd 93 41 e1 
+int68h - d1 c1 f0 94 ea 00 20 af 
+int70h - ea 67 c1 f1 d9 f5 f0 ba 
+int78h - e0 40 fa 64 c1 f6 01 ea 
+int80h - 64 c1 f1 d9 f5 fa 65 c1 
+int88h - b7 c4 80 ff f0 48 cb 07 
+int90h - e0 48 fa 7a c6 3d 20 16 
+int98h - 3e 01 ea 0e cd e5 cd b9 
+intA0h - 04 e1 fa 7b c6 ea 7c c6 
+intA8h - af ea 7b c6 3e 3c ea 7a 
+intB0h - c6 fa 66 c1 b7 28 04 3d 
+intB8h - ea 66 c1 fa 64 c1 b7 28 
+intC0h - 17 cb 4f 28 0a fa 62 c1 
+intC8h - e0 43 fa 63 c1 e0 42 fa 
+intD0h - 61 c1 e0 40 af ea 64 c1 
+intD8h - ea 65 c1 f1 d9 cd 90 27 
+intE0h - 36 59 23 36 05 23 36 07 
+intE8h - 23 c3 97 27 00 f8 08 9e 
+intF0h - a0 29 02 14 a8 5a aa dc 
+intF8h - 20 76 a0 13 08 5d 08 c0 
+
+Entry Point - 00 c3 50 01 
+
+Title - KILLER TOMATOES
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - df (Altron)
+ROM Version - 00
+
+Header Checksum - b6
+Global Checksum - b2 91

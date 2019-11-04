@@ -1,0 +1,52 @@
+rst00h - c3 50 01 ff ff ff ff ff 
+rst08h - c3 50 01 ff ff ff ff ff 
+rst10h - c9 ff ff ff ff ff ff ff 
+rst18h - c9 ff ff ff ff ff ff ff 
+rst20h - e9 ff ff ff ff ff ff ff 
+rst28h - c9 ff ff ff ff ff ff ff 
+rst30h - c9 ff ff ff ff ff ff ff 
+rst38h - c9 ff ff ff ff ff ff ff 
+
+int40h - c3 61 00 ff ff ff ff ff 
+int48h - d9 ff ff ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - c3 61 00 ff ff ff ff ff 
+int60h - d9 f5 c5 d5 e5 fa 24 c9 
+int68h - ea 68 c3 3e 01 ea 24 c9 
+int70h - ea 00 21 cd 80 ff cd 60 
+int78h - 03 cd c9 25 fa 67 c3 5f 
+int80h - 87 83 5f 16 00 21 47 c9 
+int88h - 19 e9 fa c1 c1 b7 20 0c 
+int90h - 3e 06 ea 24 c9 ea 00 21 
+int98h - af cd 00 68 fa 68 c3 ea 
+intA0h - 24 c9 ea 00 21 af ea 64 
+intA8h - c3 ea c1 c1 fa 06 c2 3c 
+intB0h - fe 32 38 01 af ea 06 c2 
+intB8h - 3e e0 e0 0f e1 d1 c1 f1 
+intC0h - d9 fa 24 c9 f5 3e 06 ea 
+intC8h - 24 c9 ea 00 21 3e 02 1e 
+intD0h - 00 cd 00 68 f1 ea 24 c9 
+intD8h - ea 00 21 c9 fa 24 c9 f5 
+intE0h - 3e 06 ea 24 c9 ea 00 21 
+intE8h - 3e 05 cd 00 68 f1 ea 24 
+intF0h - c9 ea 00 21 c9 ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - SUPER KICK OFF\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 9c (Imagineer)
+ROM Version - 00
+
+Header Checksum - 7b
+Global Checksum - 9d 9e

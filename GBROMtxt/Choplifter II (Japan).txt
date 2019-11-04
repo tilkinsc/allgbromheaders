@@ -1,0 +1,52 @@
+rst00h - c3 70 00 ff ff ff ff ff 
+rst08h - 22 0d 20 fc 05 20 f9 c9 
+rst10h - e1 87 5f 16 00 19 2a 66 
+rst18h - 6f e9 ff ff ff ff ff ff 
+rst20h - ea 00 21 c9 00 00 00 00 
+rst28h - ff ff ff ff ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 bc 1f 00 00 00 00 00 
+int48h - c3 7d 20 00 00 00 00 00 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - d9 ff ff ff ff ff ff ff 
+int70h - 31 ff df af cd 7a 00 c3 
+int78h - 50 01 47 f3 af e0 0f e0 
+int80h - ff 3e 01 e0 fe ea 50 21 
+int88h - 78 b7 28 08 21 00 c1 01 
+int90h - fd 1e 18 06 21 00 c0 01 
+int98h - fd 1f af 22 0b 78 b1 20 
+intA0h - f9 21 fe ff 06 7e 32 05 
+intA8h - 20 fc 21 ff fe 05 32 05 
+intB0h - 20 fc cd c9 00 cd 80 ff 
+intB8h - 3e e4 e0 47 3e e4 e0 48 
+intC0h - 3e 9c e0 49 3e 93 e0 40 
+intC8h - c9 f3 21 d8 00 0e 80 06 
+intD0h - 0a 2a e2 0c 05 20 fa c9 
+intD8h - 3e c1 e0 46 3e 28 3d 20 
+intE0h - fd c9 ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 70 00 
+
+Title - CHOPLIFTER 2\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - aa (Broderbund)
+ROM Version - 00
+
+Header Checksum - f8
+Global Checksum - 6f b6

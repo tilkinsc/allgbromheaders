@@ -1,0 +1,52 @@
+rst00h - f3 31 fa c1 3e 0a ea 00 
+rst08h - 00 3e c3 ea 00 c0 ea 03 
+rst10h - c0 cd 1a 00 cd 09 3a c3 
+rst18h - a5 26 21 06 c0 01 40 01 
+rst20h - af 22 cd 61 22 20 f9 c9 
+rst28h - ff ff ff ff ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 00 c0 ff ff ff ff ff 
+int48h - c3 03 c0 ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 41 42 43 44 45 46 47 
+int68h - 48 49 4a 4b 4c 4d 20 20 
+int70h - 53 50 43 00 20 4e 4f 50 
+int78h - 51 52 53 54 55 56 57 58 
+int80h - 59 5a 20 20 44 45 4c 00 
+int88h - 3c 30 31 32 33 34 35 36 
+int90h - 37 38 39 20 26 3c 20 20 
+int98h - 45 4e 44 00 3e 01 0a 02 
+intA0h - 02 53 45 4c 45 43 54 20 
+intA8h - 41 20 57 41 47 45 52 3a 
+intB0h - 00 01 38 02 02 49 53 20 
+intB8h - 4e 4f 54 20 45 4c 49 47 
+intC0h - 49 42 4c 45 2e 00 01 03 
+intC8h - 02 01 54 48 45 20 57 49 
+intD0h - 4e 4e 45 52 20 49 53 3a 
+intD8h - 00 01 62 02 05 06 ff ff 
+intE0h - 49 4e 43 4f 52 52 45 43 
+intE8h - 54 06 00 00 00 01 50 02 
+intF0h - 01 5a 57 58 59 5a 00 ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - f3 c3 50 01 
+
+Title - TEEN JEOPARDY!\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 54 (Konami)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 79
+Global Checksum - 51 b6

@@ -1,0 +1,52 @@
+rst00h - c3 50 01 fb fb ee ab ef 
+rst08h - be ff bd ff ba ff aa ff 
+rst10h - af ff be bf ab ff ab ff 
+rst18h - eb f7 ab ff ea ff ae ff 
+rst20h - fe ff be ff fe bf aa ff 
+rst28h - ab ff a3 ff ae df ea ff 
+rst30h - ea 7f aa ff ff ff ab ff 
+rst38h - fb ff be ff aa ff fb ff 
+
+int40h - c3 e5 02 bf ee ff ba ff 
+int48h - c3 0c 03 fe ff fb ef ff 
+int50h - c3 15 03 bf ee ff ea 7f 
+int58h - d9 ff af f6 fb ff bb ff 
+int60h - d9 ff ab ff ab ff f6 fb 
+int68h - be ff bb f7 aa ff ba ff 
+int70h - fb ff fb ff fa fe ea ff 
+int78h - eb ff aa ff aa ff ea ff 
+int80h - fe ff 0a ff bf ff ea ff 
+int88h - ba ff 6e ff 3e ff ff ff 
+int90h - eb f9 aa bf ea fb aa ff 
+int98h - a3 ff ea fb 3a ff ea ff 
+intA0h - ae ff ab ff df ff fa bf 
+intA8h - af ff eb ff bb ff ee ff 
+intB0h - ee ff ea ff aa ff ae ff 
+intB8h - eb ef eb ff fb ff 9f ff 
+intC0h - ee ff af ff 3a df ea ff 
+intC8h - fe ff aa ff ba ff eb ff 
+intD0h - eb fd ae ff ba ff ab ff 
+intD8h - e9 ff ef ff ab ff af fd 
+intE0h - bb ff ef fd ee ff af ff 
+intE8h - fa f7 aa fd fa ff bb ff 
+intF0h - eb 7f fa ff aa ff be fb 
+intF8h - be ff ef fb ee f5 ee ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - SOLARSTRIKER\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 01 (64KByte (4 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 01 (Nintendo)
+ROM Version - 00
+
+Header Checksum - 3f
+Global Checksum - 26 06

@@ -1,0 +1,52 @@
+rst00h - c3 5a 01 ff ff ff ff ff 
+rst08h - c3 86 01 ff ff ff ff ff 
+rst10h - e1 87 5f 16 00 19 2a 66 
+rst18h - 6f e9 ff ff ff ff ff ff 
+rst20h - ff ff ff ff ff ff ff ff 
+rst28h - ff ff ff ff ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 2d 02 ff ff ff ff ff 
+int48h - c3 c9 02 ff ff ff ff ff 
+int50h - c3 ff 02 ff ff ff ff ff 
+int58h - c3 00 03 ff ff ff ff ff 
+int60h - c3 0d 03 ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - c3 4d 3a c3 e4 3c c3 09 
+int88h - 3d c3 23 3d c3 2f 3d c3 
+int90h - 31 3a c3 63 39 c3 81 39 
+int98h - c3 c0 39 c3 6c 39 c3 12 
+intA0h - 3a c3 f2 3a c3 a2 38 c3 
+intA8h - e8 0a c3 dd 39 c3 b3 02 
+intB0h - c3 d6 1b c3 38 1c c3 56 
+intB8h - 3b c3 b9 00 c3 7b 3b c3 
+intC0h - 30 3b c3 ff 3a c3 ca 3b 
+intC8h - c3 a6 3b c3 e8 3b c3 06 
+intD0h - 3c c3 0e 3c c3 16 3c c3 
+intD8h - 8c 3c ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 5a 01 
+
+Title - GB OTOKOJYUKU 1
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - e2 (Uutaka)
+ROM Version - 00
+
+Header Checksum - e4
+Global Checksum - b6 5f

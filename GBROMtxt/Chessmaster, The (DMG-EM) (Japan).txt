@@ -1,0 +1,52 @@
+rst00h - 87 e1 5f 16 00 19 5e 23 
+rst08h - 56 d5 e1 e9 00 00 00 00 
+rst10h - 00 00 00 00 00 00 00 00 
+rst18h - 00 00 00 00 00 00 00 00 
+rst20h - ff ff ff ff ff ff ff ff 
+rst28h - d9 ff ff ff ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 9e 2c 00 00 00 00 00 
+int48h - d9 00 00 00 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - d9 00 00 00 00 00 00 00 
+int60h - d9 c3 0f 2a c3 5e 22 c3 
+int68h - 1a 2a c3 dd 24 c3 ca 24 
+int70h - c3 d3 24 c3 9b 24 c3 d8 
+int78h - 2a c3 1d 19 c3 21 19 ff 
+int80h - ea 00 21 c9 ff ff ff 01 
+int88h - 00 10 fa af c8 fe 02 d8 
+int90h - 01 00 05 cd f9 28 21 00 
+int98h - 65 11 00 85 01 20 02 cd 
+intA0h - ac 00 21 40 69 11 40 89 
+intA8h - 01 c0 06 c9 f0 41 cb 4f 
+intB0h - 20 fa af 12 13 2a 12 13 
+intB8h - 0b 79 b0 20 ef c9 21 b0 
+intC0h - 68 11 e0 9e 0e 06 06 14 
+intC8h - f0 41 cb 4f 20 fa 2a 12 
+intD0h - 13 05 20 f4 0d c8 7b c6 
+intD8h - 0c 5f 30 ea 14 18 e7 ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - NEW CHESSMASTER
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) DF (Invalid)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 01 (64KByte (4 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - dc
+Global Checksum - f0 13

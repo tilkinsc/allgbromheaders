@@ -1,0 +1,52 @@
+rst00h - 05 05 05 05 05 05 05 05 
+rst08h - 05 05 05 05 05 05 05 05 
+rst10h - 05 05 05 05 05 05 05 05 
+rst18h - 05 05 05 05 05 05 05 05 
+rst20h - 05 05 05 05 05 05 05 05 
+rst28h - 05 05 05 05 05 05 05 05 
+rst30h - 05 05 05 05 05 05 05 05 
+rst38h - 05 05 05 05 05 05 05 05 
+
+int40h - c3 b7 01 05 05 05 05 05 
+int48h - d9 05 05 05 05 05 05 05 
+int50h - d9 05 05 05 05 05 05 05 
+int58h - d9 05 05 05 05 05 05 05 
+int60h - d9 31 39 39 37 20 4d 61 
+int68h - 79 2e 20 63 6f 6d 70 6c 
+int70h - 65 74 65 2e 4d 61 6b 69 
+int78h - 6e 67 20 62 79 20 43 2d 
+int80h - 6c 61 62 2e 63 6f 2e 2c 
+int88h - 6c 74 64 2e 05 05 05 05 
+int90h - 05 05 05 05 05 05 05 05 
+int98h - 05 05 05 05 05 05 05 05 
+intA0h - 05 05 05 05 05 05 05 05 
+intA8h - 05 05 05 05 05 05 05 05 
+intB0h - 05 05 05 05 05 05 05 05 
+intB8h - 05 05 05 05 05 05 05 05 
+intC0h - 05 05 05 05 05 05 05 05 
+intC8h - 05 05 05 05 05 05 05 05 
+intD0h - 05 05 05 05 05 05 05 05 
+intD8h - 05 05 05 05 05 05 05 05 
+intE0h - 05 05 05 05 05 05 05 05 
+intE8h - 05 05 05 05 05 05 05 05 
+intF0h - 05 05 05 05 05 05 05 05 
+intF8h - 05 05 05 05 05 05 05 05 
+
+Entry Point - 00 c3 50 01 
+
+Title - REKISINENDAI 24
+
+CGB Flag - 30 (Invalid)
+New Licensee Code - (ASCII) 9C (Invalid)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 08
+Global Checksum - a6 2c

@@ -1,0 +1,52 @@
+rst00h - 3e c0 e0 46 3e 28 3d 20 
+rst08h - fd c9 3e a6 e0 4b 3e 8f 
+rst10h - e0 4a e5 21 40 ff cb ae 
+rst18h - e1 c9 3e 01 c3 63 00 f5 
+rst20h - 3e 02 ea 00 20 f1 c9 3e 
+rst28h - 03 18 f1 3e 04 18 ed 3e 
+rst30h - 05 18 e9 3e 06 18 e5 fa 
+rst38h - 39 ca fe 03 c9 07 53 20 
+
+int40h - d9 fa 39 ca b7 c9 3b 70 
+int48h - f3 f5 cd 60 ca f1 fb d9 
+int50h - d9 fa 39 ca fe 08 c9 08 
+int58h - d9 fa 39 ca fe 04 c9 02 
+int60h - d9 3e 07 ea 00 20 c9 cd 
+int68h - 6f 00 21 00 98 18 03 21 
+int70h - 00 9c 11 00 04 18 03 11 
+int78h - 00 20 af 22 1b ba 20 fb 
+int80h - bb 20 f8 c9 3e 91 cd 85 
+int88h - 1f f0 40 e6 7c e0 40 c9 
+int90h - f0 40 f6 83 e0 40 c9 af 
+int98h - e0 90 af e0 8d 46 23 4e 
+intA0h - 23 c5 f0 8d b7 28 09 f0 
+intA8h - 8d 3d e0 8d f0 8e 18 0e 
+intB0h - 2a fe fe 38 28 ee fe e0 
+intB8h - 8f 2a 3d e0 8d 2a 4f f0 
+intC0h - 8f 81 e0 8e 79 d5 5f f0 
+intC8h - 90 83 d1 12 13 05 20 d2 
+intD0h - c1 3e 20 90 83 5f 8a 93 
+intD8h - 57 0d 20 c5 c9 fe fd 20 
+intE0h - e4 af e0 8f 3e 02 18 d3 
+intE8h - f0 9d c6 c0 4f f0 9e ce 
+intF0h - 00 47 c9 fa 34 c6 b7 c9 
+intF8h - cd 27 00 c3 ec 4d e1 56 
+
+Entry Point - 00 c3 50 01 
+
+Title - B_TOADS/D_DRAGO
+
+CGB Flag - 4e (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - bd (Sony Imagesoft)
+ROM Version - 00
+
+Header Checksum - 7c
+Global Checksum - 9c c0

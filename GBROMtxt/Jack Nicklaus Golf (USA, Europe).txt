@@ -1,0 +1,52 @@
+rst00h - c3 50 01 20 d8 f1 30 e5 
+rst08h - 06 00 00 00 83 00 50 00 
+rst10h - 84 00 49 00 25 00 2a 00 
+rst18h - 40 00 00 00 20 00 04 00 
+rst20h - 84 10 98 00 80 00 02 01 
+rst28h - 88 00 80 00 90 00 00 00 
+rst30h - 20 00 21 20 40 00 40 04 
+rst38h - f5 3e 80 ea 00 60 f1 c9 
+
+int40h - c3 80 04 00 0a 00 94 00 
+int48h - c3 b7 05 00 00 00 00 00 
+int50h - d9 3e 01 ea ea c7 f1 d9 
+int58h - d9 e5 21 ed c7 2a 66 6f 
+int60h - d9 00 08 02 82 00 a0 00 
+int68h - 04 20 10 00 26 00 01 00 
+int70h - 00 00 28 00 04 00 80 00 
+int78h - 00 00 02 00 10 80 00 40 
+int80h - 40 80 08 00 40 80 14 00 
+int88h - c0 10 00 00 10 00 2c 00 
+int90h - 83 00 08 00 41 00 40 00 
+int98h - 00 00 02 00 b0 00 04 00 
+intA0h - 00 00 10 01 08 00 80 00 
+intA8h - 40 08 00 20 00 00 50 00 
+intB0h - 00 00 90 00 80 00 20 00 
+intB8h - 80 00 01 00 00 00 04 00 
+intC0h - 00 00 00 00 08 00 82 11 
+intC8h - 14 00 06 00 90 10 ba 00 
+intD0h - 80 80 14 20 28 00 00 10 
+intD8h - 30 00 a0 00 00 00 00 00 
+intE0h - a0 00 90 00 01 00 21 00 
+intE8h - 00 00 10 00 00 00 21 10 
+intF0h - 88 08 02 00 04 00 00 00 
+intF8h - 00 00 68 00 20 80 00 00 
+
+Entry Point - 00 c3 0f 04 
+
+Title - NICKLAUS GOLF\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 5d (Tradewest)
+ROM Version - 00
+
+Header Checksum - e4
+Global Checksum - b1 df

@@ -1,0 +1,52 @@
+rst00h - c3 d8 df 00 00 00 00 00 
+rst08h - c3 db df 00 00 00 00 00 
+rst10h - c3 de df 00 00 00 00 00 
+rst18h - c3 e1 df 00 00 00 00 00 
+rst20h - c3 e4 df 00 00 00 00 00 
+rst28h - c3 e7 df 00 00 00 00 00 
+rst30h - c3 ea df 00 00 00 00 00 
+rst38h - c3 38 00 00 00 00 00 00 
+
+int40h - f5 e5 cd f0 df e1 f1 d9 
+int48h - f5 e5 cd f3 df e1 f1 d9 
+int50h - f5 e5 cd f6 df e1 f1 d9 
+int58h - f5 e5 cd f9 df e1 f1 d9 
+int60h - f5 e5 cd fc df e1 f1 d9 
+int68h - aa bb aa fa aa 5f 23 f7 
+int70h - aa 7d 08 f3 a2 7a aa 77 
+int78h - 8a af 28 dc a2 7c 88 79 
+int80h - 8b fd ac bf 0a fd aa ff 
+int88h - aa fb ca 3b 12 1f aa fe 
+int90h - 22 d5 29 8b 0a 1c aa be 
+int98h - 88 fe a0 a5 aa 8c 88 17 
+intA0h - ea ff 80 e7 6a ef aa d7 
+intA8h - 2a fb 2a f7 22 7b 3a 4f 
+intB0h - 8c fe a2 7f 8a ab 82 f5 
+intB8h - a0 fd 82 6f aa be 2a 6b 
+intC0h - 28 df a2 7d 2e fb a8 ff 
+intC8h - a8 7f 80 ff 0a c6 82 ff 
+intD0h - e0 3f aa 7d a3 fb 62 4d 
+intD8h - aa ff 20 f7 02 d4 a8 a3 
+intE0h - aa 7f 32 ff ee df a9 ef 
+intE8h - 2a ed 7a df a8 f8 aa ef 
+intF0h - ea cf 22 75 a8 d8 8a ee 
+intF8h - 28 df a8 de a2 4d a2 a6 
+
+Entry Point - 00 c3 50 01 
+
+Title - TRUMP COLLECTIO
+
+CGB Flag - 4e (Invalid)
+New Licensee Code - (ASCII) 9H (Invalid)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 8c
+Global Checksum - 17 0f

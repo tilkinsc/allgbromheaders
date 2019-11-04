@@ -1,0 +1,52 @@
+rst00h - 00 00 00 00 00 00 00 00 
+rst08h - ff 00 05 ff 00 ff 00 ff 
+rst10h - 40 ff 10 ff 80 ff 00 ff 
+rst18h - 40 ff 00 00 00 00 00 00 
+rst20h - 00 00 00 00 00 00 00 00 
+rst28h - f5 fa 04 c0 f5 3e 10 ea 
+rst30h - 04 e0 c3 49 04 ff ff ff 
+rst38h - 08 05 c0 31 50 c0 18 e8 
+
+int40h - c3 56 18 00 00 00 00 00 
+int48h - c3 a1 18 00 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - d9 00 00 00 00 00 00 00 
+int60h - d9 f0 00 e6 0f fe 03 28 
+int68h - 02 f1 d9 e5 f8 04 34 20 
+int70h - 02 23 34 e1 f1 18 c1 00 
+int78h - 00 00 00 00 00 00 00 00 
+int80h - 00 00 00 00 00 00 00 00 
+int88h - 00 00 00 00 00 00 00 00 
+int90h - 00 00 00 00 00 00 00 00 
+int98h - 00 00 00 00 00 00 00 00 
+intA0h - 00 00 00 00 00 00 00 00 
+intA8h - 00 00 00 00 00 00 00 00 
+intB0h - 00 00 00 00 00 00 00 00 
+intB8h - 00 00 00 00 00 00 00 00 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - ADDAMS FAMILY\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 80 (Misawa Entertainment)
+ROM Version - 00
+
+Header Checksum - d8
+Global Checksum - 2b 41

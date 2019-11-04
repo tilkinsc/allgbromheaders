@@ -1,0 +1,52 @@
+rst00h - e1 87 df 2a 66 6f e9 ff 
+rst08h - 87 df 2a 66 6f c9 ff ff 
+rst10h - f5 c5 d5 e5 c3 94 05 ff 
+rst18h - 85 6f d0 24 c9 ff ff ff 
+rst20h - 2f 3c 85 6f d8 25 c9 ff 
+rst28h - 83 5f d0 14 c9 ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - dd ff ff ff ff ff ff ff 
+
+int40h - c3 af 37 ff ff ff ff ff 
+int48h - c3 3b 38 ff ff ff ff ff 
+int50h - c3 51 38 ff ff ff ff ff 
+int58h - c3 8a 38 f3 af cd d6 00 
+int60h - 3e 01 ea 50 21 3e 80 e0 
+int68h - 40 cd bd 00 cd 77 01 21 
+int70h - 00 c0 01 fb 1f cd 5a 3e 
+int78h - 21 8a ff 01 75 00 cd 5a 
+int80h - 3e cd 91 01 0e 80 06 0a 
+int88h - 21 92 00 2a e2 0c 05 20 
+int90h - fa c9 3e c0 e0 46 3e 28 
+int98h - 3d 20 fd c9 21 a7 00 2a 
+intA0h - 4f 2a e2 0c 20 f9 c9 01 
+intA8h - 00 02 00 42 00 43 00 47 
+intB0h - e4 48 e4 49 e4 45 6f 41 
+intB8h - 40 0f 00 ff 01 f0 40 07 
+intC0h - d0 f0 ff f5 cb 87 cd d6 
+intC8h - 00 f0 44 fe 91 38 fa f0 
+intD0h - 40 e6 5f e0 40 f1 47 af 
+intD8h - e0 0f 78 e0 ff c9 2a 12 
+intE0h - 13 0b 78 b1 20 f8 c9 2a 
+intE8h - 12 13 05 20 fa c9 f0 40 
+intF0h - 07 d0 f0 41 e6 02 28 fa 
+intF8h - f0 41 e6 02 20 fa c9 ff 
+
+Entry Point - 00 c3 58 01 
+
+Title - NFL QUARTERBACK
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 56 (ljn)
+ROM Version - 00
+
+Header Checksum - 58
+Global Checksum - 71 7a

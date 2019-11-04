@@ -1,0 +1,52 @@
+rst00h - c3 b7 35 24 ed 98 45 07 
+rst08h - c3 80 f0 4f a6 38 c0 87 
+rst10h - df 5f d7 ee ff 65 be f1 
+rst18h - ce 56 bf 4e 5e 0b f1 5c 
+rst20h - ff 7f 47 fc ff 6f 97 c9 
+rst28h - bf 96 de bc f7 b0 7d ff 
+rst30h - ff 77 f7 ed ff bf 7f a5 
+rst38h - ff a9 fc 7d 3f 77 fb ff 
+
+int40h - c3 86 04 fd d7 a7 94 45 
+int48h - c3 16 05 d9 7f df f7 ff 
+int50h - c3 2f 05 c9 fe 56 ef d1 
+int58h - c3 3e 05 d9 bf 76 ff ff 
+int60h - d9 f5 ff fa de dd bf b5 
+int68h - 5c dd d9 7f 7b 27 56 ff 
+int70h - ff fc b7 77 7d ff 7f 38 
+int78h - fd db 5f 3f 9f 71 ff fd 
+int80h - 00 0d 59 80 59 a7 51 64 
+int88h - dd 0a 07 f0 b1 22 43 10 
+int90h - ff 0d ce f6 73 5c fe f1 
+int98h - 77 d8 da 6e 6c ef 9f fd 
+intA0h - ff d0 fd df dd 4e ff c4 
+intA8h - 9d e5 5a 7f 87 b6 d5 ff 
+intB0h - ff d5 af d0 ef dd 7f 17 
+intB8h - d5 77 5e 77 dc 85 ef bf 
+intC0h - ff f2 7b 5a ed 77 df 87 
+intC8h - 7f 9e c7 75 dd 8b 5f ff 
+intD0h - ff a5 5f c6 fe f7 f9 5d 
+intD8h - df 14 f9 3b ff 3f 9f ff 
+intE0h - ef 7e de e3 9b d0 ff 4b 
+intE8h - f4 6f 63 5f fd dd f0 ff 
+intF0h - ff 29 f5 d5 f7 96 ff 43 
+intF8h - ef ff d8 11 7f ce 77 ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - POWER MODELLER\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 08 (Capcom)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 3f
+Global Checksum - e7 ef

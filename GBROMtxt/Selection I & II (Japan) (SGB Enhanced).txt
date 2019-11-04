@@ -1,0 +1,52 @@
+rst00h - c3 50 04 f9 c3 50 01 00 
+rst08h - c3 08 05 00 00 00 00 00 
+rst10h - c3 f6 04 00 00 00 00 00 
+rst18h - c3 cf 02 00 00 00 00 00 
+rst20h - 00 00 00 00 00 00 00 ff 
+rst28h - 00 00 00 00 00 00 00 00 
+rst30h - 00 00 00 00 00 00 00 00 
+rst38h - 00 00 00 00 00 00 00 00 
+
+int40h - c3 c9 01 00 00 00 00 00 
+int48h - c3 fa 01 00 00 00 00 00 
+int50h - d9 33 03 00 00 00 00 00 
+int58h - d9 a3 c0 00 00 00 00 00 
+int60h - d9 00 00 ad 81 89 89 80 
+int68h - ff ae af b0 b1 b2 b3 00 
+int70h - 00 01 02 03 04 05 06 05 
+int78h - 01 07 08 09 08 2d 08 2d 
+int80h - 08 2d 0a a6 2b 08 2c 0b 
+int88h - 2c 0d a6 0c 08 0e 08 2e 
+int90h - 08 2e 08 2e 0a a6 2b 08 
+int98h - 2c 0b 2c 0f 10 11 12 13 
+intA0h - 14 15 14 15 14 15 0a a6 
+intA8h - 2b 08 2c 0b 2c 16 17 18 
+intB0h - 19 1a 1b 1c 1b 1c 1b 1c 
+intB8h - 0a a6 2b 08 2c 0b 2c 0b 
+intC0h - a6 0c 08 2c 08 2e 08 2e 
+intC8h - 08 2e 0a a6 1d 1e 2c 0b 
+intD0h - 2c 0b a6 0c 08 2c 08 2e 
+intD8h - 08 2e 08 2e 1f 20 21 21 
+intE0h - 23 24 25 24 20 26 08 25 
+intE8h - 08 2f 08 2f 08 2f ff ff 
+intF0h - ff 28 29 f3 29 29 29 29 
+intF8h - 29 29 29 29 29 29 29 ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - SELECTION 1&2\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 28 (Kemco Japan)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - ef
+Global Checksum - a5 72

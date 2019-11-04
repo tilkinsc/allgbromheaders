@@ -1,0 +1,52 @@
+rst00h - c3 e2 09 ff ff ff ff ff 
+rst08h - 2a 66 6f c9 ff ff ff ff 
+rst10h - 2f 3c 85 6f d8 25 c9 ff 
+rst18h - 2f 3c 83 5f d8 15 c9 ff 
+rst20h - 2f 3c 81 4f d8 05 c9 ff 
+rst28h - 85 6f d0 24 c9 ff ff ff 
+rst30h - 83 5f d0 14 c9 ff ff ff 
+rst38h - 81 4f d0 04 c9 ff ff ff 
+
+int40h - 18 26 ff ff ff ff ff ff 
+int48h - 18 2e ff ff ff ff ff ff 
+int50h - d9 c3 99 00 ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff 00 00 
+int68h - f5 c5 d5 e5 cd b1 06 fb 
+int70h - cd 99 00 e1 d1 c1 f1 c9 
+int78h - f5 e5 f0 81 21 bf 07 87 
+int80h - 85 6f 30 01 24 2a 66 6f 
+int88h - e9 21 41 ff cb 4e 20 fc 
+int90h - c9 f0 41 cb 4f 20 fa c9 
+int98h - fb 21 03 c0 7e e6 03 20 
+intA0h - 0a cb c6 cd 31 0e 21 03 
+intA8h - c0 cb 86 c9 ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - GOD MEDICINE FB
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) A4 (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 53
+Global Checksum - a5 18

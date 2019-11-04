@@ -1,0 +1,52 @@
+rst00h - c3 6c 20 ff ff ff ff ff 
+rst08h - c3 78 20 c9 ff ff ff ff 
+rst10h - c9 ff ff ff ff ff ff ff 
+rst18h - c9 ff ff ff ff ff ff ff 
+rst20h - c9 ff ff ff ff ff ff ff 
+rst28h - c9 ff ff ff ff ff ff ff 
+rst30h - c9 ff ff ff ff ff ff ff 
+rst38h - 85 6f 3e 00 8c 67 c9 ff 
+
+int40h - cd e4 02 d9 ff ff ff ff 
+int48h - c3 17 33 ff ff ff ff ff 
+int50h - c3 ff 33 ff ff ff ff ff 
+int58h - c3 0e 34 ff ff ff ff ff 
+int60h - d9 fa a7 c0 b7 cf f2 3f 
+int68h - 00 9d 0f 00 9d 0f 00 9d 
+int70h - 0f 00 9d 0f 00 9d 0f 00 
+int78h - cd 3f 00 d1 3f 00 d5 3f 
+int80h - 00 d5 3f 00 d5 3f 00 d5 
+int88h - 3f 00 d5 3f 00 f2 3f 00 
+int90h - f2 3f 00 d9 3f 00 dd 3f 
+int98h - 00 dd 3f 00 e1 3f 00 e5 
+intA0h - 3f 00 e5 3f 00 e5 3f 00 
+intA8h - e5 3f 00 e5 3f 00 e5 3f 
+intB0h - 00 e5 3f 00 e5 3f 00 cd 
+intB8h - 3f 00 e1 3f 00 e1 3f 00 
+intC0h - cd 3f 00 cd 3f 00 f2 3f 
+intC8h - 00 f2 3f 00 cd 3f 00 e1 
+intD0h - 3f 00 f2 3f 00 ed 3f 00 
+intD8h - f3 3f 00 f3 3f 00 f2 3f 
+intE0h - 00 f3 3f 00 ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - HARVEST-MOON GB
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) E9 (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - fd
+Global Checksum - ba 2e

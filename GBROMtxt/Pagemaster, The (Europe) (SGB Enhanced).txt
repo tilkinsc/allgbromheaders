@@ -1,0 +1,52 @@
+rst00h - f0 41 e6 03 3d 28 0d f0 
+rst08h - 41 e6 02 28 fa f0 41 e6 
+rst10h - 02 c8 18 f9 f0 44 d6 90 
+rst18h - fe 0a d8 18 ea f0 41 e6 
+rst20h - 03 3d 28 f9 f0 41 e6 03 
+rst28h - 3d c8 18 f8 ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 96 3d ff ff ff ff ff 
+int48h - c3 a1 3d ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - f3 31 fe ff cd a7 0a af 
+int70h - e0 07 3e 03 e0 ff 3e 0f 
+int78h - e0 45 3e c0 e0 41 3e 03 
+int80h - cd 91 21 cd 25 6e b7 c4 
+int88h - 9b 6e af e0 42 e0 43 ea 
+int90h - b8 de ea bc de ea bb de 
+int98h - 3c cd 91 21 cd 46 6f fb 
+intA0h - 3e 0a cd 91 21 cd 14 40 
+intA8h - 3e 8f ea f0 de fa b0 de 
+intB0h - b7 28 22 3e 06 cd 91 21 
+intB8h - 21 40 d9 cd 11 7f 3e 02 
+intC0h - cd 91 21 21 d6 7d 11 41 
+intC8h - d9 01 06 00 cd fe 32 21 
+intD0h - 40 d9 cd 9c 3f 06 3c cd 
+intD8h - 96 0a 3e 0c cd 91 21 cd 
+intE0h - 89 7e 3e 08 cd 91 21 cd 
+intE8h - 87 5d c3 50 01 ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 68 00 
+
+Title - THE PAGEMASTER\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 61 (Virgin)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 5b
+Global Checksum - d9 6f

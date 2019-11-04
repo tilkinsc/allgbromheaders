@@ -1,0 +1,52 @@
+rst00h - c3 00 01 00 ff fe 00 00 
+rst08h - c3 00 01 00 f6 bf 00 00 
+rst10h - c3 00 01 00 9b 74 00 00 
+rst18h - c3 00 01 00 99 b3 00 00 
+rst20h - c3 00 01 ff ff ff ff ff 
+rst28h - c3 00 01 ff ff ff ff ff 
+rst30h - c3 00 01 ff ff ff ff ff 
+rst38h - c3 00 01 ff ff ff ff ff 
+
+int40h - fb c3 00 08 00 00 00 00 
+int48h - fb f5 3e 91 e0 40 f1 d9 
+int50h - fb c3 af 14 00 00 00 00 
+int58h - f3 c3 7f 0e 00 00 00 00 
+int60h - fb c3 ba 14 ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - c3 12 09 c3 18 09 c3 24 
+int88h - 09 c3 1e 09 c3 d4 08 c3 
+int90h - 1d 36 c3 e7 0a c3 f1 0c 
+int98h - c3 ef 0a c3 0c 09 c3 e6 
+intA0h - 13 c3 f0 13 c3 d9 1b c3 
+intA8h - 29 1d c3 f1 09 c3 37 37 
+intB0h - c3 d0 36 c3 3e 36 c3 06 
+intB8h - 09 ff ff ff ff ff ff ff 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 b1 09 
+
+Title - FACEBALL 2000  
+
+CGB Flag - 20 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 8b (Bullet-Proof Software)
+ROM Version - 00
+
+Header Checksum - ec
+Global Checksum - a1 64

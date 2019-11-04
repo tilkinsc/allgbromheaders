@@ -1,0 +1,52 @@
+rst00h - 85 6f 3e 00 8c 67 7e c9 
+rst08h - 83 5f 3e 00 8a 57 1a c9 
+rst10h - 81 b8 d8 90 18 fb fa bb 
+rst18h - c3 5e 03 be 87 7f ef aa 
+rst20h - 06 00 b9 38 04 91 04 18 
+rst28h - f9 4f c9 f7 ff 7b 76 9e 
+rst30h - f5 fb f3 f0 41 e6 03 20 
+rst38h - f8 f1 77 fb c9 fd 5b bf 
+
+int40h - c3 c2 06 75 bb b2 be 7f 
+int48h - d9 dd f7 7f f9 7c ff fd 
+int50h - c3 7d 13 fa a3 d4 fe 01 
+int58h - ca c4 13 3e 02 e0 ea c9 
+int60h - 21 90 d4 fa 95 d4 11 34 
+int68h - d0 82 57 1a 3d be 30 06 
+int70h - 1e 35 1a 3d be d0 0e 0a 
+int78h - cd ed 37 c9 3e 06 18 02 
+int80h - 3e 1f 11 8c 00 d5 e0 c8 
+int88h - ea ff 3f e9 f0 c9 e0 c8 
+int90h - ea ff 3f c9 cd 97 00 cd 
+int98h - 9a 00 cd 9d 00 cd a0 00 
+intA0h - cd a3 00 cd a6 00 cd a9 
+intA8h - 00 cd ac 00 f0 b6 a7 28 
+intB0h - fb cd 87 02 af e0 b6 c9 
+intB8h - af e0 b6 18 ef f0 b6 a7 
+intC0h - 28 fb c9 e5 c5 2a 12 13 
+intC8h - 05 20 fa c1 e1 0d 20 f3 
+intD0h - c9 f0 cd 57 f0 cc 5f 06 
+intD8h - 04 cb 1a cb 1b 05 20 f9 
+intE0h - 7b e6 fe d6 80 07 07 c6 
+intE8h - 10 e0 ca f0 cc e6 1f 17 
+intF0h - 17 17 c6 08 e0 cb c9 03 
+intF8h - 42 39 b2 00 89 52 e0 bb 
+
+Entry Point - 00 c3 50 01 
+
+Title - GB TAMAGOTCHI  
+
+CGB Flag - 20 (Invalid)
+New Licensee Code - (ASCII) B2 (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 49
+Global Checksum - 99 3b

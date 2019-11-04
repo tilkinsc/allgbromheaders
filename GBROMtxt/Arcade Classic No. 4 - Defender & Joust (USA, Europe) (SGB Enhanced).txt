@@ -1,0 +1,52 @@
+rst00h - 00 00 00 00 00 00 00 00 
+rst08h - 18 55 ff ff ff ff ff ff 
+rst10h - 23 cb 7c c8 18 38 ff ff 
+rst18h - cb 7c c8 18 31 ff ff ff 
+rst20h - ff ff ff ff ff ff ff ff 
+rst28h - ff ff ff ff ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 ad 0b ff ff ff ff ff 
+int48h - c3 21 0c f5 18 05 f5 7c 
+int50h - d6 40 67 f0 c1 3c e6 0f 
+int58h - e0 c1 ea 00 21 f1 c9 c5 
+int60h - 47 f0 c1 4f 78 e6 0f e0 
+int68h - c1 ea 00 21 79 c1 c9 3e 
+int70h - c0 e0 46 3e 28 3d 20 fd 
+int78h - c9 ff ff ff ff ff ff ff 
+int80h - ff ff ff ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 81 01 
+
+Title - DEFENDER/JOUST\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 01 (Nintendo)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 4b
+Global Checksum - 2c 5a

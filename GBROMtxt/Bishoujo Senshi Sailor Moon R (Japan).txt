@@ -1,0 +1,52 @@
+rst00h - c3 03 00 c3 03 00 00 00 
+rst08h - d9 00 00 00 00 00 00 00 
+rst10h - c3 70 00 c3 1a 12 00 00 
+rst18h - c3 7a 00 c3 2e 13 c3 ce 
+rst20h - 0f c3 c3 0f 00 00 00 00 
+rst28h - 47 f0 af 3c e6 07 5f c6 
+rst30h - 2a 6f 26 dc 70 7b e0 af 
+rst38h - c9 00 00 00 00 00 00 00 
+
+int40h - c3 65 13 c3 79 2a 00 00 
+int48h - c3 0c 14 00 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - d9 cd d9 0f 00 00 00 00 
+int60h - d9 c9 00 00 00 00 00 00 
+int68h - 00 00 00 00 00 00 00 00 
+int70h - 87 85 6f 30 01 24 2a 66 
+int78h - 6f e9 87 85 6f 30 01 24 
+int80h - 2a 66 6f c9 00 00 00 00 
+int88h - 00 00 00 00 00 00 00 00 
+int90h - c3 ce 0f c3 0f 10 c3 fa 
+int98h - 0f c3 c2 10 00 00 00 00 
+intA0h - 00 00 00 00 00 00 00 00 
+intA8h - 00 00 00 00 00 00 00 00 
+intB0h - 00 00 00 00 00 00 00 00 
+intB8h - 00 00 00 00 00 00 00 00 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - GB SAILORMOON R
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - cf (Angel)
+ROM Version - 00
+
+Header Checksum - f6
+Global Checksum - 60 a0

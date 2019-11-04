@@ -1,0 +1,52 @@
+rst00h - c3 50 01 00 00 04 00 80 
+rst08h - c3 00 00 00 00 00 00 00 
+rst10h - c3 00 00 00 00 00 00 00 
+rst18h - c3 00 00 00 00 00 00 00 
+rst20h - ff ff fc d0 ff ff 80 b4 
+rst28h - ff ff bd ab ff ff ff ba 
+rst30h - ff ff 2c bc ff ff 71 79 
+rst38h - c3 38 00 8b ff ff ac eb 
+
+int40h - fb c3 f8 12 10 00 00 00 
+int48h - fb c3 4d 03 00 00 00 00 
+int50h - fb c3 65 03 00 00 00 00 
+int58h - c3 30 03 00 00 00 08 00 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff bf ff ff ff ff ff ff 
+int78h - ff ff ff f7 ff ff ff ff 
+int80h - 00 00 00 00 00 00 00 00 
+int88h - 00 00 00 00 00 14 10 40 
+int90h - 00 00 00 00 00 00 00 00 
+int98h - 00 00 00 00 00 00 00 00 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff fb ff ff ff ff ff 
+intC0h - 00 10 00 20 00 00 00 00 
+intC8h - 80 08 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 20 
+intD8h - 02 00 00 00 00 00 00 00 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - WAYNE'S WORLD\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 78 (t*hq)
+ROM Version - 00
+
+Header Checksum - c4
+Global Checksum - ec fa

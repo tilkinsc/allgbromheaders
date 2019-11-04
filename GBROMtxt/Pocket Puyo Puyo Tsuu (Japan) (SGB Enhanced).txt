@@ -1,0 +1,52 @@
+rst00h - e0 f0 f0 90 f5 f0 f0 e0 
+rst08h - 90 ea 00 20 cd c7 09 f1 
+rst10h - e0 90 ea 00 20 c9 00 00 
+rst18h - 00 00 00 00 00 00 00 00 
+rst20h - e9 00 00 00 00 00 00 00 
+rst28h - 00 00 00 00 00 00 00 00 
+rst30h - 00 00 00 00 00 00 00 00 
+rst38h - c3 80 f0 00 00 00 00 00 
+
+int40h - f5 c5 d5 e5 c3 93 20 00 
+int48h - f5 f0 8e e0 40 f1 d9 00 
+int50h - f5 3e 03 e0 07 18 6e 00 
+int58h - f5 e5 18 05 00 00 00 00 
+int60h - d9 f0 cc 6f f0 01 26 c3 
+int68h - cb 7f 20 44 22 2c 7d e0 
+int70h - cc f0 cd bd 28 48 f0 cf 
+int78h - 6f f0 ce bd 28 28 2c 66 
+int80h - 2c 7d e0 cf f0 c9 e0 02 
+int88h - ee 01 e0 c9 7c e0 01 28 
+int90h - 07 3e 80 e0 02 e1 f1 d9 
+int98h - 21 07 ff 36 03 3e f0 e0 
+intA0h - 05 36 07 e1 f1 d9 f0 ca 
+intA8h - 67 3c f6 80 e0 ca 18 d4 
+intB0h - 21 cb ff be 20 08 3c f6 
+intB8h - 80 77 26 c3 18 b8 3e 02 
+intC0h - ea 81 c1 18 d0 3e 81 e0 
+intC8h - 02 ea 85 c1 f1 d9 04 03 
+intD0h - 03 02 02 01 04 00 04 01 
+intD8h - 00 03 01 03 04 02 02 00 
+intE0h - 04 02 00 02 02 03 02 01 
+intE8h - 02 04 04 02 00 04 02 02 
+intF0h - 03 01 00 04 02 02 04 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - POCKET PUYOPUYO
+
+CGB Flag - 32 (Invalid)
+New Licensee Code - (ASCII) BJ (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 6f
+Global Checksum - 98 78

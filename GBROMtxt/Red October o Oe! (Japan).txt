@@ -1,0 +1,52 @@
+rst00h - 2f 3c 85 6f d8 25 c9 ff 
+rst08h - e1 f5 d7 f1 e9 ff ff ff 
+rst10h - 87 ef 2a 66 6f c9 ff ff 
+rst18h - f5 d5 e5 cd c7 0b cd cf 
+rst20h - 0e cd 43 09 e1 d1 f1 c9 
+rst28h - 85 6f d0 24 c9 ff ff ff 
+rst30h - 83 5f d0 14 c9 ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 a3 0c ff ff ff ff ff 
+int48h - c3 d7 0d ff ff ff ff ff 
+int50h - c3 ef 0d ff ff ff ff ff 
+int58h - 18 43 fa 58 dc b7 28 22 
+int60h - fa 57 dc cf 8f 00 71 00 
+int68h - 7a 00 7f 00 fa 5e dc 18 
+int70h - 11 f0 0f cb 5f c0 3e d5 
+int78h - 18 16 fa 5f dc 18 11 fa 
+int80h - 5f dc 47 f3 af e0 02 78 
+int88h - e0 01 3e 80 e0 02 fb c9 
+int90h - 47 3e 01 e0 02 78 e0 01 
+int98h - 3e 81 e0 02 c9 fb f5 c5 
+intA0h - d5 e5 fa ff 7f ea 60 dc 
+intA8h - cd b6 00 fa 60 dc ea 50 
+intB0h - 21 e1 d1 c1 f1 d9 fa 58 
+intB8h - dc b7 28 0e f0 01 fe d5 
+intC0h - 28 22 fe b3 28 2a fe ee 
+intC8h - 28 2d ea 59 dc cd 03 0c 
+intD0h - fa 57 dc fe 03 cc 2b 0d 
+intD8h - 3e 01 ea 5a dc fa 57 dc 
+intE0h - b7 c0 18 88 3e 01 ea 5d 
+intE8h - dc 3e ee ea 5e dc 18 e8 
+intF0h - 3e 01 ea 5c dc 18 e1 3e 
+intF8h - 02 ea 5c dc 18 da ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - RED OCTOBER\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - df (Altron)
+ROM Version - 00
+
+Header Checksum - fc
+Global Checksum - c0 9c

@@ -1,0 +1,52 @@
+rst00h - c3 5a 02 ff ff ff ff ff 
+rst08h - 2a 66 6f c9 ff ff ff ff 
+rst10h - 81 4f d0 04 c9 ff ff ff 
+rst18h - 7c b8 c0 7d b9 c9 ff ff 
+rst20h - 7c ba c0 7d bb c9 ff ff 
+rst28h - 85 6f d0 24 c9 ff ff ff 
+rst30h - 83 5f d0 14 c9 ff ff ff 
+rst38h - 2e 02 34 c9 ff ff ff ff 
+
+int40h - f3 c3 68 00 ff ff ff ff 
+int48h - f3 c3 71 03 ff ff ff ff 
+int50h - fb c3 b3 00 ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - f5 c5 d5 e5 fa 9b c7 a7 
+int70h - 20 10 cd 08 03 fb 21 9a 
+int78h - c7 34 cd 0e 1a e1 d1 c1 
+int80h - f1 d9 1f 1f 0e 80 38 18 
+int88h - 1f 0e fc 38 0c 1f 0e 03 
+int90h - 38 13 0e 7f 3e 40 3d 20 
+int98h - fd f0 40 a1 e0 40 18 0a 
+intA0h - 3e 40 3d 20 fd f0 40 b1 
+intA8h - e0 40 af ea 9b c7 e1 d1 
+intB0h - c1 f1 d9 e5 c5 d5 f5 21 
+intB8h - 8d c7 7e e6 03 20 0a cb 
+intC0h - c6 cd db 0b 21 8d c7 cb 
+intC8h - 86 f1 d1 c1 e1 c9 ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - NEMESIS 2 HERO\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - a4 (Konami)
+ROM Version - 00
+
+Header Checksum - 8a
+Global Checksum - 98 06

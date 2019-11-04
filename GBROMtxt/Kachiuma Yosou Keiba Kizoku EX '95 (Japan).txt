@@ -1,0 +1,52 @@
+rst00h - c3 2f 03 01 00 01 00 00 
+rst08h - 00 02 00 00 00 00 00 00 
+rst10h - 00 00 80 00 00 00 01 00 
+rst18h - 00 00 00 01 00 00 00 00 
+rst20h - 01 00 00 00 00 00 00 00 
+rst28h - 00 10 00 00 00 01 00 01 
+rst30h - 00 00 01 00 00 00 00 00 
+rst38h - 00 00 00 00 00 00 00 00 
+
+int40h - c3 bc 02 00 00 00 00 00 
+int48h - d9 00 00 00 02 00 00 00 
+int50h - d9 00 01 00 00 00 01 08 
+int58h - d9 00 00 00 00 00 00 00 
+int60h - d9 00 00 01 04 01 00 00 
+int68h - 00 00 00 00 00 00 00 00 
+int70h - 00 01 00 00 00 00 00 00 
+int78h - 00 42 00 00 00 06 00 00 
+int80h - ff ff ff ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff fd ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - KEIBAKIZOKU EX9
+
+CGB Flag - 35 (Invalid)
+New Licensee Code - (ASCII) EA (Invalid)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - c3
+Global Checksum - 45 6e

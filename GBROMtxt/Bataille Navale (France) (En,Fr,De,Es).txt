@@ -1,0 +1,52 @@
+rst00h - c3 59 30 00 00 00 00 00 
+rst08h - c3 db 2e 00 00 00 00 00 
+rst10h - c3 9a 3e 00 00 00 00 00 
+rst18h - 85 6f 8c 95 67 c9 00 00 
+rst20h - 83 5f 8a 93 57 c9 00 00 
+rst28h - f5 2a 12 13 f1 0b c9 00 
+rst30h - e5 d5 e1 d1 c9 00 00 00 
+rst38h - 00 00 00 00 00 00 00 00 
+
+int40h - c3 fd 2b 00 00 00 00 00 
+int48h - d9 c3 0f c8 00 00 00 00 
+int50h - c3 c6 2b d9 00 03 03 03 
+int58h - c3 e0 3c 00 03 02 01 01 
+int60h - d9 00 00 03 02 01 01 01 
+int68h - 00 00 03 03 01 01 01 01 
+int70h - 00 03 02 03 01 01 01 01 
+int78h - 03 02 01 02 01 01 01 01 
+int80h - 00 00 03 03 03 03 03 00 
+int88h - 00 03 02 01 01 01 02 03 
+int90h - 03 02 01 01 01 01 01 02 
+int98h - 02 03 02 01 01 01 01 02 
+intA0h - 01 02 02 01 01 01 02 03 
+intA8h - 01 01 01 01 01 01 01 02 
+intB0h - 01 01 01 01 01 01 01 01 
+intB8h - 01 01 01 01 01 01 01 01 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 03 00 00 00 00 00 00 00 
+intD8h - 03 03 03 00 00 00 00 00 
+intE0h - 02 01 02 03 03 03 00 00 
+intE8h - 02 01 01 02 03 02 03 00 
+intF0h - 01 01 01 01 02 01 02 03 
+intF8h - 01 01 01 01 01 01 01 03 
+
+Entry Point - 00 c3 50 01 
+
+Title - BATAILLE NAVALE
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 70 (Infogrames)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 34
+Global Checksum - ae 17

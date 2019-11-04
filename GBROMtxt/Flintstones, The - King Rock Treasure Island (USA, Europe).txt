@@ -1,0 +1,52 @@
+rst00h - 9a 45 fe ff ee ff ae ff 
+rst08h - fe ff ae ff ee ff be ff 
+rst10h - 26 c6 f0 97 6f 00 00 00 
+rst18h - 08 97 ff f9 c9 ff ea ff 
+rst20h - 87 85 6f 30 01 24 2a 66 
+rst28h - 6f c9 ff ff ee ff fb ff 
+rst30h - fe ef ff ff ff ff fe ff 
+rst38h - c3 50 01 ff ee ff aa ff 
+
+int40h - c3 7d 18 ff af ff ff ff 
+int48h - f5 f0 cd e0 40 f0 cf e0 
+int50h - 42 f0 ce e0 43 c3 bd 19 
+int58h - 4a 15 58 15 7c 15 ed 15 
+int60h - 4e 16 aa 16 aa 16 e6 16 
+int68h - 02 17 02 17 31 17 31 17 
+int70h - 31 17 31 17 31 17 31 17 
+int78h - 31 17 31 17 64 17 88 17 
+int80h - be 17 ec 17 00 08 10 18 
+int88h - 20 28 30 28 30 28 30 04 
+int90h - 04 04 04 04 04 04 04 07 
+int98h - 07 06 06 05 05 04 04 04 
+intA0h - 04 05 05 06 06 07 07 03 
+intA8h - 03 02 02 01 01 00 00 00 
+intB0h - 00 01 01 02 02 03 03 07 
+intB8h - 06 05 04 03 02 01 00 00 
+intC0h - 01 02 03 04 05 06 07 ff 
+intC8h - fe bf ff ff ae ff fa ff 
+intD0h - bf ff fe ff be ff eb ff 
+intD8h - fb ff be fb fb ff af ff 
+intE0h - bf ff bf ff ab ff eb ff 
+intE8h - bf ff eb ff ff ff fb ff 
+intF0h - bb ff be ff eb ff ee ff 
+intF8h - ae ff eb ff be ff ae ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - FLINTSTONES\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - c0 (Taito)
+ROM Version - 00
+
+Header Checksum - ca
+Global Checksum - b4 0d

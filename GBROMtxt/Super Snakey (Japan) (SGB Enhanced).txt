@@ -1,0 +1,52 @@
+rst00h - 90 0e 21 00 18 02 6a 00 
+rst08h - 10 00 7d e6 7f bf ff e7 
+rst10h - 10 00 02 00 51 42 ea 41 
+rst18h - 10 00 df 66 95 bc df 77 
+rst20h - 10 00 02 08 0a 0a 20 20 
+rst28h - 10 00 60 e7 f3 ee bf ef 
+rst30h - 10 00 80 c2 13 58 22 47 
+rst38h - 10 00 f7 c7 9d 5b db d0 
+
+int40h - c3 34 06 00 00 88 02 22 
+int48h - c3 33 06 d6 fb ce ff e4 
+int50h - c3 71 04 00 40 20 14 44 
+int58h - c3 11 03 f6 67 f4 da 74 
+int60h - c3 52 02 10 00 a4 00 00 
+int68h - fe 9f 6d 5d 23 7f fe fe 
+int70h - 80 00 00 88 00 6d 80 09 
+int78h - 95 47 75 6f 63 bd 01 78 
+int80h - f5 3e 01 18 1e f5 3e 02 
+int88h - 18 19 f5 3e 03 18 14 f5 
+int90h - 3e 04 18 0f f5 3e 05 18 
+int98h - 0a f5 3e 06 18 05 f5 3e 
+intA0h - 07 18 00 c9 02 01 02 40 
+intA8h - f7 ff 01 ff bf bd 7a af 
+intB0h - 80 02 00 22 43 85 c0 2a 
+intB8h - 37 fd 57 df 7f 92 33 71 
+intC0h - 10 02 40 20 20 60 01 22 
+intC8h - ff ff df d7 fb db de fb 
+intD0h - 2a 00 04 01 06 20 88 11 
+intD8h - 59 9d 7e 7d 3c a4 91 77 
+intE0h - 00 20 20 08 00 00 21 28 
+intE8h - 5b de ff 7d 57 ff f6 f4 
+intF0h - 41 12 20 10 00 22 04 88 
+intF8h - d2 95 fd eb e4 f0 c7 7d 
+
+Entry Point - 00 c3 01 02 
+
+Title - SUPER SNAKEY\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 1H (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 01 (64KByte (4 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - bc
+Global Checksum - ed 9f

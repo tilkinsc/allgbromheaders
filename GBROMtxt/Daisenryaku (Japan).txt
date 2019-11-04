@@ -1,0 +1,52 @@
+rst00h - f5 f0 b5 e0 b6 f1 18 02 
+rst08h - f0 b6 e0 b5 ea 00 21 c9 
+rst10h - cd db 08 3d 20 fa c9 ff 
+rst18h - 3e 00 ea 00 00 c9 ff ff 
+rst20h - 3e 0a ea 00 00 c9 ff ff 
+rst28h - 3e 3c d7 c9 ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - f5 c5 d5 e5 c3 87 08 ff 
+int48h - d9 ff ff ff ff ff ff ff 
+int50h - f5 c5 d5 e5 c3 ec 09 ff 
+int58h - f5 c5 d5 e5 c3 e2 07 ff 
+int60h - d9 e1 d1 c1 f1 d9 ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - ff ff ff ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 22 06 
+
+Title - DAISENRYAKU HIR
+
+CGB Flag - 4f (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 06 (MBC2+BATTERY)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - db (ljn)
+ROM Version - 00
+
+Header Checksum - 72
+Global Checksum - 87 7b

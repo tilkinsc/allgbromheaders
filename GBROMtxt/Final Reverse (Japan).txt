@@ -1,0 +1,52 @@
+rst00h - c3 50 01 00 00 00 00 00 
+rst08h - 87 e1 4f 06 00 09 2a 66 
+rst10h - 6f e9 00 00 00 00 00 00 
+rst18h - 00 00 00 00 00 00 00 00 
+rst20h - 00 00 00 00 00 00 00 00 
+rst28h - 87 e1 4f 06 00 09 2a 66 
+rst30h - 6f e9 00 00 00 00 00 00 
+rst38h - 00 00 00 00 00 00 00 00 
+
+int40h - c3 12 02 00 00 00 00 00 
+int48h - d9 00 00 00 00 00 00 00 
+int50h - c3 2a 02 00 00 00 00 00 
+int58h - c3 4a 22 00 00 00 00 00 
+int60h - d9 00 00 00 00 00 00 00 
+int68h - 00 00 00 00 00 00 00 00 
+int70h - 00 00 00 00 00 00 00 00 
+int78h - 00 00 00 00 00 00 00 00 
+int80h - 00 00 00 00 05 03 02 01 
+int88h - 04 01 01 01 04 01 06 01 
+int90h - 04 01 05 01 04 01 07 01 
+int98h - 04 01 0e 01 04 01 08 01 
+intA0h - 04 01 0e 01 00 02 09 01 
+intA8h - 04 01 0a 01 04 01 03 01 
+intB0h - 04 01 04 01 05 02 0b 01 
+intB8h - 05 02 0c 01 00 02 0d 01 
+intC0h - 00 03 0f 00 00 03 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - FINAL REVERSE\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 01 (64KByte (4 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - ac (Toei Animation)
+ROM Version - 00
+
+Header Checksum - 93
+Global Checksum - 3b 31

@@ -1,0 +1,52 @@
+rst00h - c3 50 01 00 aa 00 00 00 
+rst08h - c3 50 01 00 aa 00 55 00 
+rst10h - 1c 1f 1c 1f 1c 1f 1a 1f 
+rst18h - 1a 1f 1a 1f 1a 1f 19 1f 
+rst20h - 00 64 00 64 00 64 00 64 
+rst28h - 00 64 00 64 00 64 00 64 
+rst30h - 00 40 00 40 00 40 00 40 
+rst38h - 00 40 00 40 00 40 00 40 
+
+int40h - c3 58 02 20 00 20 00 20 
+int48h - c3 1b 04 20 00 20 00 20 
+int50h - c3 bc 03 01 00 01 00 01 
+int58h - c3 77 03 01 00 01 00 01 
+int60h - 00 00 00 d9 00 00 00 00 
+int68h - 00 00 00 00 00 00 00 00 
+int70h - 00 80 00 80 00 80 00 80 
+int78h - 00 80 00 80 00 80 00 80 
+int80h - 00 04 00 04 00 04 00 04 
+int88h - 00 04 00 04 00 04 00 04 
+int90h - 00 02 00 02 00 02 00 02 
+int98h - 00 02 00 02 00 02 00 02 
+intA0h - 00 26 00 26 00 26 00 26 
+intA8h - 00 26 00 26 00 26 00 26 
+intB0h - 38 f8 38 f8 38 f8 58 f8 
+intB8h - 58 f8 58 f8 58 f8 98 f8 
+intC0h - 19 1f 18 1f 18 1f 18 1f 
+intC8h - 18 1f 18 1f 18 1f 18 1f 
+intD0h - 00 64 80 e4 80 e4 40 64 
+intD8h - 40 64 20 64 10 74 08 6c 
+intE0h - 00 26 01 27 01 27 02 26 
+intE8h - 02 26 04 26 08 2e 10 36 
+intF0h - 98 f8 18 f8 18 f8 18 f8 
+intF8h - 18 f8 18 f8 18 f8 18 f8 
+
+Entry Point - 00 c3 50 01 
+
+Title - DEADHEATSCRAMBL
+
+CGB Flag - 45 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 01 (64KByte (4 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - d7 (Copya Systems)
+ROM Version - 00
+
+Header Checksum - 95
+Global Checksum - 6c 03

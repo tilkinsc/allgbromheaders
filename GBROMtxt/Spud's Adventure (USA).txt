@@ -1,0 +1,52 @@
+rst00h - 42 41 42 41 47 45 43 29 
+rst08h - 44 55 42 52 4f 43 4b 53 
+rst10h - 50 41 4e 43 48 49 53 7f 
+rst18h - 42 41 4e 59 45 4f 53 af 
+rst20h - 44 45 42 44 45 44 45 c5 
+rst28h - 41 41 41 41 41 41 41 00 
+rst30h - 50 41 54 45 53 55 4e 78 
+rst38h - 42 41 4e 43 48 4f 55 ff 
+
+int40h - f5 c5 d5 e5 c3 7d 01 00 
+int48h - f5 f0 af c3 db 02 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - f3 f5 f0 01 c3 46 03 00 
+int60h - d9 af e0 f6 cd 3c 07 cd 
+int68h - e0 17 cd 35 04 cd bc 07 
+int70h - f0 f6 ea 6f c3 af ea 70 
+int78h - c3 01 ab 00 1e 04 16 08 
+int80h - cd 0d 08 cd 65 04 21 f6 
+int88h - ff f0 91 cb 77 28 08 7e 
+int90h - b7 28 dd 35 c3 70 00 cb 
+int98h - 7f 28 09 7e fe c4 28 d0 
+intA0h - 34 c3 70 00 f0 92 cb 5f 
+intA8h - 28 c6 c9 4d 41 50 20 53 
+intB0h - 45 4c 45 43 54 20 25 33 
+intB8h - 78 24 00 3e 08 e0 ea e0 
+intC0h - eb 3e 06 ea ce c3 ea cc 
+intC8h - c3 af ea cf c3 ea d1 c3 
+intD0h - ea cd c3 ea ca c3 3e ff 
+intD8h - e0 e9 3c e0 f6 c9 f5 e5 
+intE0h - 21 b8 c1 7e 3c fe 05 30 
+intE8h - 0c 77 85 6f 70 78 fe 10 
+intF0h - 30 03 ea 68 c3 e1 f1 c9 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - SPUDS ADVENTURE
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 01 (64KByte (4 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - eb (Atlus)
+ROM Version - 00
+
+Header Checksum - 9c
+Global Checksum - ce d7

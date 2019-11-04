@@ -1,0 +1,52 @@
+rst00h - e1 cf e9 ff ff ff ff ff 
+rst08h - 87 18 08 ef 2a 66 6f c9 
+rst10h - c3 f6 15 30 f6 24 18 f3 
+rst18h - 81 4f d0 04 c9 ff ff ff 
+rst20h - 7d 93 47 7c 9a c9 ff ff 
+rst28h - 85 6f d0 24 c9 ff ff ff 
+rst30h - 83 5f d0 14 c9 ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 63 00 ff ff ff ff ff 
+int48h - c3 0b 02 ff ff ff ff ff 
+int50h - c3 0b 02 ff ff ff ff ff 
+int58h - c3 0b 02 ff ff ff ff ff 
+int60h - c3 0b 02 f3 f5 c5 d5 e5 
+int68h - 21 40 ff cb 86 cb 8e fa 
+int70h - e4 de b7 c2 b6 01 3c ea 
+int78h - e4 de cd 90 ff cd 92 18 
+int80h - cd df 01 cd 0e 19 af e0 
+int88h - 0f fa f9 de e0 ff fb cd 
+int90h - 0c 02 cd 4f 02 3e 07 ea 
+int98h - 80 21 cd 00 40 26 dd fa 
+intA0h - ec de 6f af 77 3e 80 ea 
+intA8h - ec de af ea e4 de e1 d1 
+intB0h - c1 f1 d9 ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - KONAMI GOLF\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 06 (MBC2+BATTERY)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - a4 (Konami)
+ROM Version - 00
+
+Header Checksum - 33
+Global Checksum - 8c 49

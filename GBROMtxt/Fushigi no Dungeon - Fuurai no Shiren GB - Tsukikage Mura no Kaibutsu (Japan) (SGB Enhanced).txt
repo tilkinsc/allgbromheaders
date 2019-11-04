@@ -1,0 +1,52 @@
+rst00h - 18 fe f0 ff ff ff ff ff 
+rst08h - c3 8d 07 ff ff ff ff ff 
+rst10h - c3 8d 07 ff ff ff ff ff 
+rst18h - c3 f7 06 ff ff ff ff ff 
+rst20h - c3 68 08 ff ff ff ff ff 
+rst28h - 18 fe ff ff ff ff ff ff 
+rst30h - 18 fe ff ff ff ff ff ff 
+rst38h - 18 fe ff ff ff ff ff ff 
+
+int40h - c3 e1 06 ff ff ef ff ff 
+int48h - c3 26 c1 ff ff ff ff ff 
+int50h - c3 76 07 ff ff ff ff ff 
+int58h - 18 fe ff ff ff ff ff ff 
+int60h - 18 fe ff ff ff 7f fb ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff fb ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - ff ff ef ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ef ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff fa ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - bf ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ef ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff bf ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - FURAINO SIREN G
+
+CGB Flag - 42 (Invalid)
+New Licensee Code - (ASCII) 91 (Chun Soft)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 03 (32 KByte (4 banks * 8 KByte))
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - df
+Global Checksum - 5a 74

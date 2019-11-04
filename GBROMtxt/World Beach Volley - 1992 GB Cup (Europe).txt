@@ -1,0 +1,52 @@
+rst00h - c3 50 01 fd ca df a2 fd 
+rst08h - aa df 8c ff fb ff aa ff 
+rst10h - ae ff a3 e7 aa ee b2 7f 
+rst18h - ba fb 28 ff 3b bf ea ff 
+rst20h - 8e ff ba ff 72 df ab fe 
+rst28h - ea f7 aa f7 a9 db ea ff 
+rst30h - eb 7f ab ff 8f ff f6 ff 
+rst38h - fe ff ab ff eb 9f bb ff 
+
+int40h - c3 5c 01 f7 ab df e8 ff 
+int48h - c3 91 01 ff ba ff aa bf 
+int50h - d9 6f ad f7 8e f3 aa bd 
+int58h - c3 a0 01 ff 2a ff aa ff 
+int60h - d9 ff a3 ff ee ff aa 7f 
+int68h - b2 ff bf ff bb ff da fe 
+int70h - af ef ab ff aa ff ab fb 
+int78h - f6 fd fa af ae ff ae ef 
+int80h - b2 ef fb ff ae ff b2 ff 
+int88h - 7a ff ea df 2a dd ba bf 
+int90h - 8f df 6a fb aa ff aa f7 
+int98h - fe ff ba bf aa ff ae ff 
+intA0h - 2b ff aa fd fb ff aa bf 
+intA8h - ea ff ea ff ee bf aa ff 
+intB0h - aa ff 8a df bb 7f fa 3f 
+intB8h - aa ff ab ff eb ff ba ff 
+intC0h - b2 ef ff ff ea ff e8 ff 
+intC8h - ae eb 2a fe aa de a6 ff 
+intD0h - a2 ff 83 ff ea df ea ff 
+intD8h - aa fd ab 7f aa ff ba ff 
+intE0h - ff df f6 fb af ff 2b ff 
+intE8h - aa ff ea ff ea ff ea ff 
+intF0h - fa ff b3 ff ff ff ea bf 
+intF8h - aa ff ea ff fe ff fa 7d 
+
+Entry Point - 00 c3 c9 01 
+
+Title - GB BEACHVOLLEY\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - c0 (Taito)
+ROM Version - 00
+
+Header Checksum - 4c
+Global Checksum - 4e d2

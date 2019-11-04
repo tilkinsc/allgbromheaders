@@ -1,0 +1,52 @@
+rst00h - c3 56 0b 00 11 40 11 00 
+rst08h - 00 00 01 00 01 10 01 14 
+rst10h - 00 00 00 04 01 00 01 00 
+rst18h - 00 01 11 00 00 11 20 60 
+rst20h - 00 01 00 00 00 00 00 00 
+rst28h - 40 00 00 01 00 10 11 00 
+rst30h - 00 10 02 01 00 01 01 00 
+rst38h - 00 00 00 04 00 00 01 04 
+
+int40h - c3 ce 01 00 59 00 00 00 
+int48h - d9 19 00 00 00 40 00 20 
+int50h - c3 09 0e 09 42 08 04 00 
+int58h - d9 00 20 40 01 18 80 00 
+int60h - d9 00 00 80 06 10 08 00 
+int68h - 00 01 20 00 00 00 00 00 
+int70h - 01 10 00 00 00 28 00 00 
+int78h - 00 01 14 00 40 00 08 04 
+int80h - ff ff ff ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff 7f ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - GO! GO! KID\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 28 (Kemco Japan)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - c1
+Global Checksum - 69 76

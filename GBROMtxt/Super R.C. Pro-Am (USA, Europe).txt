@@ -1,0 +1,52 @@
+rst00h - d9 50 01 46 3e 28 3d 20 
+rst08h - fd c9 3e a6 e0 4b 3e 8f 
+rst10h - e0 4a e5 21 40 ff cb ae 
+rst18h - e1 c9 01 01 c3 63 00 f5 
+rst20h - 3e 02 ea 00 20 f1 c9 3e 
+rst28h - 03 18 f1 3e 04 18 ed 3e 
+rst30h - 05 18 e9 3e 06 18 e5 fa 
+rst38h - 39 c9 b7 c9 00 00 00 00 
+
+int40h - c3 39 14 c9 fe 03 c9 00 
+int48h - c3 12 14 84 c9 f1 fb d9 
+int50h - c3 32 14 c9 fe 08 c9 00 
+int58h - c3 3c 31 c9 fe 04 c9 00 
+int60h - d9 3e 07 ea 00 20 c9 cd 
+int68h - 6f 00 21 00 98 18 03 21 
+int70h - fa 00 40 f5 3e 02 ea 00 
+int78h - 20 cd 00 68 f1 ea 00 20 
+int80h - f0 cd a7 3e 01 28 05 3e 
+int88h - 0a cd f3 1b ea 5d c2 3e 
+int90h - 08 cd f3 1b fe fe c8 e5 
+int98h - 47 fa 00 40 f5 3e 05 ea 
+intA0h - 00 20 cd 01 40 f1 ea 00 
+intA8h - 20 e1 7e fe fe c8 47 fa 
+intB0h - 00 40 f5 3e 05 ea 00 20 
+intB8h - cd 01 40 f1 ea 00 20 c9 
+intC0h - 0e 00 f0 41 e6 03 28 fa 
+intC8h - f0 41 e6 03 20 fa 2a 12 
+intD0h - 1c 0c 79 fe 14 20 0a 0e 
+intD8h - 00 e5 21 0c 00 19 54 5d 
+intE0h - e1 05 20 de c9 21 00 90 
+intE8h - 06 10 f0 41 e6 03 28 fa 
+intF0h - f0 41 e6 03 20 fa af 22 
+intF8h - 05 20 ef c9 00 c3 d5 7b 
+
+Entry Point - 00 c3 50 01 
+
+Title - SUPER RC PRO-AM
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 01 (Nintendo)
+ROM Version - 00
+
+Header Checksum - d2
+Global Checksum - fe a0

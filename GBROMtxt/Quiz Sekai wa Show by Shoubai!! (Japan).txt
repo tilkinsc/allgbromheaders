@@ -1,0 +1,52 @@
+rst00h - f3 c3 53 01 00 00 00 00 
+rst08h - 4f 06 00 09 7e c9 00 00 
+rst10h - 4f 06 00 09 09 2a 66 6f 
+rst18h - c9 00 00 00 00 00 00 00 
+rst20h - 2a 12 13 05 20 fa c9 00 
+rst28h - c5 f0 c8 cb 7f c3 cd 1c 
+rst30h - e0 9c ea 00 21 c9 00 00 
+rst38h - c5 d5 e5 47 c3 a3 1c 00 
+
+int40h - f3 f5 c5 d5 e5 c3 21 02 
+int48h - d9 00 00 00 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - f3 f5 f0 c8 a7 c3 97 3d 
+int60h - d9 00 00 00 00 00 00 00 
+int68h - 00 00 00 00 00 00 00 00 
+int70h - 4f f0 b5 fe 30 38 02 18 
+int78h - f8 f0 b3 6f 26 c2 73 2c 
+int80h - 72 2c 71 2c 7d e0 b3 21 
+int88h - b5 ff 34 c9 fa 5e df 6f 
+int90h - 5f fa 5f df 67 57 29 29 
+int98h - 29 29 19 11 03 00 19 7d 
+intA0h - ea 5e df 7c ea 5f df c9 
+intA8h - f0 c9 a7 c8 3e 20 85 6f 
+intB0h - c9 00 00 00 00 00 00 00 
+intB8h - 00 00 00 00 00 00 00 00 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - SHOBAISHOBAI\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - a7 (Takara)
+ROM Version - 00
+
+Header Checksum - d0
+Global Checksum - ff 7d

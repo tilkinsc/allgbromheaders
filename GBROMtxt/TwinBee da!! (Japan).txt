@@ -1,0 +1,52 @@
+rst00h - e1 cf e9 ff ff ff ff ff 
+rst08h - 87 18 08 ef 2a 66 6f c9 
+rst10h - c3 72 29 30 f6 24 18 f3 
+rst18h - fa 0f d8 e6 fc e0 40 c9 
+rst20h - 7d 93 7c 9a c9 ff ff ff 
+rst28h - 85 6f d0 24 c9 ff ff ff 
+rst30h - 83 5f d0 14 c9 ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 9e 02 ff ff ff ff ff 
+int48h - f5 f0 41 18 1b ff ff ff 
+int50h - c3 7b 04 ff ff ff ff ff 
+int58h - c3 f0 07 ff ff ff ff ff 
+int60h - c3 82 00 ff ff ff ff ff 
+int68h - cb 57 ca a4 ff cd a0 ff 
+int70h - e5 21 b0 ff 34 7e 85 6f 
+int78h - 7e b7 28 02 e0 45 e1 f1 
+int80h - d9 c9 d9 ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - TWIN-BEE DA!!\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - a4 (Konami)
+ROM Version - 00
+
+Header Checksum - 1e
+Global Checksum - 96 8b

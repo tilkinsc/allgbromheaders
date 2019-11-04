@@ -1,0 +1,52 @@
+rst00h - 00 60 80 48 00 e6 00 b0 
+rst08h - 41 f4 03 f4 40 bc 00 5f 
+rst10h - ad 8a 00 62 00 0a 01 10 
+rst18h - 00 25 00 29 00 50 40 de 
+rst20h - f7 0c 00 11 8c 76 00 47 
+rst28h - 01 11 01 dd 80 37 02 bf 
+rst30h - 8d 55 01 80 00 bb 8a 71 
+rst38h - c3 b0 b9 1d 10 02 40 ce 
+
+int40h - e5 21 40 ff cb ce e1 d9 
+int48h - c3 0d 36 07 40 4c 00 f5 
+int50h - d9 d4 00 11 00 5c 00 60 
+int58h - d9 a0 00 1c 00 b0 00 73 
+int60h - d9 5b 00 64 08 7a 40 d2 
+int68h - 08 82 00 05 1a 01 00 fe 
+int70h - ef 50 08 ac 60 19 00 d6 
+int78h - 41 12 00 86 81 13 00 de 
+int80h - 00 e8 3e 70 22 44 2f df 
+int88h - 97 77 36 62 76 7b 09 7f 
+int90h - d4 3a df be cf bb 65 be 
+int98h - db fb ab fd 0e fb 2b be 
+intA0h - f7 ef 3d fb 73 7f 0c 1b 
+intA8h - 0c f7 3c cf 5f f7 0f df 
+intB0h - b9 ff ee fc b4 df 4e a2 
+intB8h - 5d ef 76 e8 d3 bb 3d ff 
+intC0h - b7 ee 69 e8 d2 3f 97 ea 
+intC8h - 85 e9 7b fb 06 fb ba da 
+intD0h - 57 5f b8 fa 4c fb ba ef 
+intD8h - 30 bf bf 7f dd f9 ad ff 
+intE0h - cb 7f 9b f7 f6 ff 93 bd 
+intE8h - f1 fd 7f ff f1 57 c9 ff 
+intF0h - ef ef 65 ff 85 d7 28 76 
+intF8h - 63 6b 5f ee ee f7 77 f7 
+
+Entry Point - 00 c3 50 01 
+
+Title - DONKEYKONGLAND 
+
+CGB Flag - 33 (Invalid)
+New Licensee Code - (ASCII) 01 (Nintendo)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 01
+
+Header Checksum - da
+Global Checksum - 3b 41

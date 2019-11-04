@@ -1,0 +1,52 @@
+rst00h - c3 27 1d 14 02 74 02 80 
+rst08h - c3 80 f0 f7 ba 20 20 90 
+rst10h - c3 59 39 a2 00 46 08 1d 
+rst18h - c3 41 39 0d 80 01 08 54 
+rst20h - c3 7a 04 a2 80 05 1c 2b 
+rst28h - c3 14 03 70 00 74 20 70 
+rst30h - c3 36 03 42 0a 4f 00 c7 
+rst38h - c3 50 01 09 0a 40 20 18 
+
+int40h - c3 e6 0d 84 80 50 a2 23 
+int48h - c3 62 0e 17 a1 15 c0 84 
+int50h - c3 66 0e 83 28 04 3a 4e 
+int58h - c3 a0 0e 09 0b 3a 88 0c 
+int60h - c3 a1 0e 48 00 81 82 09 
+int68h - 80 04 38 5c 00 49 8a 8c 
+int70h - 28 78 24 05 26 6d 30 61 
+int78h - 00 30 02 c8 02 43 20 0c 
+int80h - 0a 10 02 e4 22 8e aa e3 
+int88h - 00 00 02 14 80 0b 02 c0 
+int90h - 02 04 2a 83 90 05 02 9c 
+int98h - 00 31 08 32 02 f0 08 03 
+intA0h - 0a e4 02 31 02 3a 0a 82 
+intA8h - 82 64 9a 0b 38 00 a4 e6 
+intB0h - 29 05 00 24 22 c1 20 87 
+intB8h - 80 08 00 07 88 4a 00 44 
+intC0h - 0e 12 82 c9 2a 62 02 8a 
+intC8h - a8 0c 80 20 0a b3 08 46 
+intD0h - 28 1e 0a 6a a2 98 02 0a 
+intD8h - 22 00 2c 0c 00 80 0a 03 
+intE0h - 08 ac c0 33 a6 ca 80 80 
+intE8h - 28 9e 00 7e 00 56 01 02 
+intF0h - 02 61 08 18 a2 37 92 d5 
+intF8h - a8 6a d2 48 08 75 a2 02 
+
+Entry Point - 00 c3 50 01 
+
+Title - MONSTER MAKER J
+
+CGB Flag - 32 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - d1 (Sofel)
+ROM Version - 00
+
+Header Checksum - ba
+Global Checksum - 96 57

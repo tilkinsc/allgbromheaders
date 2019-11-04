@@ -1,0 +1,52 @@
+rst00h - c3 68 00 00 00 00 00 00 
+rst08h - c3 74 00 00 00 00 00 00 
+rst10h - c3 8e 1f 00 00 00 00 00 
+rst18h - c3 37 1b 00 00 00 00 00 
+rst20h - c3 a6 1b 00 00 00 00 00 
+rst28h - c3 a1 1f 00 00 00 00 00 
+rst30h - c3 8c 00 c9 00 00 00 00 
+rst38h - c9 00 00 00 00 00 00 00 
+
+int40h - c3 32 02 00 00 00 00 00 
+int48h - c3 15 03 00 00 00 00 00 
+int50h - c3 dc 02 00 00 00 00 00 
+int58h - c3 f2 03 00 00 00 00 00 
+int60h - d9 00 00 00 00 00 00 00 
+int68h - e1 d5 87 5f 16 00 19 cd 
+int70h - 40 1b d1 e9 e1 0e 08 cb 
+int78h - 20 38 03 17 18 06 a7 17 
+int80h - 38 06 23 23 0d 20 f0 c9 
+int88h - cd 40 1b e9 e5 c5 f5 e6 
+int90h - 0f 87 4f 06 00 21 c1 00 
+int98h - 09 2a 66 6f f1 f5 06 01 
+intA0h - cb 37 cb 5f 20 02 06 fe 
+intA8h - e6 07 a7 28 05 cb 00 3d 
+intB0h - 18 f8 f1 17 38 05 7e a0 
+intB8h - 77 18 03 7e b0 77 c1 e1 
+intC0h - c9 8a ff 8c ff aa ff ab 
+intC8h - ff ac ff ad ff ae ff 8d 
+intD0h - ff af ff b0 ff 8e ff 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - RADARMISSION\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 01 (Nintendo)
+ROM Version - 00
+
+Header Checksum - 57
+Global Checksum - c7 4c

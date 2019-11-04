@@ -1,0 +1,52 @@
+rst00h - c3 d8 df 00 00 00 00 00 
+rst08h - c3 db df 00 00 00 00 00 
+rst10h - c3 de df 00 00 00 00 00 
+rst18h - c3 e1 df 00 00 00 00 00 
+rst20h - c3 e4 df 00 00 00 00 00 
+rst28h - c3 e7 df 00 00 00 00 00 
+rst30h - c3 ea df 00 00 00 00 00 
+rst38h - c3 38 00 00 00 00 00 00 
+
+int40h - f5 e5 cd f0 df e1 f1 d9 
+int48h - f5 e5 cd f3 df e1 f1 d9 
+int50h - f5 e5 cd f6 df e1 f1 d9 
+int58h - f5 e5 cd f9 df e1 f1 d9 
+int60h - f5 e5 cd fc df e1 f1 d9 
+int68h - aa bb aa fb aa 5f 23 f7 
+int70h - ba 7f 88 f3 a2 7a aa 57 
+int78h - 8a bf a8 fc a2 7c 88 79 
+int80h - ab fd ac bf 0a fd aa df 
+int88h - aa fb ca 6b 12 1f ae fe 
+int90h - a2 55 09 cb 0a 5c aa b6 
+int98h - 88 fc a2 a7 aa ad 88 17 
+intA0h - ea ff a0 f7 6a ef aa d7 
+intA8h - 2a fb 2a ff 2a 7b 3a 4f 
+intB0h - 8e ff a2 ff 8a ab 82 fd 
+intB8h - a8 ff 8a 6f aa be 2a 6b 
+intC0h - 2a ff a2 7d 2e fb a8 ff 
+intC8h - a8 7f 80 ff 0a c6 82 ff 
+intD0h - a8 3f aa 7d a3 fb 62 4d 
+intD8h - aa ff 20 ff 02 d4 e8 a3 
+intE0h - aa ff 32 ff ee df a9 ef 
+intE8h - 2a ed 7a df a8 f9 aa ef 
+intF0h - ea cf 22 75 a8 f8 8a ce 
+intF8h - 28 ff ea de 82 4d a2 ae 
+
+Entry Point - 00 c3 50 01 
+
+Title - POCKET MAHJAN\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 9H (Invalid)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 9b
+Global Checksum - e6 02

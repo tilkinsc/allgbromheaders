@@ -1,0 +1,52 @@
+rst00h - c3 39 3a 00 00 00 00 00 
+rst08h - 85 6f d0 24 c9 00 00 00 
+rst10h - 7c 92 c0 7d 93 c9 00 00 
+rst18h - f0 44 fe 90 38 fa c9 00 
+rst20h - 7d 93 6f 7c 9a 67 c9 00 
+rst28h - 7d 91 6f 7c 98 67 c9 00 
+rst30h - 83 5f d0 14 c9 c9 00 00 
+rst38h - c9 00 00 00 00 00 00 00 
+
+int40h - c3 3b 07 00 00 00 00 00 
+int48h - d9 00 00 00 00 00 00 00 
+int50h - c3 92 72 00 00 00 00 00 
+int58h - d9 00 00 00 00 00 00 00 
+int60h - d9 00 00 00 00 00 00 00 
+int68h - 00 00 00 00 00 00 00 00 
+int70h - 00 00 00 00 00 00 00 00 
+int78h - 00 00 00 00 00 00 00 00 
+int80h - 00 00 00 00 00 00 00 00 
+int88h - 00 00 00 00 00 00 00 00 
+int90h - 00 00 00 00 00 00 00 00 
+int98h - 00 00 00 00 00 00 00 00 
+intA0h - 00 00 00 00 00 00 00 00 
+intA8h - 00 00 00 00 00 00 00 00 
+intB0h - 00 00 00 00 00 00 00 00 
+intB8h - 00 00 00 00 00 00 00 00 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - TASMANIA STORY\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 00 (ROM ONLY)
+Rom Size - 00 (32KByte (no ROM banking))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - ce (*Pony Canyon)
+ROM Version - 00
+
+Header Checksum - 09
+Global Checksum - 80 82

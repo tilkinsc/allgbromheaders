@@ -1,0 +1,52 @@
+rst00h - c3 50 13 a1 68 a1 69 a1 
+rst08h - 6a a1 6b a1 6c a1 6d a1 
+rst10h - 6e a1 6f a1 70 a1 71 a1 
+rst18h - 72 a1 73 a1 74 a1 75 a1 
+rst20h - 76 a1 77 a1 78 00 00 00 
+rst28h - 00 00 00 00 00 00 00 00 
+rst30h - 00 00 00 00 00 00 00 00 
+rst38h - 00 00 00 00 00 00 00 00 
+
+int40h - c3 1f 0f 00 00 00 00 00 
+int48h - c3 50 13 00 00 00 00 00 
+int50h - c3 50 13 00 00 00 00 00 
+int58h - c3 88 3c 00 00 00 00 00 
+int60h - c9 00 00 87 00 8d 00 93 
+int68h - 00 99 00 9f 00 a5 00 ab 
+int70h - 00 b1 00 b7 00 bd 00 c3 
+int78h - 00 c9 00 cf 00 d5 00 db 
+int80h - 00 e1 00 e7 00 ed 00 40 
+int88h - 71 d8 6f 27 02 70 67 08 
+int90h - 66 27 0f 88 73 20 72 27 
+int98h - 0f 18 75 b0 73 93 0e 30 
+intA0h - 4e c8 4c 27 0f 58 58 f0 
+intA8h - 56 27 05 f0 63 88 62 27 
+intB0h - 05 e0 6e 78 6d 27 0e 68 
+intB8h - 41 00 40 27 0e 18 46 b0 
+intC0h - 44 27 07 88 6c 20 6b 93 
+intC8h - 05 f8 5a 90 59 27 0f 68 
+intD0h - 41 00 40 27 02 20 52 b8 
+intD8h - 50 27 02 c8 61 60 60 27 
+intE0h - 02 b0 52 48 51 27 0e 98 
+intE8h - 61 30 60 27 0e 68 41 00 
+intF0h - 40 27 0f 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - TITUS THE FOX\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 60 (Titus)
+ROM Version - 00
+
+Header Checksum - db
+Global Checksum - 7a 1f

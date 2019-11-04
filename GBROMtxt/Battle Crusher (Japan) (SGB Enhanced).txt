@@ -1,0 +1,52 @@
+rst00h - c3 00 02 00 00 00 00 00 
+rst08h - e1 4f af 47 09 2a 66 6f 
+rst10h - e9 00 00 00 00 00 00 00 
+rst18h - 00 00 00 00 00 00 00 00 
+rst20h - 00 00 00 00 00 00 00 00 
+rst28h - 00 00 00 00 00 00 00 00 
+rst30h - 00 00 00 00 00 00 00 00 
+rst38h - 00 00 00 00 00 00 00 00 
+
+int40h - f3 f5 c5 d5 e5 c3 5a 08 
+int48h - f3 f5 c5 d5 e5 c3 02 29 
+int50h - f3 f5 c5 d5 e5 c3 4c 0a 
+int58h - c3 58 02 00 00 00 00 00 
+int60h - d9 00 00 00 3e 01 e0 b5 
+int68h - 06 03 18 0e af e0 b5 e0 
+int70h - 47 e0 48 e0 49 cd 64 1e 
+int78h - af 47 0e fc 21 94 ff cd 
+int80h - d5 00 21 90 ff af 22 22 
+int88h - 32 2d 0e 94 3e 03 f5 1e 
+int90h - 04 f2 53 07 07 15 20 fb 
+int98h - e6 03 b8 38 01 78 53 0f 
+intA0h - 0f 15 20 fb b6 77 1d 20 
+intA8h - e8 2c 0c f1 3d 20 df 2e 
+intB0h - 90 2a e0 47 e0 fc 2a e0 
+intB8h - 48 e0 fd 7e e0 49 e0 fe 
+intC0h - 0e 04 cd e9 00 f0 b5 b7 
+intC8h - 20 14 04 78 fe 04 20 b2 
+intD0h - 0e 94 21 fc ff 1e 03 f2 
+intD8h - 0c 22 1d 20 fa c9 05 78 
+intE0h - fe ff 20 9e cd 5f 1e 18 
+intE8h - e7 c5 cd 33 05 c1 0d 20 
+intF0h - f8 c9 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - BATTLE CRUSHER 
+
+CGB Flag - 20 (Invalid)
+New Licensee Code - (ASCII) D9 (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - f8
+Global Checksum - 8b af

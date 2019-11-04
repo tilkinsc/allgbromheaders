@@ -1,0 +1,52 @@
+rst00h - c3 50 01 14 40 30 00 00 
+rst08h - c3 50 01 60 8f b4 41 30 
+rst10h - 00 94 14 40 00 00 18 18 
+rst18h - 18 18 2c 2c 2c 2c 7e 7e 
+rst20h - 46 46 ee ee 00 00 fc fc 
+rst28h - 62 62 62 62 7c 7c 62 62 
+rst30h - 62 62 fc fc 00 00 7a 7a 
+rst38h - c6 c6 c2 c2 c0 c0 c2 c2 
+
+int40h - c3 4f 06 7a 00 00 fc fc 
+int48h - c3 26 07 62 62 62 62 62 
+int50h - c3 68 07 fc 00 00 fe fe 
+int58h - c3 5d 0a 68 78 78 68 68 
+int60h - 00 00 00 d9 00 00 fe fe 
+int68h - 62 62 68 68 78 78 68 68 
+int70h - 60 60 f0 f0 00 00 7a 7a 
+int78h - c6 c6 c0 c0 de de c6 c6 
+int80h - c6 c6 7c 7c 00 00 ee ee 
+int88h - 6c 6c 6c 6c 7c 7c 6c 6c 
+int90h - 6c 6c ee ee 00 00 3c 3c 
+int98h - 18 18 18 18 18 18 18 18 
+intA0h - 18 18 3c 3c 00 00 1e 1e 
+intA8h - 0c 0c 0c 0c 0c 0c 0c 0c 
+intB0h - 6c 6c 38 38 00 00 f6 f6 
+intB8h - 64 64 68 68 7c 7c 6c 6c 
+intC0h - 66 66 f6 f6 00 00 f0 f0 
+intC8h - 60 60 60 60 60 60 60 60 
+intD0h - 62 62 fe fe 00 00 c6 c6 
+intD8h - 46 46 6e 6e 7e 7e 56 56 
+intE0h - 56 56 ee ee 00 00 f6 f6 
+intE8h - 72 72 5a 5a 5a 5a 4e 4e 
+intF0h - 4e 4e e6 e6 00 00 7c 7c 
+intF8h - c6 c6 c6 c6 c6 c6 c6 c6 
+
+Entry Point - 00 c3 50 01 
+
+Title - SCOTLANDYARD\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - ac (Toei Animation)
+ROM Version - 00
+
+Header Checksum - b0
+Global Checksum - 15 2d

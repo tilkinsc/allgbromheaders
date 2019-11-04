@@ -1,0 +1,52 @@
+rst00h - c3 00 01 00 00 00 00 00 
+rst08h - ea 2b d9 ea 00 20 c9 00 
+rst10h - 21 36 ce be c9 00 00 00 
+rst18h - 3e 02 21 44 ce be c9 00 
+rst20h - fa 3e ce cb 4f c9 00 00 
+rst28h - 06 ce 16 00 c3 6a 05 00 
+rst30h - ea 00 de c9 00 00 00 00 
+rst38h - 00 00 00 00 00 00 00 00 
+
+int40h - c3 67 0e 00 00 00 00 00 
+int48h - c3 1a 0f 00 00 00 00 00 
+int50h - c3 80 0f 00 00 00 00 00 
+int58h - c3 91 0f 00 00 00 00 00 
+int60h - c3 92 0f 00 00 00 00 00 
+int68h - fe fe ee fe fe ee ee fe 
+int70h - fe fe ee fe ee fe fe ee 
+int78h - fe fe fe fe fe fe ee fe 
+int80h - ee fe ee fe fe fe fe ff 
+int88h - fe fe ff ee fe fe ee fe 
+int90h - ee fe fe fe fe fe fe fe 
+int98h - fe fe ff fe fe fe ee fe 
+intA0h - 4e 97 52 a2 fc a6 a9 3d 
+intA8h - fe fe fe ee fe fe ee fe 
+intB0h - fe fe fe fe ee fe fe fe 
+intB8h - ee fe ee fe ee ee fe fe 
+intC0h - fe ee fe fe fe ff fe fe 
+intC8h - fe ee ee fe ff fe fe ee 
+intD0h - fe ee fe fe ee fe fe fe 
+intD8h - ee ff ee fe fe ee fe fe 
+intE0h - fe ee ee fe fe fe fe fe 
+intE8h - fe fe fe fe ee ff ee fe 
+intF0h - fe ee fe ee fe fe fe fe 
+intF8h - fe fe fe 3e f3 ea 02 e0 
+
+Entry Point - 00 c3 50 01 
+
+Title - CUTTHROAT ISLAN
+
+CGB Flag - 44 (Invalid)
+New Licensee Code - (ASCII) 51 (Acclaim)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - b0
+Global Checksum - 92 12

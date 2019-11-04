@@ -1,0 +1,52 @@
+rst00h - ff ff ff ff ff ff ff ff 
+rst08h - 18 41 ff ff ff ff ff ff 
+rst10h - 23 cb 7c c8 18 48 ff ff 
+rst18h - cb 7c c8 18 41 ff ff ff 
+rst20h - ff ff ff ff ff ff ff ff 
+rst28h - ff ff ff ff ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 a6 0e ff ff ff ff ff 
+int48h - c3 46 0f c5 47 f0 d5 4f 
+int50h - 78 e6 0f e0 d5 ea 00 21 
+int58h - 79 c1 c9 f5 18 05 f5 7c 
+int60h - d6 40 67 f0 d5 3c e6 0f 
+int68h - e0 d5 ea 00 21 f1 c9 0b 
+int70h - 77 23 0b cb 78 28 f9 c9 
+int78h - cb 7c 20 2a 7d 81 7c 88 
+int80h - 38 03 17 30 21 c5 af 95 
+int88h - 4f 3e 80 9c 47 c5 cd a6 
+int90h - 00 cd 5b 00 c1 e1 7d 91 
+int98h - 4f 7c 98 47 21 00 40 b1 
+intA0h - 20 da c9 cd 69 01 79 d6 
+intA8h - 10 4f 78 de 00 47 30 f3 
+intB0h - 3e 69 91 91 91 4f 06 01 
+intB8h - c5 01 00 00 c9 f0 40 cb 
+intC0h - ff e0 40 c9 f3 cd 31 0e 
+intC8h - f0 40 cb bf e0 40 fb c9 
+intD0h - 3e c7 e0 46 3e 28 3d 20 
+intD8h - fd c9 ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ea 54 
+
+Entry Point - 00 c3 89 0b 
+
+Title - SPEED BALL 2\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 5a (Mindscape)
+ROM Version - 00
+
+Header Checksum - 8b
+Global Checksum - cd 6e

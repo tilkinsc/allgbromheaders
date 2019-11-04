@@ -1,0 +1,52 @@
+rst00h - c3 e5 01 00 00 00 00 00 
+rst08h - c3 d7 01 ff ff 7f fd ff 
+rst10h - c3 3a 02 00 00 80 00 84 
+rst18h - 75 fd fd f7 7d d5 75 d5 
+rst20h - 80 00 20 88 00 00 00 00 
+rst28h - ff fd bf bf df 7e ff ed 
+rst30h - 10 00 24 90 00 20 06 85 
+rst38h - 77 d7 57 55 55 7f 74 7f 
+
+int40h - c3 46 02 00 00 00 00 00 
+int48h - c3 e4 06 ef ff ff 5e 7f 
+int50h - c3 93 07 00 08 21 40 90 
+int58h - d9 d5 54 7d 55 dd 55 95 
+int60h - d9 80 00 00 00 00 00 00 
+int68h - ff ff ff ff ff ff dd ff 
+int70h - 00 18 00 00 00 00 00 00 
+int78h - 5f fd 3f 77 dd 55 55 dc 
+int80h - 00 00 20 00 02 04 00 00 
+int88h - ff ff ff ff df ff ff ba 
+int90h - 00 00 00 08 11 00 84 82 
+int98h - dd 7d d5 ff 55 bd 17 6f 
+intA0h - 00 02 00 00 00 00 00 00 
+intA8h - fd ff ff ff de bf ff bb 
+intB0h - 00 00 00 00 00 00 00 04 
+intB8h - 55 b7 53 5d 75 75 05 f4 
+intC0h - 80 22 00 00 08 08 00 00 
+intC8h - ff ff 7d bf ff df ff ff 
+intD0h - 00 00 00 00 00 00 40 02 
+intD8h - 5f 75 15 7d 55 ff 55 55 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - ff ff ff df ff ff bf ff 
+intF0h - 00 00 00 00 00 00 20 04 
+intF8h - 57 de fd ff 75 65 55 77 
+
+Entry Point - 00 c3 50 01 
+
+Title - BONKSREVENGE\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 18 (Hudsonsoft)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - ba
+Global Checksum - 5c 1e

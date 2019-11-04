@@ -1,0 +1,52 @@
+rst00h - c3 50 01 00 b9 44 00 00 
+rst08h - c3 00 01 00 c0 08 00 00 
+rst10h - 21 00 c2 af cd 34 07 c9 
+rst18h - c3 80 f0 00 91 1e 00 00 
+rst20h - 4f fa 41 c9 b7 79 c9 ff 
+rst28h - 21 57 c9 01 12 00 f7 c9 
+rst30h - af cd 34 07 c9 ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 77 06 00 00 00 00 00 
+int48h - c3 f5 06 00 00 00 00 00 
+int50h - c3 f6 06 00 00 00 00 00 
+int58h - c3 0e 07 00 00 00 00 00 
+int60h - c3 0f 07 ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - 00 00 00 00 00 00 00 00 
+int88h - 00 00 00 00 00 00 00 00 
+int90h - 00 00 00 00 00 00 00 00 
+int98h - 00 00 00 00 00 00 00 00 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 7a 01 
+
+Title - AKAZUKIN-CHACHA
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) DA (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 05
+Global Checksum - 94 22

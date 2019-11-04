@@ -1,0 +1,52 @@
+rst00h - 78 ea 00 20 e0 e0 e9 00 
+rst08h - c3 61 00 00 88 14 00 00 
+rst10h - c3 75 00 00 12 19 00 00 
+rst18h - c3 8f 00 00 e5 55 00 00 
+rst20h - f0 ff e6 f7 e0 ff c9 ff 
+rst28h - f0 ff f6 08 e0 ff c9 ff 
+rst30h - c9 ff ff ff ff ff ff ff 
+rst38h - c9 ff ff ff ff ff ff ff 
+
+int40h - c3 d8 04 00 00 00 00 00 
+int48h - c3 5d 04 00 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - c3 17 16 d9 00 00 00 00 
+int60h - d9 f0 e0 f5 78 ea 00 20 
+int68h - e0 e0 cd 74 00 f1 ea 00 
+int70h - 20 e0 e0 c9 e9 f0 ff e6 
+int78h - fe e0 ff f0 40 cb 7f ca 
+int80h - 8e 00 f0 44 fe 91 20 fa 
+int88h - f0 40 e6 7f e0 40 c9 f6 
+int90h - 80 e0 40 f0 ff f6 09 e0 
+int98h - ff c9 d5 d6 d7 d8 d9 da 
+intA0h - db dc d4 00 01 02 03 04 
+intA8h - 05 06 07 08 d5 dd de df 
+intB0h - e0 e1 e2 e3 d4 08 07 06 
+intB8h - 05 04 03 02 01 00 f1 f2 
+intC0h - f3 f4 f5 f6 f7 f8 f9 fa 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - NETTOU KOF 95\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 38 (Hudson)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - d3
+Global Checksum - c5 0f

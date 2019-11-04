@@ -1,0 +1,52 @@
+rst00h - f3 e0 8a f0 0f c3 8b 13 
+rst08h - c3 61 00 00 00 00 00 00 
+rst10h - e9 00 00 00 00 00 00 00 
+rst18h - c3 ef 01 00 00 00 00 00 
+rst20h - e5 df 46 df e1 c9 00 00 
+rst28h - d5 5f 16 00 19 19 d1 00 
+rst30h - 2a 66 6f c9 00 00 00 00 
+rst38h - 3e 07 ea 00 21 c3 00 78 
+
+int40h - c3 d9 02 00 00 00 00 00 
+int48h - f5 f0 41 c3 b9 03 00 00 
+int50h - c3 b7 02 00 00 00 00 00 
+int58h - f5 f0 01 e0 c4 f1 d9 00 
+int60h - d9 e0 a5 7d e0 a6 7c e0 
+int68h - a7 e1 2a 23 e5 2b 66 6f 
+int70h - 7e b7 28 1a f0 a3 be 28 
+int78h - 15 f5 7e e0 a3 ea 00 21 
+int80h - cd 8e 00 e0 a5 f1 e0 a3 
+int88h - ea 00 21 f0 a5 c9 23 f7 
+int90h - e5 f0 a6 6f f0 a7 67 f0 
+int98h - a5 c9 f5 3e 84 e0 88 f1 
+intA0h - c7 5e 5f ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff 68 
+intB0h - 69 6a 6b 6c 6d 6e 6f ff 
+intB8h - ff ff ff e0 e1 e2 e3 c9 
+intC0h - e2 e4 e5 78 79 7a 7b 7c 
+intC8h - 7d 7e 7f ff ff ff ff c9 
+intD0h - c9 c9 c9 c9 c9 c9 c9 88 
+intD8h - 89 8a 8b 8c 8d 8e 8f ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - c9 c9 ff 98 99 9a 9b 9c 
+intF0h - 9d 9e 9f ff ff ff ff ff 
+intF8h - ff ff ff c9 c9 ff ff a8 
+
+Entry Point - 00 c3 3c 02 
+
+Title - CHIKI 2 TENGOKU
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) AH (Invalid)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 00 (ROM ONLY)
+Rom Size - 00 (32KByte (no ROM banking))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 34
+Global Checksum - 02 23

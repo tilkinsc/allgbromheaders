@@ -1,0 +1,52 @@
+rst00h - f3 cd 2d 05 af e0 0f e0 
+rst08h - ff e0 40 e0 47 e0 48 e0 
+rst10h - 49 ea 44 de ea 32 de ea 
+rst18h - 3b de 3c ea 31 de ea 00 
+rst20h - 20 ea c7 d9 3e 01 cd 69 
+rst28h - 04 cd 5b 7f cd 46 7f cd 
+rst30h - 64 7f cd 9f 04 06 07 11 
+rst38h - da 65 cd c9 04 c3 50 01 
+
+int40h - f5 c5 d5 e5 c3 19 07 ff 
+int48h - f5 c5 d5 e5 c3 28 0c ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - d9 ff ff ff ff ff ff ff 
+int70h - 31 ff c0 3e 01 ea a0 da 
+int78h - c3 00 00 31 ff c0 cd 49 
+int80h - 21 af 18 f1 b6 49 5b a4 
+int88h - f5 02 6d 92 93 38 6d 92 
+int90h - 6d 82 96 69 00 00 00 00 
+int98h - 00 00 10 00 28 10 6c 00 
+intA0h - 00 00 00 00 00 00 00 00 
+intA8h - 00 00 08 00 14 08 36 00 
+intB0h - 00 00 00 00 00 00 00 00 
+intB8h - 00 00 28 00 6c 10 aa 00 
+intC0h - 00 00 00 00 04 04 15 16 
+intC8h - 17 18 1a 1b 1c 1d 1f 20 
+intD0h - 21 22 26 27 28 29 04 04 
+intD8h - 15 16 17 18 1a 40 41 42 
+intE0h - 1f 4d 4e 4f 26 27 28 29 
+intE8h - c4 00 d6 00 0f 10 11 12 
+intF0h - 13 14 15 16 17 18 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 7b 00 
+
+Title - THE PUNISHER\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 56 (ljn)
+ROM Version - 00
+
+Header Checksum - 1e
+Global Checksum - 15 21

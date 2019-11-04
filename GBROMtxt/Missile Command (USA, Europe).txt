@@ -1,0 +1,52 @@
+rst00h - c9 00 00 00 00 00 00 00 
+rst08h - ce 59 65 bf 1e bf 9c ff 
+rst10h - da 00 00 08 10 04 08 00 
+rst18h - 83 59 35 34 1d 14 5c 15 
+rst20h - 00 20 20 00 00 00 00 00 
+rst28h - 8d 75 06 d7 9f 7f db 1f 
+rst30h - 80 e0 00 00 10 00 00 00 
+rst38h - 11 80 05 34 15 57 45 44 
+
+int40h - c3 f3 05 80 00 00 00 00 
+int48h - f5 3e 93 e0 40 f1 d9 5b 
+int50h - c3 6c 06 08 00 00 12 00 
+int58h - c3 6c 06 40 df 01 43 03 
+int60h - d9 08 00 00 00 00 00 00 
+int68h - dc bd 93 fb cb f1 93 ff 
+int70h - 00 10 80 48 80 01 00 04 
+int78h - 05 41 d9 45 29 50 74 95 
+int80h - 00 00 00 00 80 00 00 08 
+int88h - 57 29 a8 30 61 ac 74 56 
+int90h - 08 00 08 00 00 40 00 08 
+int98h - 5c 51 50 d7 45 ec 65 71 
+intA0h - 02 20 00 00 80 00 00 00 
+intA8h - f4 34 d4 ab f7 b3 cf 3d 
+intB0h - 00 00 00 04 00 08 00 00 
+intB8h - 8b 14 5d 10 14 5c 84 01 
+intC0h - 00 00 02 08 00 00 00 00 
+intC8h - 55 c6 9f 43 08 bd c0 f6 
+intD0h - 25 00 04 82 00 00 02 00 
+intD8h - 43 55 47 45 15 17 05 13 
+intE0h - 00 20 02 20 00 00 00 00 
+intE8h - c4 36 02 bb d9 b0 d2 2c 
+intF0h - 05 20 00 00 00 04 00 00 
+intF8h - 51 50 15 d4 ac 14 01 57 
+
+Entry Point - 00 c3 50 01 
+
+Title - MISSILE COMMAND
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 00 (ROM ONLY)
+Rom Size - 00 (32KByte (no ROM banking))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 79 (Accolade)
+ROM Version - 00
+
+Header Checksum - 38
+Global Checksum - 28 77

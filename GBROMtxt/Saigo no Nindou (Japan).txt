@@ -1,0 +1,52 @@
+rst00h - f5 3e 01 ff f1 c3 96 42 
+rst08h - 3e 01 ff c3 b4 42 ff ff 
+rst10h - 3e 01 ff c3 de 42 ff ff 
+rst18h - 83 5f 7a ce 00 57 c9 ff 
+rst20h - 3e 01 ff c3 07 43 ff ff 
+rst28h - 81 4f 78 ce 00 47 c9 ff 
+rst30h - ea 9b ca c9 ff ff ff ff 
+rst38h - e0 92 ea 00 20 c9 ff ff 
+
+int40h - c3 3f 02 ff ff ff ff ff 
+int48h - c3 dd 02 ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 3e 00 e0 c5 cd 0a 09 
+int68h - c3 1f 09 01 80 0d 21 80 
+int70h - 00 2a e2 0c 05 20 fa 3e 
+int78h - c0 e0 95 3e c1 e0 96 c9 
+int80h - f0 96 e0 46 3e 28 3d 20 
+int88h - fd c9 c3 00 00 ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - NINJA SPIRIT\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 49 (Irem)
+ROM Version - 00
+
+Header Checksum - 30
+Global Checksum - 8b b6

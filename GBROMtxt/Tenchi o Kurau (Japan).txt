@@ -1,0 +1,52 @@
+rst00h - c3 a0 02 00 00 00 00 00 
+rst08h - 00 00 00 00 00 00 00 00 
+rst10h - 00 00 00 00 00 00 00 00 
+rst18h - 00 00 00 00 00 00 00 00 
+rst20h - 00 00 00 00 00 00 00 00 
+rst28h - 00 00 00 00 00 00 00 00 
+rst30h - 00 00 00 00 00 00 00 00 
+rst38h - 00 00 00 00 00 00 00 00 
+
+int40h - f3 f5 c5 d5 e5 c3 76 06 
+int48h - f3 f5 c5 e5 c3 3d 07 00 
+int50h - f3 f5 c5 d5 e5 c3 66 08 
+int58h - d9 00 00 00 00 00 00 00 
+int60h - d9 00 00 00 00 00 00 00 
+int68h - 00 3e 01 e0 c5 06 03 18 
+int70h - 0e af e0 c5 e0 47 e0 48 
+int78h - e0 49 cd 7e 03 af 47 0e 
+int80h - fc 21 94 ff cd f5 00 21 
+int88h - 90 ff af 22 22 32 2d 0e 
+int90h - 94 3e 03 f5 1e 04 f2 53 
+int98h - 07 07 15 20 fb e6 03 b8 
+intA0h - 38 01 78 53 0f 0f 15 20 
+intA8h - fb b6 77 1d 20 e8 2c 0c 
+intB0h - f1 3d 20 df 2e 90 2a e0 
+intB8h - 47 e0 fc 2a e0 48 e0 fd 
+intC0h - 7e e0 49 e0 fe 0e 04 f0 
+intC8h - cc b7 28 01 4f cd ee 00 
+intD0h - f0 c5 b7 20 0e 04 78 fe 
+intD8h - 04 20 ac 0e 94 21 fc ff 
+intE0h - c3 f5 00 05 78 fe ff 20 
+intE8h - 9e cd 5d 03 18 ed cd c8 
+intF0h - 03 0d 20 fa c9 1e 03 f2 
+intF8h - 0c 22 1d 20 fa c9 00 00 
+
+Entry Point - 00 c3 a0 02 
+
+Title - TENCHIWOKURAU\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 06 (MBC2+BATTERY)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 08 (Capcom)
+ROM Version - 00
+
+Header Checksum - ed
+Global Checksum - 00 6a

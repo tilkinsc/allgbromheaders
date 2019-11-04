@@ -1,0 +1,52 @@
+rst00h - c9 ff ff ff ff ff ff ff 
+rst08h - 85 6f d0 24 c9 ff ff ff 
+rst10h - 83 5f d0 14 c9 ff ff ff 
+rst18h - 81 4f d0 04 c9 ff ff ff 
+rst20h - e9 f6 f0 47 c9 ff ff ff 
+rst28h - cb 37 47 e6 f0 4f 3e 0f 
+rst30h - a0 cb 58 20 ec 47 c9 ff 
+rst38h - cf 3a 6e 67 e9 ff ff ff 
+
+int40h - f5 e5 c5 d5 18 25 ff ff 
+int48h - f5 e5 21 f5 ff 18 0e ff 
+int50h - f5 e5 21 f7 ff 18 06 ff 
+int58h - f5 e5 21 f9 ff 3a b7 28 
+int60h - 07 6e 67 c5 d5 e7 d1 c1 
+int68h - e1 f1 d9 f0 a3 f5 f0 f3 
+int70h - b7 cc 82 00 c4 9b 00 f1 
+int78h - e0 a3 ea 00 21 d1 c1 e1 
+int80h - f1 c9 cd 99 ff 21 dd ff 
+int88h - 01 e8 0b 2a e2 0c 05 20 
+int90h - fa cd 9b 00 cd ae 09 af 
+int98h - e0 f3 c9 21 e8 ff 2a e0 
+intA0h - 40 2a e0 43 2a e0 42 2a 
+intA8h - e0 47 2c 2a e0 48 2a e0 
+intB0h - 49 2a e0 4b 2a e0 4a 2a 
+intB8h - e0 f4 2a e0 f5 74 7c e0 
+intC0h - 45 fb 21 f5 ff 3a b7 28 
+intC8h - 03 6e 67 e7 c3 16 09 ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - IREM FIGHTER\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 49 (Irem)
+ROM Version - 00
+
+Header Checksum - 44
+Global Checksum - 3f db

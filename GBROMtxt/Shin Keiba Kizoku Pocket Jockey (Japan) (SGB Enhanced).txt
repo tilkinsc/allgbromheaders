@@ -1,0 +1,52 @@
+rst00h - c3 50 01 7b 00 6d 15 6f 
+rst08h - c3 80 f0 e4 c0 ff c0 aa 
+rst10h - ff 4a ff 12 36 a6 d7 68 
+rst18h - ff 59 ce 21 cf 09 d7 f2 
+rst20h - ff 3c 3b 62 de 26 e5 44 
+rst28h - df 01 6f 02 d0 22 0a ff 
+rst30h - ff 2c 7e 30 66 2c 9d 0c 
+rst38h - ee 08 fe 20 7f 22 df ff 
+
+int40h - c3 5c 01 0a bf 48 c3 09 
+int48h - c3 af 01 cb ee 00 ff ff 
+int50h - c3 41 03 a0 6b 22 fe 00 
+int58h - c3 f4 36 83 7f c5 bf ff 
+int60h - c3 42 03 14 f2 00 fa 08 
+int68h - b9 30 5b 08 fe 19 5c ff 
+int70h - ff 60 ff 21 fd 52 dd 00 
+int78h - ff 68 ed 01 7b 82 ff ff 
+int80h - 00 b6 40 ff 06 fb 1b db 
+int88h - 01 fc e2 f2 09 1f 24 f7 
+int90h - ff a2 f7 07 9f 20 f5 40 
+int98h - df 04 b9 20 dd 00 f7 ff 
+intA0h - ff 16 37 0a ff 41 d6 02 
+intA8h - fb 99 f2 75 77 10 de ff 
+intB0h - ff 28 fb 08 ef 01 cf 40 
+intB8h - 2d 14 77 68 fc 08 fd ff 
+intC0h - ff c1 c7 48 fe 44 6f 12 
+intC8h - de 61 f6 40 ff 10 9f de 
+intD0h - ff 0a df e4 fb 10 df 82 
+intD8h - bf 68 ff 00 6d 08 5a ff 
+intE0h - ff 0a 7f 05 ff c4 3f 11 
+intE8h - fd 02 ff 98 4e a4 bf ff 
+intF0h - ff 04 ed a4 ff 20 ff 00 
+intF8h - ce 02 ed 08 f7 44 f7 7f 
+
+Entry Point - 00 c3 9b 03 
+
+Title - POCKET JOCKEY\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) EA (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 13 (MBC3+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 67
+Global Checksum - 06 a0

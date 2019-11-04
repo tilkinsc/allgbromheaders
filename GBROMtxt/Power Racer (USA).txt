@@ -1,0 +1,52 @@
+rst00h - c3 8a 0d f0 00 5b 22 60 
+rst08h - 28 0f 00 c8 02 d4 80 d7 
+rst10h - a8 86 82 e5 80 68 22 0b 
+rst18h - 08 c9 08 89 28 8c aa bd 
+rst20h - 82 08 82 12 02 48 aa 36 
+rst28h - 0a d2 08 e7 28 11 c8 2f 
+rst30h - aa 07 82 a7 08 f7 00 a4 
+rst38h - 98 fd aa 79 a8 9e 82 a7 
+
+int40h - c3 51 0c d9 80 8f 88 5c 
+int48h - d9 e7 20 ef a8 fe aa 05 
+int50h - d9 25 a0 54 82 51 a0 bd 
+int58h - cd dc 02 d9 2a da a2 bb 
+int60h - d9 79 a2 5c 88 cb 2a 15 
+int68h - a2 6e a8 9f a0 5a 82 66 
+int70h - a8 ec a2 be 2a 57 80 f2 
+int78h - 20 b5 aa ab 2a 29 ae 2b 
+int80h - 22 e6 88 c0 22 d0 22 54 
+int88h - 28 2e a2 5e 02 45 8a 36 
+int90h - 80 de 28 92 a8 d8 a0 43 
+int98h - 02 23 28 17 20 4a 82 3a 
+intA0h - 28 b7 a8 54 aa dc 02 94 
+intA8h - a8 7f 88 35 a0 24 aa f8 
+intB0h - 00 bd 0a dd 0a 4b 02 27 
+intB8h - 08 dd 8a d3 4a b5 aa f3 
+intC0h - 30 03 8b 1a 8a ea 88 da 
+intC8h - a2 e8 20 50 8a 98 a0 26 
+intD0h - 20 58 82 0d a0 dd 82 57 
+intD8h - 82 29 28 47 a8 69 22 4b 
+intE0h - 04 1d a2 2b 02 e8 2a 7d 
+intE8h - aa d5 a8 8e aa cf 00 bb 
+intF0h - 22 b9 80 7f a2 74 8a b5 
+intF8h - aa 7b 8a f1 88 c5 a2 5c 
+
+Entry Point - 00 c3 50 01 
+
+Title - POWER RACER\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 01 (64KByte (4 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 9b (Tecmo)
+ROM Version - 00
+
+Header Checksum - 2f
+Global Checksum - 71 b1

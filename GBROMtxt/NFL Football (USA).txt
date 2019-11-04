@@ -1,0 +1,52 @@
+rst00h - e1 cf e9 ff ff ff ff ff 
+rst08h - 87 ef 2a 66 6f c9 ff ff 
+rst10h - 2a 66 6f c9 ff ff ff ff 
+rst18h - c3 30 04 ff ff ff ff ff 
+rst20h - 7c ba c0 7d bb c9 ff ff 
+rst28h - 85 6f d0 24 c9 ff ff ff 
+rst30h - 83 5f d0 14 c9 ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 5b 00 ff ff ff ff ff 
+int48h - c3 74 00 ff ff ff ff ff 
+int50h - c3 74 00 ff ff ff ff ff 
+int58h - c3 9a 00 f5 fa 0c c0 a7 
+int60h - 20 10 c5 d5 e5 21 00 c0 
+int68h - 34 20 01 35 cd 3f 02 e1 
+int70h - d1 c1 f1 d9 fb f5 e5 fa 
+int78h - 3d c0 a7 28 05 ea 3e c0 
+int80h - 18 15 21 0b c0 cb 4e 20 
+int88h - 0e cb ce c5 d5 cd a9 62 
+int90h - 21 0b c0 cb 8e d1 c1 e1 
+int98h - f1 d9 f5 f0 01 ea 30 c0 
+intA0h - af e0 02 ea 2f c0 f1 d9 
+intA8h - af ea 3e c0 3c ea 3d c0 
+intB0h - c9 af ea 3d c0 21 3e c0 
+intB8h - 7e 36 00 a7 c2 74 00 c9 
+intC0h - 21 42 ff af 22 77 cd 5f 
+intC8h - 04 11 20 00 cd 16 11 3e 
+intD0h - e4 e0 47 c9 c0 f0 fc ff 
+intD8h - fc f0 c0 00 00 00 00 00 
+intE0h - 00 00 00 00 ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - NFL FOOTBALL\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 00 (ROM ONLY)
+Rom Size - 00 (32KByte (no ROM banking))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - a4 (Konami)
+ROM Version - 00
+
+Header Checksum - ef
+Global Checksum - 41 41

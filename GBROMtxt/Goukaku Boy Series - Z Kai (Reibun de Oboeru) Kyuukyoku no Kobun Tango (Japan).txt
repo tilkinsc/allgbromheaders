@@ -1,0 +1,52 @@
+rst00h - 18 5f 31 a7 12 a5 6c 75 
+rst08h - c3 80 f0 2c 51 22 90 44 
+rst10h - c3 ba 1b 14 5b bd 7d 35 
+rst18h - c3 cc 1b 64 9f e9 a6 df 
+rst20h - c3 1c 19 d3 ec 79 8e 10 
+rst28h - c3 2a 19 6d 11 08 c2 ef 
+rst30h - ff 65 75 88 f0 2e 7e 0c 
+rst38h - f0 f3 2f 33 77 f9 9f 3b 
+
+int40h - c3 29 05 0e f3 63 ff 6c 
+int48h - c3 b5 05 fa 72 75 44 ff 
+int50h - c3 be 05 7f b5 1c fd 21 
+int58h - d9 5b 7f 63 b5 7f d6 fd 
+int60h - d9 e1 87 85 6f 30 01 24 
+int68h - 2a 66 6f e9 3e c0 e0 46 
+int70h - 3e 28 3d 20 fd c9 50 72 
+int78h - 6f 64 75 63 65 20 62 79 
+int80h - 20 69 6d 61 67 69 6e 65 
+int88h - 65 72 00 50 72 6f 67 72 
+int90h - 61 6d 20 62 79 20 4d 69 
+int98h - 6e 6f 72 75 2d 4e 00 31 
+intA0h - 39 39 38 2d 30 38 2d 31 
+intA8h - 38 20 53 74 61 72 74 2e 
+intB0h - 00 05 14 77 ae 6a 19 c5 
+intB8h - d0 df 40 d5 1b f7 2b ff 
+intC0h - fd 81 d1 44 d7 35 f7 6e 
+intC8h - 4c c7 33 8e 4a 7d bd f7 
+intD0h - fe e8 de 8b f7 87 8a 37 
+intD8h - df ce ec b0 ea fd ac ff 
+intE0h - ef dd b0 96 d1 df 7e 9d 
+intE8h - cf de e7 3e 07 73 15 ff 
+intF0h - ff df 1d 9e 3a c3 5f a1 
+intF8h - be b5 9d 99 1d 2e d3 ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - Z KAI KOBUN   \0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 9C (Invalid)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - e6
+Global Checksum - c8 4c

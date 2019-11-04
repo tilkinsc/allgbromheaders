@@ -1,0 +1,52 @@
+rst00h - c3 82 00 ff ff ff ff ff 
+rst08h - c9 ff ff ff ff ff ff ff 
+rst10h - c3 e7 0e ff ff ff ff ff 
+rst18h - c9 ff ff ff ff ff ff ff 
+rst20h - c9 ff ff ff ff ff ff ff 
+rst28h - c9 ff ff ff ff ff ff ff 
+rst30h - c9 ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 ea 01 ff ff ff ff ff 
+int48h - f5 f0 41 18 1b ff ff ff 
+int50h - c3 19 0e ff ff ff ff ff 
+int58h - c3 cb 03 ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - cb 57 ca a4 ff cd a0 ff 
+int70h - e5 21 b0 ff 34 7e 85 6f 
+int78h - 7e b7 28 02 e0 45 e1 f1 
+int80h - d9 c9 e1 87 85 6f 30 01 
+int88h - 24 2a 66 6f e9 c9 ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - c3 f1 16 c3 1a 0e c3 17 
+intA8h - 19 c3 81 19 c3 8d 00 c3 
+intB0h - 61 17 c3 45 1b c3 6a 1c 
+intB8h - c3 1f 0f c3 a4 17 c3 d3 
+intC0h - 17 c3 0b 18 c3 db 18 c3 
+intC8h - 68 0f c3 60 16 c3 2d 16 
+intD0h - c3 f5 10 c3 8d 00 c3 8d 
+intD8h - 00 c3 8d 00 c3 8d 00 c3 
+intE0h - 8d 00 c3 8d 00 c3 8d 00 
+intE8h - c3 8d 00 c3 8d 00 c3 8d 
+intF0h - 00 c3 8d 00 c3 8d 00 c3 
+intF8h - 8d 00 c3 8d 00 c3 8d 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - BLADES OF STEEL
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - ca (Ultra)
+ROM Version - 00
+
+Header Checksum - 1c
+Global Checksum - 8a 21

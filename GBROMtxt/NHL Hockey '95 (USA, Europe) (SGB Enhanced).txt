@@ -1,0 +1,52 @@
+rst00h - c3 79 04 00 f8 ff 14 00 
+rst08h - e9 ff 01 00 c0 00 00 00 
+rst10h - 40 00 14 01 15 f6 f8 ff 
+rst18h - cb 7a 20 fe 19 c9 00 f2 
+rst20h - e9 50 01 ff 08 00 f2 ff 
+rst28h - cb 78 20 fe 09 c9 ff 02 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff 00 00 e2 ff 04 08 ff 
+
+int40h - c3 e5 3d 03 ff 07 7f 5f 
+int48h - c3 3c c8 40 40 7f 3f 3f 
+int50h - d9 04 01 00 00 00 00 00 
+int58h - d9 00 00 00 00 00 00 1f 
+int60h - d9 c0 f8 c8 fb f5 f7 c9 
+int68h - ef 11 11 ff 70 ff fe e7 
+int70h - f7 31 f1 70 f0 78 00 00 
+int78h - 00 00 00 00 00 00 00 ff 
+int80h - 00 00 1c 1c e2 fe 06 fe 
+int88h - 38 ff c0 c0 14 fe 01 ff 
+int90h - e3 ff ff 9f 3e 07 00 00 
+int98h - 00 00 00 00 00 00 00 f8 
+intA0h - 00 00 00 00 00 00 00 00 
+intA8h - 08 f8 00 00 00 00 80 80 
+intB0h - 80 c0 00 80 c5 c5 f5 01 
+intB8h - 70 42 18 0c fb c5 f5 f0 
+intC0h - a2 fe db 28 1f 01 f0 c0 
+intC8h - 3e db e0 a2 fa 18 01 a8 
+intD0h - a1 20 0d 3e 1f cd 83 01 
+intD8h - cd 00 78 28 0a cd 83 01 
+intE0h - 3e 04 e0 a2 f1 c1 c9 cd 
+intE8h - 83 01 f1 c1 33 33 18 01 
+intF0h - 02 cd 79 04 00 c3 b4 00 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 79 04 
+
+Title - NHL HOCKEY 95\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 4D (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - e0
+Global Checksum - 80 1b

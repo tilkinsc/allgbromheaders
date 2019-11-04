@@ -1,0 +1,52 @@
+rst00h - c3 3b 2b ff fa f7 aa bf 
+rst08h - aa ff ab ff aa ff aa ff 
+rst10h - aa ff aa ff aa df aa 7f 
+rst18h - aa ff aa ff aa ff aa ff 
+rst20h - aa ff e2 bf aa ff ba ff 
+rst28h - aa fb 4a ff aa ff aa fe 
+rst30h - aa f5 26 ff aa ff a6 ff 
+rst38h - aa fd a8 ff aa ff 8a ff 
+
+int40h - c3 f1 02 ff a9 ef be ff 
+int48h - d9 ff aa ef ab d7 be ff 
+int50h - c3 3c 03 ff aa ff aa ee 
+int58h - c3 86 03 ff ea f6 aa ff 
+int60h - d9 ff 9a eb aa 9f ac ff 
+int68h - ae eb aa ff ea ef aa ff 
+int70h - 22 f7 ae be aa ff ba ff 
+int78h - aa bf 8a ff aa df aa ff 
+int80h - bb ff ea ff a2 fd af ff 
+int88h - af ff a3 ff aa fe ae f7 
+int90h - ea ff ae ff aa ff aa ff 
+int98h - aa f7 aa f7 aa ff aa ff 
+intA0h - ea ff a3 7f bb ff 8a ff 
+intA8h - ab ff 2a bf aa ff ab 7d 
+intB0h - b8 ff 8a ff aa ff aa ff 
+intB8h - aa ff ac ff aa f7 aa ff 
+intC0h - fb fd 89 ff fa ff ab 7f 
+intC8h - ea ff ee ff ae ff be fb 
+intD0h - ba ff ab fb bb ff aa ff 
+intD8h - aa fd a2 fb aa ef aa ff 
+intE0h - 0a df 2b db aa dd aa ff 
+intE8h - ea fe aa ff ae f7 aa ff 
+intF0h - 0a ff ac ef aa ba e2 ff 
+intF8h - ae ff aa 1f 8a ff ae ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - SDGUNDAMKUNITOR
+
+CGB Flag - 49 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - b2 (Bandai)
+ROM Version - 00
+
+Header Checksum - 6a
+Global Checksum - 68 fc

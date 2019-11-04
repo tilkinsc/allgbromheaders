@@ -1,0 +1,52 @@
+rst00h - ff ff ff ff ff ff ff ff 
+rst08h - 18 49 ff ff ff ff ff ff 
+rst10h - 23 cb 7c c8 18 50 ff ff 
+rst18h - cb 7c c8 18 49 ff ff ff 
+rst20h - ff ff ff ff ff ff ff ff 
+rst28h - ff ff ff ff ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 d0 02 ff ff ff ff ff 
+int48h - c3 5b 03 ff ff ff ff ff 
+int50h - c3 3b 03 c5 47 f0 b2 4f 
+int58h - 78 e6 0f e0 b2 ea 00 21 
+int60h - 79 c1 c9 f5 18 05 f5 7c 
+int68h - d6 40 67 f0 b2 3c e6 0f 
+int70h - e0 b2 ea 00 21 f1 c9 f0 
+int78h - 40 cb ff e0 40 c9 f3 cd 
+int80h - 5b 02 f0 40 cb bf e0 40 
+int88h - fb c9 3e c1 e0 46 3e 28 
+int90h - 3d 20 fd c9 0b 77 23 0b 
+int98h - cb 78 28 f9 c9 ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff 3d 04 
+
+Entry Point - 00 c3 d2 11 
+
+Title - CLIFFHANGER\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - bd (Sony Imagesoft)
+ROM Version - 00
+
+Header Checksum - 0d
+Global Checksum - 2b 86

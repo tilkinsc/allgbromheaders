@@ -1,0 +1,52 @@
+rst00h - d9 08 00 00 00 00 00 01 
+rst08h - 00 00 00 00 00 10 00 00 
+rst10h - 00 00 00 00 00 00 00 00 
+rst18h - 00 00 00 00 00 00 00 00 
+rst20h - ff ff ff ff ff ff ff ff 
+rst28h - ff ff ff ff ff ff ff ff 
+rst30h - d9 c3 6b 0b ff ff ff ff 
+rst38h - ff ff ef ff ff ff ff ff 
+
+int40h - c3 f7 2f 02 61 10 12 00 
+int48h - c3 58 33 00 00 08 00 00 
+int50h - c3 18 33 00 00 00 00 00 
+int58h - d9 00 00 00 00 02 00 00 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff bf ff ff ff ff 
+int80h - c0 08 08 80 00 00 00 84 
+int88h - 00 90 11 00 01 00 00 00 
+int90h - 00 00 00 00 00 00 00 00 
+int98h - 00 00 00 00 00 00 00 00 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - 90 01 00 00 00 00 00 02 
+intC8h - 00 00 00 60 01 00 11 04 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 40 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff fb 
+intF8h - ff ff fe ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - VEGAS STAKES\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 01 (Nintendo)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - e5
+Global Checksum - 61 98

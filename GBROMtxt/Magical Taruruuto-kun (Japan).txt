@@ -1,0 +1,52 @@
+rst00h - c3 50 01 ff ff ff ff 00 
+rst08h - c3 6a 01 ff ff ff ff ff 
+rst10h - c3 3d 11 ff ff ff ff ff 
+rst18h - c3 82 0f ff ff ff ff ff 
+rst20h - e1 4f 06 00 2a e5 09 4f 
+rst28h - 7e e1 09 e9 ff ff ff ff 
+rst30h - e1 2a 47 2a 12 13 05 20 
+rst38h - fa e9 ff ff ff ff ff ff 
+
+int40h - c3 d1 01 ff ff ff ff ff 
+int48h - c3 47 02 ff ff ff ff ff 
+int50h - c3 53 02 ff ff ff ff ff 
+int58h - c3 53 02 3e 20 e0 00 f0 
+int60h - 00 f0 00 2f e6 0f cb 37 
+int68h - 47 3e 10 e0 00 f0 00 f0 
+int70h - 00 f0 00 f0 00 f0 00 f0 
+int78h - 00 f0 00 f0 00 f0 00 f0 
+int80h - 00 2f e6 0f b0 4f 3e 30 
+int88h - e0 00 c9 11 80 ff f7 0a 
+int90h - 3e de e0 46 3e 28 3d 20 
+int98h - fd c9 c9 e0 8b cd a4 10 
+intA0h - af e0 8c f0 ff cb c7 cd 
+intA8h - af 00 cd b7 00 fb c9 47 
+intB0h - af e0 0f 78 e0 ff c9 f0 
+intB8h - bf cb ff e0 bf e0 40 c9 
+intC0h - f0 44 fe 91 20 fa 21 40 
+intC8h - ff cb be 21 bf ff cb be 
+intD0h - c9 c5 47 2f e6 07 4f f0 
+intD8h - 43 e6 07 b9 20 01 04 78 
+intE0h - c1 c9 af 22 0b 78 b1 20 
+intE8h - f9 c9 ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - GB TARURU-TO 1\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - b2 (Bandai)
+ROM Version - 00
+
+Header Checksum - 85
+Global Checksum - a1 a9

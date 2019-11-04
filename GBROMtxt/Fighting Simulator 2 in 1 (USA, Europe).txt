@@ -1,0 +1,52 @@
+rst00h - c9 ff ff ff ff ff ff ff 
+rst08h - 5c e1 ef e5 63 c9 e9 ff 
+rst10h - 2a 12 1c 05 20 fa c9 ff 
+rst18h - e0 99 f0 ca f5 c3 c1 02 
+rst20h - e0 99 e1 2a c3 7f 00 ff 
+rst28h - 87 f7 2a 66 6f c9 ff ff 
+rst30h - 85 6f d0 24 c9 ff ff ff 
+rst38h - 83 5f d0 14 c9 ff ff ff 
+
+int40h - f5 c5 d5 e5 c3 d1 01 ff 
+int48h - f5 e5 18 15 ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - f5 f0 01 e0 a8 f1 d9 ff 
+int60h - d9 f0 41 e6 03 20 fa 21 
+int68h - 40 ff cb de cb 8e cb ae 
+int70h - f0 b0 e0 43 f0 b1 e0 42 
+int78h - 3e e4 e0 47 e1 f1 d9 e0 
+int80h - cb 2a e5 6f f0 ca f5 7d 
+int88h - cd cc 02 21 00 40 f0 cb 
+int90h - ef f0 99 cd 0e 00 f1 c3 
+int98h - cc 02 ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - FLYING WARRIORS
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - ba (*Culture Brain O)
+ROM Version - 00
+
+Header Checksum - c7
+Global Checksum - 37 de

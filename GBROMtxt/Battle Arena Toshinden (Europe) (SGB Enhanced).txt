@@ -1,0 +1,52 @@
+rst00h - 00 00 00 00 00 00 00 00 
+rst08h - cd 38 03 c9 00 00 00 00 
+rst10h - cd f6 02 c9 00 00 00 00 
+rst18h - cd fd 02 c9 00 00 00 00 
+rst20h - cd 07 03 c9 00 00 00 00 
+rst28h - cd 70 03 c9 00 00 00 00 
+rst30h - cd 1e 03 c9 00 00 00 00 
+rst38h - cd dc 02 c9 00 00 00 00 
+
+int40h - cd 54 17 c9 00 00 00 00 
+int48h - cd 8c 1f c9 00 00 00 00 
+int50h - 00 c9 00 00 00 00 00 00 
+int58h - c3 b2 06 00 00 00 00 00 
+int60h - 00 c9 00 00 00 00 00 00 
+int68h - 00 00 00 00 00 00 00 00 
+int70h - 00 00 00 00 00 00 00 00 
+int78h - 00 00 00 00 00 00 00 00 
+int80h - 00 00 00 00 00 00 00 00 
+int88h - 00 00 00 00 00 00 00 00 
+int90h - 00 00 00 00 00 00 00 00 
+int98h - 00 00 00 00 00 00 00 00 
+intA0h - 00 00 00 00 00 00 00 00 
+intA8h - 00 00 00 00 00 00 00 00 
+intB0h - 00 00 00 00 00 00 00 00 
+intB8h - 00 00 00 00 00 00 00 00 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - BA.TOSHINDEN\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 38 (Hudson)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - e3
+Global Checksum - 39 ff

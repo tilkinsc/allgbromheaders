@@ -1,0 +1,52 @@
+rst00h - ff ff ff ff 08 a5 00 14 
+rst08h - 08 b0 00 20 08 bb 00 2a 
+rst10h - 08 c6 00 32 08 d1 08 da 
+rst18h - 08 e3 08 ec 08 f5 08 fe 
+rst20h - 09 07 09 10 09 19 09 22 
+rst28h - 09 2b 09 34 09 3d 09 46 
+rst30h - 09 4f 09 58 09 61 09 6a 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 60 06 ff ff ff ff ff 
+int48h - c3 2a c1 ff ff ff ff ff 
+int50h - f5 fa d8 c0 b7 20 23 2f 
+int58h - ea d8 c0 f0 94 f5 3e 02 
+int60h - e0 94 ea 00 20 fb c5 d5 
+int68h - e5 cd 21 45 e1 d1 c1 f1 
+int70h - e0 94 ea 00 20 f3 af ea 
+int78h - d8 c0 f1 d9 ff ff c3 10 
+int80h - c3 46 c3 7c c3 b2 c3 e8 
+int88h - c4 1e c4 54 c4 8a c4 c0 
+int90h - c4 f6 c5 2c c5 62 c5 98 
+int98h - c5 ce c6 04 c6 3a c6 70 
+intA0h - c6 a6 c6 dc c7 12 26 8e 
+intA8h - 26 87 26 a7 26 ff 26 9e 
+intB0h - 26 97 26 b6 26 f0 26 8e 
+intB8h - 26 87 26 dd 27 1f 26 9e 
+intC0h - 26 97 26 c9 27 10 ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - SWAMP THING\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 78 (t*hq)
+ROM Version - 00
+
+Header Checksum - 49
+Global Checksum - f7 b3

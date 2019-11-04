@@ -1,0 +1,52 @@
+rst00h - 87 d1 83 5f 3e 00 8a 57 
+rst08h - 1a ea 8c ff 13 1a ea 8d 
+rst10h - ff 3e c3 ea 8b ff c3 8b 
+rst18h - ff b7 3d c1 1f 7d 1f e7 
+rst20h - 08 03 0c a0 20 85 8c 9c 
+rst28h - e6 cd d3 f9 7c e7 6b 5d 
+rst30h - 50 45 8a d9 d8 42 69 7c 
+rst38h - fa cf d7 f7 f0 fb b2 9f 
+
+int40h - c3 16 02 6a 3a 72 82 88 
+int48h - c3 7b 02 fb cd fb 77 9f 
+int50h - d9 84 ca e6 b0 f1 dc ea 
+int58h - c3 87 0b 8f fd fb 77 dc 
+int60h - d9 28 02 ab 83 67 72 80 
+int68h - ff df b7 fb 3f ed 52 91 
+int70h - 03 0d 79 ab c9 20 ad 75 
+int78h - b6 b5 57 7c bb f9 d5 ce 
+int80h - a2 c0 02 0a 23 9b 59 93 
+int88h - f6 ff 7e ff 5e d7 7f bf 
+int90h - 17 4c 89 fb e6 80 4e 54 
+int98h - 7f fc df f7 bf ff e6 ff 
+intA0h - 40 a1 68 74 8a 81 4a 30 
+intA8h - fb ff fd bf f4 6a fb f9 
+intB0h - 2b 5b e4 0b d5 f6 0c 60 
+intB8h - b7 1d f7 fd 05 fd f5 0b 
+intC0h - 8b 69 40 a8 22 83 90 03 
+intC8h - bf fa cf ff d6 7e ff f7 
+intD0h - 4e 27 48 ef 55 bb 7e cf 
+intD8h - 7d bc 54 bf dd dc 93 5f 
+intE0h - 0e 47 24 80 81 09 50 86 
+intE8h - c6 f4 ff ff fe de ff fe 
+intF0h - cc 88 60 94 02 6e cb 96 
+intF8h - d7 ef fc b3 6f 7c df f5 
+
+Entry Point - 00 c3 50 01 
+
+Title - DODGEDANPEI    
+
+CGB Flag - 20 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 18 (Hudsonsoft)
+ROM Version - 00
+
+Header Checksum - 17
+Global Checksum - 0b 93

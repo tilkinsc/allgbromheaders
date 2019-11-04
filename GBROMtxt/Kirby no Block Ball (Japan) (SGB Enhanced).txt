@@ -1,0 +1,52 @@
+rst00h - c3 65 16 ff ff dd 77 ef 
+rst08h - c9 5f f7 ff fb b9 f7 fd 
+rst10h - c9 bf e7 fe bf ff ff ef 
+rst18h - c9 fd f5 ff df ff bf fc 
+rst20h - c9 37 df ff 7d fb 3e 7f 
+rst28h - c9 af fb ff fc b7 fa ff 
+rst30h - c9 be ff ff 57 ff f6 9f 
+rst38h - c9 fb bd 65 d7 ff ff 1f 
+
+int40h - cd e0 03 d9 ff ff 57 5d 
+int48h - cd f1 11 d9 b7 d7 bf dd 
+int50h - d9 5f fe cf f7 bf df fe 
+int58h - d9 f5 7b ff ff de 8d ff 
+int60h - d9 ff 7b ff ea ff fb fd 
+int68h - ff ff 7f df 6b df b7 3e 
+int70h - 7d ff be 77 1f ff f3 7f 
+int78h - ff fd f7 ff fd fd ff ff 
+int80h - f3 e6 99 ff ff 3f 53 db 
+int88h - d7 97 7c 96 e5 fd 32 af 
+int90h - 26 d5 b8 bb b7 7e fe 46 
+int98h - 72 f4 73 fb 99 13 cf fd 
+intA0h - d0 3e 3c 5d 77 bb 30 27 
+intA8h - 9d 9e 54 ba 8a 53 db e7 
+intB0h - 31 2e 6e db 74 55 c5 9f 
+intB8h - bf ff ce df fa d3 7b 6d 
+intC0h - 1d dc 6a 3e 75 61 e9 bc 
+intC8h - a4 a8 91 b9 f8 1d f3 f8 
+intD0h - f3 df 59 db bb c3 ae 16 
+intD8h - 1a 39 f1 9f 0b ce 95 33 
+intE0h - ff 75 fb 43 74 12 fe f2 
+intE8h - bc 8c 45 2b 7f 10 31 4f 
+intF0h - 59 be bc ab 74 0c d0 9e 
+intF8h - af 33 cf e6 ba a9 77 bf 
+
+Entry Point - 00 c3 50 01 
+
+Title - KIRBY BLOCKBALL
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 01 (Nintendo)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 20
+Global Checksum - 80 4b

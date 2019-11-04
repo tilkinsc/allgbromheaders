@@ -1,0 +1,52 @@
+rst00h - 87 e1 5f af 57 19 2a 66 
+rst08h - 6f e9 ff ff ff ff ff ff 
+rst10h - e1 5f af 57 19 2a 66 6f 
+rst18h - e9 ff ff ff ff ff ff ff 
+rst20h - ff ff ff ff ff ff ff ff 
+rst28h - ff ff ff ff ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 09 02 ff ff ff ff ff 
+int48h - c3 66 02 ff ff ff ff ff 
+int50h - f5 c5 d5 e5 cd 18 38 f0 
+int58h - 99 ea 00 21 e1 d1 c1 f1 
+int60h - d9 0e 80 06 0a 21 6f 00 
+int68h - 2a e2 0c 05 20 fa c9 3e 
+int70h - c0 e0 46 3e 28 3d 20 fd 
+int78h - c9 f0 ff e0 91 cb 87 e0 
+int80h - ff f0 44 fe 91 38 fa f0 
+int88h - 40 e6 7f e0 40 e0 a0 f0 
+int90h - 91 e0 ff c9 2a a7 28 24 
+int98h - 08 06 ce f9 d1 67 6b 7a 
+intA0h - e6 3f 47 7a 07 07 e6 03 
+intA8h - 28 19 3d 28 26 3d 28 2c 
+intB0h - 18 41 a7 20 e7 21 06 ce 
+intB8h - 2a 66 6f f9 af ea 00 c1 
+intC0h - e0 ab c9 d1 7b 22 05 7a 
+intC8h - 28 e8 22 05 20 f5 d1 7b 
+intD0h - 3b 18 df d1 7b 22 05 20 
+intD8h - fc 7a 18 d6 78 01 20 00 
+intE0h - d1 73 3d 28 0b 09 72 09 
+intE8h - 3d 20 f5 d1 7b 3b 18 c2 
+intF0h - 7a 18 bf 78 01 20 00 d1 
+intF8h - 73 09 3d 20 fb 7a 18 b2 
+
+Entry Point - 00 c3 50 01 
+
+Title - VITAMINA KINGDO
+
+CGB Flag - 4d (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - af (Namco)
+ROM Version - 00
+
+Header Checksum - ae
+Global Checksum - 39 a1

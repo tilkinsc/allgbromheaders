@@ -1,0 +1,52 @@
+rst00h - c3 01 12 00 00 00 00 00 
+rst08h - c3 b6 35 00 00 00 00 00 
+rst10h - c3 8d 0f 00 00 00 00 00 
+rst18h - c3 ef 12 00 00 00 00 00 
+rst20h - c3 a8 0e ff ff ff ff ff 
+rst28h - c3 e1 0e ff ff ff ff ff 
+rst30h - c3 48 11 ff ff ff ff ff 
+rst38h - 85 6f 30 01 24 2a c9 ff 
+
+int40h - f5 e5 c5 d5 c3 53 01 00 
+int48h - f5 e5 c5 d5 c3 78 01 00 
+int50h - f5 e5 c5 d5 c3 7a 01 00 
+int58h - f5 c5 d5 e5 c3 37 02 00 
+int60h - d9 c5 d5 e5 c3 3a 02 ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - 00 00 00 00 00 00 00 00 
+int88h - 00 00 00 00 00 00 00 00 
+int90h - 00 00 00 00 00 00 00 00 
+int98h - 00 00 00 00 00 00 00 00 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - KIRBY'S PINBALL
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 06 (MBC2+BATTERY)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 01 (Nintendo)
+ROM Version - 00
+
+Header Checksum - bf
+Global Checksum - f7 4b

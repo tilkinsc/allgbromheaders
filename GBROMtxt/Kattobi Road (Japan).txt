@@ -1,0 +1,52 @@
+rst00h - c9 00 00 00 00 00 00 00 
+rst08h - c3 c0 0a 00 00 00 00 00 
+rst10h - 87 e1 85 6f 30 01 24 2a 
+rst18h - 66 6f e9 00 00 00 00 00 
+rst20h - c3 e6 00 00 00 00 00 00 
+rst28h - c3 dd 07 00 00 00 00 00 
+rst30h - c3 de 08 00 00 00 00 00 
+rst38h - c9 00 00 00 00 00 00 00 
+
+int40h - c3 33 02 00 00 00 00 00 
+int48h - c3 fb 02 00 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - c3 12 03 00 00 00 00 00 
+int60h - d9 00 00 00 00 00 00 00 
+int68h - 00 00 00 00 00 00 00 00 
+int70h - 57 fa 20 c0 f5 78 ea 20 
+int78h - c0 ea 00 21 01 82 00 c5 
+int80h - 7a e9 f1 ea 00 21 ea 20 
+int88h - c0 c9 ea 20 c0 ea 00 21 
+int90h - c9 fa 8e c6 a7 28 0b af 
+int98h - ea 09 c6 ea 18 ff ea 19 
+intA0h - ff c9 fa 0a c6 5f fa 0b 
+intA8h - c6 57 fa ae c9 47 fa ad 
+intB0h - c9 cb 38 1f cb 38 1f cb 
+intB8h - 38 1f 4f 21 00 00 3e 10 
+intC0h - cb 38 cb 19 30 01 19 cb 
+intC8h - 23 cb 12 3d 20 f2 7d cb 
+intD0h - 3c 1f cb 3c 1f cb 3c 1f 
+intD8h - cb 3c 1f cb 3c 1f ea 18 
+intE0h - ff 7c ea 19 ff c9 06 02 
+intE8h - 21 03 40 c3 70 00 1e 05 
+intF0h - 3e 7c 06 02 21 03 40 c3 
+intF8h - 70 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - KATTOBI ROAD\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - af (Namco)
+ROM Version - 00
+
+Header Checksum - dd
+Global Checksum - f0 3c

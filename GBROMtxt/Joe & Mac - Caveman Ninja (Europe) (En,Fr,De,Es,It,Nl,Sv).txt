@@ -1,0 +1,52 @@
+rst00h - c5 47 f0 ba 4f 78 e0 ba 
+rst08h - ea 00 21 79 c1 c9 1e 50 
+rst10h - 23 cb 7c c8 18 05 06 32 
+rst18h - cb 7c c8 f5 7c d6 40 67 
+rst20h - f0 ba 3c e0 ba ea 00 21 
+rst28h - f1 c9 f5 18 f3 3e 58 26 
+rst30h - a1 f4 04 2d 1f 00 c4 5e 
+rst38h - 06 26 89 07 5d cb 55 8b 
+
+int40h - c3 6b 0d 16 56 c7 46 fe 
+int48h - c3 56 0e 06 32 58 26 a1 
+int50h - c3 59 16 0b 22 0b cb 78 
+int58h - 28 fa c9 cb 7c 20 2a 7d 
+int60h - 81 7c 88 38 03 17 30 21 
+int68h - c5 af 95 4f 3e 80 9c 47 
+int70h - c5 cd 89 00 cd 2a 00 c1 
+int78h - e1 7d 91 4f 7c 98 47 21 
+int80h - 00 40 b1 20 da c9 cd 53 
+int88h - 01 79 d6 10 4f 78 de 00 
+int90h - 47 30 f3 3e 53 91 91 91 
+int98h - 4f 06 01 c5 01 00 00 c9 
+intA0h - f0 40 cb ff e0 40 c9 f0 
+intA8h - 40 17 d0 e5 21 ff ff 7e 
+intB0h - f5 e6 02 77 2e 44 3e 91 
+intB8h - be 20 fd 2e 40 cb be f1 
+intC0h - e0 ff e1 c9 3e c2 e0 46 
+intC8h - 3e 28 3d 20 fd c9 f4 04 
+intD0h - 2d 02 00 50 b8 20 00 50 
+intD8h - 0e e8 72 fd 83 c4 04 8e 
+intE0h - 06 32 58 26 c4 1e c6 26 
+intE8h - 26 ff 4f 04 78 1a b0 23 
+intF0h - 8e 06 32 58 26 c4 1e c6 
+intF8h - 26 26 8b 37 26 ff 07 26 
+
+Entry Point - 00 c3 50 01 
+
+Title - JOE AND MAC\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 6e (Elite Systems)
+ROM Version - 00
+
+Header Checksum - b2
+Global Checksum - cc 02

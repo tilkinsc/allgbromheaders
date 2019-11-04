@@ -1,0 +1,52 @@
+rst00h - c3 38 04 00 01 01 01 00 
+rst08h - 02 03 02 01 02 03 04 07 
+rst10h - ea cd 93 ec fb 04 fb 04 
+rst18h - ab d7 9b 9f 02 07 06 07 
+rst20h - 80 80 80 00 00 80 c0 00 
+rst28h - c0 40 40 c0 40 c0 60 a0 
+rst30h - 4f a5 51 af 5f a0 5f a1 
+rst38h - f5 3e 80 ea 00 60 f1 c9 
+
+int40h - d9 03 02 03 02 01 02 03 
+int48h - d9 01 00 01 06 07 0e 09 
+int50h - d9 11 3e 21 10 1f 02 03 
+int58h - d9 01 00 00 00 00 00 00 
+int60h - d9 c0 40 c0 40 c0 40 c0 
+int68h - c0 80 c0 80 d0 90 e8 88 
+int70h - 3c ec 02 fe 08 f8 40 80 
+int78h - 80 80 80 80 00 80 80 80 
+int80h - fa f7 00 00 fa ff 02 00 
+int88h - 0a f7 04 00 0a ff 06 00 
+int90h - 00 00 00 00 00 00 00 00 
+int98h - 00 00 00 00 05 06 0f 0c 
+intA0h - 1f 10 03 1e 1a 1b 01 01 
+intA8h - 00 00 01 01 00 00 01 01 
+intB0h - 01 01 05 07 00 07 10 1f 
+intB8h - 36 0f 68 3f 25 5b ef 93 
+intC0h - 4a b7 7c a7 c7 fc de fe 
+intC8h - 58 fc 18 f8 20 f8 00 f0 
+intD0h - 80 80 00 80 80 00 80 80 
+intD8h - 80 00 80 80 80 80 80 00 
+intE0h - f4 ac 78 88 f8 08 c0 f0 
+intE8h - 30 f0 00 00 00 00 00 00 
+intF0h - 01 00 03 03 00 01 02 03 
+intF8h - 12 11 1e 0b fe a1 fe 41 
+
+Entry Point - 00 c3 50 01 
+
+Title - URBAN STRIKE\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 4S (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - ba
+Global Checksum - df 34

@@ -1,0 +1,52 @@
+rst00h - 2a 4f 0c 0c 47 f0 8a 5f 
+rst08h - f0 8b 57 1b 78 12 1c 2a 
+rst10h - 12 1c 0d 20 fa 1c 7b e0 
+rst18h - 8a 7a e0 8b f0 8d 3c e0 
+rst20h - 8d c9 11 00 d0 1a 13 22 
+rst28h - 22 0b 78 b1 20 f7 c9 21 
+rst30h - d4 c1 0e 1a cd 13 0b 22 
+rst38h - 0d 20 f9 c9 00 00 00 00 
+
+int40h - c3 d8 2b 00 00 00 00 00 
+int48h - c3 ca c8 00 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - c3 b4 0c 00 00 00 00 00 
+int60h - d9 cd d0 3b fa f7 c8 fe 
+int68h - 0e 38 06 1e f2 3e 0c 18 
+int70h - 02 1e f0 cb 3f 30 02 1e 
+int78h - f1 d6 0f 2f 3c 4f 06 98 
+int80h - f0 8a 6f f0 8b 67 79 22 
+int88h - 78 22 7b 22 3e f2 22 36 
+int90h - ff cd 14 0a c9 21 00 d0 
+int98h - 0e 14 2a 12 13 0d 20 fa 
+intA0h - 3e 0c 83 5f 7a ce 00 57 
+intA8h - 05 20 ed c9 3e 08 e0 be 
+intB0h - 21 02 c6 11 62 c8 01 08 
+intB8h - 00 1a 77 13 09 f0 be 3d 
+intC0h - e0 be 20 f5 c9 06 00 21 
+intC8h - 48 c8 09 36 ff 69 60 29 
+intD0h - 29 29 01 02 c6 09 7e ea 
+intD8h - 47 c8 36 ff c9 06 00 21 
+intE0h - 48 c8 09 fa 47 c8 77 69 
+intE8h - 60 29 29 29 01 02 c6 09 
+intF0h - 77 c9 21 00 c1 cb ee c9 
+intF8h - 21 00 c1 cb ae c9 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - GB CULT JUMP\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - b2 (Bandai)
+ROM Version - 00
+
+Header Checksum - f4
+Global Checksum - 5f ed

@@ -1,0 +1,52 @@
+rst00h - 87 e1 5f 16 00 19 5e 23 
+rst08h - 56 d5 e1 e9 08 90 00 10 
+rst10h - 08 00 00 0a 02 01 00 00 
+rst18h - 8a 00 00 00 00 00 08 20 
+rst20h - 00 c4 08 10 00 88 02 28 
+rst28h - 28 20 8a 00 02 00 00 00 
+rst30h - 08 2a 20 4c 08 10 8a 40 
+rst38h - 00 11 08 04 00 74 80 d0 
+
+int40h - c3 8d 08 00 00 09 a2 00 
+int48h - d9 08 20 02 80 12 82 40 
+int50h - c3 50 08 a0 20 80 20 01 
+int58h - c3 39 09 00 00 40 20 20 
+int60h - d9 4c 88 8b 08 2a 88 92 
+int68h - 8a 40 00 91 80 40 00 34 
+int70h - 20 30 88 08 80 9e 82 29 
+int78h - 82 41 82 80 0a 80 88 3a 
+int80h - 02 80 00 02 08 08 00 80 
+int88h - 28 01 02 80 80 20 00 88 
+int90h - 00 00 80 00 80 b8 00 04 
+int98h - 00 00 a8 00 00 80 80 04 
+intA0h - 00 10 80 21 20 08 a0 18 
+intA8h - 00 8a 08 40 00 14 88 90 
+intB0h - 80 0b 28 04 00 18 aa 00 
+intB8h - 20 24 80 de 02 20 a0 40 
+intC0h - 80 0c 82 02 00 01 00 1d 
+intC8h - 02 00 22 81 82 80 80 90 
+intD0h - 22 00 00 82 08 20 00 79 
+intD8h - 00 01 28 11 80 02 00 02 
+intE0h - 22 b2 8a 50 28 4c 02 84 
+intE8h - 00 80 20 c4 00 50 20 05 
+intF0h - 00 12 00 08 08 89 a2 92 
+intF8h - 00 90 08 42 20 00 20 52 
+
+Entry Point - 00 c3 50 01 
+
+Title - TOPRANKINGTENNI
+
+CGB Flag - 53 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 06 (MBC2+BATTERY)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 01 (Nintendo)
+ROM Version - 00
+
+Header Checksum - 0e
+Global Checksum - 02 77

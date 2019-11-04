@@ -1,0 +1,52 @@
+rst00h - 00 00 00 00 00 00 00 00 
+rst08h - c9 00 00 00 00 00 00 00 
+rst10h - c9 00 00 00 00 00 00 00 
+rst18h - c9 00 00 00 00 00 00 00 
+rst20h - c9 00 00 00 00 00 00 00 
+rst28h - c9 00 00 00 00 00 00 00 
+rst30h - c9 00 00 00 00 00 00 00 
+rst38h - c9 00 00 00 00 00 00 00 
+
+int40h - c3 88 04 00 00 00 00 00 
+int48h - c3 44 05 00 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - c3 5c 0f 00 00 00 00 00 
+int60h - d9 01 00 02 00 04 00 08 
+int68h - 00 10 00 20 00 40 00 80 
+int70h - 00 00 01 00 02 00 04 00 
+int78h - 08 00 10 00 20 00 40 00 
+int80h - 80 fe ff fd ff fb ff f7 
+int88h - ff ef ff df ff bf ff 7f 
+int90h - ff ff fe ff fd ff fb ff 
+int98h - f7 ff ef ff df ff bf ff 
+intA0h - 7f 01 02 04 08 10 20 40 
+intA8h - 80 fe fd fb f7 ef df bf 
+intB0h - 7f a5 c2 c1 c2 dd c2 f9 
+intB8h - c2 15 c3 31 c3 4d c3 69 
+intC0h - c3 85 c3 a1 c3 bd c3 d9 
+intC8h - c3 f5 c3 11 c4 2d c4 49 
+intD0h - c4 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - NETTOU SAMURAI\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) A7 (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 23
+Global Checksum - 1e 89

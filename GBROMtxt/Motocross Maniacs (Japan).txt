@@ -1,0 +1,52 @@
+rst00h - 6f 26 00 18 03 ff ff ff 
+rst08h - 29 19 5e 23 56 c9 ff ff 
+rst10h - 87 ef 5e 23 56 c9 ff ff 
+rst18h - 7c b8 c0 7d b9 c9 ff ff 
+rst20h - 7c ba c0 7d bb c9 ff ff 
+rst28h - 85 6f d0 24 c9 ff ff ff 
+rst30h - 83 5f d0 14 c9 ff ff ff 
+rst38h - c3 44 02 ff ff ff ff ff 
+
+int40h - c3 61 00 ff ff ff ff ff 
+int48h - d9 ff ff ff ff ff ff ff 
+int50h - c3 6d 00 ff ff ff ff ff 
+int58h - c3 88 00 ff ff ff ff ff 
+int60h - d9 f5 c5 d5 e5 cd 57 02 
+int68h - e1 d1 c1 f1 d9 fb e5 d5 
+int70h - c5 f5 21 0b c0 cb 46 20 
+int78h - 0a cb c6 cd 36 65 21 0b 
+int80h - c0 cb 86 f1 c1 d1 e1 d9 
+int88h - f5 f0 01 ea 22 c0 af e0 
+int90h - 02 f1 d9 ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - MOTOCROSSMANIAC
+
+CGB Flag - 53 (Invalid)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 00 (ROM ONLY)
+Rom Size - 00 (32KByte (no ROM banking))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - a4 (Konami)
+ROM Version - 00
+
+Header Checksum - 7e
+Global Checksum - 75 f1

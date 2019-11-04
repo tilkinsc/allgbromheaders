@@ -1,0 +1,52 @@
+rst00h - ff 00 00 00 00 00 00 00 
+rst08h - ff 00 00 00 00 00 00 00 
+rst10h - ff 00 00 00 00 00 00 00 
+rst18h - ff 00 00 00 00 00 00 00 
+rst20h - ff 00 00 00 00 00 00 00 
+rst28h - ff 00 00 00 00 00 00 00 
+rst30h - ff 00 00 00 00 00 00 00 
+rst38h - c3 80 f0 00 00 00 00 00 
+
+int40h - c3 ac 0a 00 00 00 00 00 
+int48h - ff 00 00 00 00 00 00 00 
+int50h - c3 9a 0d 00 00 00 00 00 
+int58h - c3 a7 0b 00 00 00 00 00 
+int60h - d9 00 00 00 00 00 00 00 
+int68h - ff df 3d 5d f3 37 fd 71 
+int70h - f5 bf 57 fd 97 76 bb d9 
+int78h - df df ff d9 ff ff d9 9f 
+int80h - ff ff ff df ff fd ff ff 
+int88h - ff ff ff ff ff ff ff fd 
+int90h - ff ff df ff ff 7f ff ff 
+int98h - ff ff ff fb ff ff ff f3 
+intA0h - ff ff ff ff ff ff ff df 
+intA8h - ff ff bf fb df ff f7 b7 
+intB0h - ff ff ff ff ff ff ff 77 
+intB8h - 7f ff fb ff ff f7 ff f7 
+intC0h - ff fd 7f ff fd df ff df 
+intC8h - ff ff ff ff ff ff f7 ff 
+intD0h - 7f ff ff ff ff fd ff ff 
+intD8h - ff fb 7b ff ff f7 ff fb 
+intE0h - fd ff ff ff ff f7 ff fd 
+intE8h - ff ff f7 ff ff ff ff ff 
+intF0h - fd fd ff ff ff ff ff ff 
+intF8h - f7 ff ff ff fb ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - POKEMON GREEN\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 01 (Nintendo)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 03 (32 KByte (4 banks * 8 KByte))
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 9c
+Global Checksum - e1 fd

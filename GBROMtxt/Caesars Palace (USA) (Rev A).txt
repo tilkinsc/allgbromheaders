@@ -1,0 +1,52 @@
+rst00h - c3 01 42 00 00 00 00 00 
+rst08h - 00 00 00 00 00 00 00 00 
+rst10h - 00 00 00 00 00 00 00 00 
+rst18h - 00 00 00 00 00 00 00 00 
+rst20h - 00 00 00 00 00 00 00 00 
+rst28h - 00 00 00 00 00 00 00 00 
+rst30h - 00 00 00 00 00 00 00 00 
+rst38h - 00 00 00 00 00 00 00 00 
+
+int40h - c3 33 02 00 00 00 00 00 
+int48h - d9 00 00 00 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - d9 00 00 00 00 00 00 00 
+int60h - d9 3e 02 ea 00 20 cd 88 
+int68h - 40 18 14 f5 3e 02 ea 00 
+int70h - 20 f1 cd 8e 40 18 08 3e 
+int78h - 02 ea 00 20 cd 3f 43 3e 
+int80h - 01 ea 00 20 c9 f0 ff e0 
+int88h - 99 cb 87 e0 ff f0 44 fe 
+int90h - 91 20 fa f0 40 e6 7f e0 
+int98h - 40 f0 99 e0 ff c9 21 ff 
+intA0h - 9b 01 00 04 3e a4 32 0b 
+intA8h - 78 b1 20 f8 c9 f3 2a 12 
+intB0h - 13 0b 78 b1 20 f7 3e 01 
+intB8h - ea 00 20 fb c9 f0 41 cb 
+intC0h - 4f 20 fa f3 2a 12 13 0b 
+intC8h - 78 b1 20 f1 3e 01 ea 00 
+intD0h - 20 fb c9 f0 41 cb 4f 20 
+intD8h - fa 2a 12 13 0b 78 b1 20 
+intE0h - f2 3e 01 ea 00 20 c9 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - CAESARS PALACE\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 45 4a
+SGB Flag - 4d (Invalid)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 61 (Virgin)
+ROM Version - 01
+
+Header Checksum - dd
+Global Checksum - fa 19

@@ -1,0 +1,52 @@
+rst00h - 80 80 80 80 80 80 80 80 
+rst08h - 80 80 80 80 80 80 80 80 
+rst10h - 80 80 80 80 80 80 80 80 
+rst18h - 80 80 80 80 80 80 80 80 
+rst20h - 80 80 80 80 80 80 80 80 
+rst28h - 80 80 80 80 80 80 80 80 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - 80 80 80 80 80 80 80 80 
+
+int40h - c3 c4 1c ff ff ff ff ff 
+int48h - c3 47 d3 80 4f 78 e6 0f 
+int50h - e0 80 ea 00 21 79 c1 c9 
+int58h - 80 80 80 80 80 80 80 80 
+int60h - 80 80 80 80 80 80 80 80 
+int68h - 80 80 80 80 80 80 80 80 
+int70h - 80 80 80 80 80 80 80 80 
+int78h - 80 80 80 80 80 80 80 80 
+int80h - 80 80 80 80 80 80 80 80 
+int88h - 80 80 80 80 80 80 80 80 
+int90h - 80 80 80 80 80 80 80 80 
+int98h - 80 80 80 80 80 80 80 80 
+intA0h - 80 80 80 80 80 80 80 80 
+intA8h - 80 80 80 80 80 80 80 80 
+intB0h - c5 c5 f5 01 70 42 18 0c 
+intB8h - fb c5 f5 f0 fe fe db 28 
+intC0h - 1f 01 f0 c0 3e db e0 fe 
+intC8h - fa 18 01 a8 a1 20 0d 3e 
+intD0h - 07 cd 48 00 cd 00 40 28 
+intD8h - 0a cd 48 00 3e 04 e0 fe 
+intE0h - f1 c1 c9 cd 48 00 00 00 
+intE8h - 00 00 f1 c1 33 33 18 01 
+intF0h - 00 00 00 00 00 c3 b0 00 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - JUNGLE STRIKE\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 67 (Ocean)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 8b
+Global Checksum - c1 9f

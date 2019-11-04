@@ -1,0 +1,52 @@
+rst00h - 00 01 00 00 00 00 00 00 
+rst08h - 85 6f 3e 00 8c 67 c9 00 
+rst10h - 00 00 00 00 00 04 00 00 
+rst18h - 00 00 08 82 00 a2 00 0a 
+rst20h - 00 00 00 00 00 00 00 00 
+rst28h - 00 00 00 00 00 80 00 00 
+rst30h - 00 00 00 00 00 00 00 00 
+rst38h - 00 00 00 00 00 00 00 80 
+
+int40h - c3 f3 01 00 00 00 00 00 
+int48h - c3 5e 02 00 00 00 00 00 
+int50h - fb c3 9d 04 00 00 00 00 
+int58h - d9 40 00 00 00 00 00 00 
+int60h - d9 00 00 00 00 00 00 00 
+int68h - 00 00 00 00 00 00 00 00 
+int70h - 00 00 00 00 00 00 00 00 
+int78h - 00 00 00 00 00 40 00 00 
+int80h - 00 00 00 00 00 00 00 00 
+int88h - 00 00 00 00 00 00 00 00 
+int90h - 00 00 00 00 00 00 00 00 
+int98h - 00 00 00 00 00 00 00 01 
+intA0h - 00 00 00 00 00 00 00 00 
+intA8h - 00 00 00 00 00 00 00 00 
+intB0h - 00 00 00 00 00 00 00 00 
+intB8h - 00 00 00 08 00 10 00 80 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 80 20 00 00 00 00 00 80 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 20 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - GB GENJIN LAND\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 18 (Hudsonsoft)
+ROM Version - 00
+
+Header Checksum - 28
+Global Checksum - e5 c0

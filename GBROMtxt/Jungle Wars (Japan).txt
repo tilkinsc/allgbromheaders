@@ -1,0 +1,52 @@
+rst00h - f3 e0 a5 ea 00 21 d9 fb 
+rst08h - e5 19 7e e1 c9 ff aa fd 
+rst10h - e5 19 77 e1 c9 fe a8 f4 
+rst18h - f0 41 e6 03 20 fa c9 ad 
+rst20h - 1a 13 22 05 20 fa c9 84 
+rst28h - 85 6f 7c ce 00 67 c9 ff 
+rst30h - f5 f0 04 e0 97 df f1 c9 
+rst38h - af 22 05 20 fc c9 aa 69 
+
+int40h - c3 57 02 e1 d1 c1 f1 d9 
+int48h - c3 cb a6 83 5f d0 14 c9 
+int50h - f0 44 fe 90 38 fa f0 44 
+int58h - fe 90 30 fa c9 f0 00 f0 
+int60h - 00 f0 00 f0 00 f0 00 f0 
+int68h - 00 c9 23 23 23 23 23 23 
+int70h - 23 23 c9 2b 2b 2b 2b 2b 
+int78h - 2b 2b 2b c9 df 1a 22 13 
+int80h - 05 20 f9 c9 af 22 0b 79 
+int88h - b0 20 f9 c9 af 12 13 05 
+int90h - 20 fb c9 3e 7f f7 22 05 
+int98h - 20 fb c9 3e 7f f7 22 f5 
+intA0h - cd 0a 18 7c f1 05 20 f5 
+intA8h - c9 1a 22 13 0b 78 b1 20 
+intB0h - f8 c9 2a 12 13 05 20 fa 
+intB8h - c9 ea d9 c3 7c ea d8 c3 
+intC0h - 7d ea d7 c3 c9 ea c4 c3 
+intC8h - 7c ea c3 c3 7d ea c2 c3 
+intD0h - c9 57 f0 a5 f5 7a c7 cd 
+intD8h - 71 3a f1 c7 c9 f3 21 ff 
+intE0h - 9b 01 00 04 df 3e 7f 32 
+intE8h - 0b 78 b1 20 f7 fb c9 f3 
+intF0h - 21 33 9e 01 34 02 18 ec 
+intF8h - 00 00 10 40 60 80 b4 c4 
+
+Entry Point - 00 c3 50 01 
+
+Title - JUNGLE WARS\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - ce (*Pony Canyon)
+ROM Version - 00
+
+Header Checksum - ef
+Global Checksum - 96 42

@@ -1,0 +1,52 @@
+rst00h - f3 e0 8a f0 0f c3 47 15 
+rst08h - c3 61 00 00 00 00 00 00 
+rst10h - e9 00 00 00 00 00 00 00 
+rst18h - c3 0a 02 00 00 00 00 00 
+rst20h - e5 df 46 df e1 c9 00 00 
+rst28h - d5 5f 16 00 19 19 d1 00 
+rst30h - 2a 66 6f c9 00 00 00 00 
+rst38h - 3e 07 ea 00 21 c3 00 78 
+
+int40h - c3 11 03 00 00 00 00 00 
+int48h - f5 f0 41 c3 eb 03 00 00 
+int50h - c3 d4 02 00 00 00 00 00 
+int58h - f5 f0 01 f1 d9 00 00 00 
+int60h - d9 e0 a5 7d e0 a6 7c e0 
+int68h - a7 e1 2a 23 e5 2b 66 6f 
+int70h - 7e b7 28 1a f0 a3 be 28 
+int78h - 15 f5 7e e0 a3 ea 00 21 
+int80h - cd 8e 00 e0 a5 f1 e0 a3 
+int88h - ea 00 21 f0 a5 c9 23 f7 
+int90h - e5 f0 a6 6f f0 a7 67 f0 
+int98h - a5 c9 f5 3e 84 e0 88 f1 
+intA0h - c7 00 00 00 00 00 00 00 
+intA8h - 00 00 00 00 00 00 00 00 
+intB0h - 00 00 00 00 00 00 00 00 
+intB8h - 00 00 00 00 00 00 00 00 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 59 02 
+
+Title - CYBER FORMULA\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 95 (Varie)
+ROM Version - 00
+
+Header Checksum - a4
+Global Checksum - e0 a2

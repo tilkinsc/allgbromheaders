@@ -1,0 +1,52 @@
+rst00h - e1 cf e9 ff ff ff ff ff 
+rst08h - 87 18 08 ef 2a 66 6f c9 
+rst10h - c3 bd 08 30 f6 24 18 f3 
+rst18h - 81 4f d0 04 c9 ff ff ff 
+rst20h - 7d 93 47 7c 9a c9 ff ff 
+rst28h - 85 6f d0 24 c9 ff ff ff 
+rst30h - 83 5f d0 14 c9 ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 63 00 ff ff ff ff ff 
+int48h - c3 c9 01 ff ff ff ff ff 
+int50h - c3 c8 01 ff ff ff ff ff 
+int58h - c3 c8 01 ff ff ff ff ff 
+int60h - c3 c8 01 f3 f5 c5 d5 e5 
+int68h - 21 40 ff cb 86 cb 8e 21 
+int70h - fa de 34 fa e4 de b7 20 
+int78h - 3f 3c ea e4 de cd 90 ff 
+int80h - cd f2 0f cd 28 0d cd 82 
+int88h - 16 cd f2 16 af e0 0f fa 
+int90h - f9 de e0 ff fb cd 18 05 
+int98h - 3e 28 ea ea de cd b5 06 
+intA0h - 3e 03 ea 80 21 cd 03 17 
+intA8h - cd 4b 0c af 77 ea ec de 
+intB0h - ea e4 de e1 d1 c1 f1 d9 
+intB8h - fa ed de b7 20 11 cd 28 
+intC0h - 0d af e0 0f fa f9 de e0 
+intC8h - ff fb cd 18 05 18 e4 3e 
+intD0h - 20 cd e0 00 f0 40 cb bf 
+intD8h - e0 40 af ea ed de 18 e1 
+intE0h - 00 3d 20 fc c9 ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - PROBOTECTOR\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - ca (Ultra)
+ROM Version - 00
+
+Header Checksum - c6
+Global Checksum - 08 c6

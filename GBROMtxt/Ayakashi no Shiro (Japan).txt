@@ -1,0 +1,52 @@
+rst00h - e1 87 cf 2a 66 6f e9 ff 
+rst08h - 5f 16 00 19 c9 ff ff ff 
+rst10h - f5 3e 01 e0 97 18 02 ff 
+rst18h - f5 f0 8e e6 fe e0 8e 76 
+rst20h - f0 8e 1f 30 fa f1 c9 df 
+rst28h - f0 97 b7 20 fa c9 ff ff 
+rst30h - e0 a5 ef c3 58 0a ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - f5 c5 d5 e5 c3 61 00 ff 
+int48h - f5 c3 b7 00 ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 f0 8d e0 40 cd 80 ff 
+int68h - f0 96 b7 28 05 cd 7b 12 
+int70h - 18 0e f0 97 b7 28 09 11 
+int78h - 00 d0 cd 32 07 af e0 97 
+int80h - f0 90 e0 42 f0 91 e0 43 
+int88h - f0 99 b7 28 08 e0 45 f0 
+int90h - ff f6 02 18 04 f0 ff e6 
+int98h - fd e0 ff f0 8e f6 01 e0 
+intA0h - 8e 21 8f ff 34 3e 01 ea 
+intA8h - 00 20 cd c7 02 f0 f2 ea 
+intB0h - 00 20 e1 d1 c1 f1 d9 f0 
+intB8h - 9a e0 43 f0 9b e0 42 f0 
+intC0h - 9c e0 40 f0 8e f6 02 e0 
+intC8h - 8e f1 d9 ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - AYAKASI NO SIRO
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 06 (MBC2+BATTERY)
+Rom Size - 01 (64KByte (4 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 29 (Seta)
+ROM Version - 00
+
+Header Checksum - 9a
+Global Checksum - 8b 26

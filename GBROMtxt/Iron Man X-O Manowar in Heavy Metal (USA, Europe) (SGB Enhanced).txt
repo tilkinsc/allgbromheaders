@@ -1,0 +1,52 @@
+rst00h - c3 10 00 04 04 ed 00 00 
+rst08h - 9d 63 00 00 a3 18 00 00 
+rst10h - e6 7f 87 e1 85 6f 3e 00 
+rst18h - 8c 67 7e 23 66 6f e9 c9 
+rst20h - fa 33 df 21 52 69 cd 18 
+rst28h - 37 3e 03 ea ff 3f 7e c3 
+rst30h - ea 12 ff ff 00 ff ff ff 
+rst38h - ff ff ff ff ff 04 ff ff 
+
+int40h - c3 1e 3b 00 00 00 00 00 
+int48h - c3 ae 3c 00 00 00 00 00 
+int50h - fb cd d9 12 d9 00 00 00 
+int58h - d9 00 00 00 00 00 00 00 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - 00 00 00 00 00 00 00 00 
+int88h - 00 00 00 00 00 00 00 00 
+int90h - 00 00 00 00 00 00 00 00 
+int98h - 00 00 00 00 00 00 00 00 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - IRON MAN X-O\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 51 (Acclaim)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 1d
+Global Checksum - 18 ff

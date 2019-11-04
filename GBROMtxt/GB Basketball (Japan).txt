@@ -1,0 +1,52 @@
+rst00h - c3 f0 03 ff ff ff ff ff 
+rst08h - c3 f0 03 ff ff ff ff ff 
+rst10h - c9 ff ff ff ff ff ff ff 
+rst18h - c9 ff ff ff ff ff ff ff 
+rst20h - e9 ff ff ff ff ff ff ff 
+rst28h - c9 ff ff ff ff ff ff ff 
+rst30h - c9 ff ff ff ff ff ff ff 
+rst38h - c9 ff ff ff ff ff ff ff 
+
+int40h - c3 62 00 ff ff ff ff ff 
+int48h - c3 61 00 ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - c3 62 00 ff ff ff ff ff 
+int60h - d9 d9 f5 c5 d5 e5 fa b0 
+int68h - c2 e0 40 ea 38 c1 fa 36 
+int70h - c1 ea 35 c1 3e 01 ea 36 
+int78h - c1 ea 00 21 fa 3a c1 5f 
+int80h - 87 83 5f 16 00 21 5d cc 
+int88h - 19 e9 cd 92 04 fa 35 c1 
+int90h - ea 36 c1 ea 00 21 af ea 
+int98h - 37 c1 3e e0 e0 0f e1 d1 
+intA0h - c1 f0 41 e6 02 20 fa f1 
+intA8h - d9 ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 f0 03 
+
+Title - GB BASKETBALL\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 02 (128KByte (8 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 9c (Imagineer)
+ROM Version - 00
+
+Header Checksum - ca
+Global Checksum - 9a 64

@@ -1,0 +1,52 @@
+rst00h - 12 5b 69 ed be 78 a1 89 
+rst08h - c3 80 f0 a2 f2 1e 4e cc 
+rst10h - e9 dc 10 80 83 8c fe 6a 
+rst18h - c3 5f 0e e2 cf 9c 2e 13 
+rst20h - c3 42 0e 61 33 12 53 de 
+rst28h - c3 38 0e aa a3 17 e4 40 
+rst30h - c3 1e 0e 44 e0 8a 7d 25 
+rst38h - c3 e2 01 f8 fe f6 bd 64 
+
+int40h - c3 f1 16 24 fe 06 ef ec 
+int48h - c3 b4 17 08 97 2c 7f 68 
+int50h - c3 c0 18 e9 ff d4 fe 90 
+int58h - c3 27 18 16 b5 a6 f7 40 
+int60h - c9 93 1f 81 05 14 bf 56 
+int68h - b6 87 cd ea b9 55 0f 1c 
+int70h - 25 24 fd ee ac 19 f9 5c 
+int78h - 35 0d ed 46 5f a8 fc 75 
+int80h - 31 a9 79 7e b2 1b 02 8f 
+int88h - 42 3d d8 72 02 7f 0b 39 
+int90h - 7a 10 dd 03 c2 12 d5 f4 
+int98h - 37 a4 36 13 bf 57 35 15 
+intA0h - bf 40 df 04 0c 4a ba 20 
+intA8h - 9c c3 77 b0 5e 80 bb a5 
+intB0h - 1b c8 9e 38 ad 38 17 4a 
+intB8h - 42 c8 aa 1e ad f0 b8 10 
+intC0h - be 12 ad 34 25 79 92 ba 
+intC8h - 3b 78 de 32 f3 ef 7b 0b 
+intD0h - 72 63 3d c9 a8 1a 3e 0c 
+intD8h - 9f 50 9a 03 ac 5f fb 6c 
+intE0h - 5f eb 56 71 c4 38 cb 20 
+intE8h - 6e c1 24 1f 7e 2a b3 27 
+intF0h - de 40 3a 08 65 a0 62 1a 
+intF8h - eb ab 0a 82 97 99 79 85 
+
+Entry Point - 00 c3 50 01 
+
+Title - KONCHU HAKASE\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) AH (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 01
+
+Header Checksum - 89
+Global Checksum - 86 07

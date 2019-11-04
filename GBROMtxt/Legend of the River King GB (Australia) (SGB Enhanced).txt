@@ -1,0 +1,52 @@
+rst00h - 0e 80 06 0a 21 0e 00 2a 
+rst08h - e2 0c 05 20 fa c9 3e c0 
+rst10h - e0 46 3e 28 3d 20 fd c9 
+rst18h - fa 00 40 f5 7c ea 00 21 
+rst20h - 29 26 00 01 01 40 09 cd 
+rst28h - 64 00 f1 ea 00 21 c9 ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - f3 c3 b4 12 ff ff ff ff 
+int48h - c3 42 14 ff ff ff ff ff 
+int50h - ff ff ff ff ff ff ff ff 
+int58h - c3 a7 12 d9 e1 87 85 6f 
+int60h - 3e 00 8c 67 2a 66 6f e9 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - 06 00 60 68 cd 8d 00 cd 
+int88h - 8d 00 cd 8d 00 0f 30 01 
+int90h - 09 cb 21 cb 10 0f 30 01 
+int98h - 09 cb 21 cb 10 c9 f5 c5 
+intA0h - 48 cd 80 00 c1 f1 e5 cd 
+intA8h - 80 00 c1 79 84 67 78 ce 
+intB0h - 00 5f c9 16 08 5f af cb 
+intB8h - 20 17 38 03 bb 38 02 93 
+intC0h - 04 15 20 f3 c9 16 10 5f 
+intC8h - af 29 17 38 03 bb 38 02 
+intD0h - 93 2c 15 20 f4 c9 ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - THE RIVER KING 
+
+CGB Flag - 20 (Invalid)
+New Licensee Code - (ASCII) 01 (Nintendo)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 34
+Global Checksum - 59 9b

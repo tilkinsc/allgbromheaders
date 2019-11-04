@@ -1,0 +1,52 @@
+rst00h - e1 87 ef 2a 66 6f e9 00 
+rst08h - d9 00 00 00 00 00 00 00 
+rst10h - ea 00 20 c9 00 00 00 00 
+rst18h - fa e0 c6 ea 00 20 c9 00 
+rst20h - 85 6f d8 25 c9 00 00 00 
+rst28h - 85 6f d0 24 c9 00 00 00 
+rst30h - 87 ef 2a 66 6f c9 00 00 
+rst38h - 2a 6e 67 c9 00 00 00 00 
+
+int40h - c3 9e 04 00 00 00 00 00 
+int48h - c3 d3 04 00 00 00 00 00 
+int50h - 00 00 00 00 00 00 00 00 
+int58h - c3 a9 3b 00 00 00 00 00 
+int60h - d9 00 00 00 00 00 00 00 
+int68h - 00 00 00 00 00 00 00 00 
+int70h - 00 00 00 00 00 00 00 00 
+int78h - 00 00 00 00 00 00 00 00 
+int80h - 00 00 00 00 00 00 00 00 
+int88h - 00 00 00 00 00 00 00 00 
+int90h - 00 00 00 00 00 00 00 00 
+int98h - 00 00 00 00 00 00 00 00 
+intA0h - 00 00 00 00 00 00 00 00 
+intA8h - 00 00 00 00 00 00 00 00 
+intB0h - 00 00 00 00 00 00 00 00 
+intB8h - 00 00 00 00 00 00 00 00 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - PARTS COLLECTIO
+
+CGB Flag - 4e (Invalid)
+New Licensee Code - (ASCII) 9C (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 03 (32 KByte (4 banks * 8 KByte))
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 95
+Global Checksum - 85 ab

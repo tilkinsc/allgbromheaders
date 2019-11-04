@@ -1,0 +1,52 @@
+rst00h - c3 10 00 ff ff ff ff ff 
+rst08h - ff ff ff ff ff ff ff ff 
+rst10h - e6 7f 87 e1 85 6f 3e 00 
+rst18h - 8c 67 7e 23 66 6f e9 14 
+rst20h - 28 1e 28 28 28 0a 28 1e 
+rst28h - 0f 16 21 2d 35 43 4b 6a 
+rst30h - 70 7e 82 87 ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 5d 0e ff ff ff ff ff 
+int48h - c3 03 03 ff ff ff ff ff 
+int50h - fb cd c7 09 d9 ff ff ff 
+int58h - c3 26 04 ff ff ff ff ff 
+int60h - d9 ff ff ff ff 7e d6 40 
+int68h - 5f fa cb c1 93 d8 ea cb 
+int70h - c1 c5 2a d6 40 47 e5 21 
+int78h - c8 c1 5e 23 56 e1 fa 47 
+int80h - c2 23 86 12 13 2b fa 49 
+int88h - c2 cb 6f 7e 28 04 2f 3c 
+int90h - d6 08 4f fa 45 c2 81 12 
+int98h - 13 fa 16 c2 12 13 c6 02 
+intA0h - ea 16 c2 fa 49 c2 e6 10 
+intA8h - 12 13 23 23 05 20 cf e5 
+intB0h - 21 c8 c1 73 23 72 e1 c1 
+intB8h - c9 cd 10 05 21 76 c3 34 
+intC0h - cd e4 00 cd 8f 10 cd 81 
+intC8h - 0f fa 13 c6 b7 20 09 3e 
+intD0h - 00 ea ef ce ea eb ce c9 
+intD8h - fa 52 c2 a7 28 fa af ea 
+intE0h - 52 c2 18 d8 21 13 c6 7e 
+intE8h - b7 c8 35 c0 fa 12 c6 77 
+intF0h - cd b3 05 21 14 c6 35 c0 
+intF8h - af 2b 77 c9 ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - ALL STAR BB '99
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) 51 (Acclaim)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - b8
+Global Checksum - 78 ce

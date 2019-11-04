@@ -1,0 +1,52 @@
+rst00h - 0e 00 90 d0 0c 2f 3c c9 
+rst08h - 83 5f 3e 00 8a 57 c9 00 
+rst10h - d5 5f 16 00 cb 23 cb 12 
+rst18h - 19 5e 23 56 62 6b d1 c9 
+rst20h - f0 41 cb 4f 28 fa f0 41 
+rst28h - cb 4f 20 fa c9 00 00 00 
+rst30h - f0 41 cb 4f 20 fa c9 00 
+rst38h - 85 6f 3e 00 8c 67 c9 00 
+
+int40h - 18 1f 00 00 00 00 00 00 
+int48h - c3 57 04 00 00 00 00 00 
+int50h - d9 00 00 00 00 00 00 00 
+int58h - d9 00 00 00 00 00 00 00 
+int60h - d9 f3 f5 c5 d5 e5 11 61 
+int68h - c8 21 5a c8 73 23 72 3e 
+int70h - 10 ea 45 ff cd 80 ff af 
+int78h - ea 26 c5 cd 49 1b fa 48 
+int80h - c8 cb 7f cc a2 1a fa 48 
+int88h - c8 cb 7f c4 88 03 fa b1 
+int90h - c2 c6 08 e0 43 fa b2 c2 
+int98h - e0 42 3e 04 ea 00 21 cd 
+intA0h - 77 15 cd d8 19 fa 2d c8 
+intA8h - ea 00 21 3e 01 ea 4c c1 
+intB0h - e1 d1 c1 f1 fb d9 06 0a 
+intB8h - 11 80 ff 21 c5 00 2a 12 
+intC0h - 13 05 20 fa c9 3e c0 e0 
+intC8h - 46 3e 28 3d 20 fd c9 00 
+intD0h - 00 00 00 00 00 00 00 00 
+intD8h - 00 00 00 00 00 00 00 00 
+intE0h - 00 00 00 00 00 00 00 00 
+intE8h - 00 00 00 00 00 00 00 00 
+intF0h - 00 00 00 00 00 00 00 00 
+intF8h - 00 00 00 00 00 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - MAHOUJINGURUGUR
+
+CGB Flag - 55 (Invalid)
+New Licensee Code - (ASCII) A7 (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 54
+Global Checksum - 68 2f

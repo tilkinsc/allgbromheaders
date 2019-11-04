@@ -1,0 +1,52 @@
+rst00h - 18 5f f0 aa cb 4f c9 ff 
+rst08h - e0 95 e0 96 f1 c9 ff ff 
+rst10h - c9 ff ff ff ff ff ff ff 
+rst18h - f0 a4 fe 02 c9 ff ff ff 
+rst20h - 18 49 22 05 20 fc c9 ff 
+rst28h - cb 7f c8 2f 3c c9 ff ff 
+rst30h - 83 5f 3e 00 8a 57 c9 ff 
+rst38h - 85 6f 3e 00 8c 67 c9 ff 
+
+int40h - cd 30 02 d9 ff ff ff ff 
+int48h - cd eb 02 d9 ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - d9 ff ff ff ff ff ff ff 
+int60h - d9 87 e1 5f 16 00 19 2a 
+int68h - 66 6f e9 4f 06 00 09 09 
+int70h - 2a 66 6f c9 af 22 0b 79 
+int78h - b0 20 f9 c9 ff ff ff ff 
+int80h - 2a 66 6f 7c 92 c0 7d 93 
+int88h - c9 fa 00 40 f5 7c ea 00 
+int90h - 21 3e 01 85 6f 3e 40 67 
+int98h - 2a 66 6f cd a3 00 f1 ea 
+intA0h - 00 21 c9 e9 0e 80 06 0a 
+intA8h - 21 b2 00 2a e2 0c 05 20 
+intB0h - fa c9 3e c0 e0 46 3e 28 
+intB8h - 3d 20 fd c9 3e 20 e0 00 
+intC0h - f0 00 f0 00 2f e6 0f cb 
+intC8h - 37 47 3e 10 e0 00 f0 00 
+intD0h - f0 00 f0 00 f0 00 f0 00 
+intD8h - f0 00 f0 00 f0 00 f0 00 
+intE0h - f0 00 2f e6 0f b0 4f f0 
+intE8h - 8c a9 a1 e0 8b 79 e0 8a 
+intF0h - e0 8c 3e 30 e0 00 c9 fa 
+intF8h - 02 c6 e0 40 c9 ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - GB CREYON 5\0\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) B2 (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 6b
+Global Checksum - 5d ce

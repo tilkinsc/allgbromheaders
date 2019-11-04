@@ -1,0 +1,52 @@
+rst00h - c3 11 3d ff ff ff ff ff 
+rst08h - ff ff ff ff ff ff ff ff 
+rst10h - ff ff ff ff ff ff ff ff 
+rst18h - ff ff ff ff ff ff ff ff 
+rst20h - ff ff ff ff ff ff ff ff 
+rst28h - ff ff ff ff ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 0f 0a ff ff ff ff ff 
+int48h - c3 61 00 ff ff ff ff ff 
+int50h - c3 cb 3e ff ff ff ff ff 
+int58h - c3 ef 3b ff ff ff ff ff 
+int60h - d9 f5 f0 91 a7 28 08 e5 
+int68h - 6f af 67 e0 91 e9 e1 f1 
+int70h - d9 f0 99 67 f0 9a 6f f0 
+int78h - 9b 22 3c 77 18 f0 f0 99 
+int80h - 67 f0 9a 6f 3e a4 22 77 
+int88h - 18 e4 f0 99 67 f0 9a 6f 
+int90h - f0 9b 77 18 d9 f0 99 67 
+int98h - f0 9a 6f 2a e0 9b 7e e0 
+intA0h - 9c 18 cb f0 99 67 f0 9a 
+intA8h - 6f f0 9b 22 3c 77 c3 08 
+intB0h - 0b f0 99 67 f0 9a 6f 3e 
+intB8h - a4 22 77 c3 08 0b f0 99 
+intC0h - 67 f0 9a 6f f0 9b 77 c3 
+intC8h - 08 0b f0 99 67 f0 9a 6f 
+intD0h - f0 9b 22 3c 77 11 df ff 
+intD8h - 19 3e a4 22 77 c3 08 0b 
+intE0h - f0 99 67 f0 9a 6f 2a e0 
+intE8h - 9b 7e e0 9c c3 08 0b f0 
+intF0h - 99 67 f0 9a 6f 3e a4 06 
+intF8h - 10 22 05 20 fc c3 08 0b 
+
+Entry Point - 00 c3 50 01 
+
+Title - SPACE INVADERS\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 00 (ROM ONLY)
+Rom Size - 00 (32KByte (no ROM banking))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - c0 (Taito)
+ROM Version - 00
+
+Header Checksum - 3f
+Global Checksum - 2d e2

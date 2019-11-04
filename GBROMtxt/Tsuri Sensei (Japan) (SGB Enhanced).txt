@@ -1,0 +1,52 @@
+rst00h - 0a 1f 29 ff b6 79 a3 a9 
+rst08h - c3 80 f0 b3 ca 92 d2 4c 
+rst10h - c3 e2 01 a4 83 bd fe 6a 
+rst18h - 9a 28 82 e2 cf dc 2e 13 
+rst20h - cd 14 02 c9 33 13 53 de 
+rst28h - c9 88 75 ab a1 1f a4 42 
+rst30h - cd 2b 02 c9 e0 8a 39 25 
+rst38h - cd e9 01 c9 7e f6 bd 64 
+
+int40h - c3 b0 17 2c fe 0e ef ec 
+int48h - c3 4c 18 08 97 6c 7f 68 
+int50h - c3 45 3e c9 bc f4 fe 14 
+int58h - c3 ac 3d 1e a5 a6 f4 08 
+int60h - c9 93 1f 87 05 97 bf 77 
+int68h - b6 87 cd ea b9 57 0f 5c 
+int70h - 25 24 fd ff ac 39 e9 5e 
+int78h - 35 0d ed 46 5f e8 fc 75 
+int80h - 21 28 79 7a b2 1a 03 8b 
+int88h - 42 3d d8 62 02 75 0b 39 
+int90h - 7a 52 dd 0f c2 16 d5 f5 
+int98h - 17 a5 36 13 bf 57 35 15 
+intA0h - bf 40 df 04 0c 4a fe 20 
+intA8h - 9c c3 f7 b0 5c 80 bb b5 
+intB0h - 1f c8 9e 39 a9 39 17 4a 
+intB8h - c2 c9 aa 1e 8d f2 b8 10 
+intC0h - be 93 ad 36 05 fb 93 ba 
+intC8h - 3b 78 de 32 b3 ef fb cb 
+intD0h - 62 73 35 cb a8 5a 3e 9d 
+intD8h - 9f f0 9a 8b ac df bb ed 
+intE0h - df fb 46 79 c4 38 cb 21 
+intE8h - 6e e1 24 3f 7e 7a b3 27 
+intF0h - de 48 3a 68 65 a0 62 3a 
+intF8h - ea eb 0a 82 97 99 79 a5 
+
+Entry Point - 00 c3 50 01 
+
+Title - TURI SENSEI V1\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) AH (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 03 (MBC1+RAM+BATTERY)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 02 (8 KByte)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 4d
+Global Checksum - 51 a0

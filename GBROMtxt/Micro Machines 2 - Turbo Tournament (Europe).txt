@@ -1,0 +1,52 @@
+rst00h - c3 31 0e 80 80 80 80 80 
+rst08h - 80 80 80 80 80 80 80 80 
+rst10h - 80 80 80 80 80 80 80 80 
+rst18h - cb 7a 20 fe 19 c9 80 80 
+rst20h - e9 80 80 80 80 80 80 80 
+rst28h - cb 78 20 fe 09 c9 80 80 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - 80 80 80 80 80 80 80 80 
+
+int40h - fb c3 a8 07 80 80 80 80 
+int48h - d9 f9 c7 80 80 80 80 80 
+int50h - d9 80 80 80 80 80 80 80 
+int58h - fb c3 27 03 80 80 80 80 
+int60h - d9 80 80 80 80 80 80 80 
+int68h - 80 80 80 80 80 80 80 80 
+int70h - 80 80 80 80 80 80 80 80 
+int78h - 80 80 80 80 80 80 80 80 
+int80h - 80 80 80 80 80 80 80 80 
+int88h - 80 80 80 80 80 80 80 80 
+int90h - 80 80 80 80 80 80 80 80 
+int98h - 80 80 80 80 80 80 80 80 
+intA0h - 80 80 80 80 80 80 80 80 
+intA8h - 80 80 80 80 80 80 80 80 
+intB0h - 80 80 80 80 c5 c5 f5 01 
+intB8h - 70 42 18 0c fb c5 f5 f0 
+intC0h - 80 fe db 28 1f 01 f0 c0 
+intC8h - 3e db e0 80 fa 18 01 a8 
+intD0h - a1 20 0d 3e 02 cd 23 04 
+intD8h - cd 00 7e 28 0a cd 23 04 
+intE0h - 3e 04 e0 80 f1 c1 c9 cd 
+intE8h - 23 04 f1 c1 33 33 18 01 
+intF0h - 00 00 00 00 00 c3 b4 00 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 31 0e 
+
+Title - MICRO MACHINES 
+
+CGB Flag - 32 (Invalid)
+New Licensee Code - (ASCII) 67 (Ocean)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 0d
+Global Checksum - a6 0d

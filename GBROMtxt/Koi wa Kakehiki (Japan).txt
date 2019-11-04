@@ -1,0 +1,52 @@
+rst00h - c3 50 01 00 00 00 00 00 
+rst08h - c3 80 f0 00 00 00 00 00 
+rst10h - 00 00 00 20 00 00 00 10 
+rst18h - 00 00 00 10 00 00 48 04 
+rst20h - ff ff ff ff ff ff 7f ff 
+rst28h - fd ff ff ff ff ff ff ff 
+rst30h - ff ff ff ff ff ff ff ff 
+rst38h - ff ff ff ff ff ff ff ff 
+
+int40h - c3 5c 01 00 00 00 00 00 
+int48h - cd d6 24 d9 00 00 02 00 
+int50h - d9 00 00 30 21 40 0a 04 
+int58h - d9 01 02 04 1f a2 02 20 
+int60h - d9 ff ff ff ff ff ff bf 
+int68h - ff fe ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - 00 00 00 00 00 00 00 80 
+int88h - 00 00 00 00 00 00 00 00 
+int90h - 01 00 04 00 00 00 00 00 
+int98h - 20 00 14 00 5c 04 08 43 
+intA0h - ff ff ff ff ff ff ff fb 
+intA8h - ff ff ff ff ff ff fb ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - 00 00 00 00 00 00 00 00 
+intC8h - 00 00 00 00 00 00 00 00 
+intD0h - 08 00 02 11 00 22 80 14 
+intD8h - 00 0a 00 00 04 ac 0d 48 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 74 01 
+
+Title - KOI WA KAKEHIKI
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 00 (ROM ONLY)
+Rom Size - 00 (32KByte (no ROM banking))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - b9 (Pony Canyon)
+ROM Version - 00
+
+Header Checksum - 32
+Global Checksum - 47 f4

@@ -1,0 +1,52 @@
+rst00h - 00 40 a1 4c 7c 57 48 64 
+rst08h - b1 6e f3 6a 07 00 40 07 
+rst10h - c0 4f 07 50 62 08 00 40 
+rst18h - 08 b0 5e 07 00 70 07 00 
+rst20h - 43 07 40 53 07 00 65 08 
+rst28h - 50 44 08 50 63 08 60 72 
+rst30h - 70 80 60 80 60 60 13 08 
+rst38h - 0d 0f 0e 09 16 17 00 cb 
+
+int40h - c3 91 11 cb 3f cb 3f 3d 
+int48h - c3 e6 11 27 cb 27 cb 27 
+int50h - c3 00 12 d9 24 c9 3e 00 
+int58h - d9 25 e0 24 ea 00 dd c9 
+int60h - d9 04 04 04 01 03 03 00 
+int68h - 03 03 03 02 03 03 03 03 
+int70h - 03 03 03 03 04 04 04 01 
+int78h - 01 01 04 04 00 00 e6 00 
+int80h - 00 00 00 00 00 00 e6 00 
+int88h - e6 00 e6 00 8e 39 8e 39 
+int90h - 8e 39 8e 39 8e 39 d3 00 
+int98h - d3 00 d3 00 c6 00 c6 00 
+intA0h - d3 00 bc 00 bc 00 bc 00 
+intA8h - d3 00 d3 00 b2 00 b2 00 
+intB0h - d3 00 03 ff ff 1a 05 05 
+intB8h - 1c 01 01 1b 03 ff ff 16 
+intC0h - 05 05 17 00 00 18 04 08 
+intC8h - 08 12 00 00 11 01 01 11 
+intD0h - 07 07 13 06 00 00 01 01 
+intD8h - 01 15 02 02 10 03 03 00 
+intE0h - 04 04 08 05 05 19 06 07 
+intE8h - 07 0f 00 00 03 01 01 03 
+intF0h - 02 02 04 03 03 04 05 05 
+intF8h - 02 04 04 02 07 07 00 f8 
+
+Entry Point - 00 c3 62 16 
+
+Title - DR FRANKEN 2\0\0\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (HEX) 00 00
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 6e (Elite Systems)
+ROM Version - 00
+
+Header Checksum - 67
+Global Checksum - 52 b7

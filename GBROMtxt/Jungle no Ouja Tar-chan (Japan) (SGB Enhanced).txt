@@ -1,0 +1,52 @@
+rst00h - c3 23 2c c3 0c 24 00 00 
+rst08h - af 21 aa d6 22 22 c9 00 
+rst10h - af 21 da d2 22 22 21 ac 
+rst18h - d6 22 22 c9 00 00 00 00 
+rst20h - c3 a0 23 00 00 00 00 00 
+rst28h - 2a 4f 2a 47 c9 00 00 00 
+rst30h - c3 40 2c 00 00 00 00 00 
+rst38h - c3 77 38 00 00 00 00 00 
+
+int40h - c3 19 3a 00 00 00 00 00 
+int48h - c3 e4 d9 00 00 00 00 00 
+int50h - d9 21 40 cd cb ee c9 00 
+int58h - d9 21 40 cd cb ae c9 00 
+int60h - d9 21 00 fe 01 a0 00 36 
+int68h - 00 7d c6 01 6f 7c ce 00 
+int70h - 67 0b 79 b0 20 f1 c9 21 
+int78h - 00 cc 01 a0 00 18 13 21 
+int80h - 00 80 01 00 18 18 0b 21 
+int88h - 00 98 18 03 21 00 9c 01 
+int90h - 00 04 af 22 0b 78 b1 20 
+int98h - f9 c9 af 21 60 d2 0e 79 
+intA0h - 22 0d 20 fc c9 cd 7f 00 
+intA8h - cd 87 00 cd 77 00 cd 61 
+intB0h - 00 c3 8c 00 af 21 00 d3 
+intB8h - 4f 22 0d 20 fc 3e 08 e0 
+intC0h - 9c 3e 00 e0 9a 3e 98 e0 
+intC8h - 9b cd 19 23 00 d3 9a ff 
+intD0h - 08 01 ff f0 9a c6 80 e0 
+intD8h - 9a f0 9b ce 00 e0 9b f0 
+intE0h - 9c 3d e0 9c 20 e3 c9 e5 
+intE8h - 4d 44 f0 a8 6f f0 a9 67 
+intF0h - 79 22 78 22 7b 22 36 ff 
+intF8h - cd 53 23 e1 c9 00 00 00 
+
+Entry Point - 00 c3 50 01 
+
+Title - GB TAACHIYAN   
+
+CGB Flag - 20 (Invalid)
+New Licensee Code - (ASCII) B2 (Invalid)
+SGB Flag - 03 (SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 03 (256KByte (16 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 7e
+Global Checksum - 56 eb

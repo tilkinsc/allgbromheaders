@@ -1,0 +1,52 @@
+rst00h - c3 40 28 ff ff ff ff ff 
+rst08h - c3 40 27 c9 ff ff ff ff 
+rst10h - c9 ff ff ff ff ff ff ff 
+rst18h - c3 9d 31 c9 ff ff ff ff 
+rst20h - c3 d6 27 ff ff ff ff ff 
+rst28h - c9 ff ff ff ff ff ff ff 
+rst30h - c3 e2 27 ff ff ff ff ff 
+rst38h - c3 80 f0 ff ff ff ff ff 
+
+int40h - c3 c8 08 ff ff ff ff ff 
+int48h - c3 61 08 ff ff ff ff ff 
+int50h - d9 ff ff ff ff ff ff ff 
+int58h - c3 15 0b ff ff ff ff ff 
+int60h - d9 ff ff ff ff ff ff ff 
+int68h - ff ff ff ff ff ff ff ff 
+int70h - ff ff ff ff ff ff ff ff 
+int78h - ff ff ff ff ff ff ff ff 
+int80h - ff ff ff ff ff ff ff ff 
+int88h - ff ff ff ff ff ff ff ff 
+int90h - ff ff ff ff ff ff ff ff 
+int98h - ff ff ff ff ff ff ff ff 
+intA0h - ff ff ff ff ff ff ff ff 
+intA8h - ff ff ff ff ff ff ff ff 
+intB0h - ff ff ff ff ff ff ff ff 
+intB8h - ff ff ff ff ff ff ff ff 
+intC0h - ff ff ff ff ff ff ff ff 
+intC8h - ff ff ff ff ff ff ff ff 
+intD0h - ff ff ff ff ff ff ff ff 
+intD8h - ff ff ff ff ff ff ff ff 
+intE0h - ff ff ff ff ff ff ff ff 
+intE8h - ff ff ff ff ff ff ff ff 
+intF0h - ff ff ff ff ff ff ff ff 
+intF8h - ff ff ff ff ff ff ff ff 
+
+Entry Point - 00 c3 50 01 
+
+Title - SPORTS COLLECT\0
+
+CGB Flag - 00 (GB Only)
+New Licensee Code - (ASCII) C6 (Invalid)
+SGB Flag - 00 (No SGB Functions)
+
+Cartridge Type - 01 (MBC1)
+Rom Size - 04 (512KByte (32 banks))
+Ram Size - 00 (None)
+
+Destination Code - 00 (Japanese)
+Old Licensee Code - 33 (GBC - See Above)
+ROM Version - 00
+
+Header Checksum - 25
+Global Checksum - 8c f5
